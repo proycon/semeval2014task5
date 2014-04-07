@@ -1,0 +1,2002 @@
+<sentencepairs L1="en" L2="de">
+<s id="1">
+  <input>Wenn das Haus <f id="1">agrees</f>  , werde ich dem Vorschlag von Herrn Evans folgen .</input>
+  <ref>Wenn das Haus <f id="1">damit einverstanden ist</f>  , werde ich dem Vorschlag von Herrn Evans folgen .</ref>
+</s>
+<s id="2">
+  <input>Wenn das Haus damit einverstanden ist , <f id="1">shall</f>  ich dem Vorschlag von Herrn Evans folgen .</input>
+  <ref>Wenn das Haus damit einverstanden ist , <f id="1">werde</f>  ich dem Vorschlag von Herrn Evans folgen .</ref>
+</s>
+<s id="3">
+  <input>Wenn das Haus damit einverstanden ist , <f id="1">I shall</f>  dem Vorschlag von Herrn Evans folgen .</input>
+  <ref>Wenn das Haus damit einverstanden ist , <f id="1">werde ich</f>  dem Vorschlag von Herrn Evans folgen .</ref>
+</s>
+<s id="4">
+  <input>Es besteht sogar <f id="1">the</f>  Gefahr eines Militärputsches .</input>
+  <ref>Es besteht sogar <f id="1">die</f>  Gefahr eines Militärputsches .</ref>
+</s>
+<s id="5">
+  <input>Die Sozialdemokratische Fraktion beantragt , eine Erklärung der Kommission über ihre strategischen Ziele für <f id="1">the next five</f>  Jahre sowie über die Verwaltungsreform der Kommission in die Tagesordnung aufzunehmen .</input>
+  <ref>Die Sozialdemokratische Fraktion beantragt , eine Erklärung der Kommission über ihre strategischen Ziele für <f id="1">die nächsten fünf</f>  Jahre sowie über die Verwaltungsreform der Kommission in die Tagesordnung aufzunehmen .</ref>
+</s>
+<s id="6">
+  <input>Danach verfahren wir wie <f id="1">usual</f>  : ein Redner dafür , einer dagegen .</input>
+  <ref>Danach verfahren wir wie <f id="1">üblich</f>  : ein Redner dafür , einer dagegen .</ref>
+</s>
+<s id="7">
+  <input><f id="1">To this end</f>  erinnere ich an die Entschließung vom 15 . September , in der empfohlen wurde , den Vorschlag in der kürzestmöglichen Frist vorzulegen .</input>
+  <ref><f id="1">In diesem Sinne</f>  erinnere ich an die Entschließung vom 15 . September , in der empfohlen wurde , den Vorschlag in der kürzestmöglichen Frist vorzulegen .</ref>
+</s>
+<s id="8">
+  <input><f id="1">We</f>  haben dem zugestimmt .</input>
+  <ref><f id="1">Wir</f>  haben dem zugestimmt .</ref>
+</s>
+<s id="9">
+  <input>Wir wollen ja an sich keinen <f id="1">quarrel</f>  mit der Kommission , sondern wir sind der Meinung , wenn es eben geht , müssen Kommission und Parlament einen gemeinsamen Weg gehen .</input>
+  <ref>Wir wollen ja an sich keinen <f id="1">Streit</f>  mit der Kommission , sondern wir sind der Meinung , wenn es eben geht , müssen Kommission und Parlament einen gemeinsamen Weg gehen .</ref>
+</s>
+<s id="10">
+  <input>Deswegen lehnt meine Fraktion <f id="1">the proposal</f>  der Sozialistischen Fraktion entschieden ab !</input>
+  <ref>Deswegen lehnt meine Fraktion <f id="1">den Vorschlag</f>  der Sozialistischen Fraktion entschieden ab !</ref>
+</s>
+<s id="11">
+  <input>Wie <f id="1">recent events</f>  zeigen , gibt es in diesem Bereich noch sehr viel zu tun .</input>
+  <ref>Wie <f id="1">die jüngsten Ereignisse</f>  zeigen , gibt es in diesem Bereich noch sehr viel zu tun .</ref>
+</s>
+<s id="12">
+  <input>Außerdem belegen Kontrollen in belgischen , finnischen wie auch in japanischen Häfen , daß 50 % der Container mit zum Teil <f id="1">dangerous</f>  Ladung nicht ordnungsgemäß angeliefert werden .</input>
+  <ref>Außerdem belegen Kontrollen in belgischen , finnischen wie auch in japanischen Häfen , daß 50 % der Container mit zum Teil <f id="1">gefährlicher</f>  Ladung nicht ordnungsgemäß angeliefert werden .</ref>
+</s>
+<s id="13">
+  <input>Bei der Sicherheit bin ich schon etwas skeptisch , <f id="1">because</f>  sich die Sicherheit etwa in Schweden im Grundsatz nicht von der in Deutschland , Italien oder Österreich unterscheidet .</input>
+  <ref>Bei der Sicherheit bin ich schon etwas skeptisch , <f id="1">weil</f>  sich die Sicherheit etwa in Schweden im Grundsatz nicht von der in Deutschland , Italien oder Österreich unterscheidet .</ref>
+</s>
+<s id="14">
+  <input>In ganz kurzen Worten <f id="1">would</f>  ich auch für die Beiträge der verschiedenen Abgeordneten danken und Ihnen , meine Damen und Herren , sagen , daß die Kommission der Sicherheit im Verkehrswesen Priorität einräumt .</input>
+  <ref>In ganz kurzen Worten <f id="1">möchte</f>  ich auch für die Beiträge der verschiedenen Abgeordneten danken und Ihnen , meine Damen und Herren , sagen , daß die Kommission der Sicherheit im Verkehrswesen Priorität einräumt .</ref>
+</s>
+<s id="15">
+  <input>Ich will zum Ausdruck bringen , daß die <f id="1">safety</f>  ein vorrangiges Ziel der Kommission ist .</input>
+  <ref>Ich will zum Ausdruck bringen , daß die <f id="1">Sicherheit</f>  ein vorrangiges Ziel der Kommission ist .</ref>
+</s>
+<s id="16">
+  <input>Wie ich in der Aussprache über die Erika sagen werde , warten wir nicht auf eine Katastrophe , um uns mit dem Sicherheitsaspekt zu befassen , sondern wir arbeiten daran am Rande dieser Geschehnisse . Diese führen uns allerdings die Dringlichkeit einer effektiven Antwort auf Probleme <f id="1">this type</f>  vor Augen .</input>
+  <ref>Wie ich in der Aussprache über die Erika sagen werde , warten wir nicht auf eine Katastrophe , um uns mit dem Sicherheitsaspekt zu befassen , sondern wir arbeiten daran am Rande dieser Geschehnisse . Diese führen uns allerdings die Dringlichkeit einer effektiven Antwort auf Probleme <f id="1">dieser Art</f>  vor Augen .</ref>
+</s>
+<s id="17">
+  <input>Die EU-Kommission entscheidet , ob die Mitgliedstaaten <f id="1">certain</f>  eigene Vorschriften erlassen können .</input>
+  <ref>Die EU-Kommission entscheidet , ob die Mitgliedstaaten <f id="1">bestimmte</f>  eigene Vorschriften erlassen können .</ref>
+</s>
+<s id="18">
+  <input>Herr Präsident , wenn Sie erlauben , möchte ich Ihnen erst einmal meinen Respekt dafür ausdrücken , wie Sie vorhin <f id="1">during the debate</f>  den fliegenden Wechsel im Vorsitz vollzogen haben .</input>
+  <ref>Herr Präsident , wenn Sie erlauben , möchte ich Ihnen erst einmal meinen Respekt dafür ausdrücken , wie Sie vorhin <f id="1">während der Debatte</f>  den fliegenden Wechsel im Vorsitz vollzogen haben .</ref>
+</s>
+<s id="19">
+  <input>Das , was wir heute machen , <f id="1">is essentially</f>  ein Ärgernis .</input>
+  <ref>Das , was wir heute machen , <f id="1">ist im Grunde genommen</f>  ein Ärgernis .</ref>
+</s>
+<s id="20">
+  <input>Das Parlament sah in der Sozialwirtschaft stets einen wichtigen potentiellen <f id="1">provider</f>  von Beschäftigungsmöglichkeiten .</input>
+  <ref>Das Parlament sah in der Sozialwirtschaft stets einen wichtigen potentiellen <f id="1">Anbieter</f>  von Beschäftigungsmöglichkeiten .</ref>
+</s>
+<s id="21">
+  <input>Einige Kollegen <f id="1">have already</f>  über die Arbeitslosigkeit und den Bevölkerungsrückgang gesprochen .</input>
+  <ref>Einige Kollegen <f id="1">haben bereits</f>  über die Arbeitslosigkeit und den Bevölkerungsrückgang gesprochen .</ref>
+</s>
+<s id="22">
+  <input>Herr Kommissar , <f id="1">read</f>  Sie die Stellungnahme des Ausschusses für Beschäftigung und soziale Angelegenheiten , und räumen Sie ihr Vorrang ein , denn dies ist das große Problem der Bürger .</input>
+  <ref>Herr Kommissar , <f id="1">lesen</f>  Sie die Stellungnahme des Ausschusses für Beschäftigung und soziale Angelegenheiten , und räumen Sie ihr Vorrang ein , denn dies ist das große Problem der Bürger .</ref>
+</s>
+<s id="23">
+  <input>Wie sieht <f id="1">a fair</f>  Gesellschaft aus ?</input>
+  <ref>Wie sieht <f id="1">eine gerechte</f>  Gesellschaft aus ?</ref>
+</s>
+<s id="24">
+  <input>Der Bericht ist somit <f id="1">from the agenda</f>  abgesetzt .</input>
+  <ref>Der Bericht ist somit <f id="1">von der Tagesordnung</f>  abgesetzt .</ref>
+</s>
+<s id="25">
+  <input>Ich will <f id="1">not</f>  an der Kompetenzverteilung zwischen Kommission und Parlament rütteln .</input>
+  <ref>Ich will <f id="1">nicht</f>  an der Kompetenzverteilung zwischen Kommission und Parlament rütteln .</ref>
+</s>
+<s id="26">
+  <input>Wettbewerb ist ein Instrument und führt nicht immer zu <f id="1">ideal solutions</f>  .</input>
+  <ref>Wettbewerb ist ein Instrument und führt nicht immer zu <f id="1">optimalen Lösungen</f>  .</ref>
+</s>
+<s id="27">
+  <input>Wettbewerb ist ein Instrument und führt nicht <f id="1">always</f>  zu optimalen Lösungen .</input>
+  <ref>Wettbewerb ist ein Instrument und führt nicht <f id="1">immer</f>  zu optimalen Lösungen .</ref>
+</s>
+<s id="28">
+  <input>Dann zeigt sich ganz deutlich , daß die <f id="1">four countries</f>  , die unter anderem Mittel aus dem Kohäsionsfonds erhalten , an erster Stelle stehen .</input>
+  <ref>Dann zeigt sich ganz deutlich , daß die <f id="1">vier Länder</f>  , die unter anderem Mittel aus dem Kohäsionsfonds erhalten , an erster Stelle stehen .</ref>
+</s>
+<s id="29">
+  <input>Deshalb ist <f id="1">the question</f>  , die uns heute beschäftigen muß , insbesondere die , wie künftig die Stahlbeihilfen gehandhabt werden .</input>
+  <ref>Deshalb ist <f id="1">die Frage</f>  , die uns heute beschäftigen muß , insbesondere die , wie künftig die Stahlbeihilfen gehandhabt werden .</ref>
+</s>
+<s id="30">
+  <input>Wir fordern deshalb , daß nach Auslaufen des Vertrags die Stahlbeihilfen durch eine Ratsverordnung nach Artikel 94 <f id="1">must be regulated</f>  , weil nur so die notwendige Rechtsverbindlichkeit und Klarheit möglich ist .</input>
+  <ref>Wir fordern deshalb , daß nach Auslaufen des Vertrags die Stahlbeihilfen durch eine Ratsverordnung nach Artikel 94 <f id="1">geregelt werden müssen</f>  , weil nur so die notwendige Rechtsverbindlichkeit und Klarheit möglich ist .</ref>
+</s>
+<s id="31">
+  <input>Herr Präsident , sehr geehrte Kollegen ! Der Binnenmarkt <f id="1">is not complete</f>  .</input>
+  <ref>Herr Präsident , sehr geehrte Kollegen ! Der Binnenmarkt <f id="1">ist noch nicht vollendet</f>  .</ref>
+</s>
+<s id="32">
+  <input>Auf einer Konferenz , auf der diese Fragen erörtert werden , können <f id="1">misunderstandings</f>  ausgeräumt und gegebenenfalls auch bestimmte Punkte verbessert werden .</input>
+  <ref>Auf einer Konferenz , auf der diese Fragen erörtert werden , können <f id="1">Mißverständnisse</f>  ausgeräumt und gegebenenfalls auch bestimmte Punkte verbessert werden .</ref>
+</s>
+<s id="33">
+  <input>Der Wettbewerb zwischen den Regionen wird <f id="1">certainly</f>  die Europäische Union stärken und nicht schwächen .</input>
+  <ref>Der Wettbewerb zwischen den Regionen wird <f id="1">sicherlich</f>  die Europäische Union stärken und nicht schwächen .</ref>
+</s>
+<s id="34">
+  <input>Der Wettbewerb zwischen den Regionen wird sicherlich die Europäische Union stärken und nicht <f id="1">weaken</f>  .</input>
+  <ref>Der Wettbewerb zwischen den Regionen wird sicherlich die Europäische Union stärken und nicht <f id="1">schwächen</f>  .</ref>
+</s>
+<s id="35">
+  <input>Ansonsten kann ich hier jeglichen Kunden , jeglichen Bereich als <f id="1">customers</f>  benennen und dadurch sehr stark soziale Bereiche zerstören .</input>
+  <ref>Ansonsten kann ich hier jeglichen Kunden , jeglichen Bereich als <f id="1">Kunden</f>  benennen und dadurch sehr stark soziale Bereiche zerstören .</ref>
+</s>
+<s id="36">
+  <input>Sollte unser Parlament mehrheitlich diesem ultraliberalen Konzept eines <f id="1">supposedly</f>  perfekten Marktes folgen , so würde sich deshalb die Welt doch nicht ändern .</input>
+  <ref>Sollte unser Parlament mehrheitlich diesem ultraliberalen Konzept eines <f id="1">angeblich</f>  perfekten Marktes folgen , so würde sich deshalb die Welt doch nicht ändern .</ref>
+</s>
+<s id="37">
+  <input>Am Markt gestaltet sich das Kräfteverhältnis zwischen <f id="1">supply and demand</f>  im allgemeinen zuungunsten der Schwächsten - der Verbraucher und der Arbeitnehmer .</input>
+  <ref>Am Markt gestaltet sich das Kräfteverhältnis zwischen <f id="1">Angebot und Nachfrage</f>  im allgemeinen zuungunsten der Schwächsten - der Verbraucher und der Arbeitnehmer .</ref>
+</s>
+<s id="38">
+  <input>Die Europäische Union , die Staaten <f id="1">must</f>  nicht an die Stelle der Wirtschaftsteilnehmer treten , aber die staatlichen Stellen müssen die Regeln und die Ziele festlegen , die es der Wirtschaft ermöglichen , sich nachhaltig zu entwickeln .</input>
+  <ref>Die Europäische Union , die Staaten <f id="1">dürfen</f>  nicht an die Stelle der Wirtschaftsteilnehmer treten , aber die staatlichen Stellen müssen die Regeln und die Ziele festlegen , die es der Wirtschaft ermöglichen , sich nachhaltig zu entwickeln .</ref>
+</s>
+<s id="39">
+  <input>Die Europäische Union , die Staaten dürfen nicht an die Stelle der Wirtschaftsteilnehmer treten , aber die <f id="1">public authorities</f>  müssen die Regeln und die Ziele festlegen , die es der Wirtschaft ermöglichen , sich nachhaltig zu entwickeln .</input>
+  <ref>Die Europäische Union , die Staaten dürfen nicht an die Stelle der Wirtschaftsteilnehmer treten , aber die <f id="1">staatlichen Stellen</f>  müssen die Regeln und die Ziele festlegen , die es der Wirtschaft ermöglichen , sich nachhaltig zu entwickeln .</ref>
+</s>
+<s id="40">
+  <input>Wie <f id="1">do we ensure</f>  , daß unrechtmäßige staatliche Beihilfen zurückgezahlt werden ?</input>
+  <ref>Wie <f id="1">können wir sicherstellen</f>  , daß unrechtmäßige staatliche Beihilfen zurückgezahlt werden ?</ref>
+</s>
+<s id="41">
+  <input>Zur Zeit gibt es keine gemeinsamen Vorschriften in <f id="1">this area</f>  , und wir fordern die Kommission nachdrücklich auf , für die Harmonisierung der Vorschriften zur Rückzahlung zu sorgen .</input>
+  <ref>Zur Zeit gibt es keine gemeinsamen Vorschriften in <f id="1">diesem Bereich</f>  , und wir fordern die Kommission nachdrücklich auf , für die Harmonisierung der Vorschriften zur Rückzahlung zu sorgen .</ref>
+</s>
+<s id="42">
+  <input><f id="1">This is</f>  der richtige Weg , um gleichartige Wettbewerbsbedingungen zu schaffen .</input>
+  <ref><f id="1">Das ist</f>  der richtige Weg , um gleichartige Wettbewerbsbedingungen zu schaffen .</ref>
+</s>
+<s id="43">
+  <input>Mißlingt <f id="1">this</f>  Engagement , dann muß der Staat eingreifen .</input>
+  <ref>Mißlingt <f id="1">dieses</f>  Engagement , dann muß der Staat eingreifen .</ref>
+</s>
+<s id="44">
+  <input>Er ist <f id="1">the man</f>  , auf den wir bei der Zerschlagung von Kartellen bauen .</input>
+  <ref>Er ist <f id="1">der Mann</f>  , auf den wir bei der Zerschlagung von Kartellen bauen .</ref>
+</s>
+<s id="45">
+  <input>Auch das habe ich neulich gegenüber Herrn Monti <f id="1">mentioned</f>  .</input>
+  <ref>Auch das habe ich neulich gegenüber Herrn Monti <f id="1">angesprochen</f>  .</ref>
+</s>
+<s id="46">
+  <input>Auch das habe ich <f id="1">recently</f>  gegenüber Herrn Monti angesprochen .</input>
+  <ref>Auch das habe ich <f id="1">neulich</f>  gegenüber Herrn Monti angesprochen .</ref>
+</s>
+<s id="47">
+  <input><f id="1">Society</f>  überläßt sich dem Markt .</input>
+  <ref><f id="1">Die Gesellschaft</f>  überläßt sich dem Markt .</ref>
+</s>
+<s id="48">
+  <input>Die Einführung des Euro zu Beginn des <f id="1">last year</f>  setzte ungeheure Wettbewerbskräfte in der europäischen Wirtschaft frei , die eine Welle von Fusionen in einem bisher nicht gekannten Ausmaß auslösten .</input>
+  <ref>Die Einführung des Euro zu Beginn des <f id="1">letzten Jahres</f>  setzte ungeheure Wettbewerbskräfte in der europäischen Wirtschaft frei , die eine Welle von Fusionen in einem bisher nicht gekannten Ausmaß auslösten .</ref>
+</s>
+<s id="49">
+  <input>Ich glaube , daß dies <f id="1">unacceptable</f>  ist .</input>
+  <ref>Ich glaube , daß dies <f id="1">nicht akzeptabel</f>  ist .</ref>
+</s>
+<s id="50">
+  <input>Nicht etwa , um die <f id="1">jobs</f>  zu erhalten .</input>
+  <ref>Nicht etwa , um die <f id="1">Arbeitsplätze</f>  zu erhalten .</ref>
+</s>
+<s id="51">
+  <input>Ein freier offener Markt kann nur dank Wettbewerb bestehen , dem durch <f id="1">clear</f>  , einheitliche Spielregeln Grenzen gesetzt sind .</input>
+  <ref>Ein freier offener Markt kann nur dank Wettbewerb bestehen , dem durch <f id="1">klare</f>  , einheitliche Spielregeln Grenzen gesetzt sind .</ref>
+</s>
+<s id="52">
+  <input>Herr Präsident ! Als letzte zu sprechen <f id="1">gives</f>  mir das Vorrecht , Herr Kommissar , Ihnen zu sagen , daß dieses Parlament mehrheitlich Ihre Initiative unterstützt und völliges , und ich glaube , sehr berechtigtes Vertrauen in die Art und Weise gezeigt hat , in der Sie dieses Schiff führen .</input>
+  <ref>Herr Präsident ! Als letzte zu sprechen <f id="1">gibt</f>  mir das Vorrecht , Herr Kommissar , Ihnen zu sagen , daß dieses Parlament mehrheitlich Ihre Initiative unterstützt und völliges , und ich glaube , sehr berechtigtes Vertrauen in die Art und Weise gezeigt hat , in der Sie dieses Schiff führen .</ref>
+</s>
+<s id="53">
+  <input>Aber auf diesem Schiff wollen wir auch Ruderer sein , wir sitzen im selben Boot und wollen mit Ihnen <f id="1">row</f>  .</input>
+  <ref>Aber auf diesem Schiff wollen wir auch Ruderer sein , wir sitzen im selben Boot und wollen mit Ihnen <f id="1">rudern</f>  .</ref>
+</s>
+<s id="54">
+  <input>Aber auf diesem Schiff wollen wir auch Ruderer sein , wir sitzen im selben <f id="1">boat</f>  und wollen mit Ihnen rudern .</input>
+  <ref>Aber auf diesem Schiff wollen wir auch Ruderer sein , wir sitzen im selben <f id="1">Boot</f>  und wollen mit Ihnen rudern .</ref>
+</s>
+<s id="55">
+  <input>Es stimmt , Herr Kommissar , daß die Kommission keine <f id="1">machine</f>  zur Herstellung von Rechtssicherheit ist .</input>
+  <ref>Es stimmt , Herr Kommissar , daß die Kommission keine <f id="1">Maschine</f>  zur Herstellung von Rechtssicherheit ist .</ref>
+</s>
+<s id="56">
+  <input><f id="1">On this point</f>  möchte ich meine Meinung zu einer Frage darlegen , die Herr Karas angeschnitten hat .</input>
+  <ref><f id="1">An diesem Punkt</f>  möchte ich meine Meinung zu einer Frage darlegen , die Herr Karas angeschnitten hat .</ref>
+</s>
+<s id="57">
+  <input>An diesem Punkt möchte ich <f id="1">my opinion</f>  zu einer Frage darlegen , die Herr Karas angeschnitten hat .</input>
+  <ref>An diesem Punkt möchte ich <f id="1">meine Meinung</f>  zu einer Frage darlegen , die Herr Karas angeschnitten hat .</ref>
+</s>
+<s id="58">
+  <input>Wie <f id="1">often</f>  hat ein Anwalt mit zwei Unternehmen und einem Vorhaben angesichts einer ex ante gegebenen Orientierung der Kommission dieses Vorhaben geändert , damit es den Wettbewerbsregeln genügt !</input>
+  <ref>Wie <f id="1">oft</f>  hat ein Anwalt mit zwei Unternehmen und einem Vorhaben angesichts einer ex ante gegebenen Orientierung der Kommission dieses Vorhaben geändert , damit es den Wettbewerbsregeln genügt !</ref>
+</s>
+<s id="59">
+  <input>Wie oft hat ein Anwalt mit zwei <f id="1">companies</f>  und einem Vorhaben angesichts einer ex ante gegebenen Orientierung der Kommission dieses Vorhaben geändert , damit es den Wettbewerbsregeln genügt !</input>
+  <ref>Wie oft hat ein Anwalt mit zwei <f id="1">Unternehmen</f>  und einem Vorhaben angesichts einer ex ante gegebenen Orientierung der Kommission dieses Vorhaben geändert , damit es den Wettbewerbsregeln genügt !</ref>
+</s>
+<s id="60">
+  <input>Und drittens haben wir <f id="1">the problem</f>  der einheitlichen Anwendung des Gemeinschaftsrechts .</input>
+  <ref>Und drittens haben wir <f id="1">das Problem</f>  der einheitlichen Anwendung des Gemeinschaftsrechts .</ref>
+</s>
+<s id="61">
+  <input>Obwohl wir die Tätigkeit der nationalen Wettbewerbsbehörden zutiefst respektieren , werden wir selbstverständlich <f id="1">very carefully</f>  darauf achten , wie das EG-Recht von den nationalen Behörden und Gerichten umgesetzt wird .</input>
+  <ref>Obwohl wir die Tätigkeit der nationalen Wettbewerbsbehörden zutiefst respektieren , werden wir selbstverständlich <f id="1">sehr genau</f>  darauf achten , wie das EG-Recht von den nationalen Behörden und Gerichten umgesetzt wird .</ref>
+</s>
+<s id="62">
+  <input>Obwohl wir die Tätigkeit der nationalen Wettbewerbsbehörden zutiefst <f id="1">respect</f>  , werden wir selbstverständlich sehr genau darauf achten , wie das EG-Recht von den nationalen Behörden und Gerichten umgesetzt wird .</input>
+  <ref>Obwohl wir die Tätigkeit der nationalen Wettbewerbsbehörden zutiefst <f id="1">respektieren</f>  , werden wir selbstverständlich sehr genau darauf achten , wie das EG-Recht von den nationalen Behörden und Gerichten umgesetzt wird .</ref>
+</s>
+<s id="63">
+  <input>Was die <f id="1">impact</f>  auf Firmen anbelangt , so kommt einer Sache besonders große Bedeutung zu , die von Frau Thyssen , Frau Peijs und Frau Palacio Vallelersundi angesprochen wurde , und zwar betrifft das die KMU .</input>
+  <ref>Was die <f id="1">Auswirkungen</f>  auf Firmen anbelangt , so kommt einer Sache besonders große Bedeutung zu , die von Frau Thyssen , Frau Peijs und Frau Palacio Vallelersundi angesprochen wurde , und zwar betrifft das die KMU .</ref>
+</s>
+<s id="64">
+  <input>Die meisten KMU haben ohnehin nur einen Marktanteil von <f id="1">less than</f>  30 % .</input>
+  <ref>Die meisten KMU haben ohnehin nur einen Marktanteil von <f id="1">weniger als</f>  30 % .</ref>
+</s>
+<s id="65">
+  <input>Der Kürze halber führe ich <f id="1">only two</f>  an .</input>
+  <ref>Der Kürze halber führe ich <f id="1">nur zwei</f>  an .</ref>
+</s>
+<s id="66">
+  <input>Außerdem erwarte ich mit großem <f id="1">interest</f>  die Ergebnisse des achten Berichts , der jetzt , im Januar , von den Dienststellen ausgearbeitet und von der Kommission im März 2000 verabschiedet werden soll . Dann werden wir sehen , ob sich die jüngsten Tendenzen bestätigen .</input>
+  <ref>Außerdem erwarte ich mit großem <f id="1">Interesse</f>  die Ergebnisse des achten Berichts , der jetzt , im Januar , von den Dienststellen ausgearbeitet und von der Kommission im März 2000 verabschiedet werden soll . Dann werden wir sehen , ob sich die jüngsten Tendenzen bestätigen .</ref>
+</s>
+<s id="67">
+  <input>Die Rückforderung zu Unrecht erhaltener Gelder durch die Kommission hatte bisher nur mäßigen <f id="1">success</f>  .</input>
+  <ref>Die Rückforderung zu Unrecht erhaltener Gelder durch die Kommission hatte bisher nur mäßigen <f id="1">Erfolg</f>  .</ref>
+</s>
+<s id="68">
+  <input>Ich werde aber meinen Teil dazu beitragen , daß Frau Theatos Bericht größere <f id="1">support</f>  findet .</input>
+  <ref>Ich werde aber meinen Teil dazu beitragen , daß Frau Theatos Bericht größere <f id="1">Unterstützung</f>  findet .</ref>
+</s>
+<s id="69">
+  <input>Gleichzeitig ist jedoch <f id="1">from the</f>  Bericht van Hulten , der heute beraten wird , zu erfahren , daß die europäische Staatsanwaltschaft ihrerseits durch ein Gericht der Europäischen Union überwacht werden soll .</input>
+  <ref>Gleichzeitig ist jedoch <f id="1">aus dem</f>  Bericht van Hulten , der heute beraten wird , zu erfahren , daß die europäische Staatsanwaltschaft ihrerseits durch ein Gericht der Europäischen Union überwacht werden soll .</ref>
+</s>
+<s id="70">
+  <input>Gleichzeitig ist jedoch aus dem Bericht van Hulten , der heute beraten wird , zu erfahren , daß die europäische Staatsanwaltschaft ihrerseits durch ein Gericht der Europäischen Union <f id="1">supervised</f>  werden soll .</input>
+  <ref>Gleichzeitig ist jedoch aus dem Bericht van Hulten , der heute beraten wird , zu erfahren , daß die europäische Staatsanwaltschaft ihrerseits durch ein Gericht der Europäischen Union <f id="1">überwacht</f>  werden soll .</ref>
+</s>
+<s id="71">
+  <input>So kann sich hinter <f id="1">a small</f>  europäischen Reform eine mittlere und hinter einer mittleren Reform eine große Reform verbergen .</input>
+  <ref>So kann sich hinter <f id="1">einer kleinen</f>  europäischen Reform eine mittlere und hinter einer mittleren Reform eine große Reform verbergen .</ref>
+</s>
+<s id="72">
+  <input>Die Vereinbarkeit <f id="1">with the various</f>  nationalen Rechtsordnungen , die von Sachverständigen bestätigt worden ist , zeigt , daß Europa auch im strafrechtlichen Bereich sehr viel Gemeinsames hat , etwa wenn es um den Inhalt der hier einschlägigen Straftatbestände geht .</input>
+  <ref>Die Vereinbarkeit <f id="1">mit den unterschiedlichen</f>  nationalen Rechtsordnungen , die von Sachverständigen bestätigt worden ist , zeigt , daß Europa auch im strafrechtlichen Bereich sehr viel Gemeinsames hat , etwa wenn es um den Inhalt der hier einschlägigen Straftatbestände geht .</ref>
+</s>
+<s id="73">
+  <input>Vereinheitlichung in diesem <f id="1">small area</f>  .</input>
+  <ref>Vereinheitlichung in diesem <f id="1">speziellen Bereich</f>  .</ref>
+</s>
+<s id="74">
+  <input>Das wurde nicht <f id="1">changed</f>  .</input>
+  <ref>Das wurde nicht <f id="1">verändert</f>  .</ref>
+</s>
+<s id="75">
+  <input>Die Herausforderung für die Kommission <f id="1">and for ourselves</f>  besteht jedoch darin , die richtige Mischung zu finden .</input>
+  <ref>Die Herausforderung für die Kommission <f id="1">und für uns</f>  besteht jedoch darin , die richtige Mischung zu finden .</ref>
+</s>
+<s id="76">
+  <input>Die <f id="1">challenge</f>  für die Kommission und für uns besteht jedoch darin , die richtige Mischung zu finden .</input>
+  <ref>Die <f id="1">Herausforderung</f>  für die Kommission und für uns besteht jedoch darin , die richtige Mischung zu finden .</ref>
+</s>
+<s id="77">
+  <input>Das heißt , es besteht hier eine <f id="1">loophole</f>  , die auszufüllen ist , und ich werde hinsichtlich einer Weiterentwicklung den im Bericht vorgeschlagenen Weg prüfen .</input>
+  <ref>Das heißt , es besteht hier eine <f id="1">Lücke</f>  , die auszufüllen ist , und ich werde hinsichtlich einer Weiterentwicklung den im Bericht vorgeschlagenen Weg prüfen .</ref>
+</s>
+<s id="78">
+  <input>Die Abstimmung findet <f id="1">tomorrow at</f>  12.00 Uhr statt .</input>
+  <ref>Die Abstimmung findet <f id="1">morgen um</f>  12.00 Uhr statt .</ref>
+</s>
+<s id="79">
+  <input><f id="1">I regard</f>  diesen Zustand für gänzlich unbefriedigend .</input>
+  <ref><f id="1">Ich halte</f>  diesen Zustand für gänzlich unbefriedigend .</ref>
+</s>
+<s id="80">
+  <input>Unter dieser Voraussetzung kann der neue Ansatz der Leitlinien , die nicht mehr nach geographischen Zielen , sondern nach Politikfeldern ausgerichtet sind , als <f id="1">positive</f>  gewertet werden .</input>
+  <ref>Unter dieser Voraussetzung kann der neue Ansatz der Leitlinien , die nicht mehr nach geographischen Zielen , sondern nach Politikfeldern ausgerichtet sind , als <f id="1">positiv</f>  gewertet werden .</ref>
+</s>
+<s id="81">
+  <input>Der ländliche Raum muß tatsächlich als eine Ressource verstanden werden , in die <f id="1">increasingly</f>  mehr investiert werden sollte , und zwar durch Anreize für Jugendliche zum Verbleib in den ländlichen Gebieten , um deren wirtschaftliche und gesellschaftliche Desintegration zu vermeiden .</input>
+  <ref>Der ländliche Raum muß tatsächlich als eine Ressource verstanden werden , in die <f id="1">immer</f>  mehr investiert werden sollte , und zwar durch Anreize für Jugendliche zum Verbleib in den ländlichen Gebieten , um deren wirtschaftliche und gesellschaftliche Desintegration zu vermeiden .</ref>
+</s>
+<s id="82">
+  <input>Die vorliegende Mitteilung ist also nicht besonders zufriedenstellend und in mancher Hinsicht <f id="1">disappointing</f>  .</input>
+  <ref>Die vorliegende Mitteilung ist also nicht besonders zufriedenstellend und in mancher Hinsicht <f id="1">enttäuschend</f>  .</ref>
+</s>
+<s id="83">
+  <input>( PT ) Wir stimmen im wesentlichen der Bewertung und den Begründungen zu , die der Berichterstatter zum Sechsten Periodischen <f id="1">report on the</f>  sozio-ökonomische Lage und die Entwicklung der Regionen der Europäischen Union vorträgt .</input>
+  <ref>( PT ) Wir stimmen im wesentlichen der Bewertung und den Begründungen zu , die der Berichterstatter zum Sechsten Periodischen <f id="1">Bericht über die</f>  sozio-ökonomische Lage und die Entwicklung der Regionen der Europäischen Union vorträgt .</ref>
+</s>
+<s id="84">
+  <input>Der Durchschnitt der 10 ärmsten <f id="1">regions</f>  , der 1986 noch bei 41 % des gemeinschaftlichen BSP lag , erreichte 1996 50 % .</input>
+  <ref>Der Durchschnitt der 10 ärmsten <f id="1">Regionen</f>  , der 1986 noch bei 41 % des gemeinschaftlichen BSP lag , erreichte 1996 50 % .</ref>
+</s>
+<s id="85">
+  <input>Er bestätigt sich auch in Schweden und Finnland , <f id="1">where</f>  die Arbeitslosigkeit in den letzten Jahren in beängstigendem Maße zugenommen hat , sowie in mehreren Regionen des Vereinigten Königreichs .</input>
+  <ref>Er bestätigt sich auch in Schweden und Finnland , <f id="1">wo</f>  die Arbeitslosigkeit in den letzten Jahren in beängstigendem Maße zugenommen hat , sowie in mehreren Regionen des Vereinigten Königreichs .</ref>
+</s>
+<s id="86">
+  <input>Er bestätigt sich auch in Schweden und Finnland , wo <f id="1">unemployment</f>  in den letzten Jahren in beängstigendem Maße zugenommen hat , sowie in mehreren Regionen des Vereinigten Königreichs .</input>
+  <ref>Er bestätigt sich auch in Schweden und Finnland , wo <f id="1">die Arbeitslosigkeit</f>  in den letzten Jahren in beängstigendem Maße zugenommen hat , sowie in mehreren Regionen des Vereinigten Königreichs .</ref>
+</s>
+<s id="87">
+  <input>Besonders bemerkenswert ist aus <f id="1">my view</f>  das Signal , das von diesem Vorschlag ausgeht : die Kommission sieht die Auswirkungen der Erweiterung voraus und hat erkannt , daß diese zwangsläufig , ja quasi automatisch , eine Reform des zentralisierten Systems mit sich bringt .</input>
+  <ref>Besonders bemerkenswert ist aus <f id="1">meiner Sicht</f>  das Signal , das von diesem Vorschlag ausgeht : die Kommission sieht die Auswirkungen der Erweiterung voraus und hat erkannt , daß diese zwangsläufig , ja quasi automatisch , eine Reform des zentralisierten Systems mit sich bringt .</ref>
+</s>
+<s id="88">
+  <input>Man neigt <f id="1">too often</f>  dazu , staatliche Beihilfen als wettbewerbsverfälschende Maßnahmen zu geißeln .</input>
+  <ref>Man neigt <f id="1">zu oft</f>  dazu , staatliche Beihilfen als wettbewerbsverfälschende Maßnahmen zu geißeln .</ref>
+</s>
+<s id="89">
+  <input>Wir <f id="1">await</f>  die Ergebnisse mit großem Interesse .</input>
+  <ref>Wir <f id="1">erwarten</f>  die Ergebnisse mit großem Interesse .</ref>
+</s>
+<s id="90">
+  <input>Wir müssen <f id="1">our governments</f>  dazu bewegen , daß sie ausreichend Mittel für eine wirksame Kontrolle bereitstellen , und wir müssen dafür sorgen , daß sie sich entschiedener für die Sicherheit auf See einsetzen .</input>
+  <ref>Wir müssen <f id="1">unsere Regierungen</f>  dazu bewegen , daß sie ausreichend Mittel für eine wirksame Kontrolle bereitstellen , und wir müssen dafür sorgen , daß sie sich entschiedener für die Sicherheit auf See einsetzen .</ref>
+</s>
+<s id="91">
+  <input>Sie wissen auch , <f id="1">how difficult</f>  es heute ist , die Arten und auch die Lebensräume zu erhalten .</input>
+  <ref>Sie wissen auch , <f id="1">wie schwierig</f>  es heute ist , die Arten und auch die Lebensräume zu erhalten .</ref>
+</s>
+<s id="92">
+  <input>Lassen Sie mich <f id="1">remind</f>  , daß die Erika unter der Gefälligkeitsflagge eines Staates fuhr , der Beitrittskandidat für die EU ist .</input>
+  <ref>Lassen Sie mich <f id="1">daran erinnern</f>  , daß die Erika unter der Gefälligkeitsflagge eines Staates fuhr , der Beitrittskandidat für die EU ist .</ref>
+</s>
+<s id="93">
+  <input><f id="1">They are the</f>  Konsequenz der menschlichen Inkonsequenz .</input>
+  <ref><f id="1">Sie sind die</f>  Konsequenz der menschlichen Inkonsequenz .</ref>
+</s>
+<s id="94">
+  <input>Das heißt , <f id="1">we need</f>  eine echte Kostenwahrheit für unser gesamtes Energieversorgungssystem .</input>
+  <ref>Das heißt , <f id="1">wir brauchen</f>  eine echte Kostenwahrheit für unser gesamtes Energieversorgungssystem .</ref>
+</s>
+<s id="95">
+  <input>Was müssen wir <f id="1">do now ?</f></input>
+  <ref>Was müssen wir <f id="1">jetzt tun ?</f></ref>
+</s>
+<s id="96">
+  <input>Ich denke , <f id="1">we should</f>  das Zertifikat einführen , von dem Frau Roth-Behrendt gesprochen hat , ebenso wie die Kennzeichnung von Tankern mit grünen Marken , wie sie von einigen Häfen in Europa angeregt wurde .</input>
+  <ref>Ich denke , <f id="1">wir sollten</f>  das Zertifikat einführen , von dem Frau Roth-Behrendt gesprochen hat , ebenso wie die Kennzeichnung von Tankern mit grünen Marken , wie sie von einigen Häfen in Europa angeregt wurde .</ref>
+</s>
+<s id="97">
+  <input><f id="1">Finally</f>  möchte ich erwähnen , daß einige Dienststellen der Kommission es als unzulässige Werftenförderung ansehen , wenn in meinem Land Umweltfördermittel an Reeder gezahlt werden , die die Umweltqualität verbessern wollen .</input>
+  <ref><f id="1">Abschließend</f>  möchte ich erwähnen , daß einige Dienststellen der Kommission es als unzulässige Werftenförderung ansehen , wenn in meinem Land Umweltfördermittel an Reeder gezahlt werden , die die Umweltqualität verbessern wollen .</ref>
+</s>
+<s id="98">
+  <input><f id="1">It is not</f>  vertretbar , wenn Maßnahmen , die mit den Richtlinien der Kommission zur Umweltverbesserung im Einklang stehen , nicht durchgeführt werden dürfen , weil sie als unzulässige Werftenförderung betrachtet werden .</input>
+  <ref><f id="1">Es ist nicht</f>  vertretbar , wenn Maßnahmen , die mit den Richtlinien der Kommission zur Umweltverbesserung im Einklang stehen , nicht durchgeführt werden dürfen , weil sie als unzulässige Werftenförderung betrachtet werden .</ref>
+</s>
+<s id="99">
+  <input>An <f id="1">the number of</f>  Untersuchungen kann es nicht liegen ; es kommt vielmehr darauf an , die Intensität der Kontrollen sicherzustellen .</input>
+  <ref>An <f id="1">der Zahl der</f>  Untersuchungen kann es nicht liegen ; es kommt vielmehr darauf an , die Intensität der Kontrollen sicherzustellen .</ref>
+</s>
+<s id="100">
+  <input>An der Zahl der Untersuchungen kann es nicht liegen ; es kommt <f id="1">rather</f>  darauf an , die Intensität der Kontrollen sicherzustellen .</input>
+  <ref>An der Zahl der Untersuchungen kann es nicht liegen ; es kommt <f id="1">vielmehr</f>  darauf an , die Intensität der Kontrollen sicherzustellen .</ref>
+</s>
+<s id="101">
+  <input>Die Bretagne und Galicien , am europäischen " Ende der Welt " , sind <f id="1">constant</f>  Opfer der Verantwortungslosigkeit derjenigen , die es vorziehen , die Vorschriften nicht einzuhalten und das Rohöl mit Schiffen zu transportieren , die schon an sich eine potentielle Ölpest darstellen .</input>
+  <ref>Die Bretagne und Galicien , am europäischen " Ende der Welt " , sind <f id="1">ständige</f>  Opfer der Verantwortungslosigkeit derjenigen , die es vorziehen , die Vorschriften nicht einzuhalten und das Rohöl mit Schiffen zu transportieren , die schon an sich eine potentielle Ölpest darstellen .</ref>
+</s>
+<s id="102">
+  <input><f id="1">In this regard</f>  muß der gegenwärtige Verhandlungsprozeß über den Beitritt von Malta zur Europäischen Union dazu dienen , von diesem Land zu fordern , daß es die unter seiner Flagge fahrenden Öltanker rigoros kontrolliert .</input>
+  <ref><f id="1">In dieser Hinsicht</f>  muß der gegenwärtige Verhandlungsprozeß über den Beitritt von Malta zur Europäischen Union dazu dienen , von diesem Land zu fordern , daß es die unter seiner Flagge fahrenden Öltanker rigoros kontrolliert .</ref>
+</s>
+<s id="103">
+  <input>Portugal ist ein Land , das seine Sensibilität gegenüber den mit dem Meer verbundenen Themen überreichlich <f id="1">demonstrated</f>  hat .</input>
+  <ref>Portugal ist ein Land , das seine Sensibilität gegenüber den mit dem Meer verbundenen Themen überreichlich <f id="1">bewiesen</f>  hat .</ref>
+</s>
+<s id="104">
+  <input>Zweitens sollten wir in solchen Fällen <f id="1">examine</f>  , ob außer den Reedern auch die Charterer , beispielsweise die Ölgesellschaften , Verantwortung tragen , da diese an Umweltkatastrophen wie dieser mitschuldig sind und folglich auch für die Beseitigung der Schäden aufkommen müssen .</input>
+  <ref>Zweitens sollten wir in solchen Fällen <f id="1">untersuchen</f>  , ob außer den Reedern auch die Charterer , beispielsweise die Ölgesellschaften , Verantwortung tragen , da diese an Umweltkatastrophen wie dieser mitschuldig sind und folglich auch für die Beseitigung der Schäden aufkommen müssen .</ref>
+</s>
+<s id="105">
+  <input>Ich hoffe , daß alle Fraktionen uns bei diesem <f id="1">request for a</f>  öffentlichen Anhörung unterstützen .</input>
+  <ref>Ich hoffe , daß alle Fraktionen uns bei diesem <f id="1">Antrag auf eine</f>  öffentlichen Anhörung unterstützen .</ref>
+</s>
+<s id="106">
+  <input>Ich <f id="1">hope</f>  , daß alle Fraktionen uns bei diesem Antrag auf eine öffentlichen Anhörung unterstützen .</input>
+  <ref>Ich <f id="1">hoffe</f>  , daß alle Fraktionen uns bei diesem Antrag auf eine öffentlichen Anhörung unterstützen .</ref>
+</s>
+<s id="107">
+  <input>In Europa gelten <f id="1">stricter</f>  Vorschriften , man ist gehalten , ist verpflichtet , 25 % der einlaufenden Schiffe auf der Grundlage der Hafenstaatenkontrolle einer Inspektion zu unterziehen .</input>
+  <ref>In Europa gelten <f id="1">strengere</f>  Vorschriften , man ist gehalten , ist verpflichtet , 25 % der einlaufenden Schiffe auf der Grundlage der Hafenstaatenkontrolle einer Inspektion zu unterziehen .</ref>
+</s>
+<s id="108">
+  <input>Die Kommissarin hat , wie ich meine , <f id="1">quite right</f>  .</input>
+  <ref>Die Kommissarin hat , wie ich meine , <f id="1">völlig recht</f>  .</ref>
+</s>
+<s id="109">
+  <input>Wir <f id="1">demand</f>  also zu Recht bessere Kontrollen , Sanktionen und Vorsorgemaßnahmen .</input>
+  <ref>Wir <f id="1">fordern</f>  also zu Recht bessere Kontrollen , Sanktionen und Vorsorgemaßnahmen .</ref>
+</s>
+<s id="110">
+  <input>Außerdem konzentrierte man sich in diesen vergangenen Jahren grundsätzlich <f id="1">on the safety</f>  im Passagierverkehr .</input>
+  <ref>Außerdem konzentrierte man sich in diesen vergangenen Jahren grundsätzlich <f id="1">auf die Sicherheit</f>  im Passagierverkehr .</ref>
+</s>
+<s id="111">
+  <input>Wir haben 180 Millionen Dollar festgelegt ; in den USA spricht man von einer Milliarde Dollar <f id="1">as</f>  Obergrenze für Entschädigungen .</input>
+  <ref>Wir haben 180 Millionen Dollar festgelegt ; in den USA spricht man von einer Milliarde Dollar <f id="1">als</f>  Obergrenze für Entschädigungen .</ref>
+</s>
+<s id="112">
+  <input>Ich glaube , daß wir den gegenwärtigen Betrag erhöhen und uns einem Niveau annähern müssen , das dem der USA ähnlich ist , daß wir aber auch die Höhe der Versicherungen und damit die Haftung der Reeder neu überdenken und in diese Haftung diejenigen einbeziehen müssen , die die Schiffe chartern , die Eigentümer der <f id="1">cargo</f>  .</input>
+  <ref>Ich glaube , daß wir den gegenwärtigen Betrag erhöhen und uns einem Niveau annähern müssen , das dem der USA ähnlich ist , daß wir aber auch die Höhe der Versicherungen und damit die Haftung der Reeder neu überdenken und in diese Haftung diejenigen einbeziehen müssen , die die Schiffe chartern , die Eigentümer der <f id="1">Fracht</f>  .</ref>
+</s>
+<s id="113">
+  <input>Zunächst möchte ich den Familien , die infolge der Unwetter in Europa <f id="1">in December</f>  Angehörige verloren haben , mein Mitgefühl ausdrücken .</input>
+  <ref>Zunächst möchte ich den Familien , die infolge der Unwetter in Europa <f id="1">im Dezember</f>  Angehörige verloren haben , mein Mitgefühl ausdrücken .</ref>
+</s>
+<s id="114">
+  <input>Es sind ja nur Schätzungen , wenn wir jetzt hören , daß durch <f id="1">the storm</f>  in kurzer Zeit ca. 120 Millionen Festmeter Holz in Europa anfallen .</input>
+  <ref>Es sind ja nur Schätzungen , wenn wir jetzt hören , daß durch <f id="1">den Sturm</f>  in kurzer Zeit ca. 120 Millionen Festmeter Holz in Europa anfallen .</ref>
+</s>
+<s id="115">
+  <input>Ich habe Ihnen , Herr Kommissar , sehr aufmerksam zugehört und <f id="1">welcome</f>  es auch außerordentlich , daß Sie sich vor Ort in Frankreich und in Deutschland die Katastrophe einmal ansehen werden .</input>
+  <ref>Ich habe Ihnen , Herr Kommissar , sehr aufmerksam zugehört und <f id="1">begrüße</f>  es auch außerordentlich , daß Sie sich vor Ort in Frankreich und in Deutschland die Katastrophe einmal ansehen werden .</ref>
+</s>
+<s id="116">
+  <input>Ich sage , sie <f id="1">have a right to</f>  Solidarität .</input>
+  <ref>Ich sage , sie <f id="1">haben einen Anspruch auf</f>  Solidarität .</ref>
+</s>
+<s id="117">
+  <input>Dann wird sich zum <f id="1">example</f>  jeder überlegen , ob er Öl in einem Tanker transportieren läßt , der kurz vor dem Auseinanderbrechen ist .</input>
+  <ref>Dann wird sich zum <f id="1">Beispiel</f>  jeder überlegen , ob er Öl in einem Tanker transportieren läßt , der kurz vor dem Auseinanderbrechen ist .</ref>
+</s>
+<s id="118">
+  <input>Dann wird sich zum Beispiel jeder überlegen , ob er Öl in einem Tanker transportieren läßt , der kurz <f id="1">before</f>  dem Auseinanderbrechen ist .</input>
+  <ref>Dann wird sich zum Beispiel jeder überlegen , ob er Öl in einem Tanker transportieren läßt , der kurz <f id="1">vor</f>  dem Auseinanderbrechen ist .</ref>
+</s>
+<s id="119">
+  <input>Zum zweiten war ich Berichterstatterin über den Zivilschutz in Europa und <f id="1">I completely agree</f>  mit dem Vorschlag des Herrn Kommissars , ein europäisches Zivilschutzkorps zu schaffen .</input>
+  <ref>Zum zweiten war ich Berichterstatterin über den Zivilschutz in Europa und <f id="1">bin völlig einverstanden</f>  mit dem Vorschlag des Herrn Kommissars , ein europäisches Zivilschutzkorps zu schaffen .</ref>
+</s>
+<s id="120">
+  <input>Zum zweiten war ich Berichterstatterin über den Zivilschutz in Europa und <f id="1">I completely agree with</f>  dem Vorschlag des Herrn Kommissars , ein europäisches Zivilschutzkorps zu schaffen .</input>
+  <ref>Zum zweiten war ich Berichterstatterin über den Zivilschutz in Europa und <f id="1">bin völlig einverstanden mit</f>  dem Vorschlag des Herrn Kommissars , ein europäisches Zivilschutzkorps zu schaffen .</ref>
+</s>
+<s id="121">
+  <input>Außerdem muß eine <f id="1">extraordinary</f>  Haushaltslinie angewendet werden , weil auch die Katastrophensituation eine außerordentliche Situation ist .</input>
+  <ref>Außerdem muß eine <f id="1">außerordentliche</f>  Haushaltslinie angewendet werden , weil auch die Katastrophensituation eine außerordentliche Situation ist .</ref>
+</s>
+<s id="122">
+  <input>Es ist <f id="1">regrettable</f>  , daß wir über kein Instrument verfügen , mit dem wir in einer solchen Situation Hilfe leisten könnten .</input>
+  <ref>Es ist <f id="1">bedauerlich</f>  , daß wir über kein Instrument verfügen , mit dem wir in einer solchen Situation Hilfe leisten könnten .</ref>
+</s>
+<s id="123">
+  <input>Uns in Irland hat es diesmal nicht so hart getroffen , <f id="1">although</f>  über dem Atlantik zahlreiche schwere Stürme wüteten .</input>
+  <ref>Uns in Irland hat es diesmal nicht so hart getroffen , <f id="1">obwohl</f>  über dem Atlantik zahlreiche schwere Stürme wüteten .</ref>
+</s>
+<s id="124">
+  <input>Denn jeder weiß , daß es hier zu <f id="1">even greater</f>  Katastrophen kommen kann , wenn das Schadholz zu lange im Wald bleibt .</input>
+  <ref>Denn jeder weiß , daß es hier zu <f id="1">noch größeren</f>  Katastrophen kommen kann , wenn das Schadholz zu lange im Wald bleibt .</ref>
+</s>
+<s id="125">
+  <input>Denn wir wissen alle , <f id="1">how long</f>  ein Baum zum Wachsen braucht .</input>
+  <ref>Denn wir wissen alle , <f id="1">wie lange</f>  ein Baum zum Wachsen braucht .</ref>
+</s>
+<s id="126">
+  <input>Ich habe mit Farmern gesprochen , <f id="1">whose</f>  Schafe ihre Lämmer abortierten , weil sie infiziertes Wasser getrunken hatten .</input>
+  <ref>Ich habe mit Farmern gesprochen , <f id="1">deren</f>  Schafe ihre Lämmer abortierten , weil sie infiziertes Wasser getrunken hatten .</ref>
+</s>
+<s id="127">
+  <input>Leidet ihr <f id="1">confidence</f>  , so widerspiegelt sich das in ihrem Kaufverhalten .</input>
+  <ref>Leidet ihr <f id="1">Vertrauen</f>  , so widerspiegelt sich das in ihrem Kaufverhalten .</ref>
+</s>
+<s id="128">
+  <input>Ich bin der Ansicht , daß das jetzige <f id="1">scientific</f>  Beratungssystem gestärkt werden muß .</input>
+  <ref>Ich bin der Ansicht , daß das jetzige <f id="1">wissenschaftliche</f>  Beratungssystem gestärkt werden muß .</ref>
+</s>
+<s id="129">
+  <input>Bisher war es immer so , daß der Steuerzahler zur Kasse gebeten wurde , wenn <f id="1">something</f>  schiefging .</input>
+  <ref>Bisher war es immer so , daß der Steuerzahler zur Kasse gebeten wurde , wenn <f id="1">etwas</f>  schiefging .</ref>
+</s>
+<s id="130">
+  <input>Der <f id="1">final part</f>  meiner Frage : Wann werden BSE-Tests in allen Mitgliedsländern verbindlich sein ?</input>
+  <ref>Der <f id="1">letzte Teil</f>  meiner Frage : Wann werden BSE-Tests in allen Mitgliedsländern verbindlich sein ?</ref>
+</s>
+<s id="131">
+  <input>Es gibt verschiedene <f id="1">things</f>  , die das Vertrauen der Verbraucher unterminieren können , beispielsweise der Mangel an Informationen .</input>
+  <ref>Es gibt verschiedene <f id="1">Dinge</f>  , die das Vertrauen der Verbraucher unterminieren können , beispielsweise der Mangel an Informationen .</ref>
+</s>
+<s id="132">
+  <input>Das muß man sich im Verlaufe der <f id="1">time</f>  verdienen .</input>
+  <ref>Das muß man sich im Verlaufe der <f id="1">Zeit</f>  verdienen .</ref>
+</s>
+<s id="133">
+  <input>Die Nichteinhaltung entsprechender Gesetze <f id="1">is a matter</f>  , mit denen sich dann die Gerichte auf dem üblichen Weg zu beschäftigen haben .</input>
+  <ref>Die Nichteinhaltung entsprechender Gesetze <f id="1">ist eine Angelegenheit</f>  , mit denen sich dann die Gerichte auf dem üblichen Weg zu beschäftigen haben .</ref>
+</s>
+<s id="134">
+  <input><f id="1">It seems</f>  mir wünschenswert , eine solche Behörde an einem zentralen Ort anzusiedeln .</input>
+  <ref><f id="1">Es scheint</f>  mir wünschenswert , eine solche Behörde an einem zentralen Ort anzusiedeln .</ref>
+</s>
+<s id="135">
+  <input>Für wie lange werden Sie die Untersuchungen zu den <f id="1">effects</f>  dieser Waffen fortsetzen ?</input>
+  <ref>Für wie lange werden Sie die Untersuchungen zu den <f id="1">Auswirkungen</f>  dieser Waffen fortsetzen ?</ref>
+</s>
+<s id="136">
+  <input>Ich möchte die Kommissarin fragen , ob es stimmt , daß <f id="1">soldiers</f>  der NATO-Streitkräfte , die zur Zeit in der Region stationiert sind , auf nukleare Strahlung untersucht werden , während die in der Region lebenden Zivilisten davon ausgenommen sind .</input>
+  <ref>Ich möchte die Kommissarin fragen , ob es stimmt , daß <f id="1">Soldaten</f>  der NATO-Streitkräfte , die zur Zeit in der Region stationiert sind , auf nukleare Strahlung untersucht werden , während die in der Region lebenden Zivilisten davon ausgenommen sind .</ref>
+</s>
+<s id="137">
+  <input>Die Inhaftierung , die Folterung , die Verstümmelung von <f id="1">young</f>  Frauen und dergleichen mehr , das sind ja durchaus abendfüllende Diskussionsthemen .</input>
+  <ref>Die Inhaftierung , die Folterung , die Verstümmelung von <f id="1">jungen</f>  Frauen und dergleichen mehr , das sind ja durchaus abendfüllende Diskussionsthemen .</ref>
+</s>
+<s id="138">
+  <input>Die Inhaftierung , die Folterung , die Verstümmelung von <f id="1">young women</f>  und dergleichen mehr , das sind ja durchaus abendfüllende Diskussionsthemen .</input>
+  <ref>Die Inhaftierung , die Folterung , die Verstümmelung von <f id="1">jungen Frauen</f>  und dergleichen mehr , das sind ja durchaus abendfüllende Diskussionsthemen .</ref>
+</s>
+<s id="139">
+  <input><f id="1">As it happens</f>  , daß wir für die Auswirkungen auf den Haushalt zuständig sind , und Ernennungen sind Sache des Rats .</input>
+  <ref><f id="1">Es ist nun mal so</f>  , daß wir für die Auswirkungen auf den Haushalt zuständig sind , und Ernennungen sind Sache des Rats .</ref>
+</s>
+<s id="140">
+  <input>Es ist nun mal so , daß wir für die <f id="1">consequences</f>  auf den Haushalt zuständig sind , und Ernennungen sind Sache des Rats .</input>
+  <ref>Es ist nun mal so , daß wir für die <f id="1">Auswirkungen</f>  auf den Haushalt zuständig sind , und Ernennungen sind Sache des Rats .</ref>
+</s>
+<s id="141">
+  <input>Ich <f id="1">would point out</f>  , daß das Nichtstun zum Tod der tibetischen Kultur und zum Ende des tibetischen Volkes führen wird .</input>
+  <ref>Ich <f id="1">weise darauf hin</f>  , daß das Nichtstun zum Tod der tibetischen Kultur und zum Ende des tibetischen Volkes führen wird .</ref>
+</s>
+<s id="142">
+  <input>Bei der Erarbeitung des Dokuments wurden die Empfehlungen im vom <f id="1">office</f>  des europäischen Bürgerbeauftragten erarbeiteten Entwurf umfassend berücksichtigt .</input>
+  <ref>Bei der Erarbeitung des Dokuments wurden die Empfehlungen im vom <f id="1">Büro</f>  des europäischen Bürgerbeauftragten erarbeiteten Entwurf umfassend berücksichtigt .</ref>
+</s>
+<s id="143">
+  <input>Das ist eine äußerst wichtige Frage , <f id="1">and I recognise</f>  die Bedenken der Abgeordneten .</input>
+  <ref>Das ist eine äußerst wichtige Frage , <f id="1">und ich verstehe</f>  die Bedenken der Abgeordneten .</ref>
+</s>
+<s id="144">
+  <input>Trifft es zu , daß der Vorschlag in allen Teilen <f id="1">approved</f>  wird ?</input>
+  <ref>Trifft es zu , daß der Vorschlag in allen Teilen <f id="1">angenommen</f>  wird ?</ref>
+</s>
+<s id="145">
+  <input><f id="1">I wish</f>  ihm einen angenehmen Nachmittag .</input>
+  <ref><f id="1">Ich wünsche</f>  ihm einen angenehmen Nachmittag .</ref>
+</s>
+<s id="146">
+  <input>Ist die Kommission <f id="1">prepared</f>  , diese Maßnahmen zu treffen ?</input>
+  <ref>Ist die Kommission <f id="1">bereit</f>  , diese Maßnahmen zu treffen ?</ref>
+</s>
+<s id="147">
+  <input>Zwar wurden mitunter in dem obligatorischen Einführungskurs für neue Mitarbeiter Gleichstellungsfragen behandelt , doch nur für eine bis zwei Stunden pro <f id="1">course</f>  .</input>
+  <ref>Zwar wurden mitunter in dem obligatorischen Einführungskurs für neue Mitarbeiter Gleichstellungsfragen behandelt , doch nur für eine bis zwei Stunden pro <f id="1">Kurs</f>  .</ref>
+</s>
+<s id="148">
+  <input>Dieser ohnehin geringe Anteil ist jedoch bei <f id="1">all</f>  Einführungskursen der letzten Zeit gestrichen worden .</input>
+  <ref>Dieser ohnehin geringe Anteil ist jedoch bei <f id="1">allen</f>  Einführungskursen der letzten Zeit gestrichen worden .</ref>
+</s>
+<s id="149">
+  <input>Diese <f id="1">assistance</f>  kam allen Sektoren zugute , insbesondere der Landwirtschaft , der Infrastrukturentwicklung , der Privatwirtschaft und dem Auf - und Ausbau der erforderlichen institutionellen Strukturen .</input>
+  <ref>Diese <f id="1">Hilfe</f>  kam allen Sektoren zugute , insbesondere der Landwirtschaft , der Infrastrukturentwicklung , der Privatwirtschaft und dem Auf - und Ausbau der erforderlichen institutionellen Strukturen .</ref>
+</s>
+<s id="150">
+  <input>Es verhält sich natürlich so , <f id="1">as you say</f>  .</input>
+  <ref>Es verhält sich natürlich so , <f id="1">wie Sie sagen</f>  .</ref>
+</s>
+<s id="151">
+  <input>Diese betreffen Berufe , die nur <f id="1">by</f>  Personen mit einer speziellen Ausbildung ausgeübt werden dürfen .</input>
+  <ref>Diese betreffen Berufe , die nur <f id="1">von</f>  Personen mit einer speziellen Ausbildung ausgeübt werden dürfen .</ref>
+</s>
+<s id="152">
+  <input>Diese betreffen <f id="1">professions</f>  , die nur von Personen mit einer speziellen Ausbildung ausgeübt werden dürfen .</input>
+  <ref>Diese betreffen <f id="1">Berufe</f>  , die nur von Personen mit einer speziellen Ausbildung ausgeübt werden dürfen .</ref>
+</s>
+<s id="153">
+  <input>Wir alle sollten dieses ganze Verfahren weit ernster nehmen als <f id="1">in the past</f>  , wo das Ganze als bürokratisches Verfahren abgetan wurde , dessen man sich so schnell wie möglich und in kürzestmöglicher Zeit entledigte .</input>
+  <ref>Wir alle sollten dieses ganze Verfahren weit ernster nehmen als <f id="1">in der Vergangenheit</f>  , wo das Ganze als bürokratisches Verfahren abgetan wurde , dessen man sich so schnell wie möglich und in kürzestmöglicher Zeit entledigte .</ref>
+</s>
+<s id="154">
+  <input>Ich möchte Ihnen dennoch <f id="1">two examples</f>  dafür nennen , weshalb die jetzt von der Kommission geäußerten guten Absichten nicht zwangsläufig auch zu einem befriedigenden Resultat führen . Die Öffentlichkeit , die Vertraulichkeit von Unterlagen .</input>
+  <ref>Ich möchte Ihnen dennoch <f id="1">zwei Beispiele</f>  dafür nennen , weshalb die jetzt von der Kommission geäußerten guten Absichten nicht zwangsläufig auch zu einem befriedigenden Resultat führen . Die Öffentlichkeit , die Vertraulichkeit von Unterlagen .</ref>
+</s>
+<s id="155">
+  <input>Die Kommission legt nicht alles <f id="1">on the table</f>  und hält damit an einer uralten Praxis fest .</input>
+  <ref>Die Kommission legt nicht alles <f id="1">auf den Tisch</f>  und hält damit an einer uralten Praxis fest .</ref>
+</s>
+<s id="156">
+  <input>Die neue Kommission <f id="1">has already</f>  wichtige Schritte unternommen , um sich von ihrer einstigen Funktionsweise zu lösen .</input>
+  <ref>Die neue Kommission <f id="1">hat bereits</f>  wichtige Schritte unternommen , um sich von ihrer einstigen Funktionsweise zu lösen .</ref>
+</s>
+<s id="157">
+  <input>Was <f id="1">happened to</f>  der Person , die für diesen Rechenfehler verantwortlich zeichnete ?</input>
+  <ref>Was <f id="1">geschah mit</f>  der Person , die für diesen Rechenfehler verantwortlich zeichnete ?</ref>
+</s>
+<s id="158">
+  <input><f id="1">I am sure</f>  , daß sie ihm unter anderem dazu dienen wird , daß sein zweiter Bericht an Flexibilität gewinnt und er daran arbeitet , stärker den Konsens aller Fraktionen zu suchen .</input>
+  <ref><f id="1">Ich bin sicher</f>  , daß sie ihm unter anderem dazu dienen wird , daß sein zweiter Bericht an Flexibilität gewinnt und er daran arbeitet , stärker den Konsens aller Fraktionen zu suchen .</ref>
+</s>
+<s id="159">
+  <input>Es gilt also das Prinzip der zwei <f id="1">key</f>  .</input>
+  <ref>Es gilt also das Prinzip der zwei <f id="1">Schlüssel</f>  .</ref>
+</s>
+<s id="160">
+  <input>Dieser Bericht <f id="1">is about the</f>  Kommission .</input>
+  <ref>Dieser Bericht <f id="1">handelt von der</f>  Kommission .</ref>
+</s>
+<s id="161">
+  <input>Im Juni soll mit einem Vorschlag für eine Interinstitutionelle <f id="1">agreement on a</f>  Ausschuß für Normen im öffentlichen Leben noch ein Schritt weiter unternommen werden .</input>
+  <ref>Im Juni soll mit einem Vorschlag für eine Interinstitutionelle <f id="1">Vereinbarung über einen</f>  Ausschuß für Normen im öffentlichen Leben noch ein Schritt weiter unternommen werden .</ref>
+</s>
+<s id="162">
+  <input>Wir würden uns sehr freuen , <f id="1">as rapidly as possible</f>  voranzukommen .</input>
+  <ref>Wir würden uns sehr freuen , <f id="1">so schnell wie möglich</f>  voranzukommen .</ref>
+</s>
+<s id="163">
+  <input>Bei alledem dürfen wir die palästinensische Seite nicht aus den Augen <f id="1">lose</f>  .</input>
+  <ref>Bei alledem dürfen wir die palästinensische Seite nicht aus den Augen <f id="1">verlieren</f>  .</ref>
+</s>
+<s id="164">
+  <input>Wir sind <f id="1">the largest</f>  Geldgeber der Palästinenser .</input>
+  <ref>Wir sind <f id="1">die größten</f>  Geldgeber der Palästinenser .</ref>
+</s>
+<s id="165">
+  <input>Ist Israel bereit , die UN-Resolutionen zu erfüllen und die 1967 eroberten arabischen Gebiete <f id="1">in exchange</f>  gegen Frieden und Sicherheit zurückzugeben ?</input>
+  <ref>Ist Israel bereit , die UN-Resolutionen zu erfüllen und die 1967 eroberten arabischen Gebiete <f id="1">im Austausch</f>  gegen Frieden und Sicherheit zurückzugeben ?</ref>
+</s>
+<s id="166">
+  <input>Es bestehen <f id="1">doubts</f>  in meiner Fraktion und in diesem Plenum , beispielsweise zu einem Thema , das eine gute Nachricht sein müßte : die Vergemeinschaftung von Schengen .</input>
+  <ref>Es bestehen <f id="1">Zweifel</f>  in meiner Fraktion und in diesem Plenum , beispielsweise zu einem Thema , das eine gute Nachricht sein müßte : die Vergemeinschaftung von Schengen .</ref>
+</s>
+<s id="167">
+  <input>Wir kennen die Standpunkte des Parlaments und <f id="1">know</f>  , daß das Parlament die Standpunkte der juristischen Dienste des Rates kennt .</input>
+  <ref>Wir kennen die Standpunkte des Parlaments und <f id="1">wissen</f>  , daß das Parlament die Standpunkte der juristischen Dienste des Rates kennt .</ref>
+</s>
+<s id="168">
+  <input>Außerdem will ich die Überlegungen zur Ausarbeitung <f id="1">of specific</f>  gemeinschaftlichen Verfahrensgrundsätzen für die Vereinfachung und Beschleunigung von grenzüberschreitenden Gerichtsverfahren bei kleinen handels - und verbraucherrechtlichen Klagen , bei Unterhaltsklagen und unbestrittenen Klagen fortzusetzen .</input>
+  <ref>Außerdem will ich die Überlegungen zur Ausarbeitung <f id="1">von spezifischen</f>  gemeinschaftlichen Verfahrensgrundsätzen für die Vereinfachung und Beschleunigung von grenzüberschreitenden Gerichtsverfahren bei kleinen handels - und verbraucherrechtlichen Klagen , bei Unterhaltsklagen und unbestrittenen Klagen fortzusetzen .</ref>
+</s>
+<s id="169">
+  <input>Ich möchte drei Punkte hervorheben , die für uns <f id="1">as Members</f>  der EVP-Fraktion Schwerpunkte bei der Schaffung eines solchen Raumes sein müssen .</input>
+  <ref>Ich möchte drei Punkte hervorheben , die für uns <f id="1">als Mitglieder</f>  der EVP-Fraktion Schwerpunkte bei der Schaffung eines solchen Raumes sein müssen .</ref>
+</s>
+<s id="170">
+  <input>Gleichzeitig unterstützen wir die in Tampere vorgeschlagene Einrichtung einer europäischen Polizeiakademie als Schritt <f id="1">in the right direction</f>  .</input>
+  <ref>Gleichzeitig unterstützen wir die in Tampere vorgeschlagene Einrichtung einer europäischen Polizeiakademie als Schritt <f id="1">in die richtige Richtung</f>  .</ref>
+</s>
+<s id="171">
+  <input>Insofern sollen in stark erdbebengefährdeten Regionen prinzipiell und von vornherein keine Nuklearanlagen <f id="1">built</f>  werden .</input>
+  <ref>Insofern sollen in stark erdbebengefährdeten Regionen prinzipiell und von vornherein keine Nuklearanlagen <f id="1">gebaut</f>  werden .</ref>
+</s>
+<s id="172">
+  <input>Ist der Rat der Ansicht , daß man auf <f id="1">the basis of</f>  Artikel 255 des Vertrags die einzelstaatliche Gesetzgebung zur Transparenz und nicht die für die Organe der Union regeln kann ?</input>
+  <ref>Ist der Rat der Ansicht , daß man auf <f id="1">der Grundlage von</f>  Artikel 255 des Vertrags die einzelstaatliche Gesetzgebung zur Transparenz und nicht die für die Organe der Union regeln kann ?</ref>
+</s>
+<s id="173">
+  <input>Herr Abgeordneter , die Antwort , die <f id="1">I gave</f>  , war die mögliche Antwort .</input>
+  <ref>Herr Abgeordneter , die Antwort , die <f id="1">ich gegeben habe</f>  , war die mögliche Antwort .</ref>
+</s>
+<s id="174">
+  <input>Sie werde nicht hingenommen und müsse unverzüglich <f id="1">stop</f>  .</input>
+  <ref>Sie werde nicht hingenommen und müsse unverzüglich <f id="1">aufhören</f>  .</ref>
+</s>
+<s id="175">
+  <input>Wir haben uns bemüht , materielle Hilfe <f id="1">to provide</f>  .</input>
+  <ref>Wir haben uns bemüht , materielle Hilfe <f id="1">zu leisten</f>  .</ref>
+</s>
+<s id="176">
+  <input>Hierbei geht es doch darum , <f id="1">whether</f>  die europäische Dimension mehr oder weniger gestärkt wird , vor allem durch ihre Einbeziehung in die Verträge .</input>
+  <ref>Hierbei geht es doch darum , <f id="1">ob</f>  die europäische Dimension mehr oder weniger gestärkt wird , vor allem durch ihre Einbeziehung in die Verträge .</ref>
+</s>
+<s id="177">
+  <input>Frau Präsidentin ! Die Debatte um eine Besteuerung von <f id="1">short-term</f>  Finanztransaktionen ist nicht neu .</input>
+  <ref>Frau Präsidentin ! Die Debatte um eine Besteuerung von <f id="1">kurzfristigen</f>  Finanztransaktionen ist nicht neu .</ref>
+</s>
+<s id="178">
+  <input>Möge ein jeder die wirtschaftliche Entwicklung der <f id="1">recent years</f>  analysieren , und wenn er objektiv ist , wird er es anhand der Zahlen , die weder politisch gefärbt noch politisch ausgerichtet sind , bestätigen .</input>
+  <ref>Möge ein jeder die wirtschaftliche Entwicklung der <f id="1">letzten Jahre</f>  analysieren , und wenn er objektiv ist , wird er es anhand der Zahlen , die weder politisch gefärbt noch politisch ausgerichtet sind , bestätigen .</ref>
+</s>
+<s id="179">
+  <input>Dieses Argument ist meines Erachtens <f id="1">therefore</f>  nicht stichhaltig .</input>
+  <ref>Dieses Argument ist meines Erachtens <f id="1">also</f>  nicht stichhaltig .</ref>
+</s>
+<s id="180">
+  <input>Wir wollen <f id="1">solutions</f>  finden .</input>
+  <ref>Wir wollen <f id="1">Lösungen</f>  finden .</ref>
+</s>
+<s id="181">
+  <input>Frau Präsidentin , Herr Bolkestein ! Es ist schon <f id="1">unbelievable</f>  , mit welcher Ignoranz hier diskutiert wird .</input>
+  <ref>Frau Präsidentin , Herr Bolkestein ! Es ist schon <f id="1">unglaublich</f>  , mit welcher Ignoranz hier diskutiert wird .</ref>
+</s>
+<s id="182">
+  <input>Dem kann man entgegentreten , das <f id="1">is possible</f>  .</input>
+  <ref>Dem kann man entgegentreten , das <f id="1">ist möglich</f>  .</ref>
+</s>
+<s id="183">
+  <input>Das Minimum dafür wäre , daß endlich einmal ordentliche Studien gemacht werden , <f id="1">not only by the</f>  Kommission , sondern auch wirklich von ökonomisch renommierten Instituten in ganz Europa .</input>
+  <ref>Das Minimum dafür wäre , daß endlich einmal ordentliche Studien gemacht werden , <f id="1">nicht nur von der</f>  Kommission , sondern auch wirklich von ökonomisch renommierten Instituten in ganz Europa .</ref>
+</s>
+<s id="184">
+  <input>Artikel 73 c des Vertrages über die Europäische Union <f id="1">provides</f>  die Möglichkeit zur Besteuerung von Finanztransaktionen .</input>
+  <ref>Artikel 73 c des Vertrages über die Europäische Union <f id="1">bietet</f>  die Möglichkeit zur Besteuerung von Finanztransaktionen .</ref>
+</s>
+<s id="185">
+  <input>Frau Präsidentin , <f id="1">unfortunately</f>  bin ich ja des Französischen nicht so mächtig wie Sie .</input>
+  <ref>Frau Präsidentin , <f id="1">leider</f>  bin ich ja des Französischen nicht so mächtig wie Sie .</ref>
+</s>
+<s id="186">
+  <input>Politisch gesehen habe ich immer Schwierigkeiten , wenn Leute sagen , das <f id="1">need</f>  wir nicht , das wollen wir nicht , das können wir nicht !</input>
+  <ref>Politisch gesehen habe ich immer Schwierigkeiten , wenn Leute sagen , das <f id="1">brauchen</f>  wir nicht , das wollen wir nicht , das können wir nicht !</ref>
+</s>
+<s id="187">
+  <input>Aber alle anderen Ausflüge sonstwohin können wir uns schenken , und ich respektiere Sie als ernsthaften Kommissar , der <f id="1">his work</f>  ernsthaft wahrnehmen will .</input>
+  <ref>Aber alle anderen Ausflüge sonstwohin können wir uns schenken , und ich respektiere Sie als ernsthaften Kommissar , der <f id="1">seine Arbeit</f>  ernsthaft wahrnehmen will .</ref>
+</s>
+<s id="188">
+  <input>Er ist ein Mann , der <f id="1">on fear</f>  spielt und Verwundbarkeit ausgenutzt hat .</input>
+  <ref>Er ist ein Mann , der <f id="1">mit der Angst</f>  spielt und Verwundbarkeit ausgenutzt hat .</ref>
+</s>
+<s id="189">
+  <input>Er ist <f id="1">a man</f>  , der mit der Angst spielt und Verwundbarkeit ausgenutzt hat .</input>
+  <ref>Er ist <f id="1">ein Mann</f>  , der mit der Angst spielt und Verwundbarkeit ausgenutzt hat .</ref>
+</s>
+<s id="190">
+  <input>Diese Verantwortung , die sie <f id="1">now</f>  auf sich laden , muß Buchstabe und Geist der Europäischen Verträge gerecht werden .</input>
+  <ref>Diese Verantwortung , die sie <f id="1">jetzt</f>  auf sich laden , muß Buchstabe und Geist der Europäischen Verträge gerecht werden .</ref>
+</s>
+<s id="191">
+  <input>Diese <f id="1">responsibility</f>  , die sie jetzt auf sich laden , muß Buchstabe und Geist der Europäischen Verträge gerecht werden .</input>
+  <ref>Diese <f id="1">Verantwortung</f>  , die sie jetzt auf sich laden , muß Buchstabe und Geist der Europäischen Verträge gerecht werden .</ref>
+</s>
+<s id="192">
+  <input>Österreich hat nicht zuletzt dank der ÖVP <f id="1">its way</f>  in die Europäische Union gefunden .</input>
+  <ref>Österreich hat nicht zuletzt dank der ÖVP <f id="1">seinen Weg</f>  in die Europäische Union gefunden .</ref>
+</s>
+<s id="193">
+  <input>Wir brauchen also <f id="1">a political</f>  Lösung .</input>
+  <ref>Wir brauchen also <f id="1">eine politische</f>  Lösung .</ref>
+</s>
+<s id="194">
+  <input>Aus diesem Grund protestieren wir <f id="1">against this</f>  Geheimnistuerei , die in Österreich vor sich geht .</input>
+  <ref>Aus diesem Grund protestieren wir <f id="1">gegen diese</f>  Geheimnistuerei , die in Österreich vor sich geht .</ref>
+</s>
+<s id="195">
+  <input>Wenn beispielsweise ein Produkt zugelassen wurde , müssen vergleichbare <f id="1">products</f>  ebenfalls zugelassen werden .</input>
+  <ref>Wenn beispielsweise ein Produkt zugelassen wurde , müssen vergleichbare <f id="1">Produkte</f>  ebenfalls zugelassen werden .</ref>
+</s>
+<s id="196">
+  <input><f id="1">There were</f>  viele schwierige Themen , die nicht immer sehr klar und deutlich waren , aber ich will versuchen , einige der Fragen zu beantworten .</input>
+  <ref><f id="1">Es gab</f>  viele schwierige Themen , die nicht immer sehr klar und deutlich waren , aber ich will versuchen , einige der Fragen zu beantworten .</ref>
+</s>
+<s id="197">
+  <input>Es gab viele schwierige Themen , die nicht immer sehr klar und deutlich waren , aber <f id="1">I will try</f>  , einige der Fragen zu beantworten .</input>
+  <ref>Es gab viele schwierige Themen , die nicht immer sehr klar und deutlich waren , aber <f id="1">ich will versuchen</f>  , einige der Fragen zu beantworten .</ref>
+</s>
+<s id="198">
+  <input>Es gab viele schwierige Themen , die nicht immer sehr klar und deutlich waren , aber ich will versuchen , einige der Fragen <f id="1">to answer</f>  .</input>
+  <ref>Es gab viele schwierige Themen , die nicht immer sehr klar und deutlich waren , aber ich will versuchen , einige der Fragen <f id="1">zu beantworten</f>  .</ref>
+</s>
+<s id="199">
+  <input>Herr Präsident ! Ich <f id="1">have a question concerning</f>  einem konkreten und aktuellen Fall , in dem das Vorsorgeprinzip Anwendung finden könnte .</input>
+  <ref>Herr Präsident ! Ich <f id="1">habe eine Frage zu</f>  einem konkreten und aktuellen Fall , in dem das Vorsorgeprinzip Anwendung finden könnte .</ref>
+</s>
+<s id="200">
+  <input>Diese Stoffe , die in immer höheren Konzentrationen in Menschen und in <f id="1">the environment</f>  vorkommen , sind gegenwärtig Gegenstand der Forschung .</input>
+  <ref>Diese Stoffe , die in immer höheren Konzentrationen in Menschen und in <f id="1">der Umwelt</f>  vorkommen , sind gegenwärtig Gegenstand der Forschung .</ref>
+</s>
+<s id="201">
+  <input>Ich frage das ja nicht ohne <f id="1">reason</f>  .</input>
+  <ref>Ich frage das ja nicht ohne <f id="1">Grund</f>  .</ref>
+</s>
+<s id="202">
+  <input>Wir geben eine befürwortende Stellungnahme zur Einberufung der Regierungskonferenz ab , weil uns die <f id="1">attitude</f>  der portugiesischen Präsidentschaft , unseren Wunsch auf Ausweitung der Tagesordnung für die Regierungskonferenz mit zu berücksichtigen , beeindruckt hat .</input>
+  <ref>Wir geben eine befürwortende Stellungnahme zur Einberufung der Regierungskonferenz ab , weil uns die <f id="1">Haltung</f>  der portugiesischen Präsidentschaft , unseren Wunsch auf Ausweitung der Tagesordnung für die Regierungskonferenz mit zu berücksichtigen , beeindruckt hat .</ref>
+</s>
+<s id="203">
+  <input>Wir sollten lieber von den drei wichtigsten <f id="1">subjects</f>  der Regierungskonferenz sprechen .</input>
+  <ref>Wir sollten lieber von den drei wichtigsten <f id="1">Themen</f>  der Regierungskonferenz sprechen .</ref>
+</s>
+<s id="204">
+  <input>So hätten wir in der Tat ein Europa der Bürgerinnen und Bürger , und wir hätten in der Tat eine <f id="1">entirely</f>  neue Qualität demokratischer Legitimation der Union .</input>
+  <ref>So hätten wir in der Tat ein Europa der Bürgerinnen und Bürger , und wir hätten in der Tat eine <f id="1">völlig</f>  neue Qualität demokratischer Legitimation der Union .</ref>
+</s>
+<s id="205">
+  <input>Nein , ich denke , das würde die Glaubwürdigkeitskrise der Union nur noch weiter <f id="1">deepen</f>  .</input>
+  <ref>Nein , ich denke , das würde die Glaubwürdigkeitskrise der Union nur noch weiter <f id="1">vertiefen</f>  .</ref>
+</s>
+<s id="206">
+  <input>Dies betone ich <f id="1">particularly</f>  als Abgeordnete eines großen Mitgliedslandes .</input>
+  <ref>Dies betone ich <f id="1">insbesondere</f>  als Abgeordnete eines großen Mitgliedslandes .</ref>
+</s>
+<s id="207">
+  <input>Dies betone ich insbesondere als Abgeordnete eines <f id="1">major</f>  Mitgliedslandes .</input>
+  <ref>Dies betone ich insbesondere als Abgeordnete eines <f id="1">großen</f>  Mitgliedslandes .</ref>
+</s>
+<s id="208">
+  <input>Nicht zufällig war der letzte Redebeitrag auch der einzige , der lebhafte Zustimmung zum Ausdruck brachte - ich sage das ohne einen Funken Ironie im Hinblick auf den völlig ehrenhaften Standpunkt des Kollegen Berthu und seiner Fraktion - , es ist kein <f id="1">coincidence</f>  , daß der Beschluß des Europäischen Rates von denjenigen unterstützt wird , die im Grunde genommen in diesem Parlament sitzen , weil sie - was völlig ehrenhaft ist - gegen eine weitere europäische Integration zu Felde ziehen .</input>
+  <ref>Nicht zufällig war der letzte Redebeitrag auch der einzige , der lebhafte Zustimmung zum Ausdruck brachte - ich sage das ohne einen Funken Ironie im Hinblick auf den völlig ehrenhaften Standpunkt des Kollegen Berthu und seiner Fraktion - , es ist kein <f id="1">Zufall</f>  , daß der Beschluß des Europäischen Rates von denjenigen unterstützt wird , die im Grunde genommen in diesem Parlament sitzen , weil sie - was völlig ehrenhaft ist - gegen eine weitere europäische Integration zu Felde ziehen .</ref>
+</s>
+<s id="209">
+  <input>Herr Prodi hat auch mehr Offenheit <f id="1">announced</f>  , aber sein Verordnungsentwurf macht den Weg frei für direkte Rückschritte . Dieser Auffassung ist im übrigen auch der europäische Bürgerbeauftragte .</input>
+  <ref>Herr Prodi hat auch mehr Offenheit <f id="1">angekündigt</f>  , aber sein Verordnungsentwurf macht den Weg frei für direkte Rückschritte . Dieser Auffassung ist im übrigen auch der europäische Bürgerbeauftragte .</ref>
+</s>
+<s id="210">
+  <input>Es gibt keinen einzigen Grund dafür , daß direkt von den Bürgern gewählte Vertreter auf einer niedrigeren Ebene mitreden sollten <f id="1">than the</f>  Kommission .</input>
+  <ref>Es gibt keinen einzigen Grund dafür , daß direkt von den Bürgern gewählte Vertreter auf einer niedrigeren Ebene mitreden sollten <f id="1">als die</f>  Kommission .</ref>
+</s>
+<s id="211">
+  <input>In dem vorliegenden <f id="1">text</f>  wird kein Wort über die großen demokratischen und politischen Probleme im Zusammenhang mit der Währungsunion und der Zentralbank verloren - das ist inakzeptabel .</input>
+  <ref>In dem vorliegenden <f id="1">Text</f>  wird kein Wort über die großen demokratischen und politischen Probleme im Zusammenhang mit der Währungsunion und der Zentralbank verloren - das ist inakzeptabel .</ref>
+</s>
+<s id="212">
+  <input>Ich bin fest davon überzeugt , daß wir <f id="1">on this basis</f>  leichter eine Einigkeit im Rat finden können .</input>
+  <ref>Ich bin fest davon überzeugt , daß wir <f id="1">auf dieser Grundlage</f>  leichter eine Einigkeit im Rat finden können .</ref>
+</s>
+<s id="213">
+  <input>Ich bin fest <f id="1">convinced</f>  , daß wir auf dieser Grundlage leichter eine Einigkeit im Rat finden können .</input>
+  <ref>Ich bin fest <f id="1">davon überzeugt</f>  , daß wir auf dieser Grundlage leichter eine Einigkeit im Rat finden können .</ref>
+</s>
+<s id="214">
+  <input>Zwei Änderungsanträge wurden von den Diensten annulliert , weil der Inhalt <f id="1">supposedly</f>  im Bericht schon berücksichtigt ist .</input>
+  <ref>Zwei Änderungsanträge wurden von den Diensten annulliert , weil der Inhalt <f id="1">angeblich</f>  im Bericht schon berücksichtigt ist .</ref>
+</s>
+<s id="215">
+  <input>Zwei Änderungsanträge wurden von den Diensten annulliert , <f id="1">because</f>  der Inhalt angeblich im Bericht schon berücksichtigt ist .</input>
+  <ref>Zwei Änderungsanträge wurden von den Diensten annulliert , <f id="1">weil</f>  der Inhalt angeblich im Bericht schon berücksichtigt ist .</ref>
+</s>
+<s id="216">
+  <input>Die Europäische Union ist <f id="1">a system</f>  , das sich auf das Recht stützt .</input>
+  <ref>Die Europäische Union ist <f id="1">ein System</f>  , das sich auf das Recht stützt .</ref>
+</s>
+<s id="217">
+  <input>Uns liegen Unterlagen vor , in <f id="1">which</f>  von festen Mittelbindungen die Rede ist .</input>
+  <ref>Uns liegen Unterlagen vor , in <f id="1">denen</f>  von festen Mittelbindungen die Rede ist .</ref>
+</s>
+<s id="218">
+  <input>Hier haben wir eine erste kleine <f id="1">disagreement</f>  .</input>
+  <ref>Hier haben wir eine erste kleine <f id="1">Meinungsverschiedenheit</f>  .</ref>
+</s>
+<s id="219">
+  <input>Ich hoffe , daß er in Zukunft <f id="1">in the list</f>  der erneuerbaren Energieträger aufgenommen werden kann .</input>
+  <ref>Ich hoffe , daß er in Zukunft <f id="1">in die Liste</f>  der erneuerbaren Energieträger aufgenommen werden kann .</ref>
+</s>
+<s id="220">
+  <input>Ich möchte jedoch klarstellen , daß dies ein sehr bescheidener Finanzrahmen ist und immer war und daß <f id="1">the funding</f>  eher symbolischer Natur ist als den wirklichen Erfordernissen entspricht .</input>
+  <ref>Ich möchte jedoch klarstellen , daß dies ein sehr bescheidener Finanzrahmen ist und immer war und daß <f id="1">die Finanzierung</f>  eher symbolischer Natur ist als den wirklichen Erfordernissen entspricht .</ref>
+</s>
+<s id="221">
+  <input>Ich möchte mich <f id="1">again</f>  bei allen bedanken , die an diesem Vermittlungsverfahren mitgewirkt haben .</input>
+  <ref>Ich möchte mich <f id="1">noch einmal</f>  bei allen bedanken , die an diesem Vermittlungsverfahren mitgewirkt haben .</ref>
+</s>
+<s id="222">
+  <input>Wir haben <f id="1">the feeling</f>  und eigentlich die Überzeugung , daß die Mitgliedstaaten es alle gerne hätten , wenn sie das , was sie 1992 in den Vertrag von Maastricht geschrieben haben , wieder streichen könnten .</input>
+  <ref>Wir haben <f id="1">das Gefühl</f>  und eigentlich die Überzeugung , daß die Mitgliedstaaten es alle gerne hätten , wenn sie das , was sie 1992 in den Vertrag von Maastricht geschrieben haben , wieder streichen könnten .</ref>
+</s>
+<s id="223">
+  <input>Ich möchte hervorheben , daß <f id="1">culture</f>  nicht nur aus diesem Fonds gefördert wird .</input>
+  <ref>Ich möchte hervorheben , daß <f id="1">Kultur</f>  nicht nur aus diesem Fonds gefördert wird .</ref>
+</s>
+<s id="224">
+  <input>Wie stünde der Fremdenverkehr in Europa <f id="1">without the</f>  Reichtum unserer Kultur dar ?</input>
+  <ref>Wie stünde der Fremdenverkehr in Europa <f id="1">ohne den</f>  Reichtum unserer Kultur dar ?</ref>
+</s>
+<s id="225">
+  <input>Die <f id="1">threat</f>  geht aber nicht Europa aus .</input>
+  <ref>Die <f id="1">Bedrohung</f>  geht aber nicht Europa aus .</ref>
+</s>
+<s id="226">
+  <input>Und Ihnen , Frau Reding , möchte ich danken <f id="1">for the support</f>  und die Hilfe , die Sie uns bisher gewährt haben . Führen Sie diese gute Arbeit weiter , wir stehen auf Ihrer Seite .</input>
+  <ref>Und Ihnen , Frau Reding , möchte ich danken <f id="1">für die Unterstützung</f>  und die Hilfe , die Sie uns bisher gewährt haben . Führen Sie diese gute Arbeit weiter , wir stehen auf Ihrer Seite .</ref>
+</s>
+<s id="227">
+  <input>Ich hoffe , daß diese Konferenz auch die Kommission veranlaßt , die <f id="1">libraries</f>  im Fünften Rahmenprogramm der Informationsgesellschaft aktiv zu berücksichtigen .</input>
+  <ref>Ich hoffe , daß diese Konferenz auch die Kommission veranlaßt , die <f id="1">Bibliotheken</f>  im Fünften Rahmenprogramm der Informationsgesellschaft aktiv zu berücksichtigen .</ref>
+</s>
+<s id="228">
+  <input>Meine Damen und Herren Abgeordneten , das ist <f id="1">a formal</f>  Verpflichtung , die nicht nur auf dem Papier steht .</input>
+  <ref>Meine Damen und Herren Abgeordneten , das ist <f id="1">eine formelle</f>  Verpflichtung , die nicht nur auf dem Papier steht .</ref>
+</s>
+<s id="229">
+  <input><f id="1">It concerns</f>  die Frage der Kosten für das Recycling .</input>
+  <ref><f id="1">Er betrifft</f>  die Frage der Kosten für das Recycling .</ref>
+</s>
+<s id="230">
+  <input>Die <f id="1">credibility</f>  des Parlaments als einem der Vorreiter für den Umweltschutz steht auf dem Spiel .</input>
+  <ref>Die <f id="1">Glaubwürdigkeit</f>  des Parlaments als einem der Vorreiter für den Umweltschutz steht auf dem Spiel .</ref>
+</s>
+<s id="231">
+  <input>Ich komme natürlich <f id="1">from a</f>  Land , das stolz auf seine Automobilindustrie und seine Verkaufserfolge sowohl in Europa als auch in Drittländern ist .</input>
+  <ref>Ich komme natürlich <f id="1">aus einem</f>  Land , das stolz auf seine Automobilindustrie und seine Verkaufserfolge sowohl in Europa als auch in Drittländern ist .</ref>
+</s>
+<s id="232">
+  <input>Es wäre sehr unklug von meinen Kollegen der <f id="1">major</f>  föderalistisch ausgerichteten Fraktionen , der Popularität des Europäischen Parlaments Abbruch zu tun , indem sie eine gemeinsame Verantwortung von Besitzer und Hersteller durchsetzen .</input>
+  <ref>Es wäre sehr unklug von meinen Kollegen der <f id="1">großen</f>  föderalistisch ausgerichteten Fraktionen , der Popularität des Europäischen Parlaments Abbruch zu tun , indem sie eine gemeinsame Verantwortung von Besitzer und Hersteller durchsetzen .</ref>
+</s>
+<s id="233">
+  <input>Nur wer soll das <f id="1">pay</f>  ?</input>
+  <ref>Nur wer soll das <f id="1">bezahlen</f>  ?</ref>
+</s>
+<s id="234">
+  <input>Herr Präsident , wie viele der Anwesenden halte auch ich dies für <f id="1">a good</f>  Maßnahme .</input>
+  <ref>Herr Präsident , wie viele der Anwesenden halte auch ich dies für <f id="1">eine gute</f>  Maßnahme .</ref>
+</s>
+<s id="235">
+  <input>Warum sollen dieselben Personen als Steuerzahler oder <f id="1">future</f>  Autokäufer für die Entsorgung von Fahrzeugen bezahlen , an denen der Hersteller verdient hat ?</input>
+  <ref>Warum sollen dieselben Personen als Steuerzahler oder <f id="1">künftige</f>  Autokäufer für die Entsorgung von Fahrzeugen bezahlen , an denen der Hersteller verdient hat ?</ref>
+</s>
+<s id="236">
+  <input>Gerade im Zulieferbereich spielt der Mittelstand eine sehr große Rolle , und wir müssen die Interessen auch der <f id="1">employed in</f>  diesen kleinen und mittleren Betrieben berücksichtigen .</input>
+  <ref>Gerade im Zulieferbereich spielt der Mittelstand eine sehr große Rolle , und wir müssen die Interessen auch der <f id="1">Beschäftigten in</f>  diesen kleinen und mittleren Betrieben berücksichtigen .</ref>
+</s>
+<s id="237">
+  <input>Ich erinnere daran , daß die Fahrzeughersteller eingeräumt haben , mit der Richtlinie leben zu können ; <f id="1">the costs</f>  sind nicht übermäßig hoch : die Entsorgung eines Autos kostet weniger als 1 % des Anschaffungspreises eines Neufahrzeugs .</input>
+  <ref>Ich erinnere daran , daß die Fahrzeughersteller eingeräumt haben , mit der Richtlinie leben zu können ; <f id="1">die Kosten</f>  sind nicht übermäßig hoch : die Entsorgung eines Autos kostet weniger als 1 % des Anschaffungspreises eines Neufahrzeugs .</ref>
+</s>
+<s id="238">
+  <input>Zudem tritt die finanzielle Verantwortlichkeit der Hersteller erst 2006 in Kraft , wenn also ein Großteil der gegenwärtig vorhandenen Fahrzeuge <f id="1">no longer</f>  auf dem Markt sein wird ; für die verbleibenden Fahrzeuge könnte eine Form der Kostenaufteilung vorgesehen werden , wie sie in den von Herrn Lange eingebrachten Änderungsanträgen 44 und 45 vorgeschlagen wird , die meines Erachtens als einzige mit der Ausgewogenheit des Gemeinsamen Standpunkts sowie mit den Erfahrungen in einigen Ländern im Einklang stehen und daher unterstützt werden müssen .</input>
+  <ref>Zudem tritt die finanzielle Verantwortlichkeit der Hersteller erst 2006 in Kraft , wenn also ein Großteil der gegenwärtig vorhandenen Fahrzeuge <f id="1">nicht mehr</f>  auf dem Markt sein wird ; für die verbleibenden Fahrzeuge könnte eine Form der Kostenaufteilung vorgesehen werden , wie sie in den von Herrn Lange eingebrachten Änderungsanträgen 44 und 45 vorgeschlagen wird , die meines Erachtens als einzige mit der Ausgewogenheit des Gemeinsamen Standpunkts sowie mit den Erfahrungen in einigen Ländern im Einklang stehen und daher unterstützt werden müssen .</ref>
+</s>
+<s id="239">
+  <input>Das wird finanziert <f id="1">by a fund</f>  , in den der Neuwagenkäufer einzahlt .</input>
+  <ref>Das wird finanziert <f id="1">durch einen Fonds</f>  , in den der Neuwagenkäufer einzahlt .</ref>
+</s>
+<s id="240">
+  <input>Lassen Sie mich <f id="1">briefly</f>  einige der Ausgangspunkte und Grundsätze erläutern , die dieser Richtlinie zugrunde liegen .</input>
+  <ref>Lassen Sie mich <f id="1">kurz</f>  einige der Ausgangspunkte und Grundsätze erläutern , die dieser Richtlinie zugrunde liegen .</ref>
+</s>
+<s id="241">
+  <input>Des weiteren bin ich ebenso wie die Berichterstatterin der Meinung , daß Untersuchungen durchgeführt werden müssen über die Gründe für <f id="1">the gap between</f>  der Anzahl der Frauen mit Abschlüssen in wissenschaftlichen Fächern und der Anzahl der Frauen , die dann auch tatsächlich in diesen Bereichen arbeiten .</input>
+  <ref>Des weiteren bin ich ebenso wie die Berichterstatterin der Meinung , daß Untersuchungen durchgeführt werden müssen über die Gründe für <f id="1">die Diskrepanz zwischen</f>  der Anzahl der Frauen mit Abschlüssen in wissenschaftlichen Fächern und der Anzahl der Frauen , die dann auch tatsächlich in diesen Bereichen arbeiten .</ref>
+</s>
+<s id="242">
+  <input>Des weiteren bin ich ebenso wie die Berichterstatterin der Meinung , daß Untersuchungen durchgeführt werden müssen über die Gründe für die Diskrepanz zwischen der Anzahl der Frauen mit Abschlüssen in wissenschaftlichen Fächern und der Anzahl der Frauen , die dann auch tatsächlich in diesen <f id="1">fields</f>  arbeiten .</input>
+  <ref>Des weiteren bin ich ebenso wie die Berichterstatterin der Meinung , daß Untersuchungen durchgeführt werden müssen über die Gründe für die Diskrepanz zwischen der Anzahl der Frauen mit Abschlüssen in wissenschaftlichen Fächern und der Anzahl der Frauen , die dann auch tatsächlich in diesen <f id="1">Bereichen</f>  arbeiten .</ref>
+</s>
+<s id="243">
+  <input>Sie sollte daher auch nicht versuchen , dieses Manko durch <f id="1">a less</f>  wirksame Maßnahme auszugleichen .</input>
+  <ref>Sie sollte daher auch nicht versuchen , dieses Manko durch <f id="1">eine weniger</f>  wirksame Maßnahme auszugleichen .</ref>
+</s>
+<s id="244">
+  <input>Ein Europa der 27 oder ein Europa der 14 oder ein <f id="1">even</f>  kleineres Europa ?</input>
+  <ref>Ein Europa der 27 oder ein Europa der 14 oder ein <f id="1">noch</f>  kleineres Europa ?</ref>
+</s>
+<s id="245">
+  <input>Er <f id="1">can only succeed</f>  , wenn Vereinbarungen getroffen werden , die zwingend auf der Einhaltung demokratischer Grundwerte beruhen .</input>
+  <ref>Er <f id="1">kann nur gelingen</f>  , wenn Vereinbarungen getroffen werden , die zwingend auf der Einhaltung demokratischer Grundwerte beruhen .</ref>
+</s>
+<s id="246">
+  <input>Jetzt haben wir Februar , und <f id="1">still</f>  ist nichts geschehen .</input>
+  <ref>Jetzt haben wir Februar , und <f id="1">noch immer</f>  ist nichts geschehen .</ref>
+</s>
+<s id="247">
+  <input><f id="1">I wonder</f>  , welche mittelalterliche Demokratie wohl das Einspeisen eines niederländischen Senders über Satellit verhindert .</input>
+  <ref><f id="1">Ich frage mich</f>  , welche mittelalterliche Demokratie wohl das Einspeisen eines niederländischen Senders über Satellit verhindert .</ref>
+</s>
+<s id="248">
+  <input>Frau Präsidentin ! Ich bin Herrn Wurtz in der Tat <f id="1">an explanation</f>  schuldig , die ich nun dem ganzen Parlament geben will .</input>
+  <ref>Frau Präsidentin ! Ich bin Herrn Wurtz in der Tat <f id="1">eine Erklärung</f>  schuldig , die ich nun dem ganzen Parlament geben will .</ref>
+</s>
+<s id="249">
+  <input><f id="1">The intention</f>  ist klar : Es sollen gezielt Projekte auf einer transnationalen Ebene entwickelt werden , Projekte , die sich an den beschäftigungspolitischen Leitlinien orientieren , also Beschäftigungsfähigkeit , Unternehmergeist , Anpassungsfähigkeit und Chancengleichheit .</input>
+  <ref><f id="1">Die Absicht</f>  ist klar : Es sollen gezielt Projekte auf einer transnationalen Ebene entwickelt werden , Projekte , die sich an den beschäftigungspolitischen Leitlinien orientieren , also Beschäftigungsfähigkeit , Unternehmergeist , Anpassungsfähigkeit und Chancengleichheit .</ref>
+</s>
+<s id="250">
+  <input>Die <f id="1">technical support</f>  erachte ich für notwendig , aber aufgrund der Probleme mit den früheren BATs soll es vor der Entschließung des Parlaments zu keiner Neugründung von BATs kommen und damit die Übertragung der politischen Verantwortung auf technische Hilfe verhindert werden .</input>
+  <ref>Die <f id="1">technische Unterstützung</f>  erachte ich für notwendig , aber aufgrund der Probleme mit den früheren BATs soll es vor der Entschließung des Parlaments zu keiner Neugründung von BATs kommen und damit die Übertragung der politischen Verantwortung auf technische Hilfe verhindert werden .</ref>
+</s>
+<s id="251">
+  <input>Welche Idee steckt dahinter , Menschen Arbeit zu verbieten , wenn diese zu arbeiten <f id="1">wish</f>  ?</input>
+  <ref>Welche Idee steckt dahinter , Menschen Arbeit zu verbieten , wenn diese zu arbeiten <f id="1">wünschen</f>  ?</ref>
+</s>
+<s id="252">
+  <input>So ist der Aspekt besonders hervorgehoben , daß Frauen bessere <f id="1">opportunities on the</f>  Arbeitsmarkt erhalten sollten , indem mehr Kindergärten gebaut werden .</input>
+  <ref>So ist der Aspekt besonders hervorgehoben , daß Frauen bessere <f id="1">Chancen auf dem</f>  Arbeitsmarkt erhalten sollten , indem mehr Kindergärten gebaut werden .</ref>
+</s>
+<s id="253">
+  <input>Aber es ist nicht so . Es ist so , daß die Kommission die Verordnung seit Jahren nicht geändert hat , <f id="1">although</f>  das Parlament dies seit langem fordert .</input>
+  <ref>Aber es ist nicht so . Es ist so , daß die Kommission die Verordnung seit Jahren nicht geändert hat , <f id="1">obwohl</f>  das Parlament dies seit langem fordert .</ref>
+</s>
+<s id="254">
+  <input><f id="1">The emphasis</f>  liegt auf lokalen Gruppen , in denen staatliche Stellen , gemeinnützige Einrichtungen und gewinnorientierte Unternehmen zusammenarbeiten .</input>
+  <ref><f id="1">Die Betonung</f>  liegt auf lokalen Gruppen , in denen staatliche Stellen , gemeinnützige Einrichtungen und gewinnorientierte Unternehmen zusammenarbeiten .</ref>
+</s>
+<s id="255">
+  <input>Wir sollten uns stets darum bemühen , die Entwicklung Europas nicht auf die Großstädte zu beschränken , sondern vielmehr dafür sorgen , daß Initiativen zur Schaffung von Arbeitsplätzen auch dazu da sind , Beschäftigungsmöglichkeiten im KMU-Sektor <f id="1">in rural</f>  Gebieten Europas zu fördern .</input>
+  <ref>Wir sollten uns stets darum bemühen , die Entwicklung Europas nicht auf die Großstädte zu beschränken , sondern vielmehr dafür sorgen , daß Initiativen zur Schaffung von Arbeitsplätzen auch dazu da sind , Beschäftigungsmöglichkeiten im KMU-Sektor <f id="1">in den ländlichen</f>  Gebieten Europas zu fördern .</ref>
+</s>
+<s id="256">
+  <input>Deshalb fällt es schwer , eine Balance zu finden , und zwar <f id="1">not only between</f>  den einzelnen Ländern , zwischen den einzelnen Teilbereichen , sondern insbesondere auch zwischen den im Programm aufgeführten Zielgruppen . Und genau damit haben wir uns im Grunde bis heute beschäftigt .</input>
+  <ref>Deshalb fällt es schwer , eine Balance zu finden , und zwar <f id="1">nicht nur zwischen</f>  den einzelnen Ländern , zwischen den einzelnen Teilbereichen , sondern insbesondere auch zwischen den im Programm aufgeführten Zielgruppen . Und genau damit haben wir uns im Grunde bis heute beschäftigt .</ref>
+</s>
+<s id="257">
+  <input>Von einigen wurde gesagt , eine Gruppe müsse mehr bekommen <f id="1">than</f>  die andere .</input>
+  <ref>Von einigen wurde gesagt , eine Gruppe müsse mehr bekommen <f id="1">als</f>  die andere .</ref>
+</s>
+<s id="258">
+  <input>Von einigen wurde gesagt , eine Gruppe müsse mehr <f id="1">get</f>  als die andere .</input>
+  <ref>Von einigen wurde gesagt , eine Gruppe müsse mehr <f id="1">bekommen</f>  als die andere .</ref>
+</s>
+<s id="259">
+  <input>Ein mir bekannter Mitgliedstaat will beispielsweise einen beträchtlichen Teil des <f id="1">entire</f>  Programms für einen einzigen Teilbereich , nämlich für die Flüchtlinge , verwenden .</input>
+  <ref>Ein mir bekannter Mitgliedstaat will beispielsweise einen beträchtlichen Teil des <f id="1">gesamten</f>  Programms für einen einzigen Teilbereich , nämlich für die Flüchtlinge , verwenden .</ref>
+</s>
+<s id="260">
+  <input>Dieser horizontale <f id="1">approach</f>  ist sinnvoll , da auch die Programme für die ländliche Entwicklung auf diese Weise angelegt sind .</input>
+  <ref>Dieser horizontale <f id="1">Ansatz</f>  ist sinnvoll , da auch die Programme für die ländliche Entwicklung auf diese Weise angelegt sind .</ref>
+</s>
+<s id="261">
+  <input><f id="1">None of us</f>  möchte südamerikanische Favelas in Europa .</input>
+  <ref><f id="1">Niemand von uns</f>  möchte südamerikanische Favelas in Europa .</ref>
+</s>
+<s id="262">
+  <input>Im Mittelpunkt unserer Aufmerksamkeit stehen nun <f id="1">no longer</f>  nur die Binnen - , sondern auch die Außengrenzen .</input>
+  <ref>Im Mittelpunkt unserer Aufmerksamkeit stehen nun <f id="1">nicht mehr</f>  nur die Binnen - , sondern auch die Außengrenzen .</ref>
+</s>
+<s id="263">
+  <input>Diese Stelle hat ausschließlich den Zweck , <f id="1">precisely</f>  die Vernetzung zwischen den einzelnen LEADER-Gruppen in Gang zu halten .</input>
+  <ref>Diese Stelle hat ausschließlich den Zweck , <f id="1">gerade</f>  die Vernetzung zwischen den einzelnen LEADER-Gruppen in Gang zu halten .</ref>
+</s>
+<s id="264">
+  <input>Lassen Sie mich unterstreichen , daß es außerordentlich wichtig ist , diese Initiative <f id="1">as quickly as</f>  möglich voranzutreiben , sowohl angesichts der politischen Umstände als auch weil wir es für wesentlich halten , daß sie wie geplant anläuft und wir mithin Ende 2000 in jeder Hinsicht gerüstet sind .</input>
+  <ref>Lassen Sie mich unterstreichen , daß es außerordentlich wichtig ist , diese Initiative <f id="1">so rasch wie</f>  möglich voranzutreiben , sowohl angesichts der politischen Umstände als auch weil wir es für wesentlich halten , daß sie wie geplant anläuft und wir mithin Ende 2000 in jeder Hinsicht gerüstet sind .</ref>
+</s>
+<s id="265">
+  <input>Frau Lucas <f id="1">should</f>  das ebenfalls tun .</input>
+  <ref>Frau Lucas <f id="1">sollte</f>  das ebenfalls tun .</ref>
+</s>
+<s id="266">
+  <input>Noch eine Anmerkung zu Herrn Dell ' Alba darüber , wovon die <f id="1">fathers</f>  geträumt haben .</input>
+  <ref>Noch eine Anmerkung zu Herrn Dell ' Alba darüber , wovon die <f id="1">Väter</f>  geträumt haben .</ref>
+</s>
+<s id="267">
+  <input>Frau Präsidentin , <f id="1">you spoke</f>  von den politischen Grundwerten , Herr Kommissionspräsident , und einer der politischen Grundwerte , der noch über der Demokratie steht , ist die Achtung der anderen .</input>
+  <ref>Frau Präsidentin , <f id="1">Sie sprachen</f>  von den politischen Grundwerten , Herr Kommissionspräsident , und einer der politischen Grundwerte , der noch über der Demokratie steht , ist die Achtung der anderen .</ref>
+</s>
+<s id="268">
+  <input><f id="1">But why</f>  bezahlen sie ihre Eintrittskarte nicht selbst ?</input>
+  <ref><f id="1">Aber warum</f>  bezahlen sie ihre Eintrittskarte nicht selbst ?</ref>
+</s>
+<s id="269">
+  <input>Eine Union nur als geostrategisches Konzept hat <f id="1">no future</f>  , genauso wenig wie eine Union , die nur eine bloße Freihandelszone ist .</input>
+  <ref>Eine Union nur als geostrategisches Konzept hat <f id="1">keine Zukunft</f>  , genauso wenig wie eine Union , die nur eine bloße Freihandelszone ist .</ref>
+</s>
+<s id="270">
+  <input>Sie weckt <f id="1">expectations</f>  , kann jedoch auch enttäuschen .</input>
+  <ref>Sie weckt <f id="1">Erwartungen</f>  , kann jedoch auch enttäuschen .</ref>
+</s>
+<s id="271">
+  <input>Unsere Geschichte hat uns gelehrt , daß die Politik <f id="1">a heart</f>  haben muß .</input>
+  <ref>Unsere Geschichte hat uns gelehrt , daß die Politik <f id="1">ein Herz</f>  haben muß .</ref>
+</s>
+<s id="272">
+  <input>In Afrika haben wir die meisten Flüchtlinge auf <f id="1">the world</f>  , die größte Armut sowie eine verheerende Aidsepidemie .</input>
+  <ref>In Afrika haben wir die meisten Flüchtlinge auf <f id="1">der Welt</f>  , die größte Armut sowie eine verheerende Aidsepidemie .</ref>
+</s>
+<s id="273">
+  <input>Ich werde Sie daher nach Ihren Taten <f id="1">judge</f>  .</input>
+  <ref>Ich werde Sie daher nach Ihren Taten <f id="1">beurteilen</f>  .</ref>
+</s>
+<s id="274">
+  <input>Herr Kommissionspräsident , wenn wir es nicht schaffen , eine geübte Solidarität zwischen <f id="1">the rich</f>  und armen Regionen herzustellen , dann wird diese Union ärmer sein , und sie wird nicht die Zustimmung der Bevölkerung finden !</input>
+  <ref>Herr Kommissionspräsident , wenn wir es nicht schaffen , eine geübte Solidarität zwischen <f id="1">den reichen</f>  und armen Regionen herzustellen , dann wird diese Union ärmer sein , und sie wird nicht die Zustimmung der Bevölkerung finden !</ref>
+</s>
+<s id="275">
+  <input>Wir als Parlament wollen uns ernsthaft auf der Basis eines Programms mit <f id="1">the future development</f>  in diesem Politikbereich auseinandersetzen .</input>
+  <ref>Wir als Parlament wollen uns ernsthaft auf der Basis eines Programms mit <f id="1">der zukünftigen Entwicklung</f>  in diesem Politikbereich auseinandersetzen .</ref>
+</s>
+<s id="276">
+  <input>Sie sagen , Umweltbelange müssen in alle <f id="1">other</f>  Politikbereiche integriert werden .</input>
+  <ref>Sie sagen , Umweltbelange müssen in alle <f id="1">anderen</f>  Politikbereiche integriert werden .</ref>
+</s>
+<s id="277">
+  <input>Sie sollen nicht immer nur Hobbys pflegen , sondern die tägliche normale <f id="1">work</f>  machen .</input>
+  <ref>Sie sollen nicht immer nur Hobbys pflegen , sondern die tägliche normale <f id="1">Arbeit</f>  machen .</ref>
+</s>
+<s id="278">
+  <input>Ich freue mich zu sehen , daß es im Parlament <f id="1">discussed</f>  wird , stelle Kompromisse und auch Versäumnisse fest .</input>
+  <ref>Ich freue mich zu sehen , daß es im Parlament <f id="1">diskutiert</f>  wird , stelle Kompromisse und auch Versäumnisse fest .</ref>
+</s>
+<s id="279">
+  <input>Der Termin wurde jedoch <f id="1">last minute</f>  abgesagt .</input>
+  <ref>Der Termin wurde jedoch <f id="1">in letzter Minute</f>  abgesagt .</ref>
+</s>
+<s id="280">
+  <input>Die Konzentration der sozialen und <f id="1">economic</f>  Probleme in bestimmten städtischen Gebieten erfordert ein gezieltes Eingreifen , das der Komplexität der Probleme gerecht wird .</input>
+  <ref>Die Konzentration der sozialen und <f id="1">wirtschaftlichen</f>  Probleme in bestimmten städtischen Gebieten erfordert ein gezieltes Eingreifen , das der Komplexität der Probleme gerecht wird .</ref>
+</s>
+<s id="281">
+  <input>Die Konzentration der sozialen und wirtschaftlichen Probleme <f id="1">in certain</f>  städtischen Gebieten erfordert ein gezieltes Eingreifen , das der Komplexität der Probleme gerecht wird .</input>
+  <ref>Die Konzentration der sozialen und wirtschaftlichen Probleme <f id="1">in bestimmten</f>  städtischen Gebieten erfordert ein gezieltes Eingreifen , das der Komplexität der Probleme gerecht wird .</ref>
+</s>
+<s id="282">
+  <input>Es geht hier also um ein wichtiges Element des Schutzes der <f id="1">public</f>  Gesundheit . Deshalb sind wir der Meinung , daß der Artikel 152 als Rechtsgrundlage heranzuziehen ist und nicht Artikel 37 , wie von der Kommission vorgeschlagen .</input>
+  <ref>Es geht hier also um ein wichtiges Element des Schutzes der <f id="1">öffentlichen</f>  Gesundheit . Deshalb sind wir der Meinung , daß der Artikel 152 als Rechtsgrundlage heranzuziehen ist und nicht Artikel 37 , wie von der Kommission vorgeschlagen .</ref>
+</s>
+<s id="283">
+  <input>Der Vorschlag der Kommission ist , wie <f id="1">some of</f>  Ihnen feststellten , eher technischer Natur .</input>
+  <ref>Der Vorschlag der Kommission ist , wie <f id="1">einige von</f>  Ihnen feststellten , eher technischer Natur .</ref>
+</s>
+<s id="284">
+  <input>Glauben Sie wirklich , daß das Parlament - <f id="1">if we</f>  jetzt diese Möglichkeit haben - es zulassen kann , daß diese Kennzeichnung innerhalb der Europäischen Union bei den Futtermittelzusatzstoffen nicht durchgesetzt wird ?</input>
+  <ref>Glauben Sie wirklich , daß das Parlament - <f id="1">wenn wir</f>  jetzt diese Möglichkeit haben - es zulassen kann , daß diese Kennzeichnung innerhalb der Europäischen Union bei den Futtermittelzusatzstoffen nicht durchgesetzt wird ?</ref>
+</s>
+<s id="285">
+  <input>Die Aussprache <f id="1">is closed</f>  .</input>
+  <ref>Die Aussprache <f id="1">ist geschlossen</f>  .</ref>
+</s>
+<s id="286">
+  <input>Es ist sehr gut , daß sie diese Angelegenheit im Auftrag des Parlaments weiterhin beobachten , <f id="1">because</f>  das ist äußerst wichtig .</input>
+  <ref>Es ist sehr gut , daß sie diese Angelegenheit im Auftrag des Parlaments weiterhin beobachten , <f id="1">denn</f>  das ist äußerst wichtig .</ref>
+</s>
+<s id="287">
+  <input>Es ist sehr gut , daß sie diese Angelegenheit im Auftrag des Parlaments weiterhin beobachten , denn <f id="1">it is extremely</f>  wichtig .</input>
+  <ref>Es ist sehr gut , daß sie diese Angelegenheit im Auftrag des Parlaments weiterhin beobachten , denn <f id="1">das ist äußerst</f>  wichtig .</ref>
+</s>
+<s id="288">
+  <input>Ich begrüße die Bestimmung der Rechtsgrundlage und die Tatsache , daß die neuen Vorschriften das Problem einer hoffentlich <f id="1">comprehensive</f>  Lösung zuführen werden .</input>
+  <ref>Ich begrüße die Bestimmung der Rechtsgrundlage und die Tatsache , daß die neuen Vorschriften das Problem einer hoffentlich <f id="1">umfassenden</f>  Lösung zuführen werden .</ref>
+</s>
+<s id="289">
+  <input>Herr Präsident ! Zunächst möchte ich Frau Lienemann zu der <f id="1">excellent</f>  Arbeit gratulieren , die sie vorgelegt hat , und zu ihren Bemühungen um die Annäherung der unterschiedlichen Auffassungen , die uns beim Thema Wasser trennen .</input>
+  <ref>Herr Präsident ! Zunächst möchte ich Frau Lienemann zu der <f id="1">ausgezeichneten</f>  Arbeit gratulieren , die sie vorgelegt hat , und zu ihren Bemühungen um die Annäherung der unterschiedlichen Auffassungen , die uns beim Thema Wasser trennen .</ref>
+</s>
+<s id="290">
+  <input>Letztlich geht es darum , daß wir uns auf eine sinnvolle , ausgewogene Politik einigen , die echte <f id="1">improvements</f>  bei angemessenen Kosten bringt .</input>
+  <ref>Letztlich geht es darum , daß wir uns auf eine sinnvolle , ausgewogene Politik einigen , die echte <f id="1">Verbesserungen</f>  bei angemessenen Kosten bringt .</ref>
+</s>
+<s id="291">
+  <input>Der Gemeinsame Standpunkt des Rates ist in mehreren Fragen <f id="1">totally</f>  unzureichend .</input>
+  <ref>Der Gemeinsame Standpunkt des Rates ist in mehreren Fragen <f id="1">völlig</f>  unzureichend .</ref>
+</s>
+<s id="292">
+  <input>Ein bestimmter <f id="1">date</f>  für die Umsetzung dieses Grundsatzes wird im Gemeinsamen Standpunkt nicht vorgegeben .</input>
+  <ref>Ein bestimmter <f id="1">Termin</f>  für die Umsetzung dieses Grundsatzes wird im Gemeinsamen Standpunkt nicht vorgegeben .</ref>
+</s>
+<s id="293">
+  <input>Diese Initiative möchten wir in <f id="1">cooperation</f>  mit den Mitgliedstaaten , in Verbindung mit dem Europäischen Parlament umsetzen .</input>
+  <ref>Diese Initiative möchten wir in <f id="1">Zusammenarbeit</f>  mit den Mitgliedstaaten , in Verbindung mit dem Europäischen Parlament umsetzen .</ref>
+</s>
+<s id="294">
+  <input>Können Sie das <f id="1">confirm</f>  ?</input>
+  <ref>Können Sie das <f id="1">bestätigen</f>  ?</ref>
+</s>
+<s id="295">
+  <input>Wir werden versuchen , eine Lösung zu finden , aber das <f id="1">is not easy</f>  .</input>
+  <ref>Wir werden versuchen , eine Lösung zu finden , aber das <f id="1">ist nicht leicht</f>  .</ref>
+</s>
+<s id="296">
+  <input>Aber ich <f id="1">repeat</f>  , daß unser wichtigster Beitrag darin besteht , die Suche nach einer Lösung für diesen Konflikt , der mit großem wirtschaftlichen Schaden und humanitären Leid verbunden ist , zu unterstützen .</input>
+  <ref>Aber ich <f id="1">wiederhole</f>  , daß unser wichtigster Beitrag darin besteht , die Suche nach einer Lösung für diesen Konflikt , der mit großem wirtschaftlichen Schaden und humanitären Leid verbunden ist , zu unterstützen .</ref>
+</s>
+<s id="297">
+  <input>Ich verstehe Ihre <f id="1">concern</f>  hinsichtlich der Rechte der Kinder .</input>
+  <ref>Ich verstehe Ihre <f id="1">Besorgnis</f>  hinsichtlich der Rechte der Kinder .</ref>
+</s>
+<s id="298">
+  <input>Das <f id="1">means</f>  , daß bei jeder Nutzung in oder an der Boyne-Mündung , die das besondere Schutzgebiet beeinträchtigen kann , die in der Flora-Fauna-Habitat-Richtlinie der Gemeinschaft festgelegten Schutzvorschriften für dieses Gebiet eingehalten werden müssen .</input>
+  <ref>Das <f id="1">bedeutet</f>  , daß bei jeder Nutzung in oder an der Boyne-Mündung , die das besondere Schutzgebiet beeinträchtigen kann , die in der Flora-Fauna-Habitat-Richtlinie der Gemeinschaft festgelegten Schutzvorschriften für dieses Gebiet eingehalten werden müssen .</ref>
+</s>
+<s id="299">
+  <input>Darum ist es <f id="1">important</f>  , daß hier eine Übereinstimmung besteht .</input>
+  <ref>Darum ist es <f id="1">wichtig</f>  , daß hier eine Übereinstimmung besteht .</ref>
+</s>
+<s id="300">
+  <input>Vielen Dank , Herr Barnier , <f id="1">for your</f>  Antworten .</input>
+  <ref>Vielen Dank , Herr Barnier , <f id="1">für Ihre</f>  Antworten .</ref>
+</s>
+<s id="301">
+  <input>Wohl aber möchte ich der Hoffnung Ausdruck verleihen , daß <f id="1">this building</f>  nun endlich so bald als möglich bezogen wird .</input>
+  <ref>Wohl aber möchte ich der Hoffnung Ausdruck verleihen , daß <f id="1">dieses Gebäude</f>  nun endlich so bald als möglich bezogen wird .</ref>
+</s>
+<s id="302">
+  <input>Außerdem beschäftigt sich die Kommission nicht damit , ob bestimmte <f id="1">expenditure</f>  nun real oder virtuell getätigt wurden .</input>
+  <ref>Außerdem beschäftigt sich die Kommission nicht damit , ob bestimmte <f id="1">Ausgaben</f>  nun real oder virtuell getätigt wurden .</ref>
+</s>
+<s id="303">
+  <input>Hier muß <f id="1">immediately</f>  gehandelt werden .</input>
+  <ref>Hier muß <f id="1">sofort</f>  gehandelt werden .</ref>
+</s>
+<s id="304">
+  <input>Zweitens müssen wir uns zwar Ziele stellen , aber diese müssen <f id="1">realistic</f>  sein .</input>
+  <ref>Zweitens müssen wir uns zwar Ziele stellen , aber diese müssen <f id="1">realistisch</f>  sein .</ref>
+</s>
+<s id="305">
+  <input>Die Herstellung von schottischem Whisky und vor allem von Malt Whisky , dem besten Whisky , <f id="1">requires</f>  die Entnahme erheblicher Wassermengen , die dann in den Fluß zurückgeleitet werden .</input>
+  <ref>Die Herstellung von schottischem Whisky und vor allem von Malt Whisky , dem besten Whisky , <f id="1">erfordert</f>  die Entnahme erheblicher Wassermengen , die dann in den Fluß zurückgeleitet werden .</ref>
+</s>
+<s id="306">
+  <input>Wasser ist eine knappe und wertvolle <f id="1">natural</f>  Ressource .</input>
+  <ref>Wasser ist eine knappe und wertvolle <f id="1">natürliche</f>  Ressource .</ref>
+</s>
+<s id="307">
+  <input>Aber wir müssen uns der entsprechenden <f id="1">tools</f>  bemächtigen .</input>
+  <ref>Aber wir müssen uns der entsprechenden <f id="1">Instrumente</f>  bemächtigen .</ref>
+</s>
+<s id="308">
+  <input>Herr Präsident , in <f id="1">my previous life</f>  leitete ich zwei Produktionsbetriebe , einen im Vereinigten Königreich und einen in den Niederlanden .</input>
+  <ref>Herr Präsident , in <f id="1">meinem früheren Leben</f>  leitete ich zwei Produktionsbetriebe , einen im Vereinigten Königreich und einen in den Niederlanden .</ref>
+</s>
+<s id="309">
+  <input>Das würde nicht nur weitere Arbeitsplätze gefährden , sondern ein derart realitätsfremdes Verhalten würde auch <f id="1">the credibility</f>  dieses Hauses in Frage stellen .</input>
+  <ref>Das würde nicht nur weitere Arbeitsplätze gefährden , sondern ein derart realitätsfremdes Verhalten würde auch <f id="1">die Glaubwürdigkeit</f>  dieses Hauses in Frage stellen .</ref>
+</s>
+<s id="310">
+  <input>Ich meine , Frau Kommissarin , daß die Kommission <f id="1">the responsibility</f>  dafür trägt , diese Möglichkeiten zu fördern und zu koordinieren .</input>
+  <ref>Ich meine , Frau Kommissarin , daß die Kommission <f id="1">die Verantwortung</f>  dafür trägt , diese Möglichkeiten zu fördern und zu koordinieren .</ref>
+</s>
+<s id="311">
+  <input>Doch hinter diesem gemeinschaftlichen Beitritt zeichnet sich <f id="1">an objective</f>  ab , das in meinen Augen noch ziemlich virtuell ist , in denen einiger Mitgliedstaaten jedoch zu offensiv erscheint .</input>
+  <ref>Doch hinter diesem gemeinschaftlichen Beitritt zeichnet sich <f id="1">ein Ziel</f>  ab , das in meinen Augen noch ziemlich virtuell ist , in denen einiger Mitgliedstaaten jedoch zu offensiv erscheint .</ref>
+</s>
+<s id="312">
+  <input>Speziell möchte ich Frau Cederschiöld auch dafür danken , daß sie in ihrem Bericht beispielsweise <f id="1">the concept of</f>  sogenannten Zwischenspeicherungen klar definiert .</input>
+  <ref>Speziell möchte ich Frau Cederschiöld auch dafür danken , daß sie in ihrem Bericht beispielsweise <f id="1">den Begriff der</f>  sogenannten Zwischenspeicherungen klar definiert .</ref>
+</s>
+<s id="313">
+  <input>Herr Präsident , ich entnehme dem Protokoll , daß <f id="1">yesterday</f>  zwei Abgeordnete über die am Montag aufgetretenen Verspätungen bei Flügen nach Straßburg berichteten .</input>
+  <ref>Herr Präsident , ich entnehme dem Protokoll , daß <f id="1">gestern</f>  zwei Abgeordnete über die am Montag aufgetretenen Verspätungen bei Flügen nach Straßburg berichteten .</ref>
+</s>
+<s id="314">
+  <input>Bei der Festlegung der Prioritäten für EU-Beihilfen müssen die spezifischen Merkmale der Gemeinschaft <f id="1">in relation</f>  zu den Mitgliedstaaten und den internationalen Institutionen berücksichtigt werden .</input>
+  <ref>Bei der Festlegung der Prioritäten für EU-Beihilfen müssen die spezifischen Merkmale der Gemeinschaft <f id="1">im Verhältnis</f>  zu den Mitgliedstaaten und den internationalen Institutionen berücksichtigt werden .</ref>
+</s>
+<s id="315">
+  <input>Parallel dazu haben wir begonnen , Maßnahmen zur Verbesserung der Kohärenz einzuleiten , und die <f id="1">real</f>  oder scheinbaren Probleme , auf die wir in diesem Zusammenhang stoßen , zu klären beziehungsweise ans Licht zu bringen .</input>
+  <ref>Parallel dazu haben wir begonnen , Maßnahmen zur Verbesserung der Kohärenz einzuleiten , und die <f id="1">tatsächlichen</f>  oder scheinbaren Probleme , auf die wir in diesem Zusammenhang stoßen , zu klären beziehungsweise ans Licht zu bringen .</ref>
+</s>
+<s id="316">
+  <input>Ein Minister einer der Karibischen Inseln , auf denen Zuckerrohr angebaut wird , <f id="1">told me</f>  einmal : Wenn Sie uns unseren Zucker in der Europäischen Union absetzen ließen , brauchten wir Ihre Entwicklungshilfe überhaupt nicht .</input>
+  <ref>Ein Minister einer der Karibischen Inseln , auf denen Zuckerrohr angebaut wird , <f id="1">sagte mir</f>  einmal : Wenn Sie uns unseren Zucker in der Europäischen Union absetzen ließen , brauchten wir Ihre Entwicklungshilfe überhaupt nicht .</ref>
+</s>
+<s id="317">
+  <input>Anscheinend ist die europäische Wirtschaft hier wichtiger <f id="1">than our</f>  Prinzipien , unsere Kohärenzen und die Interessen der Entwicklungsländer .</input>
+  <ref>Anscheinend ist die europäische Wirtschaft hier wichtiger <f id="1">als unsere</f>  Prinzipien , unsere Kohärenzen und die Interessen der Entwicklungsländer .</ref>
+</s>
+<s id="318">
+  <input>Abschließend frage ich mich , ob die Fondsmittel nicht etwas <f id="1">better</f>  verwendet werden können .</input>
+  <ref>Abschließend frage ich mich , ob die Fondsmittel nicht etwas <f id="1">besser</f>  verwendet werden können .</ref>
+</s>
+<s id="319">
+  <input>Abschließend <f id="1">I wonder</f>  , ob die Fondsmittel nicht etwas besser verwendet werden können .</input>
+  <ref>Abschließend <f id="1">frage ich mich</f>  , ob die Fondsmittel nicht etwas besser verwendet werden können .</ref>
+</s>
+<s id="320">
+  <input>Und das muß dann <f id="1">our priority</f>  sein .</input>
+  <ref>Und das muß dann <f id="1">unsere Priorität</f>  sein .</ref>
+</s>
+<s id="321">
+  <input>In dieser Wirtschaft wird <f id="1">the connection</f>  zwischen den einzelnen Politikbereichen immer stärker .</input>
+  <ref>In dieser Wirtschaft wird <f id="1">der Zusammenhang</f>  zwischen den einzelnen Politikbereichen immer stärker .</ref>
+</s>
+<s id="322">
+  <input>Die Kommission ist neu , man muß ihr Zeit geben , aber <f id="1">the absence</f>  einer solchen Analyse deutet auf starke Spannungen innerhalb der Kommission hin .</input>
+  <ref>Die Kommission ist neu , man muß ihr Zeit geben , aber <f id="1">das Fehlen</f>  einer solchen Analyse deutet auf starke Spannungen innerhalb der Kommission hin .</ref>
+</s>
+<s id="323">
+  <input>Wie Herr Nielson <f id="1">said</f>  , ist dies ein gutes Beispiel für die Länder und Regionen , die mehr Wohlstand schaffen wollen .</input>
+  <ref>Wie Herr Nielson <f id="1">sagte</f>  , ist dies ein gutes Beispiel für die Länder und Regionen , die mehr Wohlstand schaffen wollen .</ref>
+</s>
+<s id="324">
+  <input><f id="1">Over recent years</f>  hat die Gemeinschaft etwa 200 Millionen Euro für die Minenräumung , zur Unterstützung der Opfer und für andere Maßnahmen in diesem Bereich ausgegeben .</input>
+  <ref><f id="1">In den letzten Jahren</f>  hat die Gemeinschaft etwa 200 Millionen Euro für die Minenräumung , zur Unterstützung der Opfer und für andere Maßnahmen in diesem Bereich ausgegeben .</ref>
+</s>
+<s id="325">
+  <input>Daß Sie das möglicherweise als einer der letzten Machthaber des Kommunismus <f id="1">somewhat</f>  anders sehen als große Teile dieses Hauses und daß Sie bei good governance Probleme haben , mag ja sein .</input>
+  <ref>Daß Sie das möglicherweise als einer der letzten Machthaber des Kommunismus <f id="1">etwas</f>  anders sehen als große Teile dieses Hauses und daß Sie bei good governance Probleme haben , mag ja sein .</ref>
+</s>
+<s id="326">
+  <input>Als Fazit und <f id="1">summary</f>  möchte ich drei wesentliche Aspekte dieser Aussprache hervorheben .</input>
+  <ref>Als Fazit und <f id="1">Zusammenfassung</f>  möchte ich drei wesentliche Aspekte dieser Aussprache hervorheben .</ref>
+</s>
+<s id="327">
+  <input>Diese Initiative wird in der Union diskutiert , eine baldige <f id="1">decision</f>  ist allerdings nicht zu erwarten .</input>
+  <ref>Diese Initiative wird in der Union diskutiert , eine baldige <f id="1">Entscheidung</f>  ist allerdings nicht zu erwarten .</ref>
+</s>
+<s id="328">
+  <input>Es liegt im Interesse der Europäischen Union , alle Alternativen im Rahmen des Dialogs zwischen der Europäischen Union und China über die Menschenrechte so lange wie möglich , <f id="1">in any case</f>  aber bis nach der Tagung am 25 . Februar 2000 offenzuhalten .</input>
+  <ref>Es liegt im Interesse der Europäischen Union , alle Alternativen im Rahmen des Dialogs zwischen der Europäischen Union und China über die Menschenrechte so lange wie möglich , <f id="1">auf jeden Fall</f>  aber bis nach der Tagung am 25 . Februar 2000 offenzuhalten .</ref>
+</s>
+<s id="329">
+  <input>Darin besteht aus meiner Sicht die Herausforderung in <f id="1">the next</f>  Wochen .</input>
+  <ref>Darin besteht aus meiner Sicht die Herausforderung in <f id="1">den nächsten</f>  Wochen .</ref>
+</s>
+<s id="330">
+  <input>Das ist viel für <f id="1">such</f>  knappe Mittel .</input>
+  <ref>Das ist viel für <f id="1">so</f>  knappe Mittel .</ref>
+</s>
+<s id="331">
+  <input>Im Laufe der Zeit werden <f id="1">within</f>  dieses Rahmens spezielle Richtlinien verabschiedet .</input>
+  <ref>Im Laufe der Zeit werden <f id="1">innerhalb</f>  dieses Rahmens spezielle Richtlinien verabschiedet .</ref>
+</s>
+<s id="332">
+  <input><f id="1">It is clear</f>  , daß die diesem Modell innewohnende Logik des privaten Nutzens unheilvoll war , weshalb das Verursacherprinzip geeignet ist , diesen Folgen zu begegnen .</input>
+  <ref><f id="1">Es ist klar</f>  , daß die diesem Modell innewohnende Logik des privaten Nutzens unheilvoll war , weshalb das Verursacherprinzip geeignet ist , diesen Folgen zu begegnen .</ref>
+</s>
+<s id="333">
+  <input>Aber jenseits dieser Grundsätze steht die Betrachtung des Wassers als gemeinsames Gut , das nicht <f id="1">the rules</f>  des Marktes unterworfen werden darf .</input>
+  <ref>Aber jenseits dieser Grundsätze steht die Betrachtung des Wassers als gemeinsames Gut , das nicht <f id="1">den Regeln</f>  des Marktes unterworfen werden darf .</ref>
+</s>
+<s id="334">
+  <input>Ich möchte diese Gelegenheit nutzen , um die Kommission aufzufordern , diese von mir gerade angesprochene Notwendigkeit der Koordinierung unbedingt zu berücksichtigen und neue Formeln zu suchen , welche die Rolle der Europäischen Union und insbesondere dieses Parlaments <f id="1">in the field</f>  der Menschenrechte stärken können , vor allem aus einem Blickwinkel der Kohärenz , indem die positive Bereitschaft jener Drittländer anerkannt wird , die die Aufnahme der demokratischen Klausel akzeptieren .</input>
+  <ref>Ich möchte diese Gelegenheit nutzen , um die Kommission aufzufordern , diese von mir gerade angesprochene Notwendigkeit der Koordinierung unbedingt zu berücksichtigen und neue Formeln zu suchen , welche die Rolle der Europäischen Union und insbesondere dieses Parlaments <f id="1">auf dem Gebiet</f>  der Menschenrechte stärken können , vor allem aus einem Blickwinkel der Kohärenz , indem die positive Bereitschaft jener Drittländer anerkannt wird , die die Aufnahme der demokratischen Klausel akzeptieren .</ref>
+</s>
+<s id="335">
+  <input>Eine lange Periode , in der unzählige Verträge geschlossen und <f id="1">signed</f>  wurden , ist meines Erachtens definitiv zu Ende .</input>
+  <ref>Eine lange Periode , in der unzählige Verträge geschlossen und <f id="1">unterzeichnet</f>  wurden , ist meines Erachtens definitiv zu Ende .</ref>
+</s>
+<s id="336">
+  <input>Es ist schlicht und einfach <f id="1">hypocritical</f>  , die Menschenrechtsverletzungen in der dritten Welt aufs schärfste zu verurteilen , wenn wir nicht gleichzeitig bereit sind , den echten Flüchtlingen und Asylsuchenden , deren Lage in der Union gegenwärtig schwieriger wird , unsere Hand zu reichen .</input>
+  <ref>Es ist schlicht und einfach <f id="1">scheinheilig</f>  , die Menschenrechtsverletzungen in der dritten Welt aufs schärfste zu verurteilen , wenn wir nicht gleichzeitig bereit sind , den echten Flüchtlingen und Asylsuchenden , deren Lage in der Union gegenwärtig schwieriger wird , unsere Hand zu reichen .</ref>
+</s>
+<s id="337">
+  <input><f id="1">I fear</f>  nur , daß wir dabei sind , uns in die entgegengesetzte Richtung zu bewegen , hin zu einem sich abschottenden Europa und zur Apartheid .</input>
+  <ref><f id="1">Ich befürchte</f>  nur , daß wir dabei sind , uns in die entgegengesetzte Richtung zu bewegen , hin zu einem sich abschottenden Europa und zur Apartheid .</ref>
+</s>
+<s id="338">
+  <input>Es gibt keinen einzigen Bereich innerhalb der chinesischen <f id="1">society</f>  , in dem wir keine Rückschritte feststellen können .</input>
+  <ref>Es gibt keinen einzigen Bereich innerhalb der chinesischen <f id="1">Gesellschaft</f>  , in dem wir keine Rückschritte feststellen können .</ref>
+</s>
+<s id="339">
+  <input><f id="1">Since the end</f>  des Kalten Krieges ist die Wahrung der Menschenrechte auch eine Voraussetzung für internationale Zusammenarbeit geworden .</input>
+  <ref><f id="1">Seit dem Ende</f>  des Kalten Krieges ist die Wahrung der Menschenrechte auch eine Voraussetzung für internationale Zusammenarbeit geworden .</ref>
+</s>
+<s id="340">
+  <input>Exzesse sind <f id="1">no longer</f>  die Ausnahme , sie sind leider die Regel geworden .</input>
+  <ref>Exzesse sind <f id="1">nicht mehr</f>  die Ausnahme , sie sind leider die Regel geworden .</ref>
+</s>
+<s id="341">
+  <input>Exzesse sind nicht mehr die Ausnahme , sie sind leider die Regel <f id="1">become</f>  .</input>
+  <ref>Exzesse sind nicht mehr die Ausnahme , sie sind leider die Regel <f id="1">geworden</f>  .</ref>
+</s>
+<s id="342">
+  <input>Die Menschenrechtspolitik ist außerdem zu <f id="1">selective</f>  .</input>
+  <ref>Die Menschenrechtspolitik ist außerdem zu <f id="1">selektiv</f>  .</ref>
+</s>
+<s id="343">
+  <input>Wir sind natürlich hoch <f id="1">delighted</f>  , daß Indonesien eine neue Führung hat und daß Herr Wahid und Frau Sukarnoputri die Ämter des Präsidenten bzw. der Vizepräsidentin bekleiden .</input>
+  <ref>Wir sind natürlich hoch <f id="1">erfreut</f>  , daß Indonesien eine neue Führung hat und daß Herr Wahid und Frau Sukarnoputri die Ämter des Präsidenten bzw. der Vizepräsidentin bekleiden .</ref>
+</s>
+<s id="344">
+  <input>Wir sind <f id="1">naturally</f>  hoch erfreut , daß Indonesien eine neue Führung hat und daß Herr Wahid und Frau Sukarnoputri die Ämter des Präsidenten bzw. der Vizepräsidentin bekleiden .</input>
+  <ref>Wir sind <f id="1">natürlich</f>  hoch erfreut , daß Indonesien eine neue Führung hat und daß Herr Wahid und Frau Sukarnoputri die Ämter des Präsidenten bzw. der Vizepräsidentin bekleiden .</ref>
+</s>
+<s id="345">
+  <input>Bereits seit zehn <f id="1">years</f>  steht dort eine gewählte Präsidentin unter Hausarrest .</input>
+  <ref>Bereits seit zehn <f id="1">Jahren</f>  steht dort eine gewählte Präsidentin unter Hausarrest .</ref>
+</s>
+<s id="346">
+  <input>Es war eine bemerkenswerte <f id="1">speech</f>  , und ich hoffe , daß Herr Gollnisch , der leider nicht mehr anwesend ist , diese Rede ebenfalls verfolgen konnte .</input>
+  <ref>Es war eine bemerkenswerte <f id="1">Rede</f>  , und ich hoffe , daß Herr Gollnisch , der leider nicht mehr anwesend ist , diese Rede ebenfalls verfolgen konnte .</ref>
+</s>
+<s id="347">
+  <input>Diese Debatte war sehr <f id="1">useful</f>  .</input>
+  <ref>Diese Debatte war sehr <f id="1">nützlich</f>  .</ref>
+</s>
+<s id="348">
+  <input>Diese Verhandlungsrunden waren <f id="1">indirect</f>  Gespräche , die vom Sonderbeauftragten der Vereinten Nationen , Álvaro de Souto , vermittelt wurden .</input>
+  <ref>Diese Verhandlungsrunden waren <f id="1">indirekte</f>  Gespräche , die vom Sonderbeauftragten der Vereinten Nationen , Álvaro de Souto , vermittelt wurden .</ref>
+</s>
+<s id="349">
+  <input>Das ist <f id="1">the</f>  springende Punkt .</input>
+  <ref>Das ist <f id="1">der</f>  springende Punkt .</ref>
+</s>
+<s id="350">
+  <input><f id="1">The damage</f>  kann für Ihr Land , Herr Präsident , und für meins , Spanien , gewaltig sein .</input>
+  <ref><f id="1">Der Schaden</f>  kann für Ihr Land , Herr Präsident , und für meins , Spanien , gewaltig sein .</ref>
+</s>
+<s id="351">
+  <input>Diese zentrale Frage liegt der ganzen <f id="1">present</f>  Situation zugrunde .</input>
+  <ref>Diese zentrale Frage liegt der ganzen <f id="1">gegenwärtigen</f>  Situation zugrunde .</ref>
+</s>
+<s id="352">
+  <input>Ich <f id="1">understand</f>  die Sorge des Herrn Abgeordneten vollkommen .</input>
+  <ref>Ich <f id="1">verstehe</f>  die Sorge des Herrn Abgeordneten vollkommen .</ref>
+</s>
+<s id="353">
+  <input>Ich verstehe die Sorge des Herrn Abgeordneten <f id="1">perfectly</f>  .</input>
+  <ref>Ich verstehe die Sorge des Herrn Abgeordneten <f id="1">vollkommen</f>  .</ref>
+</s>
+<s id="354">
+  <input>Meine Frage an den amtierenden Präsidenten <f id="1">is twofold</f>  .</input>
+  <ref>Meine Frage an den amtierenden Präsidenten <f id="1">besteht aus zwei Teilen</f>  .</ref>
+</s>
+<s id="355">
+  <input>Ich möchte auf dieses Thema im Namen der Präsidentschaft der Europäischen Union nicht <f id="1">dwell</f>  , denn hier geht es um eine Intervention meiner Regierung , die auf Bitten von vierzehn Mitgliedstaaten und im Zusammenwirken mit ihnen und nicht als Vorsitz der Europäischen Union erfolgt ist .</input>
+  <ref>Ich möchte auf dieses Thema im Namen der Präsidentschaft der Europäischen Union nicht <f id="1">weiter eingehen</f>  , denn hier geht es um eine Intervention meiner Regierung , die auf Bitten von vierzehn Mitgliedstaaten und im Zusammenwirken mit ihnen und nicht als Vorsitz der Europäischen Union erfolgt ist .</ref>
+</s>
+<s id="356">
+  <input>Wird der Rat diesen Entwurf als Dokument betrachten , das er in der vorliegenden Form <f id="1">accept</f>  muß oder behält sich der Rat vor , dieses Dokument nach Belieben zu verändern ?</input>
+  <ref>Wird der Rat diesen Entwurf als Dokument betrachten , das er in der vorliegenden Form <f id="1">akzeptieren</f>  muß oder behält sich der Rat vor , dieses Dokument nach Belieben zu verändern ?</ref>
+</s>
+<s id="357">
+  <input>Die Antwort <f id="1">is neither</f>  ja noch nein .</input>
+  <ref>Die Antwort <f id="1">ist weder</f>  ja noch nein .</ref>
+</s>
+<s id="358">
+  <input>Kann die portugiesische Präsidentschaft ihre Haltung <f id="1">on this matter</f>  erläutern ?</input>
+  <ref>Kann die portugiesische Präsidentschaft ihre Haltung <f id="1">in dieser Frage</f>  erläutern ?</ref>
+</s>
+<s id="359">
+  <input>Vieles von dem , was uns heute bewegt , ist das Ergebnis fundamentaler Transformationsprozesse seit Ende der 80 er Jahre in <f id="1">all parts</f>  der Welt .</input>
+  <ref>Vieles von dem , was uns heute bewegt , ist das Ergebnis fundamentaler Transformationsprozesse seit Ende der 80 er Jahre in <f id="1">allen Teilen</f>  der Welt .</ref>
+</s>
+<s id="360">
+  <input>Gleichzeitig hat sich <f id="1">the number of</f>  Partnerstaaten auf jetzt 71 erheblich vergrößert .</input>
+  <ref>Gleichzeitig hat sich <f id="1">die Zahl der</f>  Partnerstaaten auf jetzt 71 erheblich vergrößert .</ref>
+</s>
+<s id="361">
+  <input>Diese <f id="1">change</f>  hat nun insbesondere für die Windwardinseln verheerende Folgen , denn sie gehören zum einzigen Gebiet unter den AKP-Staaten , das durch die neuen Regelungen wohl ganz massiv benachteiligt werden wird .</input>
+  <ref>Diese <f id="1">Änderung</f>  hat nun insbesondere für die Windwardinseln verheerende Folgen , denn sie gehören zum einzigen Gebiet unter den AKP-Staaten , das durch die neuen Regelungen wohl ganz massiv benachteiligt werden wird .</ref>
+</s>
+<s id="362">
+  <input>Ich wende mich gegen eine unwürdige und unmenschliche Organisation , die hunderte Millionen menschlicher Wesen <f id="1">literally</f>  vor Armut krepieren läßt , um den Reichtum einer Minderheit zu mehren .</input>
+  <ref>Ich wende mich gegen eine unwürdige und unmenschliche Organisation , die hunderte Millionen menschlicher Wesen <f id="1">buchstäblich</f>  vor Armut krepieren läßt , um den Reichtum einer Minderheit zu mehren .</ref>
+</s>
+<s id="363">
+  <input>Ich wende mich gegen eine unwürdige und <f id="1">inhuman</f>  Organisation , die hunderte Millionen menschlicher Wesen buchstäblich vor Armut krepieren läßt , um den Reichtum einer Minderheit zu mehren .</input>
+  <ref>Ich wende mich gegen eine unwürdige und <f id="1">unmenschliche</f>  Organisation , die hunderte Millionen menschlicher Wesen buchstäblich vor Armut krepieren läßt , um den Reichtum einer Minderheit zu mehren .</ref>
+</s>
+<s id="364">
+  <input>Ich wende mich <f id="1">against</f>  eine unwürdige und unmenschliche Organisation , die hunderte Millionen menschlicher Wesen buchstäblich vor Armut krepieren läßt , um den Reichtum einer Minderheit zu mehren .</input>
+  <ref>Ich wende mich <f id="1">gegen</f>  eine unwürdige und unmenschliche Organisation , die hunderte Millionen menschlicher Wesen buchstäblich vor Armut krepieren läßt , um den Reichtum einer Minderheit zu mehren .</ref>
+</s>
+<s id="365">
+  <input>Mein Beitrag wird sich auf einen punktuellen Sachverhalt <f id="1">restrict</f>  , der sich vor einigen Tagen zum Teil als Folge der Ereignisse ergeben hat , auf die der Bericht hinweist , über den wir hier debattieren .</input>
+  <ref>Mein Beitrag wird sich auf einen punktuellen Sachverhalt <f id="1">beschränken</f>  , der sich vor einigen Tagen zum Teil als Folge der Ereignisse ergeben hat , auf die der Bericht hinweist , über den wir hier debattieren .</ref>
+</s>
+<s id="366">
+  <input>Mein Beitrag wird sich auf einen punktuellen Sachverhalt beschränken , der sich vor einigen Tagen zum Teil als <f id="1">consequence</f>  der Ereignisse ergeben hat , auf die der Bericht hinweist , über den wir hier debattieren .</input>
+  <ref>Mein Beitrag wird sich auf einen punktuellen Sachverhalt beschränken , der sich vor einigen Tagen zum Teil als <f id="1">Folge</f>  der Ereignisse ergeben hat , auf die der Bericht hinweist , über den wir hier debattieren .</ref>
+</s>
+<s id="367">
+  <input>In einigen Wochen wird die Paritätische Versammlung AKP-EU erneut tagen , und ich <f id="1">am sure</f>  , daß dabei dieses Thema behandelt wird .</input>
+  <ref>In einigen Wochen wird die Paritätische Versammlung AKP-EU erneut tagen , und ich <f id="1">bin sicher</f>  , daß dabei dieses Thema behandelt wird .</ref>
+</s>
+<s id="368">
+  <input>Meines Erachtens hat sich die Europäische Union <f id="1">finally</f>  von der alten paternalistischen oder gar neokolonialistischen Denkweise der Geldgeber verabschiedet , die sich mit Vorliebe in Lehrmeister verwandeln , wie unser Freund Michel Rocard es gerne ausdrückt .</input>
+  <ref>Meines Erachtens hat sich die Europäische Union <f id="1">endlich</f>  von der alten paternalistischen oder gar neokolonialistischen Denkweise der Geldgeber verabschiedet , die sich mit Vorliebe in Lehrmeister verwandeln , wie unser Freund Michel Rocard es gerne ausdrückt .</ref>
+</s>
+<s id="369">
+  <input>Es herrscht Frieden , und wir sehen einer Zusammenarbeit mit Südafrika gemäß den gemeinsamen Träumen und <f id="1">values</f>  entgegen , die schon seit langem unser Verhältnis hätten bestimmen sollen .</input>
+  <ref>Es herrscht Frieden , und wir sehen einer Zusammenarbeit mit Südafrika gemäß den gemeinsamen Träumen und <f id="1">Werten</f>  entgegen , die schon seit langem unser Verhältnis hätten bestimmen sollen .</ref>
+</s>
+<s id="370">
+  <input>Die Kommission schlägt uns vor , <f id="1">jointly with</f>  dem Rat ein Abkommen abzuschließen .</input>
+  <ref>Die Kommission schlägt uns vor , <f id="1">gemeinsam mit</f>  dem Rat ein Abkommen abzuschließen .</ref>
+</s>
+<s id="371">
+  <input>Aber <f id="1">here too</f>  , in der Europäischen Union , erwartet man viel .</input>
+  <ref>Aber <f id="1">auch hier</f>  , in der Europäischen Union , erwartet man viel .</ref>
+</s>
+<s id="372">
+  <input>Warum hat uns der Rat nicht <f id="1">informed</f>  ?</input>
+  <ref>Warum hat uns der Rat nicht <f id="1">darüber informiert</f>  ?</ref>
+</s>
+<s id="373">
+  <input>Warum hat uns der Rat nicht darüber <f id="1">informed</f>  ?</input>
+  <ref>Warum hat uns der Rat nicht darüber <f id="1">informiert</f>  ?</ref>
+</s>
+<s id="374">
+  <input>Wir Liberalen <f id="1">are prepared</f>  , wie Paolo Costa sagte , in dieser Frage sehr weit zu gehen und schnell fortzuschreiten .</input>
+  <ref>Wir Liberalen <f id="1">sind bereit</f>  , wie Paolo Costa sagte , in dieser Frage sehr weit zu gehen und schnell fortzuschreiten .</ref>
+</s>
+<s id="375">
+  <input>Ich möchte auch ganz klar sagen , daß er damit den Interessen seines <f id="1">own</f>  Landes massiv schadet .</input>
+  <ref>Ich möchte auch ganz klar sagen , daß er damit den Interessen seines <f id="1">eigenen</f>  Landes massiv schadet .</ref>
+</s>
+<s id="376">
+  <input>Die Abstimmung findet <f id="1">tomorrow at</f>  12 Uhr statt .</input>
+  <ref>Die Abstimmung findet <f id="1">morgen um</f>  12 Uhr statt .</ref>
+</s>
+<s id="377">
+  <input>Ich möchte <f id="1">very briefly</f>  sagen , welches die fünf Bereiche sein können , in denen die wichtigsten Veränderungen auftreten werden .</input>
+  <ref>Ich möchte <f id="1">ganz kurz</f>  sagen , welches die fünf Bereiche sein können , in denen die wichtigsten Veränderungen auftreten werden .</ref>
+</s>
+<s id="378">
+  <input>Ich möchte ganz kurz sagen , welches die fünf Bereiche sein können , in denen die wichtigsten <f id="1">changes</f>  auftreten werden .</input>
+  <ref>Ich möchte ganz kurz sagen , welches die fünf Bereiche sein können , in denen die wichtigsten <f id="1">Veränderungen</f>  auftreten werden .</ref>
+</s>
+<s id="379">
+  <input>Diese technische Anpassung wird sehr konkrete Auswirkungen auf die tatsächliche Stellung der Länder haben , <f id="1">since</f>  die Daten entsprechend dem öffentlichen Defizit automatisch verändert werden .</input>
+  <ref>Diese technische Anpassung wird sehr konkrete Auswirkungen auf die tatsächliche Stellung der Länder haben , <f id="1">da</f>  die Daten entsprechend dem öffentlichen Defizit automatisch verändert werden .</ref>
+</s>
+<s id="380">
+  <input>Es stimmt , daß wir mit dieser Regelung nicht erreichen wollen , daß die Statistiken zuverlässig und <f id="1">comparable</f>  sind - das sind sie bereits - , sondern daß sie noch zuverlässiger und noch besser vergleichbar sind .</input>
+  <ref>Es stimmt , daß wir mit dieser Regelung nicht erreichen wollen , daß die Statistiken zuverlässig und <f id="1">vergleichbar</f>  sind - das sind sie bereits - , sondern daß sie noch zuverlässiger und noch besser vergleichbar sind .</ref>
+</s>
+<s id="381">
+  <input>Man vergißt <f id="1">easy</f>  , daß die alten Währungen noch 20 Jahre nach der Einführung der neuen Währung eingetauscht werden können .</input>
+  <ref>Man vergißt <f id="1">leicht</f>  , daß die alten Währungen noch 20 Jahre nach der Einführung der neuen Währung eingetauscht werden können .</ref>
+</s>
+<s id="382">
+  <input>Ich danke Ihnen für die Aufmerksamkeit , die Sie mir <f id="1">during our</f>  gemeinsamen Nachtprogramm geschenkt haben !</input>
+  <ref>Ich danke Ihnen für die Aufmerksamkeit , die Sie mir <f id="1">bei unserem</f>  gemeinsamen Nachtprogramm geschenkt haben !</ref>
+</s>
+<s id="383">
+  <input>Es ist eigentlich <f id="1">really</f>  ein Thema , das bürgernah ist . Insofern ist es bedauerlich , daß es zu so später Stunde stattfindet .</input>
+  <ref>Es ist eigentlich <f id="1">wirklich</f>  ein Thema , das bürgernah ist . Insofern ist es bedauerlich , daß es zu so später Stunde stattfindet .</ref>
+</s>
+<s id="384">
+  <input>Die Zentralbank ist ja für die technische Fälschungssicherheit <f id="1">responsible</f>  .</input>
+  <ref>Die Zentralbank ist ja für die technische Fälschungssicherheit <f id="1">zuständig</f>  .</ref>
+</s>
+<s id="385">
+  <input>Hierzu gibt es <f id="1">different views</f>  .</input>
+  <ref>Hierzu gibt es <f id="1">unterschiedliche Auffassungen</f>  .</ref>
+</s>
+<s id="386">
+  <input>Es ist offensichtlich , daß dieses Risiko <f id="1">greater</f>  ist , wenn die Anlage in nicht auf geregelten Märkten gehandelten Derivaten , den berühmten OTC-Derivaten , erfolgt .</input>
+  <ref>Es ist offensichtlich , daß dieses Risiko <f id="1">größer</f>  ist , wenn die Anlage in nicht auf geregelten Märkten gehandelten Derivaten , den berühmten OTC-Derivaten , erfolgt .</ref>
+</s>
+<s id="387">
+  <input>Wir glauben , zu <f id="1">an acceptable</f>  Kompromißlösung gekommen zu sein , und ich freue mich darüber .</input>
+  <ref>Wir glauben , zu <f id="1">einer akzeptablen</f>  Kompromißlösung gekommen zu sein , und ich freue mich darüber .</ref>
+</s>
+<s id="388">
+  <input>Man braucht kein Nobelpreisträger für Wirtschaftswissenschaften zu sein , um zu verstehen , daß die derzeitige Arbeitshypothese der Finanzmärkte , nämlich eine Gewinnwachstumsprognose von jährlich 15 bis 2 % , mittelfristig <f id="1">quite</f>  einfach unrealistisch ist .</input>
+  <ref>Man braucht kein Nobelpreisträger für Wirtschaftswissenschaften zu sein , um zu verstehen , daß die derzeitige Arbeitshypothese der Finanzmärkte , nämlich eine Gewinnwachstumsprognose von jährlich 15 bis 2 % , mittelfristig <f id="1">ganz</f>  einfach unrealistisch ist .</ref>
+</s>
+<s id="389">
+  <input>Der Gesetzgeber muß das Allgemeininteresse <f id="1">protect</f>  und Sicherheitsklauseln festlegen .</input>
+  <ref>Der Gesetzgeber muß das Allgemeininteresse <f id="1">schützen</f>  und Sicherheitsklauseln festlegen .</ref>
+</s>
+<s id="390">
+  <input>Solche spekulativen Fonds <f id="1">exist in</f>  den Vereinigten Staaten , das heißt in einem Raum mit nur einer Aufsichtsbehörde und einem einheitlichen Rechtssystem .</input>
+  <ref>Solche spekulativen Fonds <f id="1">bestehen in</f>  den Vereinigten Staaten , das heißt in einem Raum mit nur einer Aufsichtsbehörde und einem einheitlichen Rechtssystem .</ref>
+</s>
+<s id="391">
+  <input>Herr Präsident ! Ziel des vorliegenden Berichts ist der <f id="1">complete</f>  freie Verkehr für Kapitalanlagen in der Europäischen Union , einschließlich der hochentwickelten Anlageformen .</input>
+  <ref>Herr Präsident ! Ziel des vorliegenden Berichts ist der <f id="1">vollständige</f>  freie Verkehr für Kapitalanlagen in der Europäischen Union , einschließlich der hochentwickelten Anlageformen .</ref>
+</s>
+<s id="392">
+  <input>Diese Harmonisierung wird seit Jahren durch <f id="1">certain</f>  Länder , darunter das Vereinigte Königreich , die ihre Finanzplätze in Steuerparadiese verwandeln , blockiert .</input>
+  <ref>Diese Harmonisierung wird seit Jahren durch <f id="1">bestimmte</f>  Länder , darunter das Vereinigte Königreich , die ihre Finanzplätze in Steuerparadiese verwandeln , blockiert .</ref>
+</s>
+<s id="393">
+  <input>Ich begrüße viele der <f id="1">developments</f>  , die uns der Bericht von Herrn Schmidt bringt .</input>
+  <ref>Ich begrüße viele der <f id="1">Entwicklungen</f>  , die uns der Bericht von Herrn Schmidt bringt .</ref>
+</s>
+<s id="394">
+  <input>Die Rentner werden in Zukunft - wie jetzt auch - über <f id="1">enormous</f>  Geldbeträge verfügen .</input>
+  <ref>Die Rentner werden in Zukunft - wie jetzt auch - über <f id="1">riesige</f>  Geldbeträge verfügen .</ref>
+</s>
+<s id="395">
+  <input>Auch die im zweiten <f id="1">paragraph</f>  des Änderungsantrags 47 geäußerte Überlegung findet meine Zustimmung .</input>
+  <ref>Auch die im zweiten <f id="1">Absatz</f>  des Änderungsantrags 47 geäußerte Überlegung findet meine Zustimmung .</ref>
+</s>
+<s id="396">
+  <input>Meiner Meinung nach können OTC-Derivate zu <f id="1">problems</f>  führen , weil sie nicht liquide sind , ihr Preis schwer einzuschätzen ist und sie im Hinblick auf den Ausfall der Gegenpartei ungedeckte Risiken beinhalten .</input>
+  <ref>Meiner Meinung nach können OTC-Derivate zu <f id="1">Problemen</f>  führen , weil sie nicht liquide sind , ihr Preis schwer einzuschätzen ist und sie im Hinblick auf den Ausfall der Gegenpartei ungedeckte Risiken beinhalten .</ref>
+</s>
+<s id="397">
+  <input>In <f id="1">practice</f>  könnte der Zugang dieser theoretisch harmonisierten Fonds , die in OTC-Derivate investieren , zu anderen EU-Märkten durch die Anwendung verschiedener innerstaatlicher Rechtsvorschriften und Maßnahmen zum Schutz vor OTC-Anlagen versperrt werden .</input>
+  <ref>In <f id="1">der Praxis</f>  könnte der Zugang dieser theoretisch harmonisierten Fonds , die in OTC-Derivate investieren , zu anderen EU-Märkten durch die Anwendung verschiedener innerstaatlicher Rechtsvorschriften und Maßnahmen zum Schutz vor OTC-Anlagen versperrt werden .</ref>
+</s>
+<s id="398">
+  <input>Aufgrund dieser möglichen negativen <f id="1">effect on</f>  den Binnenmarkt und aufgrund der den OTC-Derivaten immanenten Risiken kann die Kommission die Änderungsanträge 12 , 15 , 37 , 38 , 39 , 43 , 46 und 48 sowie die Teile der Änderungsanträge 17 , 36 und 45 , die sich auf OTC-Derivate beziehen , nicht akzeptieren .</input>
+  <ref>Aufgrund dieser möglichen negativen <f id="1">Auswirkungen auf</f>  den Binnenmarkt und aufgrund der den OTC-Derivaten immanenten Risiken kann die Kommission die Änderungsanträge 12 , 15 , 37 , 38 , 39 , 43 , 46 und 48 sowie die Teile der Änderungsanträge 17 , 36 und 45 , die sich auf OTC-Derivate beziehen , nicht akzeptieren .</ref>
+</s>
+<s id="399">
+  <input>Wir Mitglieder der Europäischen Volkspartei stimmen , von einigen <f id="1">exceptions</f>  abgesehen , für die Änderungsanträge des Ausschusses und natürlich für die von uns eingereichten Änderungsanträge .</input>
+  <ref>Wir Mitglieder der Europäischen Volkspartei stimmen , von einigen <f id="1">Ausnahmen</f>  abgesehen , für die Änderungsanträge des Ausschusses und natürlich für die von uns eingereichten Änderungsanträge .</ref>
+</s>
+<s id="400">
+  <input>Man soll sich <f id="1">with the idea</f>  anfreunden , es müsse jede sich bietende Möglichkeit ergriffen werden , um eine bessere Rechtshilfe zustande zu bringen .</input>
+  <ref>Man soll sich <f id="1">mit dem Gedanken</f>  anfreunden , es müsse jede sich bietende Möglichkeit ergriffen werden , um eine bessere Rechtshilfe zustande zu bringen .</ref>
+</s>
+<s id="401">
+  <input><f id="1">To this end</f>  hatte ich einen Änderungsantrag eingereicht , dem zufolge Rechtshilfe nur dann geleistet werden darf , wenn von den Behörden eine stafrechtliche Verfolgung eingeleitet wird wegen Handlungen , die nach innerstaatlichem Recht der ersuchenden Partei und nach dem des ersuchten Mitgliedstaates strafbar sind .</input>
+  <ref><f id="1">Zu diesem Zweck</f>  hatte ich einen Änderungsantrag eingereicht , dem zufolge Rechtshilfe nur dann geleistet werden darf , wenn von den Behörden eine stafrechtliche Verfolgung eingeleitet wird wegen Handlungen , die nach innerstaatlichem Recht der ersuchenden Partei und nach dem des ersuchten Mitgliedstaates strafbar sind .</ref>
+</s>
+<s id="402">
+  <input>Abschließend möchte ich <f id="1">reiterate</f>  , daß Kollege Di Pietro nach meiner Meinung eine großartige Arbeit geleistet hat . Er hat einen Bericht vorgelegt , in dem angesichts der begrenzten Möglichkeiten alle denkbaren Garantien für die Wahrung der individuellen Menschenrechte und der Grundfreiheiten geboten werden .</input>
+  <ref>Abschließend möchte ich <f id="1">wiederholen</f>  , daß Kollege Di Pietro nach meiner Meinung eine großartige Arbeit geleistet hat . Er hat einen Bericht vorgelegt , in dem angesichts der begrenzten Möglichkeiten alle denkbaren Garantien für die Wahrung der individuellen Menschenrechte und der Grundfreiheiten geboten werden .</ref>
+</s>
+<s id="403">
+  <input>Meines Erachtens haben der Rechtsausschuß und der Berichterstatter Di Pietro einen überaus <f id="1">interesting</f>  Bericht vorgelegt .</input>
+  <ref>Meines Erachtens haben der Rechtsausschuß und der Berichterstatter Di Pietro einen überaus <f id="1">interessanten</f>  Bericht vorgelegt .</ref>
+</s>
+<s id="404">
+  <input>Man muß betonen , daß die Schaffung von Europol bereits ein Schritt nach vorn ist , doch nun muß der nächste Schritt folgen , nämlich die Verstärkung der justitiellen Zusammenarbeit in Strafsachen , um so <f id="1">gradually</f>  einen wirklichen europäischen Rechtsraum entsprechend dem Ziel der Schaffung eines Raums der Freiheit , der Sicherheit und des Rechts zu errichten .</input>
+  <ref>Man muß betonen , daß die Schaffung von Europol bereits ein Schritt nach vorn ist , doch nun muß der nächste Schritt folgen , nämlich die Verstärkung der justitiellen Zusammenarbeit in Strafsachen , um so <f id="1">schrittweise</f>  einen wirklichen europäischen Rechtsraum entsprechend dem Ziel der Schaffung eines Raums der Freiheit , der Sicherheit und des Rechts zu errichten .</ref>
+</s>
+<s id="405">
+  <input>Ist man denn in Sicherheit , wenn die Freiheiten <f id="1">no longer</f>  gewährleistet sind ?</input>
+  <ref>Ist man denn in Sicherheit , wenn die Freiheiten <f id="1">nicht mehr</f>  gewährleistet sind ?</ref>
+</s>
+<s id="406">
+  <input>Ist man denn in Sicherheit , wenn die Freiheiten nicht mehr <f id="1">guaranteed</f>  sind ?</input>
+  <ref>Ist man denn in Sicherheit , wenn die Freiheiten nicht mehr <f id="1">gewährleistet</f>  sind ?</ref>
+</s>
+<s id="407">
+  <input>Es zielt vielmehr darauf ab , auf <f id="1">tested</f>  Mechanismen aufzubauen , die es schon sehr lange gibt und wie sie das Europäische Rechthilfeübereinkommen von 1959 und der Benelux-Vertrag vorsehen .</input>
+  <ref>Es zielt vielmehr darauf ab , auf <f id="1">bewährten</f>  Mechanismen aufzubauen , die es schon sehr lange gibt und wie sie das Europäische Rechthilfeübereinkommen von 1959 und der Benelux-Vertrag vorsehen .</ref>
+</s>
+<s id="408">
+  <input>Wir sprechen jetzt aber über Änderungsantrag 37 , und hier haben wir <f id="1">a similar problem</f>  .</input>
+  <ref>Wir sprechen jetzt aber über Änderungsantrag 37 , und hier haben wir <f id="1">ein ähnliches Problem</f>  .</ref>
+</s>
+<s id="409">
+  <input>Deshalb , <f id="1">particularly</f>  aufgrund des Respekts , den Sie verdienen , kann ich solche Verfahrensweise nicht akzeptieren und lehne sie nachdrücklich ab .</input>
+  <ref>Deshalb , <f id="1">vor allem</f>  aufgrund des Respekts , den Sie verdienen , kann ich solche Verfahrensweise nicht akzeptieren und lehne sie nachdrücklich ab .</ref>
+</s>
+<s id="410">
+  <input>Aber <f id="1">in the Spanish version</f>  verschwindet der Rechtsanwalt ganz , da gibt es keinen Anwalt mehr .</input>
+  <ref>Aber <f id="1">in der spanischen Version</f>  verschwindet der Rechtsanwalt ganz , da gibt es keinen Anwalt mehr .</ref>
+</s>
+<s id="411">
+  <input>Frau Präsidentin ! Ich wollte Sie bei der Abstimmung eigentlich nicht <f id="1">disturb</f>  .</input>
+  <ref>Frau Präsidentin ! Ich wollte Sie bei der Abstimmung eigentlich nicht <f id="1">stören</f>  .</ref>
+</s>
+<s id="412">
+  <input>Ich habe deshalb , wie die <f id="1">whole</f>  Fraktion der Grünen / Freie Europäische Allianz , beim Vorschlag zur Änderung von Richtlinie 1 mit " Nein " gestimmt und mich beim Vorschlag zur Änderung von Richtlinie 2 der Stimme enthalten .</input>
+  <ref>Ich habe deshalb , wie die <f id="1">gesamte</f>  Fraktion der Grünen / Freie Europäische Allianz , beim Vorschlag zur Änderung von Richtlinie 1 mit " Nein " gestimmt und mich beim Vorschlag zur Änderung von Richtlinie 2 der Stimme enthalten .</ref>
+</s>
+<s id="413">
+  <input>Auf <f id="1">another level</f>  sollen die Zusammenarbeit zwischen gemeinschaftlichen und einzelstaatlichen Institutionen gewährleistet und ein Informationssystem , das der Erfassung und dem Austausch von Daten betreffend Geldfälschungen dient , erstellt werden .</input>
+  <ref>Auf <f id="1">einer anderen Ebene</f>  sollen die Zusammenarbeit zwischen gemeinschaftlichen und einzelstaatlichen Institutionen gewährleistet und ein Informationssystem , das der Erfassung und dem Austausch von Daten betreffend Geldfälschungen dient , erstellt werden .</ref>
+</s>
+<s id="414">
+  <input>Wir begrüßen die Bemühungen von Romano Prodi um die Verbesserung des öffentlichen Erscheinungsbildes der Kommission und <f id="1">the need</f>  , daß sie sich mit dem Europäischen Parlament und dem Rat verständigen muß .</input>
+  <ref>Wir begrüßen die Bemühungen von Romano Prodi um die Verbesserung des öffentlichen Erscheinungsbildes der Kommission und <f id="1">die Notwendigkeit</f>  , daß sie sich mit dem Europäischen Parlament und dem Rat verständigen muß .</ref>
+</s>
+<s id="415">
+  <input>In <f id="1">the recent</f>  Vergangenheit haben wir unterschiedliche Erfahrungen gemacht und unterschiedliche Methoden beobachten können , wie man an großangelegte Restrukturierungen von Unternehmen , die oft Auswirkungen auf das Leben zahlreicher Europäer hatten , heranging .</input>
+  <ref>In <f id="1">der jüngsten</f>  Vergangenheit haben wir unterschiedliche Erfahrungen gemacht und unterschiedliche Methoden beobachten können , wie man an großangelegte Restrukturierungen von Unternehmen , die oft Auswirkungen auf das Leben zahlreicher Europäer hatten , heranging .</ref>
+</s>
+<s id="416">
+  <input>Dennoch danke ich Ihnen für <f id="1">your remarks</f>  .</input>
+  <ref>Dennoch danke ich Ihnen für <f id="1">Ihre Bemerkungen</f>  .</ref>
+</s>
+<s id="417">
+  <input>Selbstverständlich erwarten wir , als Europäisches Parlament , daß wir bei der von Ihnen angedeuteten Lösung mitwirken können - wir sind im höchsten Maße dazu bereit ­ , doch erwarten wir ein überzeugendes Einschreiten bei diesem Fall , der selbstredend nicht so abgeschlossen werden und vorübergehen darf , wie dies inzwischen schon beinahe <f id="1">happened</f>  .</input>
+  <ref>Selbstverständlich erwarten wir , als Europäisches Parlament , daß wir bei der von Ihnen angedeuteten Lösung mitwirken können - wir sind im höchsten Maße dazu bereit ­ , doch erwarten wir ein überzeugendes Einschreiten bei diesem Fall , der selbstredend nicht so abgeschlossen werden und vorübergehen darf , wie dies inzwischen schon beinahe <f id="1">geschehen ist</f>  .</ref>
+</s>
+<s id="418">
+  <input>Wir Parlamentsmitglieder sprechen oft von den KMU und kommen nun mit einer <f id="1">unique</f>  Möglichkeit , welche zu schaffen .</input>
+  <ref>Wir Parlamentsmitglieder sprechen oft von den KMU und kommen nun mit einer <f id="1">einzigartigen</f>  Möglichkeit , welche zu schaffen .</ref>
+</s>
+<s id="419">
+  <input>Diese Geschehnisse riefen in uns großen Schmerz und Scham hervor , sie weckten unsere Ängste <f id="1">given</f>  eines äußerst rassistischen , fremdenfeindlichen und intoleranten Ereignisses .</input>
+  <ref>Diese Geschehnisse riefen in uns großen Schmerz und Scham hervor , sie weckten unsere Ängste <f id="1">angesichts</f>  eines äußerst rassistischen , fremdenfeindlichen und intoleranten Ereignisses .</ref>
+</s>
+<s id="420">
+  <input>Dabei wurden Frauen und <f id="1">children</f>  geschlagen .</input>
+  <ref>Dabei wurden Frauen und <f id="1">Kinder</f>  geschlagen .</ref>
+</s>
+<s id="421">
+  <input><f id="1">We all have</f>  die Pflicht , vor unserer eigenen Haustür zu kehren .</input>
+  <ref><f id="1">Wir haben alle</f>  die Pflicht , vor unserer eigenen Haustür zu kehren .</ref>
+</s>
+<s id="422">
+  <input>Die Präsidentschaft nimmt Ihre <f id="1">concern</f>  zur Kenntnis und wird sie über die entsprechenden Kanäle weiterleiten .</input>
+  <ref>Die Präsidentschaft nimmt Ihre <f id="1">Besorgnis</f>  zur Kenntnis und wird sie über die entsprechenden Kanäle weiterleiten .</ref>
+</s>
+<s id="423">
+  <input>Die Präsidentschaft nimmt Ihre Besorgnis zur Kenntnis und wird sie über die <f id="1">appropriate</f>  Kanäle weiterleiten .</input>
+  <ref>Die Präsidentschaft nimmt Ihre Besorgnis zur Kenntnis und wird sie über die <f id="1">entsprechenden</f>  Kanäle weiterleiten .</ref>
+</s>
+<s id="424">
+  <input>Gewalt führt zu <f id="1">violence</f>  , Rache erzeugt Rache .</input>
+  <ref>Gewalt führt zu <f id="1">Gewalt</f>  , Rache erzeugt Rache .</ref>
+</s>
+<s id="425">
+  <input>Die Lage in Mitrovica ist natürlich <f id="1">very dangerous</f>  , und wir alle kennen die Ursachen .</input>
+  <ref>Die Lage in Mitrovica ist natürlich <f id="1">sehr gefährlich</f>  , und wir alle kennen die Ursachen .</ref>
+</s>
+<s id="426">
+  <input>Der Fall Flora Brovina ist nur <f id="1">one of many</f>  .</input>
+  <ref>Der Fall Flora Brovina ist nur <f id="1">einer von vielen</f>  .</ref>
+</s>
+<s id="427">
+  <input>Doch <f id="1">worst</f>  ist , daß die Situation in Angola ausweglos ist .</input>
+  <ref>Doch <f id="1">am schlimmsten</f>  ist , daß die Situation in Angola ausweglos ist .</ref>
+</s>
+<s id="428">
+  <input>Wir sind mitschuldig an <f id="1">this war</f>  .</input>
+  <ref>Wir sind mitschuldig an <f id="1">diesem Krieg</f>  .</ref>
+</s>
+<s id="429">
+  <input>Ein weiterer Journalist wurde <f id="1">during a</f>  Parlamentsdebatte im letzten Monat von einem Mitglied der Regierungspartei NPLA mit dem Tode bedroht .</input>
+  <ref>Ein weiterer Journalist wurde <f id="1">während einer</f>  Parlamentsdebatte im letzten Monat von einem Mitglied der Regierungspartei NPLA mit dem Tode bedroht .</ref>
+</s>
+<s id="430">
+  <input>Wir werden die portugiesische Präsidentschaft in jedem Fall nach <f id="1">its actions</f>  und nicht nach ihren Worten beurteilen .</input>
+  <ref>Wir werden die portugiesische Präsidentschaft in jedem Fall nach <f id="1">ihren Taten</f>  und nicht nach ihren Worten beurteilen .</ref>
+</s>
+<s id="431">
+  <input>Es dürfen keine Menschen mehr <f id="1">be forced</f>  , ihr Wohn - und Lebensgebiet zu verlassen .</input>
+  <ref>Es dürfen keine Menschen mehr <f id="1">gezwungen werden</f>  , ihr Wohn - und Lebensgebiet zu verlassen .</ref>
+</s>
+<s id="432">
+  <input>Die <f id="1">treatment</f>  der Ureinwohner der Vereinigten Staaten in Amerika verstößt in vielerlei Hinsicht gegen elementare Menschenrechte .</input>
+  <ref>Die <f id="1">Behandlung</f>  der Ureinwohner der Vereinigten Staaten in Amerika verstößt in vielerlei Hinsicht gegen elementare Menschenrechte .</ref>
+</s>
+<s id="433">
+  <input>Diese ärmlichen Umstände zwingen sie , sich gegen ihren Willen dem finanziellen und wirtschaftlichen <f id="1">pressure</f>  der Steinkohleindustrie zu beugen .</input>
+  <ref>Diese ärmlichen Umstände zwingen sie , sich gegen ihren Willen dem finanziellen und wirtschaftlichen <f id="1">Druck</f>  der Steinkohleindustrie zu beugen .</ref>
+</s>
+<s id="434">
+  <input>Wir <f id="1">support</f>  insbesondere die Herausbildung einer freien , demokratischen und multiethnischen Gesellschaft .</input>
+  <ref>Wir <f id="1">unterstützen</f>  insbesondere die Herausbildung einer freien , demokratischen und multiethnischen Gesellschaft .</ref>
+</s>
+<s id="435">
+  <input>Und wir sind <f id="1">ready</f>  , nötigenfalls bei der Minister-Troika EU-Rußland am 2 . März in Lissabon auf diese Frage zurückzukommen .</input>
+  <ref>Und wir sind <f id="1">bereit</f>  , nötigenfalls bei der Minister-Troika EU-Rußland am 2 . März in Lissabon auf diese Frage zurückzukommen .</ref>
+</s>
+<s id="436">
+  <input>Diese erneute <f id="1">disaster</f>  wirft für die beitrittswilligen Länder das Problem der Übernahme des gemeinschaftlichen Besitzstands im Umweltbereich auf .</input>
+  <ref>Diese erneute <f id="1">Katastrophe</f>  wirft für die beitrittswilligen Länder das Problem der Übernahme des gemeinschaftlichen Besitzstands im Umweltbereich auf .</ref>
+</s>
+<s id="437">
+  <input>Die Behörden dieser Länder , in denen der Umweltschutz noch sehr schwach ist , haben <f id="1">numerous</f>  Hindernisse zu überwinden .</input>
+  <ref>Die Behörden dieser Länder , in denen der Umweltschutz noch sehr schwach ist , haben <f id="1">zahlreiche</f>  Hindernisse zu überwinden .</ref>
+</s>
+<s id="438">
+  <input>Heute sind <f id="1">the banks</f>  und die Gewässer von über vier Flüssen , die vier Länder durchfließen , verschmutzt . Deshalb muß die Europäische Union ihre Anstrengungen auf die dringend notwendige Angleichung aller beitrittswilligen Länder an die gemeinschaftlichen Umweltstandards konzentrieren und entsprechenden Druck ausüben .</input>
+  <ref>Heute sind <f id="1">die Ufer</f>  und die Gewässer von über vier Flüssen , die vier Länder durchfließen , verschmutzt . Deshalb muß die Europäische Union ihre Anstrengungen auf die dringend notwendige Angleichung aller beitrittswilligen Länder an die gemeinschaftlichen Umweltstandards konzentrieren und entsprechenden Druck ausüben .</ref>
+</s>
+<s id="439">
+  <input>Soll wirklich ein so giftiger Stoff wie Zyanid in der Bergbauindustrie und bei der Metallherstellung <f id="1">used</f>  dürfen ?</input>
+  <ref>Soll wirklich ein so giftiger Stoff wie Zyanid in der Bergbauindustrie und bei der Metallherstellung <f id="1">verwendet werden</f>  dürfen ?</ref>
+</s>
+<s id="440">
+  <input>Es ist deshalb sehr <f id="1">shameful</f>  , daß so etwas überhaupt passieren kann .</input>
+  <ref>Es ist deshalb sehr <f id="1">beschämend</f>  , daß so etwas überhaupt passieren kann .</ref>
+</s>
+<s id="441">
+  <input>Es ist deshalb sehr beschämend , daß so etwas überhaupt <f id="1">can happen</f>  .</input>
+  <ref>Es ist deshalb sehr beschämend , daß so etwas überhaupt <f id="1">passieren kann</f>  .</ref>
+</s>
+<s id="442">
+  <input>Es ist <f id="1">therefore</f>  sehr beschämend , daß so etwas überhaupt passieren kann .</input>
+  <ref>Es ist <f id="1">deshalb</f>  sehr beschämend , daß so etwas überhaupt passieren kann .</ref>
+</s>
+<s id="443">
+  <input>Dies stand <f id="1">in contrast to</f>  der im Ausschuß für Regionalpolitik , Verkehr und Fremdenverkehr mehrheitlich vertretenen Auffassung .</input>
+  <ref>Dies stand <f id="1">im Gegensatz zu</f>  der im Ausschuß für Regionalpolitik , Verkehr und Fremdenverkehr mehrheitlich vertretenen Auffassung .</ref>
+</s>
+<s id="444">
+  <input><f id="1">In addition</f>  ist die Beschäftigungspolitik generell von Bedeutung .</input>
+  <ref><f id="1">Darüber hinaus</f>  ist die Beschäftigungspolitik generell von Bedeutung .</ref>
+</s>
+<s id="445">
+  <input>Wir brauchen eine dynamischere Sichtweise , die sich auf den <f id="1">contribution</f>  des Fremdenverkehrs zur Schaffung von Arbeitsplätzen gründet .</input>
+  <ref>Wir brauchen eine dynamischere Sichtweise , die sich auf den <f id="1">Beitrag</f>  des Fremdenverkehrs zur Schaffung von Arbeitsplätzen gründet .</ref>
+</s>
+<s id="446">
+  <input>Ich hoffe , Sie werden uns <f id="1">help</f>  .</input>
+  <ref>Ich hoffe , Sie werden uns <f id="1">helfen</f>  .</ref>
+</s>
+<s id="447">
+  <input>Dies gilt für viele Bereiche , wobei der Postdienst bisher leider die einzige große <f id="1">exception</f>  darstellt .</input>
+  <ref>Dies gilt für viele Bereiche , wobei der Postdienst bisher leider die einzige große <f id="1">Ausnahme</f>  darstellt .</ref>
+</s>
+<s id="448">
+  <input>Das zeigt , daß der <f id="1">competition</f>  in der Tat funktioniert .</input>
+  <ref>Das zeigt , daß der <f id="1">Wettbewerb</f>  in der Tat funktioniert .</ref>
+</s>
+<s id="449">
+  <input>Der Postdienst <f id="1">is also</f>  der Busdienst .</input>
+  <ref>Der Postdienst <f id="1">ist auch</f>  der Busdienst .</ref>
+</s>
+<s id="450">
+  <input>Hunderttausende von Menschen verdienen <f id="1">their living</f>  bei der Post .</input>
+  <ref>Hunderttausende von Menschen verdienen <f id="1">ihren Lebensunterhalt</f>  bei der Post .</ref>
+</s>
+<s id="451">
+  <input>Es <f id="1">is time</f>  , daß wir dem Einhalt gebieten .</input>
+  <ref>Es <f id="1">wird Zeit</f>  , daß wir dem Einhalt gebieten .</ref>
+</s>
+<s id="452">
+  <input>Ich <f id="1">believe</f>  , wir sollten diese Legislaturperiode nutzen , um die Grenzen , das Positive für den Wettbewerb darzustellen .</input>
+  <ref>Ich <f id="1">denke</f>  , wir sollten diese Legislaturperiode nutzen , um die Grenzen , das Positive für den Wettbewerb darzustellen .</ref>
+</s>
+<s id="453">
+  <input>Ich denke , wir sollten diese Legislaturperiode <f id="1">use</f>  , um die Grenzen , das Positive für den Wettbewerb darzustellen .</input>
+  <ref>Ich denke , wir sollten diese Legislaturperiode <f id="1">nutzen</f>  , um die Grenzen , das Positive für den Wettbewerb darzustellen .</ref>
+</s>
+<s id="454">
+  <input>Das führt zum zweiten Punkt , <f id="1">namely</f>  der Schnecke als dem Symbol unserer Postdienste .</input>
+  <ref>Das führt zum zweiten Punkt , <f id="1">nämlich</f>  der Schnecke als dem Symbol unserer Postdienste .</ref>
+</s>
+<s id="455">
+  <input>Ich weiß , daß meine <f id="1">colleagues</f>  und ich auf die Unterstützung vieler Abgeordneter dieses Hohen Hauses über alle politischen Richtungen hinweg zählen können .</input>
+  <ref>Ich weiß , daß meine <f id="1">Kollegen</f>  und ich auf die Unterstützung vieler Abgeordneter dieses Hohen Hauses über alle politischen Richtungen hinweg zählen können .</ref>
+</s>
+<s id="456">
+  <input>Dieser Militärausschuß hat , wie Sie <f id="1">imagine</f>  können , mehrere Obliegenheiten .</input>
+  <ref>Dieser Militärausschuß hat , wie Sie <f id="1">sich vorstellen</f>  können , mehrere Obliegenheiten .</ref>
+</s>
+<s id="457">
+  <input>Herr Gil-Robles ist heute morgen aus Tschetschenien <f id="1">returned</f>  , er hat Grosny besucht , hatte Gelegenheit , mit mir telefonisch zu sprechen und mir seine ersten Eindrücke zu übermitteln , die nicht gut sind , wie Sie sich vorstellen können .</input>
+  <ref>Herr Gil-Robles ist heute morgen aus Tschetschenien <f id="1">zurückgekehrt</f>  , er hat Grosny besucht , hatte Gelegenheit , mit mir telefonisch zu sprechen und mir seine ersten Eindrücke zu übermitteln , die nicht gut sind , wie Sie sich vorstellen können .</ref>
+</s>
+<s id="458">
+  <input><f id="1">Everything else</f>  ist Wunschdenken .</input>
+  <ref><f id="1">Alles andere</f>  ist Wunschdenken .</ref>
+</s>
+<s id="459">
+  <input>Sie sind hier im Plenum und im Ausschuß für auswärtige Angelegenheiten ein gern gesehener <f id="1">guest</f>  , der reden und zuhören kann .</input>
+  <ref>Sie sind hier im Plenum und im Ausschuß für auswärtige Angelegenheiten ein gern gesehener <f id="1">Gast</f>  , der reden und zuhören kann .</ref>
+</s>
+<s id="460">
+  <input>Sie sind gegen den Krieg , sagen Sie , aber Sie wären nicht <f id="1">the first</f>  Kriegstreiber , der dies schwört .</input>
+  <ref>Sie sind gegen den Krieg , sagen Sie , aber Sie wären nicht <f id="1">der erste</f>  Kriegstreiber , der dies schwört .</ref>
+</s>
+<s id="461">
+  <input>Können Sie <f id="1">tell us</f>  , wie Sie zu dieser Frage stehen ?</input>
+  <ref>Können Sie <f id="1">uns sagen</f>  , wie Sie zu dieser Frage stehen ?</ref>
+</s>
+<s id="462">
+  <input>Selbstverständlich muß alles unternommen werden , um die europäische Politik effizienter zu gestalten . Das darf jedoch nicht zu einer unerwünschten Machtkonzentration <f id="1">lead</f>  .</input>
+  <ref>Selbstverständlich muß alles unternommen werden , um die europäische Politik effizienter zu gestalten . Das darf jedoch nicht zu einer unerwünschten Machtkonzentration <f id="1">führen</f>  .</ref>
+</s>
+<s id="463">
+  <input>Ich glaube nicht , Herr Solana , daß wir diese Glaubwürdigkeit mit militärischen Mitteln <f id="1">can restore</f>  .</input>
+  <ref>Ich glaube nicht , Herr Solana , daß wir diese Glaubwürdigkeit mit militärischen Mitteln <f id="1">wiedererlangen können</f>  .</ref>
+</s>
+<s id="464">
+  <input>Einige von uns sind ganz entschieden für die Schaffung einer rein europäischen Sicherheitsorganisation zum Schutz des Friedens <f id="1">in the world</f>  .</input>
+  <ref>Einige von uns sind ganz entschieden für die Schaffung einer rein europäischen Sicherheitsorganisation zum Schutz des Friedens <f id="1">in der Welt</f>  .</ref>
+</s>
+<s id="465">
+  <input>Dies können wir nicht <f id="1">simply</f>  den Regierungen überlassen .</input>
+  <ref>Dies können wir nicht <f id="1">einfach</f>  den Regierungen überlassen .</ref>
+</s>
+<s id="466">
+  <input>Der Preis , den Frauen bezahlen , um <f id="1">their desire</f>  , auf allen Gebieten eine Vorreiterrolle zu spielen , zu erfüllen , ist das Zeitmangelsyndrom .</input>
+  <ref>Der Preis , den Frauen bezahlen , um <f id="1">ihren Wunsch</f>  , auf allen Gebieten eine Vorreiterrolle zu spielen , zu erfüllen , ist das Zeitmangelsyndrom .</ref>
+</s>
+<s id="467">
+  <input>Aus diesem Grund müssen wir <f id="1">about</f>  Quoten überlegt diskutieren .</input>
+  <ref>Aus diesem Grund müssen wir <f id="1">über</f>  Quoten überlegt diskutieren .</ref>
+</s>
+<s id="468">
+  <input>Ich befürworte nachdrücklich <f id="1">voluntary</f>  Quoten auf Wahllisten , ohne diese Quoten würde ich nämlich selbst hier auch nicht stehen .</input>
+  <ref>Ich befürworte nachdrücklich <f id="1">freiwillige</f>  Quoten auf Wahllisten , ohne diese Quoten würde ich nämlich selbst hier auch nicht stehen .</ref>
+</s>
+<s id="469">
+  <input>Zweitens wird gesagt , man müsse die herrschenden Politiker <f id="1">persuade</f>  .</input>
+  <ref>Zweitens wird gesagt , man müsse die herrschenden Politiker <f id="1">überzeugen</f>  .</ref>
+</s>
+<s id="470">
+  <input><f id="1">The water</f>  steigt unaufhaltsam .</input>
+  <ref><f id="1">Das Wasser</f>  steigt unaufhaltsam .</ref>
+</s>
+<s id="471">
+  <input>Herr Präsident , diese Politik dürfte bei den europäischen Arbeitnehmern wohl nicht Hoffnung , sondern eher tiefe <f id="1">disappointment</f>  auslösen .</input>
+  <ref>Herr Präsident , diese Politik dürfte bei den europäischen Arbeitnehmern wohl nicht Hoffnung , sondern eher tiefe <f id="1">Enttäuschung</f>  auslösen .</ref>
+</s>
+<s id="472">
+  <input>Und Europa ist mit Verfahren quantifizierter <f id="1">targets</f>  vorangekommen .</input>
+  <ref>Und Europa ist mit Verfahren quantifizierter <f id="1">Ziele</f>  vorangekommen .</ref>
+</s>
+<s id="473">
+  <input>Als wir unseren Bericht vorlegten , verwiesen wir bereits auf die möglichen <f id="1">risks</f>  des Wachstums .</input>
+  <ref>Als wir unseren Bericht vorlegten , verwiesen wir bereits auf die möglichen <f id="1">Gefahren</f>  des Wachstums .</ref>
+</s>
+<s id="474">
+  <input>Es liegt kein Vorschlag für eine dahingehende Änderung vor , und nach der vorgeschlagenen neuen Regelung steht der Verkauf befallener <f id="1">fish</f>  völlig außer Frage .</input>
+  <ref>Es liegt kein Vorschlag für eine dahingehende Änderung vor , und nach der vorgeschlagenen neuen Regelung steht der Verkauf befallener <f id="1">Fische</f>  völlig außer Frage .</ref>
+</s>
+<s id="475">
+  <input>Die schottische Lachszucht <f id="1">is the biggest</f>  ihrer Art in der Europäischen Union . Sie macht 90 % der britischen Aquakulturbranche aus .</input>
+  <ref>Die schottische Lachszucht <f id="1">ist die größte</f>  ihrer Art in der Europäischen Union . Sie macht 90 % der britischen Aquakulturbranche aus .</ref>
+</s>
+<s id="476">
+  <input>Damit soll <f id="1">the importance</f>  ökologischer Überlegungen im Zusammenhang mit der Fischzucht gar nicht in Abrede gestellt werden .</input>
+  <ref>Damit soll <f id="1">die Bedeutung</f>  ökologischer Überlegungen im Zusammenhang mit der Fischzucht gar nicht in Abrede gestellt werden .</ref>
+</s>
+<s id="477">
+  <input>Die Auswirkungen auf die Umwelt müssen <f id="1">very seriously</f>  genommen werden .</input>
+  <ref>Die Auswirkungen auf die Umwelt müssen <f id="1">sehr ernst</f>  genommen werden .</ref>
+</s>
+<s id="478">
+  <input><f id="1">I regret</f>  daher , daß ich derzeit nicht in der Lage bin , den Änderungsanträgen in bezug auf eine Entschädigung gemäß Entscheidung 90 / 424 zuzustimmen .</input>
+  <ref><f id="1">Ich bedauere</f>  daher , daß ich derzeit nicht in der Lage bin , den Änderungsanträgen in bezug auf eine Entschädigung gemäß Entscheidung 90 / 424 zuzustimmen .</ref>
+</s>
+<s id="479">
+  <input>Die ICCAT hatte bereits 1974 , 1994 und 1996 <f id="1">recommendations</f>  gegeben .</input>
+  <ref>Die ICCAT hatte bereits 1974 , 1994 und 1996 <f id="1">Empfehlungen</f>  gegeben .</ref>
+</s>
+<s id="480">
+  <input>Ich kann und will mich nicht <f id="1">further</f>  darüber verbreiten . Wir stehen alle unter Zeitdruck .</input>
+  <ref>Ich kann und will mich nicht <f id="1">weiter</f>  darüber verbreiten . Wir stehen alle unter Zeitdruck .</ref>
+</s>
+<s id="481">
+  <input>Eine <f id="1">possible alternative</f>  wäre ein Quotensystem ähnlich dem , wie es seit 1986 in Neuseeland besteht .</input>
+  <ref>Eine <f id="1">mögliche Alternative</f>  wäre ein Quotensystem ähnlich dem , wie es seit 1986 in Neuseeland besteht .</ref>
+</s>
+<s id="482">
+  <input>Ich <f id="1">recommend</f>  den Bericht dem Hohen Haus .</input>
+  <ref>Ich <f id="1">empfehle</f>  den Bericht dem Hohen Haus .</ref>
+</s>
+<s id="483">
+  <input>Eine <f id="1">possible</f>  Alternative wäre ein Quotensystem ähnlich dem , wie es seit 1986 in Neuseeland besteht .</input>
+  <ref>Eine <f id="1">mögliche</f>  Alternative wäre ein Quotensystem ähnlich dem , wie es seit 1986 in Neuseeland besteht .</ref>
+</s>
+<s id="484">
+  <input>Der Umweltausschuß <f id="1">is generally</f>  mit der Mitteilung der Kommission zufrieden , und es freut uns , daß der Ausschuß für Fischerei unsere Änderungen übernommen hat .</input>
+  <ref>Der Umweltausschuß <f id="1">ist im allgemeinen</f>  mit der Mitteilung der Kommission zufrieden , und es freut uns , daß der Ausschuß für Fischerei unsere Änderungen übernommen hat .</ref>
+</s>
+<s id="485">
+  <input>Der Umweltausschuß ist im allgemeinen mit der Mitteilung der Kommission zufrieden , und es <f id="1">pleased</f>  uns , daß der Ausschuß für Fischerei unsere Änderungen übernommen hat .</input>
+  <ref>Der Umweltausschuß ist im allgemeinen mit der Mitteilung der Kommission zufrieden , und es <f id="1">freut</f>  uns , daß der Ausschuß für Fischerei unsere Änderungen übernommen hat .</ref>
+</s>
+<s id="486">
+  <input>Herr Fischler <f id="1">says</f>  , er sei immer zur Stelle , wenn das Parlament ihn ruft .</input>
+  <ref>Herr Fischler <f id="1">sagt</f>  , er sei immer zur Stelle , wenn das Parlament ihn ruft .</ref>
+</s>
+<s id="487">
+  <input>Wir fordern , daß dieses Mal <f id="1">the last</f>  ist .</input>
+  <ref>Wir fordern , daß dieses Mal <f id="1">das letzte</f>  ist .</ref>
+</s>
+<s id="488">
+  <input>Ich hoffe , daß hier im finnischsprachigen Fernsehkanal auch <f id="1">a picture</f>  empfangen werden kann und nicht nur der Ton .</input>
+  <ref>Ich hoffe , daß hier im finnischsprachigen Fernsehkanal auch <f id="1">ein Bild</f>  empfangen werden kann und nicht nur der Ton .</ref>
+</s>
+<s id="489">
+  <input>In Europa mangelt es an <f id="1">entrepreneurs</f>  .</input>
+  <ref>In Europa mangelt es an <f id="1">Unternehmern</f>  .</ref>
+</s>
+<s id="490">
+  <input>Die Geldpolitik soll als heilige <f id="1">cow</f>  erhalten bleiben , das ist wichtiger als den Arbeitslosen einen Job zu verschaffen .</input>
+  <ref>Die Geldpolitik soll als heilige <f id="1">Kuh</f>  erhalten bleiben , das ist wichtiger als den Arbeitslosen einen Job zu verschaffen .</ref>
+</s>
+<s id="491">
+  <input>Dieses europäische Patent ist so <f id="1">expensive</f>  , daß es gegenüber anderen Patenten nicht wettbewerbsfähig ist .</input>
+  <ref>Dieses europäische Patent ist so <f id="1">teuer</f>  , daß es gegenüber anderen Patenten nicht wettbewerbsfähig ist .</ref>
+</s>
+<s id="492">
+  <input>Wir können uns nicht nur auf die neue Wirtschaft <f id="1">focus</f>  .</input>
+  <ref>Wir können uns nicht nur auf die neue Wirtschaft <f id="1">konzentrieren</f>  .</ref>
+</s>
+<s id="493">
+  <input>Wenn dem so ist , Herr Ratspräsident , dann brauchen wir sehr <f id="1">urgently</f>  gemeinsame Ziele .</input>
+  <ref>Wenn dem so ist , Herr Ratspräsident , dann brauchen wir sehr <f id="1">dringend</f>  gemeinsame Ziele .</ref>
+</s>
+<s id="494">
+  <input>Ich betone nochmals , denn wir sollten uns dessen eingedenk sein : Das Einkommensgefälle nimmt <f id="1">recently</f>  in Europa weiter zu .</input>
+  <ref>Ich betone nochmals , denn wir sollten uns dessen eingedenk sein : Das Einkommensgefälle nimmt <f id="1">in letzter Zeit</f>  in Europa weiter zu .</ref>
+</s>
+<s id="495">
+  <input>Hierzu möchte ich , da verschiedentlich auf die Vereinigten Staaten Bezug genommen wurde , auf einen <f id="1">specific</f>  Aspekt hinweisen .</input>
+  <ref>Hierzu möchte ich , da verschiedentlich auf die Vereinigten Staaten Bezug genommen wurde , auf einen <f id="1">besonderen</f>  Aspekt hinweisen .</ref>
+</s>
+<s id="496">
+  <input>Es ist jetzt <f id="1">our task</f>  , dem entgegenzuwirken .</input>
+  <ref>Es ist jetzt <f id="1">unsere Aufgabe</f>  , dem entgegenzuwirken .</ref>
+</s>
+<s id="497">
+  <input>So gesehen können wir <f id="1">satisfied</f>  sein .</input>
+  <ref>So gesehen können wir <f id="1">zufrieden</f>  sein .</ref>
+</s>
+<s id="498">
+  <input>Damit ist das Problem weitgehend <f id="1">resolved</f>  .</input>
+  <ref>Damit ist das Problem weitgehend <f id="1">gelöst</f>  .</ref>
+</s>
+<s id="499">
+  <input>Die Beziehungen zu Rußland sind von sehr großer <f id="1">importance</f>  .</input>
+  <ref>Die Beziehungen zu Rußland sind von sehr großer <f id="1">Bedeutung</f>  .</ref>
+</s>
+<s id="500">
+  <input>Herr Präsident , bekanntlich ruft die aus reiner Kakaobutter bestehende <f id="1">chocolate</f>  euphorische Gefühle hervor .</input>
+  <ref>Herr Präsident , bekanntlich ruft die aus reiner Kakaobutter bestehende <f id="1">Schokolade</f>  euphorische Gefühle hervor .</ref>
+</s>
+</sentencepairs>
