@@ -1,0 +1,1998 @@
+<sentencepairs L1="en" L2="de">
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="1">
+  <input>Ich konnte Bärbel noch <f id="1">on the border</f>  in einen letzten S-Bahn-Zug nach Westberlin setzen.</input>
+  <ref>Ich konnte Bärbel noch <f id="1">an der Grenze</f>  in einen letzten S-Bahn-Zug nach Westberlin setzen.</ref>
+</s>
+<s category="a" source="Mittelpunkt B2 - Klett" id="2">
+  <input>Es ist <f id="1">exciting</f>  , so viele Orte und Menschen kennen gelernt zu haben.</input>
+  <ref>Es ist <f id="1">aufregend<alt>spannend</alt></f>  , so viele Orte und Menschen kennen gelernt zu haben.</ref>
+</s>
+<s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="3">
+  <input>Die Frau kehrte <f id="1">alone</f>  nach Lima zurück.</input>
+  <ref>Die Frau kehrte <f id="1">alleine<alt>allein</alt></f>  nach Lima zurück.</ref>
+</s>
+<s category="pp" source="Mittelpunkt B2 - Klett" id="4">
+  <input>Sie fährt heute <f id="1">home</f>  .</input>
+  <ref>Sie fährt heute <f id="1">nach Hause<alt>heim</alt></f>  .</ref>
+</s>
+<s category="comp" source="Prisma Grammatica Duits" id="5">
+  <input>Er schoss den Ball <f id="1">through the window</f>  .</input>
+  <ref>Er schoss den Ball <f id="1">durch das Fenster</f>  .</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="6">
+  <input>Im Tatort fand der Kriminalbeamte im zweiten Stock <f id="1">a dead body</f>  .</input>
+  <ref>Im Tatort fand der Kriminalbeamte im zweiten Stock <f id="1">eine Leiche<alt>einen toten Körper</alt></f>  .</ref>
+</s>
+<s category="v" source="SCHUBERT-Verlag Leipzig" id="7">
+  <input>Computerfrust <f id="1">leads to</f>  volkswirtschaftlichen Schäden in Milliardenhöhe.</input>
+  <ref>Computerfrust <f id="1">führt zu</f>  volkswirtschaftlichen Schäden in Milliardenhöhe.</ref>
+</s>
+<s category="comp" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="8">
+  <input>Längere Texte lassen sich leichter <f id="1">on a keyboard</f>  schreiben.</input>
+  <ref>Längere Texte lassen sich leichter <f id="1">mit einer Tastatur<alt>auf einer Tastatur</alt></f>  schreiben.</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1031_0002003" id="9">
+  <input>Und dieser Anfang ist für <f id="1">an adult</f>  schwer.</input>
+  <ref>Und dieser Anfang ist für <f id="1">einen Erwachsenen</f>  schwer.</ref>
+</s>
+<s category="pp" source="Mittelpunkt B2 - Klett" id="10">
+  <input>Protestiert wird gegen die geplanten Balkone, die <f id="1">in the direction</f>  der Nachbarn weisen.</input>
+  <ref>Protestiert wird gegen die geplanten Balkone, die <f id="1">in die Richtung<alt>in Richtung</alt></f>  der Nachbarn weisen.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="11">
+  <input>Er sah, dass <f id="1">the luggage</f>  aus frei Koffern bestand.</input>
+  <ref>Er sah, dass <f id="1">das Gepäck</f>  aus frei Koffern bestand.</ref>
+</s>
+<s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="12">
+  <input>Es gibt leider <f id="1">still</f>  zu viele Arbeitslose.</input>
+  <ref>Es gibt leider <f id="1">noch immer<alt>immernoch</alt><alt>immer noch</alt></f>  zu viele Arbeitslose.</ref>
+</s>
+<s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="13">
+  <input>Die Konservativen wollen die <f id="1">existing</f>  Verhältnisse beibehalten.</input>
+  <ref>Die Konservativen wollen die <f id="1">bestehenden</f>  Verhältnisse beibehalten.</ref>
+</s>
+<s category="pp" source="MERLIN Learner Corpus,  docid=1061_0120373" id="14">
+  <input>Tobias geht schon in die Schule dieses Jahr und Julia ist jetzt <f id="1">in third grade</f>  .</input>
+  <ref>Tobias geht schon in die Schule dieses Jahr und Julia ist jetzt <f id="1">in der dritten Klasse</f>  .</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="15">
+  <input>Die neuen <f id="1">neighbours</f>  haben sich gut in die neue Umgebung eingewöhnt.</input>
+  <ref>Die neuen <f id="1">Nachbarn</f>  haben sich gut in die neue Umgebung eingewöhnt.</ref>
+</s>
+<s category="adv" source="SCHUBERT-Verlag Leipzig" id="16">
+  <input>Mancherorts beginnt der Tag <f id="1">now</f>  mit Dunst- und Nebelfeldern.</input>
+  <ref>Mancherorts beginnt der Tag <f id="1">jetzt<alt>nun</alt></f>  mit Dunst- und Nebelfeldern.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="17">
+  <input>Bei pubertierende Jugendlichen sind verstärkt soziale <f id="1">prejudices</f>  zu beobachten.</input>
+  <ref>Bei pubertierende Jugendlichen sind verstärkt soziale <f id="1">Vorurteile</f>  zu beobachten.</ref>
+</s>
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="18">
+  <input>Trauriger Spitzenreiter beim Tod durch Verbrechen sind die <f id="1">Latvians</f>  .</input>
+  <ref>Trauriger Spitzenreiter beim Tod durch Verbrechen sind die <f id="1">Letten</f>  .</ref>
+</s>
+<s category="adv" source="SCHUBERT-Verlag Leipzig" id="19">
+  <input>Haben Sie <f id="1">yourself</f>  ein Weblog oder lesen Sie von anderen das Weblog?</input>
+  <ref>Haben Sie <f id="1">selbst</f>  ein Weblog oder lesen Sie von anderen das Weblog?</ref>
+</s>
+<s category="a" source="Mittelpunkt B2 - Klett" id="20">
+  <input>Es ist ganz <f id="1">pleasant</f>  , mal Abstand zu haben.</input>
+  <ref>Es ist ganz <f id="1">angenehm</f>  , mal Abstand zu haben.</ref>
+</s>
+<s category="pp" source="Prisma Grammatica Duits" id="21">
+  <input>Er hat den Verein <f id="1">until his death</f>  besucht.</input>
+  <ref>Er hat den Verein <f id="1">bis zu seinem Tode<alt>bis zu seinem Tod</alt></f>  besucht.</ref>
+</s>
+<s category="p" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="22">
+  <input>Er arbeitet <f id="1">at</f>  der Eisenbahn.</input>
+  <ref>Er arbeitet <f id="1">bei</f>  der Eisenbahn.</ref>
+</s>
+<s category="adv" source=" MERLIN Learner Corpus,  docid=1061_0120405" id="23">
+  <input>Aber leider muss ich <f id="1">here</f>  in Dortmund bleiben zum Arbeiten und Deutsch weiterlernen.</input>
+  <ref>Aber leider muss ich <f id="1">hier</f>  in Dortmund bleiben zum Arbeiten und Deutsch weiterlernen.</ref>
+</s>
+<s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="24">
+  <input>Das Medikament ist in jeder Apotheke <f id="1">available</f>  .</input>
+  <ref>Das Medikament ist in jeder Apotheke <f id="1">erhältich<alt>verfügbar</alt><alt>vorhanden</alt><alt>vorliegend</alt><alt>zur Verfügung</alt></f>  .</ref>
+</s>
+<s category="expr" source="MERLIN Learner Corpus,  docid=1031_0003162" id="25">
+  <input>Wenn Sie eine Wohnung vermieten oder kaufen möchten, sollten Sie das nicht <f id="1">through the internet</f>  machen.</input>
+  <ref>Wenn Sie eine Wohnung vermieten oder kaufen möchten, sollten Sie das nicht <f id="1">per Internet<alt>über das Internet</alt><alt>durch das Internet</alt></f>  machen.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="26">
+  <input>Ihr Baby <f id="1">needs</f>  sie ständig.</input>
+  <ref>Ihr Baby <f id="1">braucht</f>  sie ständig.</ref>
+</s>
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="27">
+  <input>Viele <f id="1">family members</f>  und Freunde haben uns in Ostberlin besucht.</input>
+  <ref>Viele <f id="1">Verwandte<alt>Familienmitglieder</alt><alt>Familienangehörige</alt><alt>Angehörige</alt></f>  und Freunde haben uns in Ostberlin besucht.</ref>
+</s>
+<s category="p" source="SCHUBERT-Verlag Leipzig" id="28">
+  <input>Wenden Sie sich <f id="1">to</f>  den Hersteller, falls das Problem erneut auftritt.</input>
+  <ref>Wenden Sie sich <f id="1">an</f>  den Hersteller, falls das Problem erneut auftritt.</ref>
+</s>
+<s category="pp" source="Mittelpunkt B2 - Klett" id="29">
+  <input>Jan spricht <f id="1">only with him</f>  darüber.</input>
+  <ref>Jan spricht <f id="1">nur mit ihm</f>  darüber.</ref>
+</s>
+<s category="n" source="Mittelpunkt B2 - Klett" id="30">
+  <input>Oft gibt es <f id="1">various reasons</f>  für das Dilemma.</input>
+  <ref>Oft gibt es <f id="1">verschiedene Gründe<alt>verschiedene Ursache</alt><alt>mehrere Gründe</alt></f>  für das Dilemma.</ref>
+</s>
+<s category="pp" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="31">
+  <input>In den Bergen ist es <f id="1">in every season</f>  schön.</input>
+  <ref>In den Bergen ist es <f id="1">in jeder Jahreszeit<alt>in jeder Saison</alt></f>  schön.</ref>
+</s>
+<s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="32">
+  <input>Eine Regelung empfindet die Gesellschaft als <f id="1">necessary</f></input>
+  <ref>Eine Regelung empfindet die Gesellschaft als <f id="1">notwendig<alt>nötig</alt><alt>erforderlich</alt></f></ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="33">
+  <input>Eltern <f id="1">complain</f>  immer darüber.</input>
+  <ref>Eltern <f id="1">klagen<alt>beschweren sich</alt><alt>beklagen sich</alt></f>  immer darüber.</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="34">
+  <input>Geräte wie Handys sind <f id="1">not permitted</f>  wenn sie nicht unterrichtlichen Belangen dienen.</input>
+  <ref>Geräte wie Handys sind <f id="1">nicht erlaubt<alt>nicht zugelassen</alt><alt>nicht zulässig</alt><alt>verboten</alt></f>  wenn sie nicht unterrichtlichen Belangen dienen.</ref>
+</s>
+<s category="adv" source="MERLIN Learner Corpus,  docid=1031_0002006" id="35">
+  <input>Wenn Sie sich für unsere Firma entschieden haben, dann kriegen Sie <f id="1">both</f>  einen anspruchsvollen Job, als auch die Möglichkeit das Leben in Köln zu genießen.</input>
+  <ref>Wenn Sie sich für unsere Firma entschieden haben, dann kriegen Sie <f id="1">sowohl</f>  einen anspruchsvollen Job, als auch die Möglichkeit das Leben in Köln zu genießen.</ref>
+</s>
+<s category="g" source="MERLIN Learner Corpus,  docid=1031_0001997" id="36">
+  <input>Ich bin <f id="1">totally ready</f>  mich anzupassen an das Land, wo ich lebe.</input>
+  <ref>Ich bin <f id="1">total bereit<alt>völlig bereit</alt><alt>komplett bereit</alt><alt>absolut bereit</alt></f>  mich anzupassen an das Land, wo ich lebe.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="37">
+  <input>Du kannst deinen Charakter nicht <f id="1">change</f>  .</input>
+  <ref>Du kannst deinen Charakter nicht <f id="1">ändern<alt>verändern</alt></f>  .</ref>
+</s>
+<s category="pp" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="38">
+  <input>Wir sehnen uns nach einem Leben <f id="1">without pain</f>  .</input>
+  <ref>Wir sehnen uns nach einem Leben <f id="1">ohne Schmerz</f>  .</ref>
+</s>
+<s category="v" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="39">
+  <input>Er <f id="1">ran</f>  im Morgenmantel zum Bäcker.</input>
+  <ref>Er <f id="1">rannte</f>  im Morgenmantel zum Bäcker.</ref>
+</s>
+<s category="pp" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="40">
+  <input>Kombiniere ich aber das alles <f id="1">in one device</f>  , kommt ein unbrauchbarer Kompromiss dabei heraus.</input>
+  <ref>Kombiniere ich aber das alles <f id="1">in einem Gerät</f>  , kommt ein unbrauchbarer Kompromiss dabei heraus.</ref>
+</s>
+<s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="41">
+  <input>In einem Büro wird es für mich schnell <f id="1">boring</f>  .</input>
+  <ref>In einem Büro wird es für mich schnell <f id="1">langweilig</f>  .</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="42">
+  <input>Greenpeace richtet sich gegen <f id="1">the destruction</f>  der Umwelt.</input>
+  <ref>Greenpeace richtet sich gegen <f id="1">die Zerstörung<alt>die Vernichtung</alt></f>  der Umwelt.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="43">
+  <input>In dieser Fabrik werden Fahrräder <f id="1">produced</f>  .</input>
+  <ref>In dieser Fabrik werden Fahrräder <f id="1">hergestellt<alt>produziert</alt></f>  .</ref>
+</s>
+<s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="44">
+  <input>Ich finde es <f id="1">unjust</f>  , dass Sie jeden Tag schon um 16 Uhr Feierabend machen.</input>
+  <ref>Ich finde es <f id="1">ungerecht</f>  , dass Sie jeden Tag schon um 16 Uhr Feierabend machen.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="45">
+  <input>Vertrauen ist der Grundstein jeder <f id="1">relationship</f>  .</input>
+  <ref>Vertrauen ist der Grundstein jeder <f id="1">Beziehung</f>  .</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="46">
+  <input>Mit weniger Ressourcen sollen höhere <f id="1">results</f>  erreicht werden.</input>
+  <ref>Mit weniger Ressourcen sollen höhere <f id="1">Ergebnisse<alt>Resultate</alt></f>  erreicht werden.</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1061_0120486" id="47">
+  <input>Ich habe einen guten Chef und <f id="1">the office</f>  liegt in der Nähe von meinem Haus.</input>
+  <ref>Ich habe einen guten Chef und <f id="1">das Büro</f>  liegt in der Nähe von meinem Haus.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="48">
+  <input>Ich bin froh, <f id="1">to be healthy</f>  .</input>
+  <ref>Ich bin froh, <f id="1">gesund zu sein</f>  .</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="49">
+  <input>Ich habe dich <f id="1">understood correctly</f>  .</input>
+  <ref>Ich habe dich <f id="1">richtig verstanden<alt>gut verstanden</alt></f>  .</ref>
+</s>
+<s category="adv" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="50">
+  <input>Er fuhr <f id="1">immediately after</f>  der Arbeit nach Hause.</input>
+  <ref>Er fuhr <f id="1">unmittelbar nach<alt>sofort nach</alt><alt>direkt nach</alt></f>  der Arbeit nach Hause.</ref>
+</s>
+<s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="51">
+  <input>Es ist so, dass <f id="1">educated</f>  Personen ein höheres Risiko eines fatalen Gehirnschlages tragen.</input>
+  <ref>Es ist so, dass <f id="1">gebildete<alt>gut ausgebildete</alt><alt>ausgebildete</alt></f>  Personen ein höheres Risiko eines fatalen Gehirnschlages tragen.</ref>
+</s>
+<s category="n" source="Mittelpunkt B2 - Klett" id="52">
+  <input>Wir streben nach Attraktivität und <f id="1">beauty</f>  .</input>
+  <ref>Wir streben nach Attraktivität und <f id="1">Schönheit</f>  .</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1061_0120421" id="53">
+  <input>In der Silvesternacht sind mein <f id="1">husband</f>  und ich auf die Bahnhofstraße gegangen.</input>
+  <ref>In der Silvesternacht sind mein <f id="1">Mann<alt>Ehemann</alt></f>  und ich auf die Bahnhofstraße gegangen.</ref>
+</s>
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="54">
+  <input>Das jährliche Pferderennen in Aachen zieht viele Besucher aus <f id="1">near and far</f>  an.</input>
+  <ref>Das jährliche Pferderennen in Aachen zieht viele Besucher aus <f id="1">nah und fern</f>  an.</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1071_0242092" id="55">
+  <input>Der <f id="1">Father</f>  heißt Friedreich.</input>
+  <ref>Der <f id="1">Vater</f>  heißt Friedreich.</ref>
+</s>
+<s category="adv" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="56">
+  <input>Der Text ist <f id="1">easy to understand</f>  für Kinder.</input>
+  <ref>Der Text ist <f id="1">leicht verständlich<alt>gut verständlich</alt><alt>leicht zu verstehen</alt><alt>einfach zu verstehen</alt></f>  für Kinder.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="57">
+  <input>Das ist möglicherweise auch ein Grund für <f id="1">this development</f>  .</input>
+  <ref>Das ist möglicherweise auch ein Grund für <f id="1">diese Entwicklung</f>  .</ref>
+</s>
+<s category="adj" source="SCHUBERT-Verlag Leipzig" id="58">
+  <input>In <f id="1">ten</f>  Minuten beginnt die Konferenz und der Rechner hat gerade das fertige Referat gefressen.</input>
+  <ref>In <f id="1">zehn</f>  Minuten beginnt die Konferenz und der Rechner hat gerade das fertige Referat gefressen.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="59">
+  <input>Eine genetische Veranlagung <f id="1">plays a decisive role</f>  .</input>
+  <ref>Eine genetische Veranlagung <f id="1">spielt eine entscheidende Rolle<alt>spielt dabei eine entscheidende Rolle</alt></f>  .</ref>
+</s>
+<s category="adj" source="SCHUBERT-Verlag Leipzig" id="60">
+  <input>Das Programm wird automatisch beendet, alle nicht <f id="1">saved</f>  Daten gehen verloren.</input>
+  <ref>Das Programm wird automatisch beendet, alle nicht <f id="1">gespeicherten</f>  Daten gehen verloren.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="61">
+  <input>Dies ist der erste Versuch, ein Sammelwerk von Handschriften <f id="1">to publish</f>  .</input>
+  <ref>Dies ist der erste Versuch, ein Sammelwerk von Handschriften <f id="1">zu publizieren<alt>zu veröffentlichen</alt></f>  .</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="62">
+  <input>Wir <f id="1">have decided</f>  , konstruktiver mit Fehlern umzugehen.</input>
+  <ref>Wir <f id="1">haben beschlossen<alt>haben entscheiden</alt></f>  , konstruktiver mit Fehlern umzugehen.</ref>
+</s>
+<s category="expr" source="MERLIN Learner Corpus, docid=1061_0120347" id="63">
+  <input>Wenn Sie im August <f id="1">room</f>  haben, dann kann meine Frau mit der Arbeit anfangen.</input>
+  <ref>Wenn Sie im August <f id="1">Platz<alt>Raum</alt><alt>Zimmer</alt></f>  haben, dann kann meine Frau mit der Arbeit anfangen.</ref>
+</s>
+<s category="adv" source="MERLIN Learner Corpus,  docid=1023_0103841" id="64">
+  <input>Mein Beruf ist <f id="1">unfortunately</f>  bei den Frauen nicht populär, aber ich bin mit meiner Entscheidung zufrieden.</input>
+  <ref>Mein Beruf ist <f id="1">leider<alt>bedauerlicherweise</alt></f>  bei den Frauen nicht populär, aber ich bin mit meiner Entscheidung zufrieden.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="65">
+  <input>Ich <f id="1">would suggest</f>  , regelmäßig Sport zu treiben.</input>
+  <ref>Ich <f id="1">würde vorschlagen</f>  , regelmäßig Sport zu treiben.</ref>
+</s>
+<s category="n" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="66">
+  <input>Die <f id="1">murder of</f>  Walter Sedlmayr beschäftigte uns monatelang.</input>
+  <ref>Die <f id="1">Ermordung von</f>  Walter Sedlmayr beschäftigte uns monatelang.</ref>
+</s>
+<s category="a" source="Mittelpunkt B2 - Klett" id="67">
+  <input>Ein <f id="1">considerate</f>  Mann bringt ihr öfter mal Blumen mit.</input>
+  <ref>Ein <f id="1">aufmerksamer</f>  Mann bringt ihr öfter mal Blumen mit.</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="68">
+  <input>Meinen Sie das <f id="1">seriously</f>  ?</input>
+  <ref>Meinen Sie das <f id="1">im Ernst<alt>ernsthaft</alt></f>  ?</ref>
+</s>
+<s category="adv" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="69">
+  <input>Er wurde <f id="1">on time</f>  vor der drohenden Gefahr gewarnt.</input>
+  <ref>Er wurde <f id="1">rechtzeitig<alt>pünktlich</alt></f>  vor der drohenden Gefahr gewarnt.</ref>
+</s>
+<s category="n" source=" MERLIN Learner Corpus,  docid=1031_0003219" id="70">
+  <input>Ich möchte immer mehr wissen über <f id="1">the different cultures</f>  .</input>
+  <ref>Ich möchte immer mehr wissen über <f id="1">die verschiedenen Kulturen<alt>die unterschiedlichen Kulturen</alt></f>  .</ref>
+</s>
+<s category="v" source="MERLIN Learner Corpus,  docid=1031_0001998" id="71">
+  <input>Obwohl ich sie noch nicht verstehen <f id="1">could</f>  , habe ich sofort probiert mit den Einwohnern in Kontakt zu kommen.</input>
+  <ref>Obwohl ich sie noch nicht verstehen <f id="1">konnte</f>  , habe ich sofort probiert mit den Einwohnern in Kontakt zu kommen.</ref>
+</s>
+<s category="adv" source="MERLIN Learner Corpus,  docid=1031_0001949" id="72">
+  <input>Wenn man <f id="1">for example</f>  als Spezialist kommt, um an einem befristeten Projekt teilzunehmen, kann man sich leisten, nicht in die Tiefe zu gehen.</input>
+  <ref>Wenn man <f id="1">z.B.<alt>beispielsweise</alt><alt>zum Beispiel</alt></f>  als Spezialist kommt, um an einem befristeten Projekt teilzunehmen, kann man sich leisten, nicht in die Tiefe zu gehen.</ref>
+</s>
+<s category="adv" source="MERLIN Learner Corpus,  docid=1071_0024685" id="73">
+  <input>Ich freue mich sehr, dass wir uns seit April <f id="1">more often</f>  treffen können.</input>
+  <ref>Ich freue mich sehr, dass wir uns seit April <f id="1">öfter<alt>häufiger</alt></f>  treffen können.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="74">
+  <input><f id="1">This reservation</f>  konnte die Forschungsgruppe jetzt entkräften.</input>
+  <ref><f id="1">Diese Vorbehalte</f>  konnte die Forschungsgruppe jetzt entkräften.</ref>
+</s>
+<s category="p" source="Mittelpunkt B2 - Klett" id="75">
+  <input>Das Bild gefällt mir, <f id="1">even though</f>  es sehr modern ist.</input>
+  <ref>Das Bild gefällt mir, <f id="1">obwohl</f>  es sehr modern ist.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="76">
+  <input>Ich <f id="1">take</f>  jetzt eine Tablette und dann geht es mir wieder gut.</input>
+  <ref>Ich <f id="1">nehme</f>  jetzt eine Tablette und dann geht es mir wieder gut.</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1023_0001416" id="77">
+  <input>Ich wäre Ihnen sehr dankbar, wenn Sie mir weitere Informationen über Rechte, <f id="1">obligations</f>  und Aufenthaltsformalitäten zuschicken könnten.</input>
+  <ref>Ich wäre Ihnen sehr dankbar, wenn Sie mir weitere Informationen über Rechte, <f id="1">Pflichten<alt>Verpflichtungen</alt></f>  und Aufenthaltsformalitäten zuschicken könnten.</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="78">
+  <input>Ich arbeite <f id="1">mainly</f>  im Sommer.</input>
+  <ref>Ich arbeite <f id="1">hauptsächlich<alt>vor allem</alt></f>  im Sommer.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="79">
+  <input>Mach doch nicht immer solche <f id="1">jokes</f>  !</input>
+  <ref>Mach doch nicht immer solche <f id="1">Witze<alt>Späße</alt><alt>Scherze</alt></f>  !</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="80">
+  <input>Wir werden <f id="1">energy sources</f>  nutzen, die direkt von der Sonne stammen.</input>
+  <ref>Wir werden <f id="1">Energiequellen</f>  nutzen, die direkt von der Sonne stammen.</ref>
+</s>
+<s category="pp" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="81">
+  <input>Wir leben <f id="1">in the age</f>  der Raumfahrt.</input>
+  <ref>Wir leben <f id="1">im Zeitalter</f>  der Raumfahrt.</ref>
+</s>
+<s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="82">
+  <input>Sei nicht so <f id="1">stupid</f>  !</input>
+  <ref>Sei nicht so <f id="1">blöd<alt>dumm</alt><alt>doof</alt></f>  !</ref>
+</s>
+<s category="p" source="Mittelpunkt B2 - Klett" id="83">
+  <input><f id="1">Instead of</f>  gleich mit dem Studium anzufangen, machte Ruth nach dem Abitur eine Weltreise.</input>
+  <ref><f id="1">Statt<alt>Anstatt</alt></f>  gleich mit dem Studium anzufangen, machte Ruth nach dem Abitur eine Weltreise.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="84">
+  <input>Hier gibt es <f id="1">the possibility</f>  , auch von zu Hause aus am Computer zu arbeiten.</input>
+  <ref>Hier gibt es <f id="1">die Möglichkeit</f>  , auch von zu Hause aus am Computer zu arbeiten.</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="85">
+  <input>Sie hat <f id="1">unfortunately</f>  keine Arbeit gefunden.</input>
+  <ref>Sie hat <f id="1">leider<alt>unglücklicherweise</alt><alt>bedauerlicherweise</alt></f>  keine Arbeit gefunden.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="86">
+  <input>Sie wollen <f id="1">their identity</f>  behalten.</input>
+  <ref>Sie wollen <f id="1">ihre Identität</f>  behalten.</ref>
+</s>
+<s category="p" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="87">
+  <input><f id="1">Therefore</f>  setze ich meine Hoffnung auf die Vertiefung der europäischen Integration.</input>
+  <ref><f id="1">Deshalb<alt>Darum</alt><alt>Deswegen</alt></f>  setze ich meine Hoffnung auf die Vertiefung der europäischen Integration.</ref>
+</s>
+<s category="p" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="88">
+  <input>Welches Buch empfehlen Sie <f id="1">me</f>  ?</input>
+  <ref>Welches Buch empfehlen Sie <f id="1">mir</f>  ?</ref>
+</s>
+<s category="expr" source="MERLIN Learner Corpus,  docid=1031_0002003" id="89">
+  <input>Aber gut, ich bin schon seit 2 Jahren in Deutschland und trotz der Schwierigkeiten, Arbeit zu finden, <f id="1">I like it very much</f>  .</input>
+  <ref>Aber gut, ich bin schon seit 2 Jahren in Deutschland und trotz der Schwierigkeiten, Arbeit zu finden, <f id="1">gefällt mir das sehr gut<alt>gefällt es mir sehr gut</alt><alt>mag ich es gerne</alt><alt>gefällt es mir sehr</alt></f>  .</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="90">
+  <input>Du meinst die Frage nicht <f id="1">seriously</f>  , oder?</input>
+  <ref>Du meinst die Frage nicht <f id="1">ernst<alt>ernsthaft</alt></f>  , oder?</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="91">
+  <input>Ich <f id="1">am interested in</f>  diese Geschichten.</input>
+  <ref>Ich <f id="1">interessiere mich für</f>  diese Geschichten.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="92">
+  <input>Das müssen Sie mir aber genauer <f id="1">explain</f>  .</input>
+  <ref>Das müssen Sie mir aber genauer <f id="1">erklären<alt>erläutern</alt></f>  .</ref>
+</s>
+<s category="det" source="1031_0002005" id="93">
+  <input>Die Kultur dieser Länder in der Entwicklung und in <f id="1">the</f>  Geschichte ist enorm.</input>
+  <ref>Die Kultur dieser Länder in der Entwicklung und in <f id="1">der</f>  Geschichte ist enorm.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="94">
+  <input><f id="1">The attack</f>  geschah durch Bomben.</input>
+  <ref><f id="1">Der Angriff<alt>Der Anschlag</alt></f>  geschah durch Bomben.</ref>
+</s>
+<s category="v" source="MERLIN Learner Corpus,  docid=1031_0003097" id="95">
+  <input>Das Klima hier ist <f id="1">tropical</f>  und wir haben fast keinen Winter.</input>
+  <ref>Das Klima hier ist <f id="1">tropisch</f>  und wir haben fast keinen Winter.</ref>
+</s>
+<s category="p" source="Mittelpunkt B2 - Klett" id="96">
+  <input><f id="1">Either</f>  können uns besondere Ereignisse friedlich stimmen oder sie stimmen uns nervös.</input>
+  <ref><f id="1">Entweder</f>  können uns besondere Ereignisse friedlich stimmen oder sie stimmen uns nervös.</ref>
+</s>
+<s category="comp" source="Mittelpunkt B2 - Klett" id="97">
+  <input>Ich verdiene mein Geld <f id="1">as a musician</f>  .</input>
+  <ref>Ich verdiene mein Geld <f id="1">als Musiker</f>  .</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="98">
+  <input>Ich will ihn nicht <f id="1">hurt</f>  .</input>
+  <ref>Ich will ihn nicht <f id="1">schädigen<alt>verletzen</alt><alt>weh tun</alt><alt>schaden</alt></f>  .</ref>
+</s>
+<s category="pp" source="SCHUBERT-Verlag Leipzig" id="99">
+  <input><f id="1">In the east</f>  ziehen im Laufe des Tages größere Wolkenfelder vorbei.</input>
+  <ref><f id="1">Im Osten</f>  ziehen im Laufe des Tages größere Wolkenfelder vorbei.</ref>
+</s>
+<s category="p" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="100">
+  <input>Ich sehe ein Licht <f id="1">somewhere</f>  in der Ferne.</input>
+  <ref>Ich sehe ein Licht <f id="1">irgendwo</f>  in der Ferne.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="101">
+  <input>Die meisten Eltern <f id="1">fear</f>  einen starken negativen Einfluss des Computers auf ihr Kind.</input>
+  <ref>Die meisten Eltern <f id="1">befürchten<alt>fürchten</alt><alt>haben Angst vor</alt></f>  einen starken negativen Einfluss des Computers auf ihr Kind.</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="102">
+  <input>Wir sprechen <f id="1">not anymore</f>  mit ihm.</input>
+  <ref>Wir sprechen <f id="1">nicht mehr</f>  mit ihm.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="103">
+  <input>Die Entwicklung können wir heute schon bei <f id="1">all decisions</f>  berücksichtigen.</input>
+  <ref>Die Entwicklung können wir heute schon bei <f id="1">allen Entscheidungen</f>  berücksichtigen.</ref>
+</s>
+<s category="pp" source="Mittelpunkt B2 - Klett" id="104">
+  <input>Der Nachbar <f id="1">from the first floor</f>  hat schon zum zehnten Mal sein Auto vor unserer Einfahrt geparkt.</input>
+  <ref>Der Nachbar <f id="1">aus dem ersten Stock</f>  hat schon zum zehnten Mal sein Auto vor unserer Einfahrt geparkt.</ref>
+</s>
+<s category="pp" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="105">
+  <input>Schon bald kam er <f id="1">to the realisation</f>  , dass er seine Meinung ändern müsste.</input>
+  <ref>Schon bald kam er <f id="1">zu der Erkenntis<alt>zu der Einsicht</alt></f>  , dass er seine Meinung ändern müsste.</ref>
+</s>
+<s category="adv" source="SCHUBERT-Verlag Leipzig" id="106">
+  <input><f id="1">Only</f>  in den Bayerischen Alpen halten sich dichte Wolken.</input>
+  <ref><f id="1">Lediglich<alt>nur</alt><alt>Bloß</alt><alt>einzig</alt><alt>Nur</alt></f>  in den Bayerischen Alpen halten sich dichte Wolken.</ref>
+</s>
+<s category="n" source=" MERLIN Learner Corpus,  docid=1031_0001949" id="107">
+  <input>Meiner Meinung nach soll <f id="1">every foreigner</f>  den Ausgleich für sich finden und behalten.</input>
+  <ref>Meiner Meinung nach soll <f id="1">jeder Ausländer</f>  den Ausgleich für sich finden und behalten.</ref>
+</s>
+<s category="v" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="108">
+  <input>Er hat den Studenten mit dem teuren Auto <f id="1">impressed</f>  .</input>
+  <ref>Er hat den Studenten mit dem teuren Auto <f id="1">beeindruckt</f>  .</ref>
+</s>
+<s category="p" source="SCHUBERT-Verlag Leipzig" id="109">
+  <input>Ich war gerade drei Jahre als die Mauer gebaut worden ist, und ich kann mich natürlich selbst nicht <f id="1">from</f>  diesen Tag erinneren.</input>
+  <ref>Ich war gerade drei Jahre als die Mauer gebaut worden ist, und ich kann mich natürlich selbst nicht <f id="1">an</f>  diesen Tag erinneren.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="110">
+  <input>Der Arzt <f id="1">heals</f>  den Kranken.</input>
+  <ref>Der Arzt <f id="1">kuriert<alt>heilt</alt></f>  den Kranken.</ref>
+</s>
+<s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="111">
+  <input>In der <f id="1">former</f>  DDR gab es viele Stasi-Spitzel.</input>
+  <ref>In der <f id="1">ehemaligen<alt>früheren</alt></f>  DDR gab es viele Stasi-Spitzel.</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="112">
+  <input>So bereiten wir die heutige Schülergeneration <f id="1">successfully</f>  auf das Berufsleben vor.</input>
+  <ref>So bereiten wir die heutige Schülergeneration <f id="1">erfolgreich<alt>mit Erfolg</alt></f>  auf das Berufsleben vor.</ref>
+</s>
+<s category="p" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="113">
+  <input><f id="1">From the perspective</f>  der Polizei war die schöne Frau die Mörderin.</input>
+  <ref><f id="1">Aus der Perspektive<alt>Aus Sicht</alt><alt>Aus der Sicht</alt></f>  der Polizei war die schöne Frau die Mörderin.</ref>
+</s>
+<s category="v" source="MERLIN Learner Corpus,  docid=1031_0002005" id="114">
+  <input>Ohne die Sprache kann man sich nicht äußern und man wird sozusagen ein <f id="1">outsider</f>  .</input>
+  <ref>Ohne die Sprache kann man sich nicht äußern und man wird sozusagen ein <f id="1">Außenseiter<alt>Aussenseiter</alt><alt>Außenstehender</alt><alt>Aussenstehender</alt></f>  .</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="115">
+  <input>Mit modernen Technologien wie iPods ist es <f id="1">even</f>  möglich immer und überall jede beliebige Musik zu hören.</input>
+  <ref>Mit modernen Technologien wie iPods ist es <f id="1">sogar</f>  möglich immer und überall jede beliebige Musik zu hören.</ref>
+</s>
+<s category="v" id="116">
+  <input>Er <f id="1">takes into account</f>  die Interessen unseres Vaters.</input>
+  <ref>Er <f id="1">berücksichtigt</f>  die Interessen unseres Vaters.</ref>
+</s>
+<s category="p" source="Mittelpunkt B2 - Klett" id="117">
+  <input><f id="1">After</f>  eine 20-stündigen Reise kamen wir gegen 14 Uhr todmüde im Hotel an.</input>
+  <ref><f id="1">Nach</f>  eine 20-stündigen Reise kamen wir gegen 14 Uhr todmüde im Hotel an.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="118">
+  <input>Du weißt, was du vom Leben <f id="1">can expect</f>  .</input>
+  <ref>Du weißt, was du vom Leben <f id="1">erwarten kannst</f>  .</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1061_0120498" id="119">
+  <input>Zuerst haben meine Mutter und meine Großmutter das <f id="1">dinner</f>  gekocht und danach hat die ganze Familie zusammen gegessen.</input>
+  <ref>Zuerst haben meine Mutter und meine Großmutter das <f id="1">Abendessen<alt>Essen</alt></f>  gekocht und danach hat die ganze Familie zusammen gegessen.</ref>
+</s>
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="120">
+  <input>Nach den Angaben dieser Dokumentation haben die Franzosen mit 83,8 Jahren die höchste <f id="1">life expectancy</f>  .</input>
+  <ref>Nach den Angaben dieser Dokumentation haben die Franzosen mit 83,8 Jahren die höchste <f id="1">Lebenserwartung</f>  .</ref>
+</s>
+<s category="adj" source="SCHUBERT-Verlag Leipzig" id="121">
+  <input>Manche <f id="1">of her</f>  Geschichten habe ich im Laufe der Jahre bestimmt 30-mal gehört.</input>
+  <ref>Manche <f id="1">ihrer</f>  Geschichten habe ich im Laufe der Jahre bestimmt 30-mal gehört.</ref>
+</s>
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="122">
+  <input>Denn Computerfrust wirkt sich auf die <f id="1">work motivation</f>  negativ aus und sogar auf die Lebenszufriedenheit der Mitarbeiter, ermittelte die Sozialverhaltenswissenschaftlerin Marleen Brinks in ihrer Studie „Aggression gegen Computer".</input>
+  <ref>Denn Computerfrust wirkt sich auf die <f id="1">Arbeitsmotivation<alt>Arbeitsmoral</alt></f>  negativ aus und sogar auf die Lebenszufriedenheit der Mitarbeiter, ermittelte die Sozialverhaltenswissenschaftlerin Marleen Brinks in ihrer Studie „Aggression gegen Computer".</ref>
+</s>
+<s category="n" source="Mittelpunkt B2 - Klett" id="123">
+  <input>Es ist spannend, eine neue Stadt und <f id="1">new people</f>  kennen zu lernen.</input>
+  <ref>Es ist spannend, eine neue Stadt und <f id="1">neue Leute<alt>neue Menschen</alt><alt>neue Personen</alt></f>  kennen zu lernen.</ref>
+</s>
+<s category="pp" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="124">
+  <input>Es gibt einen interessanten Film <f id="1">on TV</f>  .</input>
+  <ref>Es gibt einen interessanten Film <f id="1">im Fernsehen</f>  .</ref>
+</s>
+<s category="p" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="125">
+  <input><f id="1">Nevertheless</f>  hat sich die neue Bundesrepublik Deutschland unter amerikanischem Druck an der militärischen Einmischung auf dem Balkan beteiligt.</input>
+  <ref><f id="1">Trotzdem<alt>Nichtsdestotrotz</alt></f>  hat sich die neue Bundesrepublik Deutschland unter amerikanischem Druck an der militärischen Einmischung auf dem Balkan beteiligt.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="126">
+  <input>Ihr Gesicht ist ganz rot und <f id="1">burns</f>  wie Feuer.</input>
+  <ref>Ihr Gesicht ist ganz rot und <f id="1">brennt</f>  wie Feuer.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="127">
+  <input>Man konnte <f id="1">imagine</f>  , ein Gebäude zu konstruieren, das die Umwelt nicht zerstört.</input>
+  <ref>Man konnte <f id="1">sich vorstellen</f>  , ein Gebäude zu konstruieren, das die Umwelt nicht zerstört.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="128">
+  <input>Der Täter wurde <f id="1">arrested</f>  .</input>
+  <ref>Der Täter wurde <f id="1">verhaftet<alt>festgenomen</alt></f>  .</ref>
+</s>
+<s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="129">
+  <input>Sie benimmt sich immer so <f id="1">childish</f>  .</input>
+  <ref>Sie benimmt sich immer so <f id="1">kindlich<alt>kindisch</alt></f>  .</ref>
+</s>
+<s category="v" source="MERLIN Learner Corpus,  docid=1031_0001950" id="130">
+  <input>Und wenn jemand mich fragt, <f id="1">tell</f>  ich gerne über meine weitere zweite Heimat.</input>
+  <ref>Und wenn jemand mich fragt, <f id="1">erzähle</f>  ich gerne über meine weitere zweite Heimat.</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="131">
+  <input>Wir haben <f id="1">in recent years</f>  einen enormen Verfall der Preise von elektronischen Geräten erfahren.</input>
+  <ref>Wir haben <f id="1">in den vergangenen Jahren<alt>in den letzten Jahren</alt></f>  einen enormen Verfall der Preise von elektronischen Geräten erfahren.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="132">
+  <input>Jugendliche und <f id="1">adults</f>  haben oft verschiedene Meinungen.</input>
+  <ref>Jugendliche und <f id="1">Erwachsene</f>  haben oft verschiedene Meinungen.</ref>
+</s>
+<s category="p" source="Mittelpunkt B2 - Klett" id="133">
+  <input><f id="1">Despite</f>  des günstigen Preises würde ich das nicht kaufen.</input>
+  <ref><f id="1">Trotz</f>  des günstigen Preises würde ich das nicht kaufen.</ref>
+</s>
+<s category="adj" source="SCHUBERT-Verlag Leipzig" id="134">
+  <input>Darin steckt <f id="1">huge</f>  negatives Potenzial.</input>
+  <ref>Darin steckt <f id="1">gewaltiges<alt>riesiges</alt><alt>enormes</alt><alt>großes</alt></f>  negatives Potenzial.</ref>
+</s>
+<s category="v" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="135">
+  <input>Er hat ihr ein Buch <f id="1">given</f>  .</input>
+  <ref>Er hat ihr ein Buch <f id="1">geschenkt<alt>gegeben</alt></f>  .</ref>
+</s>
+<s category="adj" source="MERLIN Learner Corpus,  docid=1023_0104209" id="136">
+  <input>Mit <f id="1">your</f>  Agentur kann ich hoffentlich einen Job finden und am Wochenende die Spanisch-Schule besuchen.</input>
+  <ref>Mit <f id="1">Ihrer<alt>deiner</alt></f>  Agentur kann ich hoffentlich einen Job finden und am Wochenende die Spanisch-Schule besuchen.</ref>
+</s>
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="137">
+  <input>Computer sind intelligente <f id="1">beings</f>  .</input>
+  <ref>Computer sind intelligente <f id="1">Wesen</f>  .</ref>
+</s>
+<s category="p" source="Mittelpunkt B2 - Klett" id="138">
+  <input>Er ist aber viel junger <f id="1">than</f>  ich.</input>
+  <ref>Er ist aber viel junger <f id="1">als</f>  ich.</ref>
+</s>
+<s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="139">
+  <input>Die Natur eignet sich nicht für <f id="1">human</f>  Projektionen.</input>
+  <ref>Die Natur eignet sich nicht für <f id="1">menschliche</f>  Projektionen.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="140">
+  <input>Die Arbeiter führten <f id="1">the strike</f>  durch und legten die Arbeit nieder.</input>
+  <ref>Die Arbeiter führten <f id="1">den Streik</f>  durch und legten die Arbeit nieder.</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1031_0001998" id="141">
+  <input>Sollte ich überhaupt wählen zwischen meinen Traditionen und denen <f id="1">of my host country</f>  ?</input>
+  <ref>Sollte ich überhaupt wählen zwischen meinen Traditionen und denen <f id="1">meines Gastlandes<alt>meines Aufnahmelandes</alt><alt>meines Gastlands</alt><alt>meines Aufnahmelands</alt></f>  ?</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="142">
+  <input>Man lernt, mit Stress <f id="1">to cope</f>  .</input>
+  <ref>Man lernt, mit Stress <f id="1">umzugehen<alt>fertig zu werden</alt></f>  .</ref>
+</s>
+<s category="p" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="143">
+  <input>Der Gesang kann Demenzkranken helfen, <f id="1">because</f>  er die Emotionen und die Erinnerung stärkt.</input>
+  <ref>Der Gesang kann Demenzkranken helfen, <f id="1">weil<alt>da</alt></f>  er die Emotionen und die Erinnerung stärkt.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="144">
+  <input>Die westliche Industrie hat kaum <f id="1">opportunities</f>  auf dem Japanischen Markt.</input>
+  <ref>Die westliche Industrie hat kaum <f id="1">Chancen</f>  auf dem Japanischen Markt.</ref>
+</s>
+<s category="p" source="SCHUBERT-Verlag Leipzig" id="145">
+  <input>80 Prozent <f id="1">from all</f>  Einwohner nutzen in der Schweiz das Internet, bei den Deutschen sind es nur 59 Prozent.</input>
+  <ref>80 Prozent <f id="1">aller</f>  Einwohner nutzen in der Schweiz das Internet, bei den Deutschen sind es nur 59 Prozent.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="146">
+  <input>Der LKW <f id="1">transports</f>  Blumen nach Italien.</input>
+  <ref>Der LKW <f id="1">befördert<alt>transportiert</alt></f>  Blumen nach Italien.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="147">
+  <input>Allerdings ist die Frage der sozialen Ungleichheit noch <f id="1">unsettled</f>  .</input>
+  <ref>Allerdings ist die Frage der sozialen Ungleichheit noch <f id="1">ungeklärt<alt>ungelöst</alt></f>  .</ref>
+</s>
+<s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="148">
+  <input>Nach dem Tode des Vaters hatte er sich <f id="1">independent</f>  gemacht.</input>
+  <ref>Nach dem Tode des Vaters hatte er sich <f id="1">selbständig<alt>unabhängig</alt></f>  gemacht.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="149">
+  <input>Aber wie auch immer, sichtbar braucht die Welt <f id="1">such examples</f>  , um die Widerstände zu überwinden.</input>
+  <ref>Aber wie auch immer, sichtbar braucht die Welt <f id="1">solche Beispiele</f>  , um die Widerstände zu überwinden.</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1061_0120383" id="150">
+  <input>Du hast <f id="1">me</f>  gefragt, ob ich mir etwas aus Istanbul wünsche, vielleicht kannst du mir exotische Gewürze mitbringen.</input>
+  <ref>Du hast <f id="1">mich</f>  gefragt, ob ich mir etwas aus Istanbul wünsche habe, vielleicht kannst du mir exotische Gewürze mitbringen.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="151">
+  <input>Er <f id="1">paints</f>  sehr realistisch.</input>
+  <ref>Er <f id="1">malt</f>  sehr realistisch.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="152">
+  <input>Es wird <f id="1">claimed</f>  , dass die digitale Revolution den Menschen mehr Freiheit gebracht hat.</input>
+  <ref>Es wird <f id="1">behauptet</f>  , dass die digitale Revolution den Menschen mehr Freiheit gebracht hat.</ref>
+</s>
+<s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="153">
+  <input>Bier gilt auch für kalorienbewusste Konsumenten als <f id="1">recommendable</f>  .</input>
+  <ref>Bier gilt auch für kalorienbewusste Konsumenten als <f id="1">empfehlenswert</f>  .</ref>
+</s>
+<s category="n" source="Mittelpunkt B2 - Klett" id="154">
+  <input>Es ist <f id="1">a good feeling</f>  , endlich eigene vier Wände zu haben.</input>
+  <ref>Es ist <f id="1">ein gutes Gefühl</f>  , endlich eigene vier Wände zu haben.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="155">
+  <input>Im Reaktor fand <f id="1">a meltdown</f>  statt.</input>
+  <ref>Im Reaktor fand <f id="1">eine Kernschmelze</f>  statt.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="156">
+  <input>Die Politik hat schwere Probleme <f id="1">to solve</f>  .</input>
+  <ref>Die Politik hat schwere Probleme <f id="1">zu lösen</f>  .</ref>
+</s>
+<s category="p" source="MERLIN Learner Corpus,  docid=1031_0003169" id="157">
+  <input>Traditionen haben mehrere interessante Aspekte, die <f id="1">from</f>  der einen Seite aus der Geschichte von eigenem Land entstanden sind.</input>
+  <ref>Traditionen haben mehrere interessante Aspekte, die <f id="1">von</f>  der einen Seite aus der Geschichte von eigenem Land entstanden sind.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="158">
+  <input>Er <f id="1">denied</f>  , die Tat begangen zu haben</input>
+  <ref>Er <f id="1">leugnete</f>  , die Tat begangen zu haben</ref>
+</s>
+<s category="v" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="159">
+  <input>Der Kellner <f id="1">carries</f>  die Suppe</input>
+  <ref>Der Kellner <f id="1">trägt</f>  die Suppe</ref>
+</s>
+<s category="v" source="SCHUBERT-Verlag Leipzig" id="160">
+  <input>Meine Enkelin Bärbel, die mit ihrer Mutter und Schwester in Zehlendorf lebte, <f id="1">spent</f>  wie jedes Jahr ihre Ferien bei uns.</input>
+  <ref>Meine Enkelin Bärbel, die mit ihrer Mutter und Schwester in Zehlendorf lebte, <f id="1">verbrachte</f>  wie jedes Jahr ihre Ferien bei uns.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="161">
+  <input>Ihr Vater <f id="1">follows her</f>  einige Jahre später.</input>
+  <ref>Ihr Vater <f id="1">folgt ihr</f>  einige Jahre später.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="162">
+  <input><f id="1">Abortion</f>  ist ein heikles politisches Thema.</input>
+  <ref><f id="1">Abtreibung</f>  ist ein heikles politisches Thema.</ref>
+</s>
+<s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="163">
+  <input>Zuden führen wir gemeinsam unser <f id="1">own</f>  Geschäft.</input>
+  <ref>Zuden führen wir gemeinsam unser <f id="1">eigenes</f>  Geschäft.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="164">
+  <input>Du wirst in <f id="1">your own room</f>  wohnen.</input>
+  <ref>Du wirst in <f id="1">einem eigenem Zimmer<alt>deinem eigenem Zimmer</alt></f>  wohnen.</ref>
+</s>
+<s category="v" source="MERLIN Learner Corpus,  docid=1031_0003141" id="165">
+  <input>Es ist für mich sehr leicht, wenn ich mit <f id="1">the natives</f>  sprechen kann.</input>
+  <ref>Es ist für mich sehr leicht, wenn ich mit <f id="1">den Eingeborenen<alt>den Einheimischen</alt><alt>den Ureinwohnern</alt></f>  sprechen kann.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="166">
+  <input>Ein guter Verkäufer <f id="1">recommends</f>  dem Kunden ein passendes Gerät.</input>
+  <ref>Ein guter Verkäufer <f id="1">empfiehlt</f>  dem Kunden ein passendes Gerät.</ref>
+</s>
+<s category="adv" source="MERLIN Learner Corpus,  docid=1031_0001997" id="167">
+  <input><f id="1">above all</f>  finde ich es sehr schwer, wenn jemand wahnsinnig religiös ist.</input>
+  <ref><f id="1">Vor allem</f>  finde ich es sehr schwer, wenn jemand wahnsinnig religiös ist.</ref>
+</s>
+<s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="168">
+  <input>Die <f id="1">economic</f>  Bedingungen haben sich verändert.</input>
+  <ref>Die <f id="1">ökonomischen<alt>wirtschaftlichen</alt></f>  Bedingungen haben sich verändert.</ref>
+</s>
+<s category="v" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="169">
+  <input>Der Affe <f id="1">climbs</f>  auf den Baum.</input>
+  <ref>Der Affe <f id="1">klettert<alt>steigt</alt></f>  auf den Baum.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="170">
+  <input>Wir haben zwei Katzen und <f id="1">some horses</f>  .</input>
+  <ref>Wir haben zwei Katzen und <f id="1">einige Pferde</f>  .</ref>
+</s>
+<s category="pp" source="Mittelpunkt B2 - Klett" id="171">
+  <input>Als Kind musste ich <f id="1">with my parents</f>  immer stundenlang durch den Wald latschen.</input>
+  <ref>Als Kind musste ich <f id="1">mit meinen Eltern</f>  immer stundenlang durch den Wald latschen.</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="172">
+  <input>Sie diskutieren <f id="1">preferably</f>  in der Küche.</input>
+  <ref>Sie diskutieren <f id="1">am liebsten<alt>vorzugsweise</alt></f>  in der Küche.</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1023_0103841" id="173">
+  <input>Ich habe Ihre Anzeige gelesen und ich bewerbe mich um eine Praktikumstelle als <f id="1">sales trainee</f>  .</input>
+  <ref>Ich habe Ihre Anzeige gelesen und ich bewerbe mich um eine Praktikumstelle als <f id="1">Vertriebspraktikantin<alt>Vertriebspraktikant</alt></f>  .</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="174">
+  <input>Das <f id="1">annoyed</f>  die Nachbarn, die neben uns wohnten.</input>
+  <ref>Das <f id="1">nervte<alt>ärgerte</alt></f>  die Nachbarn, die neben uns wohnten.</ref>
+</s>
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="175">
+  <input><f id="1">During the day</f>  setzt sich dann die Sonne durch.</input>
+  <ref><f id="1">Im Tagesverlauf<alt>Im Laufe des Tages</alt><alt>Während des Tages</alt><alt>Während der Tag</alt></f>  setzt sich dann die Sonne durch.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="176">
+  <input>Er hat <f id="1">an account</f>  bei dieser Bank eröffnet.</input>
+  <ref>Er hat <f id="1">ein Konto</f>  bei dieser Bank eröffnet.</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="177">
+  <input>Seine Tochter war <f id="1">yesterday</f>  hier.</input>
+  <ref>Seine Tochter war <f id="1">gestern</f>  hier.</ref>
+</s>
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="178">
+  <input>Die Weltmeisterinnen im <f id="1">football</f>  geben viele Interviews.</input>
+  <ref>Die Weltmeisterinnen im <f id="1">Fußball</f>  geben viele Interviews.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="179">
+  <input>Dieses Gesetz <f id="1">aims at</f>  bessere Bedingungen für Asylanten ab.</input>
+  <ref>Dieses Gesetz <f id="1">zielt auf</f>  bessere Bedingungen für Asylanten ab.</ref>
+</s>
+<s category="n" source="Mittelpunkt B2 - Klett" id="180">
+  <input>Die möchten von <f id="1">the pressure</f>  befreit sein.</input>
+  <ref>Die möchten von <f id="1">dem Druck</f>  befreit sein.</ref>
+</s>
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="181">
+  <input>Oma Else erzähle sowieso gern <f id="1">stories</f>  aus dem alten Berlin.</input>
+  <ref>Oma Else erzähle sowieso gern <f id="1">Geschichten<alt>Erzählungen</alt></f>  aus dem alten Berlin.</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="182">
+  <input>Er kommt eine Stunde <f id="1">too late</f>  und entschuldigt sich.</input>
+  <ref>Er kommt eine Stunde <f id="1">zu spät</f>  und entschuldigt sich.</ref>
+</s>
+<s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="183">
+  <input>Für uns ist es <f id="1">important</f>  , dass du flexibel bist.</input>
+  <ref>Für uns ist es <f id="1">wichtig</f>  , dass du flexibel bist.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="184">
+  <input>Den Feind aus dem Osten <f id="1">exists no more</f>  heutzutage.</input>
+  <ref>Den Feind aus dem Osten <f id="1">gibt es nicht mehr<alt>besteht nicht mehr</alt></f>  heutzutage.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="185">
+  <input>Sie hat <f id="1">her religion</f>  verloren.</input>
+  <ref>Sie hat <f id="1">ihren Glauben<alt>ihre Religion</alt></f>  verloren.</ref>
+</s>
+<s category="n" source="Mittelpunkt B2 - Klett" id="186">
+  <input>Aber <f id="1">your decision</f>  wird dein Leben für immer beeinflussen.</input>
+  <ref>Aber <f id="1">deine Entscheidung</f>  wird dein Leben für immer beeinflussen.</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1061_0120855" id="187">
+  <input>Ich kann verstehen, dass man hier in Deutschland <f id="1">little time</f>  für die Familie hat.</input>
+  <ref>Ich kann verstehen, dass man hier in Deutschland <f id="1">wenig Zeit</f>  für die Familie hat.</ref>
+</s>
+<s category="pp" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="188">
+  <input>In Europa steht Holland <f id="1">at the top</f>  .</input>
+  <ref>In Europa steht Holland <f id="1">an der Spitze</f>  .</ref>
+</s>
+<s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="189">
+  <input>Die <f id="1">centralised</f>  Stromversorgung macht Strom zur Massenware.</input>
+  <ref>Die <f id="1">zentralisierte</f>  Stromversorgung macht Strom zur Massenware.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="190">
+  <input>Der Chirurg hatte die Aufgabe, seinen Patienten über <f id="1">the risks</f>  zu informieren.</input>
+  <ref>Der Chirurg hatte die Aufgabe, seinen Patienten über <f id="1">die Risiken</f>  zu informieren.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="191">
+  <input>In <f id="1">a multicultural society</f>  leben Menschen verschiedener Herkunft.</input>
+  <ref>In <f id="1">einer multikulturellen Gesellschaft</f>  leben Menschen verschiedener Herkunft.</ref>
+</s>
+<s category="p" source="Mittelpunkt B2 - Klett" id="192">
+  <input>Sie haben <f id="1">about</f>  Musik gesprochen.</input>
+  <ref>Sie haben <f id="1">über</f>  Musik gesprochen.</ref>
+</s>
+<s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="193">
+  <input>Die Bedienung ist im Preis <f id="1">included</f>  .</input>
+  <ref>Die Bedienung ist im Preis <f id="1">inbegriffen</f>  .</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="194">
+  <input>Die Eltern <f id="1">bought</f>  Land und gründeten darauf die Forschungsstation.</input>
+  <ref>Die Eltern <f id="1">kauften</f>  Land und gründeten darauf die Forschungsstation.</ref>
+</s>
+<s category="p" source="SCHUBERT-Verlag Leipzig" id="195">
+  <input>Bei den Geburtenzahlen befinden sich die deutschen Frauen mit je 1,34 Kindern <f id="1">below</f>  der Mitte.</input>
+  <ref>Bei den Geburtenzahlen befinden sich die deutschen Frauen mit je 1,34 Kindern <f id="1">unterhalb</f>  der Mitte.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="196">
+  <input>Es besteht <f id="1">no doubt</f>  , dass das Interesse der Studenten zurückgegangen ist.</input>
+  <ref>Es besteht <f id="1">kein Zweifel</f>  , dass das Interesse der Studenten zurückgegangen ist.</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="197">
+  <input>Nach über 24 Stunden fließt <f id="1">finally</f>  wieder Strom.</input>
+  <ref>Nach über 24 Stunden fließt <f id="1">endlich<alt>schließlich</alt></f>  wieder Strom.</ref>
+</s>
+<s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="198">
+  <input>Integration ist ein <f id="1">long</f>  Prozeß.</input>
+  <ref>Integration ist ein <f id="1">langer</f>  Prozeß.</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="199">
+  <input>Ich konnte nicht <f id="1">earlier</f>  kommen.</input>
+  <ref>Ich konnte nicht <f id="1">früher</f>  kommen.</ref>
+</s>
+<s category="v" source="MERLIN Learner Corpus,  docid=1031_0002085" id="200">
+  <input>Wenn ich zum Beispiel Theodor Storm <f id="1">read</f>  , verstehe ich die deutsche Seele besser und lerne dabei Deutsch.</input>
+  <ref>Wenn ich zum Beispiel Theodor Storm <f id="1">lese</f>  , verstehe ich die deutsche Seele besser und lerne dabei Deutsch.</ref>
+</s>
+<s category="expr" source="MERLIN Learner Corpus,  docid=1071_0024863" id="201">
+  <input>Ich war sehr glücklich als ich <f id="1">the news about the baby</f>  gehört habe.</input>
+  <ref>Ich war sehr glücklich als ich <f id="1">die Neuigkeiten über das Baby<alt>die Nachricht über das Baby</alt></f>  gehört habe.</ref>
+</s>
+<s category="v" source="SCHUBERT-Verlag Leipzig" id="202">
+  <input>Vielleicht <f id="1">could you</f>  die Situation des Vereins beschreiben?</input>
+  <ref>Vielleicht <f id="1">könnten Sie<alt>könntest du</alt></f>  die Situation des Vereins beschreiben?</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="203">
+  <input>Es gibt gute <f id="1">reasons</f>  , seinem Land den Rücken zu kehren.</input>
+  <ref>Es gibt gute <f id="1">Gründe</f>  , seinem Land den Rücken zu kehren.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="204">
+  <input>Ich <f id="1">believe</f>  , ich habe mir den Fuß verstaucht.</input>
+  <ref>Ich <f id="1">glaube</f>  , ich habe mir den Fuß verstaucht.</ref>
+</s>
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="205">
+  <input>Von ihr habe ich mehr gelernt als aus manchem <f id="1">history book</f>  .</input>
+  <ref>Von ihr habe ich mehr gelernt als aus manchem <f id="1">Geschichtsbuch<alt>Chronik</alt></f>  .</ref>
+</s>
+<s category="a" source="Mittelpunkt B2 - Klett" id="206">
+  <input>Das Hundegebell war <f id="1">unbearable</f>  .</input>
+  <ref>Das Hundegebell war <f id="1">unerträglich</f>  .</ref>
+</s>
+<s category="expr" source="Mittelpunkt B2 - Klett" id="207">
+  <input>Es geht ihr <f id="1">according to circumstances</f>  ziemlich gut.</input>
+  <ref>Es geht ihr <f id="1">den Umständen entsprechend<alt>je nach den Umständen</alt></f>  ziemlich gut.</ref>
+</s>
+<s category="p" source="SCHUBERT-Verlag Leipzig" id="208">
+  <input>Vor allem <f id="1">in</f>  Süden und Osten halten sich aber noch Wolkenfelder.</input>
+  <ref>Vor allem <f id="1">im</f>  Süden und Osten halten sich aber noch Wolkenfelder.</ref>
+</s>
+<s category="p" source="MERLIN Learner Corpus,  docid=1061_0120421" id="209">
+  <input>Ich bin in der letzten Woche <f id="1">of the next month</f>  frei.</input>
+  <ref>Ich bin in der letzten Woche <f id="1">des nächsten Monats</f>  frei.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="210">
+  <input>Wie soll ich eine Leistung <f id="1">assess</f>  ?</input>
+  <ref>Wie soll ich eine Leistung <f id="1">bewerten<alt>beurteilen</alt><alt>auswerten</alt></f>  ?</ref>
+</s>
+<s category="p" source=" MERLIN Learner Corpus,  docid=1031_0003220" id="211">
+  <input>Ich musste mich <f id="1">to</f>  die Gastfamilie anpassen, oder ich bekam kein Frühstück.</input>
+  <ref>Ich musste mich <f id="1">an</f>  die Gastfamilie anpassen, oder ich bekam kein Frühstück.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="212">
+  <input><f id="1">We would like that</f>  du dich liebevoll um die zwei Kinder kümmerst und etwas im Haushalt hilfst.</input>
+  <ref><f id="1">Wir möchten, dass<alt>Wir möchten gerne, dass</alt></f>  du dich liebevoll um die zwei Kinder kümmerst und etwas im Haushalt hilfst.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="213">
+  <input>Sie wurden zum Kauf <f id="1">seduced</f>  .</input>
+  <ref>Sie wurden zum Kauf <f id="1">verführt<alt>verleitet</alt></f>  .</ref>
+</s>
+<s category="pro" source="SCHUBERT-Verlag Leipzig" id="214">
+  <input>Das tägliche Training strengt <f id="1">him</f>  sehr an.</input>
+  <ref>Das tägliche Training strengt <f id="1">ihn</f>  sehr an.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="215">
+  <input>Sie bat um <f id="1">a written confirmation</f>  .</input>
+  <ref>Sie bat um <f id="1">eine schriftliche Bestätigung</f>  .</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="216">
+  <input><f id="1">The other way around</f>  kann uns das Verschwinden einer Fernsehfigur so hart treffen wie der Tod eines Bekannten.</input>
+  <ref><f id="1">Umgekehrt<alt>Andersrum</alt><alt>Anders herum</alt></f>  kann uns das Verschwinden einer Fernsehfigur so hart treffen wie der Tod eines Bekannten.</ref>
+</s>
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="217">
+  <input>Machen Sie gern Sudoku oder <f id="1">crossword puzzles</f>  in Zeitungen?</input>
+  <ref>Machen Sie gern Sudoku oder <f id="1">Kreuzworträtsel</f>  in Zeitungen?</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="218">
+  <input><f id="1">Until now</f>  richteten sich die Arbeitszeiten nach Sonnenaufgang und Sonnenuntergang.</input>
+  <ref><f id="1">Bisher<alt>Bis jetzt</alt><alt>Bislang</alt></f>  richteten sich die Arbeitszeiten nach Sonnenaufgang und Sonnenuntergang.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="219">
+  <input>Recyclingsbemühungen mussen finanziell stärker <f id="1">supported</f>  werden.</input>
+  <ref>Recyclingsbemühungen mussen finanziell stärker <f id="1">unterstützt<alt>unterhalten</alt></f>  werden.</ref>
+</s>
+<s category="n" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="220">
+  <input><f id="1">Excitement</f>  wird aufgebaut, um danach wieder abgebaut zu werden.</input>
+  <ref><f id="1">Erregung<alt>Aufregung</alt><alt>Spannung</alt></f>  wird aufgebaut, um danach wieder abgebaut zu werden.</ref>
+</s>
+<s category="n" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="221">
+  <input>Vor der Reise hatte er <f id="1">fear of</f>  dem Flug.</input>
+  <ref>Vor der Reise hatte er <f id="1">Angst vor<alt>Furcht vor</alt></f>  dem Flug.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="222">
+  <input>Sie malt mit <f id="1">multiple colours</f>  .</input>
+  <ref>Sie malt mit <f id="1">mehreren Farben<alt>mehrfachen Farben</alt></f>  .</ref>
+</s>
+<s category="adv" source="SCHUBERT-Verlag Leipzig" id="223">
+  <input>Es bleibt <f id="1">however</f>  meist trocken.</input>
+  <ref>Es bleibt <f id="1">jedoch<alt>allerdings</alt><alt>aber</alt><alt>doch</alt><alt>dennoch</alt></f>  meist trocken.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="224">
+  <input>Latein ist für mich <f id="1">a new course</f>  in der Schule.</input>
+  <ref>Latein ist für mich <f id="1">ein neues Fach<alt>einen neuen Kurs</alt></f>  in der Schule.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="225">
+  <input>In anderen europäischen <f id="1">countries</f>  sieht es ähnlich auch.</input>
+  <ref>In anderen europäischen <f id="1">Ländern</f>  sieht es ähnlich auch.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="226">
+  <input>Ich <f id="1">am worried about</f>  meiner Zukunft in München.</input>
+  <ref>Ich <f id="1">mache mir Sorgen wegen<alt>bin besorgt wegen</alt></f>  meiner Zukunft in München.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="227">
+  <input>Das Buch enthält 230 <f id="1">pages</f>  .</input>
+  <ref>Das Buch enthält 230 <f id="1">Seiten</f>  .</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="228">
+  <input>Wir <f id="1">already have experience with</f>  einem Au-pair und freuen uns auf dich.</input>
+  <ref>Wir <f id="1">haben bereits Erfahrungen mit<alt>haben schon Erfahrungen mit</alt><alt>haben bereits Erfahrung mit</alt><alt>haben schon Erfahrung mit</alt></f>  einem Au-pair und freuen uns auf dich.</ref>
+</s>
+<s category="a" source="Mittelpunkt B2 - Klett" id="229">
+  <input>Ich bin immer <f id="1">tired</f>  , aber nachts kann ich trotzdem nicht schlafen.</input>
+  <ref>Ich bin immer <f id="1">müde<alt>erschöpft</alt></f>  , aber nachts kann ich trotzdem nicht schlafen.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="230">
+  <input>Ich <f id="1">cried</f>  ziemlich viel.</input>
+  <ref>Ich <f id="1">schrie<alt>weinte</alt><alt>heulte</alt></f>  ziemlich viel.</ref>
+</s>
+<s category="v" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="231">
+  <input>Sie <f id="1">promises</f>  , dass sie kommt.</input>
+  <ref>Sie <f id="1">verspricht</f>  , dass sie kommt.</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="232">
+  <input>Meine Mutter hat <f id="1">everything possible</f>  versucht.</input>
+  <ref>Meine Mutter hat <f id="1">alles Mögliche<alt>alles, was möglich war</alt></f>  versucht.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="233">
+  <input>Weil er Geld für Drogen haben muss, wird <f id="1">the addict</f>  oft zum Verbrecher.</input>
+  <ref>Weil er Geld für Drogen haben muss, wird <f id="1">der Süchtige<alt>der Drogenabhängigen</alt></f>  oft zum Verbrecher.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="234">
+  <input>Ein freundlicher Passant <f id="1">shows</f>  den Touristen den Weg ins Zentrum.</input>
+  <ref>Ein freundlicher Passant <f id="1">zeigt</f>  den Touristen den Weg ins Zentrum.</ref>
+</s>
+<s category="expr" source="Mittelpunkt B2 - Klett" id="235">
+  <input>Dazu wären sie <f id="1">under no circumstances</f>  bereit.</input>
+  <ref>Dazu wären sie <f id="1">auf keinen Fall<alt>unter keinen Umständen</alt><alt>keinesfalls</alt></f>  bereit.</ref>
+</s>
+<s category="adv" source="SCHUBERT-Verlag Leipzig" id="236">
+  <input>In Deutschland werden die Frauen 82 Jahre, die Männer 76,7 Jahre alt und liegen damit <f id="1">just</f>  über dem EU-Durchschnitt.</input>
+  <ref>In Deutschland werden die Frauen 82 Jahre, die Männer 76,7 Jahre alt und liegen damit <f id="1">knapp<alt>gerade</alt></f>  über dem EU-Durchschnitt.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="237">
+  <input>Im Krieg wurden historische Gebäude <f id="1">destroyed</f>  .</input>
+  <ref>Im Krieg wurden historische Gebäude <f id="1">zerstört</f>  .</ref>
+</s>
+<s category="v" source="SCHUBERT-Verlag Leipzig" id="238">
+  <input>Die Installation kann nicht <f id="1">closed</f>  werden – bitte führen Sie den Vorgang erneut durch.</input>
+  <ref>Die Installation kann nicht <f id="1">abgeschlossen</f>  werden – bitte führen Sie den Vorgang erneut durch.</ref>
+</s>
+<s category="n" source="Mittelpunkt B2 - Klett" id="239">
+  <input>Für die Menschen wäre ein Maximum an <f id="1">happiness</f>  erstrebenswert.</input>
+  <ref>Für die Menschen wäre ein Maximum an <f id="1">Glück</f>  erstrebenswert.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="240">
+  <input>Drei Firmen <f id="1">competed for</f>  den Auftrag.</input>
+  <ref>Drei Firmen <f id="1">konkurrierten um</f>  den Auftrag.</ref>
+</s>
+<s category="conn" source="MERLIN Learner Corpus,  docid=1031_0001998" id="241">
+  <input>Einerseits hat mir diese erste Erfahrung mit meiner neuen Heimat geholfen, aber <f id="1">on the other hand</f>  habe ich starkes Heimweh gefühlt.</input>
+  <ref>Einerseits hat mir diese erste Erfahrung mit meiner neuen Heimat geholfen, aber <f id="1">andererseits<alt>auf der anderen Seite</alt></f>  habe ich starkes Heimweh gefühlt.</ref>
+</s>
+<s category="p" source="Mittelpunkt B2 - Klett" id="242">
+  <input>Jacek ist unglaublich schnell, <f id="1">while</f>  Julian lieber länger überlegt.</input>
+  <ref>Jacek ist unglaublich schnell, <f id="1">während</f>  Julian lieber länger überlegt.</ref>
+</s>
+<s category="w" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="243">
+  <input>Der Patient möchte <f id="1">certainty</f>  über die Art seiner Krankheit erlangen.</input>
+  <ref>Der Patient möchte <f id="1">Gewissheit<alt>Gewißheit</alt><alt>Sicherheit</alt></f>  über die Art seiner Krankheit erlangen.</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1031_0001997" id="244">
+  <input>Meiner Meinung nach kann man <f id="1">such an arrangement</f>  nicht akzeptieren.</input>
+  <ref>Meiner Meinung nach kann man <f id="1">eine solche Regelung</f>  nicht akzeptieren.</ref>
+</s>
+<s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="245">
+  <input>Es gibt Geschichten mit Figuren, die in <f id="1">similar</f>  Situationen immer neue Abenteuer erleben.</input>
+  <ref>Es gibt Geschichten mit Figuren, die in <f id="1">ähnlichen<alt>vergleichbaren</alt></f>  Situationen immer neue Abenteuer erleben.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="246">
+  <input>Wir werden <f id="1">a civil war</f>  im ehemaligen Jugoslawien verhindern.</input>
+  <ref>Wir werden <f id="1">einen Bürgerkrieg</f>  im ehemaligen Jugoslawien verhindern.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="247">
+  <input>Wie immer, <f id="1">the constraints</f>  der Ausfuhr waren schmerzlich.</input>
+  <ref>Wie immer, <f id="1">die Einschränkungen</f>  der Ausfuhr waren schmerzlich.</ref>
+</s>
+<s category="n" source="Mittelpunkt B2 - Klett" id="248">
+  <input>Da findet sich bestimmt <f id="1">a solution</f>  .</input>
+  <ref>Da findet sich bestimmt <f id="1">eine Lösung</f>  .</ref>
+</s>
+<s category="adv" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="249">
+  <input>Die Katze liegt <f id="1">comfortably</f>  auf dem Sofa.</input>
+  <ref>Die Katze liegt <f id="1">gemütlich<alt>bequem</alt></f>  auf dem Sofa.</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="250">
+  <input><f id="1">Once a week</f>  kommt eine Putzfrau.</input>
+  <ref><f id="1">Einmal in der Woche</f>  kommt eine Putzfrau.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="251">
+  <input>Jeder <f id="1">user</f>  legt zuerst ein persöhnliches Profil an.</input>
+  <ref>Jeder <f id="1">Nutzer<alt>Benutzer</alt></f>  legt zuerst ein persöhnliches Profil an.</ref>
+</s>
+<s category="adj" source="SCHUBERT-Verlag Leipzig" id="252">
+  <input>Dagegen bringt ein Tiefdruckgebiet über südlichen Adria <f id="1">heavy</f>  Regengüsse.</input>
+  <ref>Dagegen bringt ein Tiefdruckgebiet über südlichen Adria <f id="1">kräftige<alt>heftige</alt><alt>schwere</alt></f>  Regengüsse.</ref>
+</s>
+<s category="conn" source="MERLIN Learner Corpus,  docid=1061_0120382" id="253">
+  <input>Kannst du mir sagen, wo genau, in <f id="1">which</f>  Stadt deine Familie wohnt?</input>
+  <ref>Kannst du mir sagen, wo genau, in <f id="1">welcher</f>  Stadt deine Familie wohnt?</ref>
+</s>
+<s category="n" source="Mittelpunkt B2 - Klett" id="254">
+  <input>Man hat praktische <f id="1">advantages</f>  im Alltag.</input>
+  <ref>Man hat praktische <f id="1">Vorteile</f>  im Alltag.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="255">
+  <input>Depressionen können viele verschiedene <f id="1">causes</f>  haben.</input>
+  <ref>Depressionen können viele verschiedene <f id="1">Ursachen<alt>Gründe</alt></f>  haben.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="256">
+  <input>Er <f id="1">grew</f>  schnell im letzten Jahr.</input>
+  <ref>Er <f id="1">wuchs</f>  schnell im letzten Jahr.</ref>
+</s>
+<s category="v" source="n MERLIN Learner Corpus,  docid=1061_0120285" id="257">
+  <input>Meine Schwester <f id="1">stays</f>  seit einem Jahr in Luxemburg.</input>
+  <ref>Meine Schwester <f id="1">wohnt<alt>ist</alt><alt>lebt</alt></f>  seit einem Jahr in Luxemburg.</ref>
+</s>
+<s category="adv" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="258">
+  <input>Sie warteten <f id="1">the entire day</f>  .</input>
+  <ref>Sie warteten <f id="1">den ganzen Tag</f>  .</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="259">
+  <input>Koepcke <f id="1">survives</f>  als Einzige den Absturz.</input>
+  <ref>Koepcke <f id="1">überlebt</f>  als Einzige den Absturz.</ref>
+</s>
+<s category="n" source=" MERLIN Learner Corpus,  docid=1023_0101897" id="260">
+  <input>Ich bin 34 Jahre alt, verheiratet, und habe <f id="1">a five year old son</f>  .</input>
+  <ref>Ich bin 34 Jahre alt, verheiratet, und habe <f id="1">einen 5-jährigen Sohn<alt>einen fünfjährigen Sohn</alt><alt>einen fünf Jahre alten Sohn</alt></f>  .</ref>
+</s>
+<s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="261">
+  <input>Die Luft hier ist noch <f id="1">clean</f>  .</input>
+  <ref>Die Luft hier ist noch <f id="1">sauber<alt>rein</alt></f>  .</ref>
+</s>
+<s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="262">
+  <input>Der Minister ist <f id="1">very impressed</f>  .</input>
+  <ref>Der Minister ist <f id="1">sehr beeindruckt<alt>schwer beeindruckt</alt><alt>tief beeindruckt</alt></f>  .</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="263">
+  <input>Man <f id="1">suspects</f>  , dass die Astrophysiker auf dem entfernten Planeten Wasserspuren entdeckt haben.</input>
+  <ref>Man <f id="1">vermutet</f>  , dass die Astrophysiker auf dem entfernten Planeten Wasserspuren entdeckt haben.</ref>
+</s>
+<s category="p" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="264">
+  <input>Selbst <f id="1">within</f>  der Europaïschen Gemeinschaft gibt es Vorbehalte gegen andere Mitgliedstaaten.</input>
+  <ref>Selbst <f id="1">innerhalb</f>  der Europaïschen Gemeinschaft gibt es Vorbehalte gegen andere Mitgliedstaaten.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="265">
+  <input>Er <f id="1">researches</f>  seit 1995 die Wahrnehmung von Musik.</input>
+  <ref>Er <f id="1">erforscht<alt>untersucht</alt></f>  seit 1995 die Wahrnehmung von Musik.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="266">
+  <input>Er <f id="1">prefers</f>  Fotografien in schwarz-weiß.</input>
+  <ref>Er <f id="1">bevorzugt</f>  Fotografien in schwarz-weiß.</ref>
+</s>
+<s category="expr" source="MERLIN Learner Corpus,  docid=1031_0002003" id="267">
+  <input>Zum Beispiel <f id="1">it already starts with</f>  , dass meinen Schulabschluss nicht anerkannt wird.</input>
+  <ref>Zum Beispiel <f id="1">fängt es schon damit an</f>  , dass meinen Schulabschluss nicht anerkannt wird.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="268">
+  <input>Das ist etwas, wofür ich überhaupt kein Geld <f id="1">spend</f>  würde.</input>
+  <ref>Das ist etwas, wofür ich überhaupt kein Geld <f id="1">ausgeben</f>  würde.</ref>
+</s>
+<s category="a" source="Mittelpunkt B2 - Klett" id="269">
+  <input>Ich kaufe Bücher nur, wenn sie nicht <f id="1">expensive</f>  sind.</input>
+  <ref>Ich kaufe Bücher nur, wenn sie nicht <f id="1">teuer</f>  sind.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="270">
+  <input>Jeder Schüler <f id="1">owns</f>  einen eigenen Computer.</input>
+  <ref>Jeder Schüler <f id="1">besitzt</f>  einen eigenen Computer.</ref>
+</s>
+<s category="adj" source="SCHUBERT-Verlag Leipzig" id="271">
+  <input>Ein <f id="1">serious</f>  Ausnahmefehler ist aufgetreten.</input>
+  <ref>Ein <f id="1">schwerer<alt>ernsthafter</alt></f>  Ausnahmefehler ist aufgetreten.</ref>
+</s>
+<s category="adv" id="272">
+  <input>Was er jetzt sagt ist <f id="1">completely</f>  irrational.</input>
+  <ref>Was er jetzt sagt ist <f id="1">völlig<alt>ganz</alt><alt>vollkommen</alt><alt>vollständig</alt><alt>komplett</alt></f>  irrational.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="273">
+  <input>Ich <f id="1">work</f>  in unserer Firma.</input>
+  <ref>Ich <f id="1">arbeite</f>  in unserer Firma.</ref>
+</s>
+<s category="p" source="Mittelpunkt B2 - Klett" id="274">
+  <input>Das Buch habe ich nur <f id="1">because of</f>  der Bilder gekauft.</input>
+  <ref>Das Buch habe ich nur <f id="1">wegen<alt>aufgrund</alt></f>  der Bilder gekauft.</ref>
+</s>
+<s category="v" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="275">
+  <input>Der Sohn <f id="1">takes after his father</f>  .</input>
+  <ref>Der Sohn <f id="1">ist seinem Vater ähnlich<alt>kommt nach seinem Vater</alt></f>  .</ref>
+</s>
+<s category="adj" source="MERLIN Learner Corpus,  docid=1031_0002005" id="276">
+  <input>Deutsch ist eine der <f id="1">most spoken</f>  Sprachen in Europa.</input>
+  <ref>Deutsch ist eine der <f id="1">meistgesprochenen<alt>am meisten gesprochenen</alt></f>  Sprachen in Europa.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="277">
+  <input>Die <f id="1">employees</f>  traten in den Ausstand.</input>
+  <ref>Die <f id="1">Arbeitnehmer<alt>Arbeiter</alt><alt>Angestellter</alt></f>  traten in den Ausstand.</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="278">
+  <input>In Detroit entsteht <f id="1">at the time</f>  ein riesiges Grasdach für eine Produktionshalle.</input>
+  <ref>In Detroit entsteht <f id="1">zur Zeit<alt>zu der Zeit</alt></f>  ein riesiges Grasdach für eine Produktionshalle.</ref>
+</s>
+<s category="adj" source="SCHUBERT-Verlag Leipzig" id="279">
+  <input>Der <f id="1">present</f>  Leistungsdruck verlangt den Sportlern viel ab.</input>
+  <ref>Der <f id="1">gegenwärtige<alt>aktuelle</alt><alt>derzeitige</alt></f>  Leistungsdruck verlangt den Sportlern viel ab.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="280">
+  <input>Ich fasse <f id="1">both possibilities</f>  noch mal zusammen.</input>
+  <ref>Ich fasse <f id="1">die beiden Möglichkeiten</f>  noch mal zusammen.</ref>
+</s>
+<s category="p" source="Mittelpunkt B2 - Klett" id="281">
+  <input>Ich bin <f id="1">as old as</f>  du.</input>
+  <ref>Ich bin <f id="1">genauso alt wie<alt>so alt wie</alt></f>  du.</ref>
+</s>
+<s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="282">
+  <input>Seit Jahren diskutiert man <f id="1">meaningful</f>  Alternativen zum Straßenverkehr.</input>
+  <ref>Seit Jahren diskutiert man <f id="1">sinnvolle</f>  Alternativen zum Straßenverkehr.</ref>
+</s>
+<s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="283">
+  <input>Sie wurden <f id="1">violent</f>  .</input>
+  <ref>Sie wurden <f id="1">gewalttätig</f>  .</ref>
+</s>
+<s category="adj" source="SCHUBERT-Verlag Leipzig" id="284">
+  <input>Fleißigste EU-Bürger waren Eurostat zufolge die Österreicher mit einer <f id="1">weekly</f>  Arbeitszeit von 44,3 Stunden.</input>
+  <ref>Fleißigste EU-Bürger waren Eurostat zufolge die Österreicher mit einer <f id="1">wöchentlichen</f>  Arbeitszeit von 44,3 Stunden.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="285">
+  <input>Er <f id="1">tells about</f>  seinen chronischen Kopfschmerzen.</input>
+  <ref>Er <f id="1">erzählt von</f>  seinen chronischen Kopfschmerzen.</ref>
+</s>
+<s category="adj" source="MERLIN Learner Corpus,  docid=1023_0001416" id="286">
+  <input>Sehr geehrte Damen und Herren, <f id="1">your</f>  Anzeige in der Zeitung hat mich sehr erfreut; so was habe ich schon lange gesucht.</input>
+  <ref>Sehr geehrte Damen und Herren, <f id="1">Ihre</f>  Anzeige in der Zeitung hat mich sehr erfreut; so was habe ich schon lange gesucht.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="287">
+  <input>Leider fehlt <f id="1">the manual</f>  für diese komplizierte Maschine.</input>
+  <ref>Leider fehlt <f id="1">die Anleitung<alt>Gebrauchsanweisung</alt><alt>das Handbuch</alt></f>  für diese komplizierte Maschine.</ref>
+</s>
+<s category="adv" source="SCHUBERT-Verlag Leipzig" id="288">
+  <input>In der Ausgabe der Sportzeitung wird heute über den neuen Dopingskandal <f id="1">extensively</f>  berichtet.</input>
+  <ref>In der Ausgabe der Sportzeitung wird heute über den neuen Dopingskandal <f id="1">ausführlich<alt>gründlich</alt><alt>umfassend</alt><alt>weitgehend</alt></f>  berichtet.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="289">
+  <input><f id="1">The work</f>  ist nicht immer angenehm.</input>
+  <ref><f id="1">Die Arbeit<alt>Die Stelle</alt></f>  ist nicht immer angenehm.</ref>
+</s>
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="290">
+  <input>Bei den Männern können <f id="1">the Swiss</f>  mit 78,5 Jahren auf ein langes Leben hoffen.</input>
+  <ref>Bei den Männern können <f id="1">die Schweizer</f>  mit 78,5 Jahren auf ein langes Leben hoffen.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="291">
+  <input>Ich bin nervös und <f id="1">am afraid</f>  .</input>
+  <ref>Ich bin nervös und <f id="1">habe Angst</f>  .</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="292">
+  <input>Kontakte zwischen den Organisationen sind <f id="1">especially</f>  intensiv und erfolgreich in den USA.</input>
+  <ref>Kontakte zwischen den Organisationen sind <f id="1">besonders<alt>vor allem</alt></f>  intensiv und erfolgreich in den USA.</ref>
+</s>
+<s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="293">
+  <input><f id="1">Some</f>  Pflanzen sind resistent gegen Parasiten.</input>
+  <ref><f id="1">Manche<alt>Einige</alt></f>  Pflanzen sind resistent gegen Parasiten.</ref>
+</s>
+<s category="v" id="294">
+  <input>Wir sollen sofort <f id="1">make a decision</f>  .</input>
+  <ref>Wir sollen sofort <f id="1">eine Entscheidung treffen</f>  .</ref>
+</s>
+<s category="adv" source="SCHUBERT-Verlag Leipzig" id="295">
+  <input>Sie sind so intelligent, dass sie Büroarbeit erledigen und manchmal <f id="1">even</f>  reden.</input>
+  <ref>Sie sind so intelligent, dass sie Büroarbeit erledigen und manchmal <f id="1">sogar<alt>auch</alt><alt>selbst</alt></f>  reden.</ref>
+</s>
+<s category="pp" source="SCHUBERT-Verlag Leipzig" id="296">
+  <input>Im statistischen Amt der Europäischen Union Eurostat werden alle Daten des Lebens der Europäer von der Geburt <f id="1">until death</f>  erfasst.</input>
+  <ref>Im statistischen Amt der Europäischen Union Eurostat werden alle Daten des Lebens der Europäer von der Geburt <f id="1">bis zum Tod<alt>bis zum Tode</alt></f>  erfasst.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="297">
+  <input>Welche <f id="1">attitude</f>  zeigt die Gesellschaft Ihnen gegenüber?</input>
+  <ref>Welche <f id="1">Einstellung</f>  zeigt die Gesellschaft Ihnen gegenüber?</ref>
+</s>
+<s category="expr" source="MERLIN Learner Corpus,  docid=1023_0101846" id="298">
+  <input>Ich setze mir selbständig Ziele und habe klare Vorstellungen von meiner <f id="1">future career</f>  .</input>
+  <ref>Ich setze mir selbständig Ziele und habe klare Vorstellungen von meiner <f id="1">beruflichen Zukunft<alt>zukünftigen Karriere</alt><alt>künftigen Karriere</alt><alt>künftigen Laufbahn</alt></f>  .</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="299">
+  <input>Filme und Musik werde immer häufiger <f id="1">downloaded</f>  .</input>
+  <ref>Filme und Musik werde immer häufiger <f id="1">heruntergeladen</f>  .</ref>
+</s>
+<s category="n" source="a" id="300">
+  <input>So liegen beispielsweise die Preise für <f id="1">studio apartments</f>  nicht unter 100.000 Euro.</input>
+  <ref>So liegen beispielsweise die Preise für <f id="1">Einzimmerwohnungen</f>  nicht unter  von 100.000 Euro.</ref>
+</s>
+<s category="adv" source="SCHUBERT-Verlag Leipzig" id="301">
+  <input>Drei von vier Büroarbeitern ärgern sich darüber, dass ihr Rechner nicht <f id="1">properly</f>  funktioniert.</input>
+  <ref>Drei von vier Büroarbeitern ärgern sich darüber, dass ihr Rechner nicht <f id="1">ordentlich<alt>anständig</alt><alt>vernünftig</alt><alt>richtig</alt><alt>korrekt</alt><alt>gut</alt></f>  funktioniert.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="302">
+  <input>Durch die Gefängnisstrafe wurde er von seinen Kumpanen <f id="1">separated</f>  .</input>
+  <ref>Durch die Gefängnisstrafe wurde er von seinen Kumpanen <f id="1">getrennt</f>  .</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="303">
+  <input>Viele Menschen <f id="1">buy</f>  nur noch im Internet.</input>
+  <ref>Viele Menschen <f id="1">kaufen</f>  nur noch im Internet.</ref>
+</s>
+<s category="expr" source="MERLIN Learner Corpus,  docid=1031_0003012" id="304">
+  <input>Wir suchen für jeden Mitarbeiter die beste Möglichkeit, Sie sollen uns lediglich am Ende sagen, <f id="1">what is on your mind</f>  .</input>
+  <ref>Wir suchen für jeden Mitarbeiter die beste Möglichkeit, Sie sollen uns lediglich am Ende sagen, <f id="1">was sie auf dem Herzen haben<alt>wo ihnen der Schuh drückt</alt></f>  .</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1031_0001703" id="305">
+  <input>Das bedeutet, dass die Miete für <f id="1">a net surface</f>  um 70/80 m², € 750,00/800,00 pro Monat kostet.</input>
+  <ref>Das bedeutet, dass die Miete für <f id="1">eine Nettofläche</f>  um 70/80 m², € 750,00/800,00 pro Monat kostet.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="306">
+  <input><f id="1">There is also</f>  eine zweite Küche und ein Bad.</input>
+  <ref><f id="1">Es gibt auch</f>  eine zweite Küche und ein Bad.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="307">
+  <input>In <f id="1">the constitution</f>  stehen die Rechte und Pflichten der Bürger.</input>
+  <ref>In <f id="1">der Verfassung</f>  stehen die Rechte und Pflichten der Bürger.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="308">
+  <input>Spätestens alle vier Jahre müssen die Winterreifen <f id="1">renewed</f>  werden.</input>
+  <ref>Spätestens alle vier Jahre müssen die Winterreifen <f id="1">erneuert</f>  werden.</ref>
+</s>
+<s category="adj" source="SCHUBERT-Verlag Leipzig" id="309">
+  <input>In Zukunft werden wir immer <f id="1">less</f>  Rohstoffe zur Verfürung haben.</input>
+  <ref>In Zukunft werden wir immer <f id="1">weniger</f>  Rohstoffe zur Verfürung haben.</ref>
+</s>
+<s category="a" source="Mittelpunkt B2 - Klett" id="310">
+  <input>Er fand den neuen Sänger <f id="1">rather disappointing</f>  .</input>
+  <ref>Er fand den neuen Sänger <f id="1">ziemlich enttäuschend<alt>recht enttäuschend</alt></f>  .</ref>
+</s>
+<s category="a" source="Mittelpunkt B2 - Klett" id="311">
+  <input>Die eigene Hochzeitsfeier ist <f id="1">hopefully</f>  wunderschön.</input>
+  <ref>Die eigene Hochzeitsfeier ist <f id="1">hoffentlich</f>  wunderschön.</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="312">
+  <input>Sie kochen <f id="1">today</f>  nicht selbst.</input>
+  <ref>Sie kochen <f id="1">heute</f>  nicht selbst.</ref>
+</s>
+<s category="adv" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="313">
+  <input>Otto weiß nicht, <f id="1">whether</f>  er kommt.</input>
+  <ref>Otto weiß nicht, <f id="1">ob</f>  er kommt.</ref>
+</s>
+<s category="expr" source="Mittelpunkt B2 - Klett" id="314">
+  <input>Für <f id="1">people like you</f>  habe ich nur Mitleid übrig.</input>
+  <ref>Für <f id="1">Leute wie dich<alt>Leute wie Sie</alt><alt>Menschen wie dich</alt><alt>Menschen wie Sie</alt></f>  habe ich nur Mitleid übrig.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="315">
+  <input>Ich glaube, <f id="1">restrictive measures</f>  haben jetzt keine Wirkung mehr.</input>
+  <ref>Ich glaube, <f id="1">restriktive Maßnahmen<alt>einschränkende Maßnahmen</alt></f>  haben jetzt keine Wirkung mehr.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="316">
+  <input>Kein Bürger zahlt gerne <f id="1">taxes</f>  .</input>
+  <ref>Kein Bürger zahlt gerne <f id="1">Steuern</f>  .</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="317">
+  <input>Das Land hat <f id="1">lost the war</f>  .</input>
+  <ref>Das Land hat <f id="1">den Krieg verloren</f>  .</ref>
+</s>
+<s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="318">
+  <input>Diese Geschichte ist <f id="1">not exactly</f>  aufregend.</input>
+  <ref>Diese Geschichte ist <f id="1">nicht gerade<alt>nicht wirklich</alt><alt>nicht besonders</alt><alt>nicht unbedingt</alt></f>  aufregend.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="319">
+  <input>Andreas und Michael werden nächste Woche nach Berlin <f id="1">move</f>  .</input>
+  <ref>Andreas und Michael werden nächste Woche nach Berlin <f id="1">umziehen</f>  .</ref>
+</s>
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="320">
+  <input>Eine besonders niedrige Geburtenrate weist Polen mit 1,24 Kindern pro Frau auf, Spitzenreiter sind <f id="1">the Irish</f>  mit 1,86.</input>
+  <ref>Eine besonders niedrige Geburtenrate weist das Polen mit 1,24 Kindern pro Frau auf, Spitzenreiter sind <f id="1">die Iren</f>  mit 1,86.</ref>
+</s>
+<s category="adv" id="321">
+  <input>Er ist damit <f id="1">really</f>  einverstanden.</input>
+  <ref>Er ist damit <f id="1">wirklich<alt>tatsächlich</alt></f>  einverstanden.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="322">
+  <input>Sie <f id="1">wears</f>  gerne alte Jeans.</input>
+  <ref>Sie <f id="1">trägt</f>  gerne alte Jeans.</ref>
+</s>
+<s category="p" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="323">
+  <input><f id="1">According to</f>  Umfragen versuchen rund 75 Prozent der Menschen, sich mit Musik aufzumuntern.</input>
+  <ref><f id="1">Laut<alt>Nach</alt><alt>Gemäß</alt></f>  Umfragen versuchen rund 75 Prozent der Menschen, sich mit Musik aufzumuntern.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="324">
+  <input>Man soll möglichst einfache <f id="1">sentences</f>  schreiben.</input>
+  <ref>Man soll möglichst einfache <f id="1">Sätze</f>  schreiben.</ref>
+</s>
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="325">
+  <input>Sie ist 1987 gestorben and hat <f id="1">the fall of the wall</f>  nicht mehr erlebt.</input>
+  <ref>Sie ist 1987 gestorben and hat <f id="1">den Fall der Maurer</f>  nicht mehr erlebt.</ref>
+</s>
+<s category="pp" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="326">
+  <input>Selbst wer <f id="1">in a depressed mood</f>  traurige Melodien hört, erlebt eine positive Emotionalität.</input>
+  <ref>Selbst wer <f id="1">in deprimierter Stimmung<alt>in gedrückter Stimmung</alt></f>  traurige Melodien hört, erlebt eine positive Emotionalität.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="327">
+  <input>Wir haben uns bei den Nachbarn <f id="1">complained</f>  wegen der Musik.</input>
+  <ref>Wir haben uns bei den Nachbarn <f id="1">beschwert<alt>beklagt</alt></f>  wegen der Musik.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="328">
+  <input>Die Zeitung <f id="1">reported</f>  , dass das Trinkwasser infiziert war.</input>
+  <ref>Die Zeitung <f id="1">meldete<alt>berichtete</alt></f>  , dass das Trinkwasser infiziert war.</ref>
+</s>
+<s category="adj" source="SCHUBERT-Verlag Leipzig" id="329">
+  <input>Der Weltmeister im Boxen ist immer noch <f id="1">very</f>  bekannt.</input>
+  <ref>Der Weltmeister im Boxen ist immer noch <f id="1">sehr</f>  bekannt.</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="330">
+  <input>Wir sind <f id="1">often</f>  von Musik umgeben.</input>
+  <ref>Wir sind <f id="1">häufig<alt>oft</alt></f>  von Musik umgeben.</ref>
+</s>
+<s category="pp" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="331">
+  <input>Es ist wie ein Wiedersehen <f id="1">with old acquaintances</f>  .</input>
+  <ref>Es ist wie ein Wiedersehen <f id="1">mit alten Bekannten</f>  .</ref>
+</s>
+<s category="adv" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="332">
+  <input><f id="1">Nowadays</f>  kann man an fast allen Bahnhöfen Fahrkarten am Automaten kaufen.</input>
+  <ref><f id="1">Heutzutage</f>  kann man an fast allen Bahnhöfen Fahrkarten am Automaten kaufen.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="333">
+  <input>Um den Betrieb herum lag viel <f id="1">dirt</f>  .</input>
+  <ref>Um den Betrieb herum lag viel <f id="1">Schmutz<alt>Dreck</alt></f>  .</ref>
+</s>
+<s category="pp" source=" MERLIN Learner Corpus,  docid=1031_0001949" id="334">
+  <input>In diesem Satz verstecken sich zwei uralte Fragen - <f id="1">from where</f>  komme ich und wo gehe ich hin?</input>
+  <ref>In diesem Satz verstecken sich zwei uralte Fragen - <f id="1">Woher<alt>Von wo</alt><alt>woher</alt><alt>von wo</alt></f>  komme ich und wo gehe ich hin?</ref>
+</s>
+<s category="v" source=" MERLIN Learner Corpus,  docid=1071_0024688" id="335">
+  <input>Ich <f id="1">have</f>  eine Woche, um eine neue Wohnung zu finden.</input>
+  <ref>Ich <f id="1">habe</f>  eine Woche, um eine neue Wohnung zu finden.</ref>
+</s>
+<s category="n" source=" MERLIN Learner Corpus,  docid=1031_0002131" id="336">
+  <input>Aber die Einzelpersonen wohnen gern in einem <f id="1">apartment building</f>  .</input>
+  <ref>Aber die Einzelpersonen wohnen gern in einem <f id="1">Wohnblock<alt>Apartmenthaus</alt></f>  .</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="337">
+  <input>Er beherrscht <f id="1">his native language</f>  immer noch am besten.</input>
+  <ref>Er beherrscht <f id="1">seine Muttersprache</f>  immer noch am besten.</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1031_0001950" id="338">
+  <input>Die Liebe zu Russland bleibt ganz tief in meinem <f id="1">heart</f>  .</input>
+  <ref>Die Liebe zu Russland bleibt ganz tief in meinem <f id="1">Herzen</f>  .</ref>
+</s>
+<s category="adj" source="SCHUBERT-Verlag Leipzig" id="339">
+  <input>Aber ihr Traum von einer <f id="1">united</f>  Stadt ist in Erfüllung gegangen.</input>
+  <ref>Aber ihr Traum von einer <f id="1">vereinten</f>  Stadt is in Erfüllung gegangen.</ref>
+</s>
+<s category="p" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="340">
+  <input>Man hört immer wieder, dass Embryos auch Geräusche <f id="1">outside</f>  des Körpers der Mutter hören.</input>
+  <ref>Man hört immer wieder, dass Embryos auch Geräusche <f id="1">außerhalb</f>  des Körpers der Mutter hören.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="341">
+  <input>Es gibt nichts, was ich in Innsbruck <f id="1">miss</f>  würde.</input>
+  <ref>Es gibt nichts, was ich in Innsbruck <f id="1">vermissen</f>  würde.</ref>
+</s>
+<s category="pp" source="Mittelpunkt B2 - Klett" id="342">
+  <input>Was ist <f id="1">the difference between</f>  den Formulierungen?</input>
+  <ref>Was ist <f id="1">der Unterschied zwischen</f>  den Formulierungen?</ref>
+</s>
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="343">
+  <input>Das belegen Studien von Arbeitswissenschaftlern und <f id="1">behavioural scientists</f>  , die das Phänomen der Aggression gegen Computer untersucht haben.</input>
+  <ref>Das belegen Studien von Arbeitswissenschaftlern und <f id="1">Verhaltensforschern</f>  , die das Phänomen der Aggression gegen Computer untersucht haben.</ref>
+</s>
+<s category="adj" source=" MERLIN Learner Corpus,  docid=1031_0002131" id="344">
+  <input>Wenn die Wohnungen oder Häuser in der Stadt oder <f id="1">central</f>  sind, sind die Preise sehr hoch.</input>
+  <ref>Wenn die Wohnungen oder Häuser in der Stadt oder <f id="1">zentral</f>  sind, sind die Preise sehr hoch.</ref>
+</s>
+<s category="n" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="345">
+  <input>Der Verkauf ihrer Wohnungen schockierte <f id="1">the tenants</f>  zutiefst.</input>
+  <ref>Der Verkauf ihrer Wohnungen schockierte <f id="1">die Mieter</f>  zutiefst.</ref>
+</s>
+<s category="n" source="Mittelpunkt B2 - Klett" id="346">
+  <input>Ich lese <f id="1">the newspaper</f>  , um gut informiert zu sein.</input>
+  <ref>Ich lese <f id="1">die Zeitung</f>  , um gut informiert zu sein.</ref>
+</s>
+<s category="p" source="Mittelpunkt B2 - Klett" id="347">
+  <input>Es war immer <f id="1">somebody</f>  da, den man anrufen und besuchen konnte.</input>
+  <ref>Es war immer <f id="1">jemand<alt>einer</alt></f>  da, den man anrufen und besuchen konnte.</ref>
+</s>
+<s category="adv" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="348">
+  <input>Er hat sich <f id="1">clearly</f>  geirrt.</input>
+  <ref>Er hat sich <f id="1">offensichtlich<alt>deutlich</alt><alt>eindeutig</alt><alt>ganz klar</alt></f>  geirrt.</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1061_0120424" id="349">
+  <input>Jetzt haben wir eine neue <f id="1">Technology</f>  .</input>
+  <ref>Jetzt haben wir eine neue <f id="1">Technologie</f>  .</ref>
+</s>
+<s category="det" source="MERLIN Learner Corpus,  docid=1023_0103841" id="350">
+  <input>Ich hoffe, dass das Praktikum bei Ihrer Firma mir die Möglichkeit gibt, eine gute Arbeit in <f id="1">the</f>  Zukunft zu bekommen.</input>
+  <ref>Ich hoffe, dass das Praktikum bei Ihrer Firma mir die Möglichkeit gibt, eine gute Arbeit in <f id="1">der</f>  Zukunft zu bekommen.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="351">
+  <input>Er <f id="1">confirmed</f>  meine Vermutungen.</input>
+  <ref>Er <f id="1">bestätigte</f>  meine Vermutungen.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="352">
+  <input>In <f id="1">this company</f>  kann man viel Geld verdienen.</input>
+  <ref>In <f id="1">diesem Betrieb<alt>dieser Firma</alt><alt>dieses Unternehmen</alt></f>  kann man viel Geld verdienen.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="353">
+  <input>Gewalttätige Fans <f id="1">represent</f>  nur einen kleinen Teil der Anhänger einer Mannschaft.</input>
+  <ref>Gewalttätige Fans <f id="1">repräsentieren<alt>vertreten</alt></f>  nur einen kleinen Teil der Anhänger einer Mannschaft.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="354">
+  <input>Lesen Sie bitte <f id="1">the second paragraph</f>  .</input>
+  <ref>Lesen Sie bitte <f id="1">den zweiten Absatz</f>  .</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="355">
+  <input>Gegen <f id="1">this view</f>  kämpfen renommierte Architekten an.</input>
+  <ref>Gegen <f id="1">diese Auffassung<alt>diese Meinung</alt><alt>diese Ansicht</alt><alt>diese Sichtweise</alt></f>  kämpfen renommierte Architekten an.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="356">
+  <input><f id="1">The number of</f>  Jugendlichen die wegen Alkoholmissbrauchs in Krankenhäusern behandelt werden müssen, ist stark gestiegen.</input>
+  <ref><f id="1">Die Zahl der</f>  Jugendlichen die wegen Alkoholmissbrauchs in Krankenhäusern behandelt werden müssen, ist stark gestiegen.</ref>
+</s>
+<s category="n" source="Spiegel.de" id="357">
+  <input>Drei Golfstaaten ziehen <f id="1">ambassadors</f>  aus Katar ab.</input>
+  <ref>Drei Golfstaaten ziehen <f id="1">Botschafter</f>  aus Katar ab.</ref>
+</s>
+<s category="p" source="MERLIN Learner Corpus,  docid=1031_0002036" id="358">
+  <input>Bevor ich Tipps zur Wohnungssuche gebe, möchte ich <f id="1">on</f>  die wesentlichen Besonderheiten des Immobilienmarktes in Berlin eingehen.</input>
+  <ref>Bevor ich Tipps zur Wohnungssuche gebe, möchte ich <f id="1">auf</f>  die wesentlichen Besonderheiten des Immobilienmarktes in Berlin eingehen.</ref>
+</s>
+<s category="adv" source="SCHUBERT-Verlag Leipzig" id="359">
+  <input><f id="1">Also</f>  in West- und Südwesteuropa gibt es viel Sonnenschein.</input>
+  <ref><f id="1">Auch</f>  in West- und Südwesteuropa gibt es viel Sonnenschein.</ref>
+</s>
+<s category="adj" source=" MERLIN Learner Corpus,  docid=1031_0002131" id="360">
+  <input>Es gibt ganz wenig Wohnungsagentur, weil man gerne die Wohnungen selbst suchen möchte und wegen dem <f id="1">expensive</f>  Service.</input>
+  <ref>Es gibt ganz wenig Wohnungsagentur, weil man gerne die Wohnungen selbst suchen möchte und wegen dem <f id="1">teueren</f>  Service.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="361">
+  <input>Wir <f id="1">need you</f>  ab Anfang des kommenden Jahres.</input>
+  <ref>Wir <f id="1">brauchen dich<alt>brauchen Sie</alt></f>  ab Anfang des kommenden Jahres.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="362">
+  <input>Der Markt reagiert auf <f id="1">supply and demand</f>  .</input>
+  <ref>Der Markt reagiert auf <f id="1">Angebot und Nachfrage</f>  .</ref>
+</s>
+<s category="v" source="&#9;MERLIN Learner Corpus,  docid=1031_0002036" id="363">
+  <input>Im Gegensatz dazu <f id="1">prefer</f>  die Ausländer und die Menschen aus anderen Regionen Russlands die Miete.</input>
+  <ref>Im Gegensatz dazu <f id="1">bevorzugen</f>  die Ausländer und die Menschen aus anderen Regionen Russlands die Miete.</ref>
+</s>
+<s category="adj" source="SCHUBERT-Verlag Leipzig" id="364">
+  <input>Etwa drei viertel werden sogar <f id="1">violent</f>  , sie werfen mit der Maus , schlagen den Bildschirm oder treten das Gehäuse.</input>
+  <ref>Etwa drei viertel werden sogar <f id="1">handgreiflich<alt>gewalttätig</alt></f>  , sie werfen mit der Maus , schlagen den Bildschirm oder treten das Gehäuse.</ref>
+</s>
+<s category="pp" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="365">
+  <input>Die Unzufriedenheit <f id="1">of the people</f>  wächst mit ihrem Wohlstand.</input>
+  <ref>Die Unzufriedenheit <f id="1">der Menschen<alt>der Bürger</alt><alt>des Volkes</alt></f>  wächst mit ihrem Wohlstand.</ref>
+</s>
+<s category="comp" source="Mittelpunkt B2 - Klett" id="366">
+  <input>Wir <f id="1">are sure</f>  , dass das eine notwendige Maßnahme ist.</input>
+  <ref>Wir <f id="1">sind sicher<alt>sind überzeugt</alt></f>  , dass das eine notwendige Maßnahme ist.</ref>
+</s>
+<s category="adj" source="MERLIN Learner Corpus,  docid=1031_0001949" id="367">
+  <input>Man kann nicht auf so einen großen Teil seiner Persönlichkeit verzichten, ohne <f id="1">his</f>  psychischen Gesundheit zu schaden.</input>
+  <ref>Man kann nicht auf so einen großen Teil seiner Persönlichkeit verzichten, ohne <f id="1">seiner</f>  psychischen Gesundheit zu schaden.</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="368">
+  <input>Ich glaube, dass wir <f id="1">in the future</f>  mit einer Eins-zu-eins-Lösung keinen Preis mehr gewinnen werden.</input>
+  <ref>Ich glaube, dass wir <f id="1">in Zukunft</f>  mit einer Eins-zu-eins-Lösung keinen Preis mehr gewinnen werden.</ref>
+</s>
+<s category="n" source="Mittelpunkt B2 - Klett" id="369">
+  <input>Ich bin mit <f id="1">the result</f>  nicht zufrieden.</input>
+  <ref>Ich bin mit <f id="1">dem Ergebnis<alt>den Resultaten</alt></f>  nicht zufrieden.</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="370">
+  <input>Es war leider <f id="1">impossible</f>  , meinen alten Laptop upzugraden.</input>
+  <ref>Es war leider <f id="1">unmöglich<alt>nicht möglich</alt></f>  , meinen alten Laptop upzugraden.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="371">
+  <input>Die Zukunft <f id="1">throws a shadow</f>  .</input>
+  <ref>Die Zukunft <f id="1">wirft einen Schatten</f>  .</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="372">
+  <input>Eva spricht viel, ihre Freundin <f id="1">on the other hand</f>  ist eher still.</input>
+  <ref>Eva spricht viel, ihre Freundin <f id="1">dagegen<alt>auf der anderen Seite</alt><alt>andererseits</alt><alt>hingegen</alt></f>  ist eher still.</ref>
+</s>
+<s category="p" source="Mittelpunkt B2 - Klett" id="373">
+  <input>Am Abend sieht sie oft fern <f id="1">or</f>  Freunde kommen zu Besuch.</input>
+  <ref>Am Abend sieht sie oft fern <f id="1">oder</f>  Freunde kommen zu Besuch.</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1031_0001997" id="374">
+  <input>Die Entscheidung sollte man unbedingt <f id="1">to everybody</f>  selbst überlassen.</input>
+  <ref>Die Entscheidung sollte man unbedingt <f id="1">jedem</f>  selbst überlassen.</ref>
+</s>
+<s category="p" source="SCHUBERT-Verlag Leipzig" id="375">
+  <input>Die Schüler in Luxemburg können immerhin 2,5 Fremdsprachen <f id="1">per</f>  Schüler vorweisen.</input>
+  <ref>Die Schüler in Luxemburg können immerhin 2,5 Fremdsprachen <f id="1">pro</f>  Schüler vorweisen.</ref>
+</s>
+<s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="376">
+  <input>Wir müssen auch an <f id="1">future</f>  Generationen denken.</input>
+  <ref>Wir müssen auch an <f id="1">künftige<alt>zukünftige</alt></f>  Generationen denken.</ref>
+</s>
+<s category="adv" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="377">
+  <input>Er ist <f id="1">on time</f>  in Rom.</input>
+  <ref>Er ist <f id="1">pünktlich<alt>rechtzeitig</alt></f>  in Rom.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="378">
+  <input>Jede Revolution <f id="1">demands</f>  Opfer.</input>
+  <ref>Jede Revolution <f id="1">fordert<alt>verlangt</alt></f>  Opfer.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="379">
+  <input>Das hat sie sehr <f id="1">surprised</f>  .</input>
+  <ref>Das hat sie sehr <f id="1">überrascht<alt>erstaunt</alt></f>  .</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1031_0001997" id="380">
+  <input>Mit <f id="1">coercive measures</f>  erreicht man sicherlich nicht viel.</input>
+  <ref>Mit <f id="1">den Zwangsmaßnahmen<alt>Zwangsmaßnahmen</alt></f>  erreicht man sicherlich nicht viel.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="382">
+  <input>Die Gefangenen führten <f id="1">a hunger strike</f>  durch.</input>
+  <ref>Die Gefangenen führten <f id="1">einen Hungerstreik</f>  durch.</ref>
+</s>
+<s category="p" source="Mittelpunkt B2 - Klett" id="383">
+  <input><f id="1">Out of fear</f>  vor dem Fliegen ist Ben aber nicht mitgekommen.</input>
+  <ref><f id="1">Aus Angst</f>  vor dem Fliegen ist Ben aber nicht mitgekommen.</ref>
+</s>
+<s category="adv" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="384">
+  <input>Nein, <f id="1">unfortunately</f>  wurde sie entlassen.</input>
+  <ref>Nein, <f id="1">leider<alt>unglücklicherweise</alt><alt>bedauerlicherweise</alt></f>  wurde sie entlassen.</ref>
+</s>
+<s category="p" source="SCHUBERT-Verlag Leipzig" id="385">
+  <input>In Lettland wurden 10 <f id="1">in every</f>  100000 Bürgern Opfer von Gewalttaten, in Irland dagegen nur 0,3 von 100000 Menschen.</input>
+  <ref>In Lettland wurden 10 <f id="1">von<alt>in</alt></f>  100000 Bürgern Opfer von Gewalttaten, in Irland dagegen nur 0,3 von 100000 Menschen.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="386">
+  <input>Angeblich war die Premiere der Operette schon seit drei Monaten <f id="1">sold out</f>  .</input>
+  <ref>Angeblich war die Premiere der Operette schon seit drei Monaten <f id="1">ausverkauft</f>  .</ref>
+</s>
+<s category="pro" source="MERLIN Learner Corpus,  docid=1061_0120272" id="387">
+  <input>Tut mir leid, aber ich kann <f id="1">you</f>  nicht bald besuchen.</input>
+  <ref>Tut mir leid, aber ich kann <f id="1">dich<alt>Sie</alt></f>  nicht bald besuchen.</ref>
+</s>
+<s category="pro" source="MERLIN Learner Corpus,  docid=1031_0003012" id="388">
+  <input>Ich hoffe, <f id="1">you</f>  mit diesem Schreiben gedient zu haben.</input>
+  <ref>Ich hoffe, <f id="1">Ihnen</f>  mit diesem Schreiben gedient zu haben.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="389">
+  <input>Sie empfindet <f id="1">longing for</f>  tropischen Ländern.</input>
+  <ref>Sie empfindet <f id="1">Sehnsucht nach</f>  tropischen Ländern.</ref>
+</s>
+<s category="adj" source="MERLIN Learner Corpus,  docid=1031_0001703" id="390">
+  <input>In der Stadt kann man verschiedene Möglichkeiten haben, um eine Wohnung zu finden: ein Haus oder besser gesagt ein Einfamilienhaus, eine Wohnung in einem Kondominium, auch in <f id="1">small</f>  Strukturen.</input>
+  <ref>In der Stadt kann man verschiedene Möglichkeiten haben, um eine Wohnung zu finden: ein Haus oder besser gesagt ein Einfamilienhaus, eine Wohnung in einem Kondominium, auch in <f id="1">kleinen</f>  Strukturen.</ref>
+</s>
+<s category="a" source="Mittelpunkt B2 - Klett" id="391">
+  <input>Das Baby schreit <f id="1">continuously</f>  .</input>
+  <ref>Das Baby schreit <f id="1">andauernd<alt>ständig</alt><alt>dauernd</alt><alt>stetig</alt><alt>ununterbrochen</alt></f>  .</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="392">
+  <input>Sie <f id="1">lives together with</f>  ihrem Freund.</input>
+  <ref>Sie <f id="1">wohnt zusammen mit</f>  ihrem Freund.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="393">
+  <input>Die Stadt hat mich schon immer <f id="1">fascinated</f>  .</input>
+  <ref>Die Stadt hat mich schon immer <f id="1">fasziniert<alt>begeistert</alt></f>  .</ref>
+</s>
+<s category="v" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="394">
+  <input>Peter konnte diese Frage leider auch nicht <f id="1">answer</f>  .</input>
+  <ref>Peter konnte diese Frage leider auch nicht <f id="1">beantworten</f>  .</ref>
+</s>
+<s category="a" source="Mittelpunkt B2 - Klett" id="395">
+  <input>Die Karten für das Konzert waren <f id="1">very expensive</f>  .</input>
+  <ref>Die Karten für das Konzert waren <f id="1">sehr teuer</f>  .</ref>
+</s>
+<s category="p" source="SCHUBERT-Verlag Leipzig" id="396">
+  <input>Ein Hoch <f id="1">in</f>  Deutschland sorgt in Mitteleuropa für ruhiges Wetter.</input>
+  <ref>Ein Hoch <f id="1">in</f>  Deutschland sorgt in Mitteleuropa für ruhiges Wetter.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="397">
+  <input>Lange Zeit haben sich Menschen für diese Art von Krankheit <f id="1">shamed</f>  .</input>
+  <ref>Lange Zeit haben sich Menschen für diese Art von Krankheit <f id="1">geschämt</f>  .</ref>
+</s>
+<s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="398">
+  <input>Paris erhält als erste europäische Stadt eine <f id="1">public</f>  Beleuchtung.</input>
+  <ref>Paris erhält als erste europäische Stadt eine <f id="1">öffentliche</f>  Beleuchtung.</ref>
+</s>
+<s category="v" source="SCHUBERT-Verlag Leipzig" id="399">
+  <input>Sie wurde bald Rentnerin und DDR-Renter <f id="1">were allowed to</f>  4 Wochen im Jahr in den Westen zu reisen.</input>
+  <ref>Sie wurde bald Rentnerin und DDR-Renter <f id="1">durften<alt>konnten</alt><alt>wurden erlaubt</alt></f>  4 Wochen im Jahr in den Westen zu reisen.</ref>
+</s>
+<s category="p" source="SCHUBERT-Verlag Leipzig" id="400">
+  <input>Das wären bei 18 Millionen Bildschirmarbeitsplätzen hierzulande 900 Millionen <f id="1">to</f>  6,3 Milliarden Arbeitsstunden pro Jahr.</input>
+  <ref>Das wären bei 18 Millionen Bildschirmarbeitsplätzen hierzulande 900 Millionen <f id="1">bis</f>  6,3 Milliarden Arbeitsstunden pro Jahr.</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="401">
+  <input>Wer in den Alpen klettern möchte, muss <f id="1">from now on</f>  einen Helm tragen.</input>
+  <ref>Wer in den Alpen klettern möchte, muss <f id="1">von nun an<alt>ab jetzt</alt><alt>fortan</alt><alt>ab sofort</alt><alt>von jetzt an</alt></f>  einen Helm tragen.</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="402">
+  <input>Sie haben nach der Wende <f id="1">with great success</f>  ein Geschäft eröffnet.</input>
+  <ref>Sie haben nach der Wende <f id="1">mit großem Erfolg</f>  ein Geschäft eröffnet.</ref>
+</s>
+<s category="conn" source="MERLIN Learner Corpus,  docid=1031_0002184" id="403">
+  <input>Wenn sie in ein Einkaufszentrum gehen, können sie nichts sagen <f id="1">except</f>  "ja" und "nein".</input>
+  <ref>Wenn sie in ein Einkaufszentrum gehen, können sie nichts sagen <f id="1">außer</f>  "ja" und "nein".</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="404">
+  <input>Das Smartphone funktionierte bald als Fahrscheinautomat, Bankzentrale, Navigation und Kommunikationsmittel <f id="1">at the same time</f>  .</input>
+  <ref>Das Smartphone funktionierte bald als Fahrscheinautomat, Bankzentrale, Navigation und Kommunikationsmittel <f id="1">zugleich<alt>gleichzeitig</alt></f>  .</ref>
+</s>
+<s category="p" source="MERLIN Learner Corpus,  docid=1061_0120361" id="405">
+  <input>Natürlich besuche ich dich gern <f id="1">in</f>  nächsten Monat.</input>
+  <ref>Natürlich besuche ich dich gern <f id="1">im</f>  nächsten Monat.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="406">
+  <input>Eine Mentalität ist <f id="1">the way of thinking</f>  einer Gruppe oder Einzelperson.</input>
+  <ref>Eine Mentalität ist <f id="1">die Denkweise</f>  einer Gruppe oder Einzelperson.</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="407">
+  <input>Man sollte <f id="1">daily</f>  an die frische Luft gehen.</input>
+  <ref>Man sollte <f id="1">täglich<alt>jeden Tag</alt></f>  an die frische Luft gehen.</ref>
+</s>
+<s category="p" source="Mittelpunkt B2 - Klett" id="408">
+  <input>Damit gibt es keine Probleme, <f id="1">when</f>  man allein wohnt.</input>
+  <ref>Damit gibt es keine Probleme, <f id="1">wenn</f>  man allein wohnt.</ref>
+</s>
+<s category="pp" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="409">
+  <input>Wir leben in einem Haus mit kleinem Garten <f id="1">near</f>  Bern.</input>
+  <ref>Wir leben in einem Haus mit kleinem Garten <f id="1">in der Nähe von<alt>bei</alt><alt>nahe bei</alt></f>  Bern.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="410">
+  <input>Ihre Eltern werden sie heute noch <f id="1">call</f>  .</input>
+  <ref>Ihre Eltern werden sie heute noch <f id="1">anrufen</f>  .</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="411">
+  <input>Etwa 50 Prozent aller Deutschen meinen, dass nach wie vor <f id="1">big differences</f>  zwischen West und Ost bestehen.</input>
+  <ref>Etwa 50 Prozent aller Deutschen meinen, dass nach wie vor <f id="1">große Unterschiede<alt>erhebliche Unterschiede</alt></f>  zwischen West und Ost bestehen.</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="412">
+  <input>Der Ursprung blieb in all den Jahren <f id="1">the same</f>  .</input>
+  <ref>Der Ursprung blieb in all den Jahren <f id="1">derselbe</f>  .</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="413">
+  <input>Die Sonne ist <f id="1">dangerous</f>  .</input>
+  <ref>Die Sonne ist <f id="1">gefährlich</f>  .</ref>
+</s>
+<s category="v" source="MERLIN Learner Corpus,  docid=1023_0103841" id="414">
+  <input>Ich habe mein Studium im Bereich Informatik im Jahr 2009 <f id="1">finished</f>  .</input>
+  <ref>Ich habe mein Studium im Bereich Informatik im Jahr 2009 <f id="1">abgeschlossen</f>  .</ref>
+</s>
+<s category="adv" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="415">
+  <input>Sie besucht <f id="1">every weekend</f>  ihre Eltern.</input>
+  <ref>Sie besucht <f id="1">jedes Wochenende</f>  ihre Eltern.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="416">
+  <input>Die traditionelle Denkweise <f id="1">leads to</f>  hässlichen Menschen.</input>
+  <ref>Die traditionelle Denkweise <f id="1">führt zu</f>  hässlichen Menschen.</ref>
+</s>
+<s category="v" source=" MERLIN Learner Corpus,  docid=1031_0002083" id="417">
+  <input>Deswegen habe ich meine Meinung geändert und ich habe angefangen, die Leute zu <f id="1">respect</f>  .</input>
+  <ref>Deswegen habe ich meine Meinung geändert und ich habe angefangen, die Leute zu <f id="1">respektieren</f>  .</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="418">
+  <input>Sie hatte <f id="1">need for</f>  Ruhe.</input>
+  <ref>Sie hatte <f id="1">das Bedürfnis nach</f>  Ruhe.</ref>
+</s>
+<s category="v" source="MERLIN Learner Corpus,  docid= 1023_0109022" id="419">
+  <input>Die Eltern waren nett aber das Kind <f id="1">was</f>  böse.</input>
+  <ref>Die Eltern waren nett aber das Kind <f id="1">war</f>  böse.</ref>
+</s>
+<s category="a" source="Mittelpunkt B2 - Klett" id="420">
+  <input>Sei nicht <f id="1">angry</f>  , wenn ich dich noch mal unterbreche.</input>
+  <ref>Sei nicht <f id="1">böse</f>  , wenn ich dich noch mal unterbreche.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="421">
+  <input>Das dritte Kapitel zu lesen, war <f id="1">worth it</f>  .</input>
+  <ref>Das dritte Kapitel zu lesen, war <f id="1">die Mühe wert<alt>es wert</alt></f>  .</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="422">
+  <input>Viele Europäer werden eine weitere Steuererhöhung <f id="1">reject</f>  .</input>
+  <ref>Viele Europäer werden eine weitere Steuererhöhung <f id="1">ablehnen<alt>zurückweisen</alt><alt>verwerfen</alt></f>  .</ref>
+</s>
+<s category="expr" source="Mittelpunkt B2 - Klett" id="423">
+  <input>Wir könnten <f id="1">for example</f>  wandern gehen.</input>
+  <ref>Wir könnten <f id="1">zum Beispiel<alt>beispielsweise</alt></f>  wandern gehen.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="424">
+  <input><f id="1">The understanding of</f>  die Probleme von Demenzkranken nimmt immer mehr zu.</input>
+  <ref><f id="1">Das Verständnis für</f>  die Probleme von Demenzkranken nimmt immer mehr zu.</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid= 1031_0002184" id="425">
+  <input><f id="1">The first generation</f>  der türkischen Gastarbeiter in Deutschland z.B. spricht kein Deutsch.</input>
+  <ref><f id="1">Die erste Generation</f>  der türkischen Gastarbeiter in Deutschland z.B. spricht kein Deutsch.</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="426">
+  <input>Ich kann gut nachvollziehen, wie es dir <f id="1">at the moment</f>  geht.</input>
+  <ref>Ich kann gut nachvollziehen, wie es dir <f id="1">im Moment<alt>momentan</alt><alt>im Augenblick</alt><alt>zur Zeit</alt></f>  geht.</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="427">
+  <input>Seither hat sich Deutschland an mehreren militärischen Interventionen <f id="1">participated</f>  .</input>
+  <ref>Seither hat sich Deutschland an mehreren militärischen Interventionen <f id="1">beteiligt<alt>teilgenommen</alt></f>  .</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="428">
+  <input>Wer heute operiert wird, <f id="1">experiences</f>  keine Tortur wie noch vor gut 200 Jahren.</input>
+  <ref>Wer heute operiert wird, <f id="1">erlebt<alt>erfährt</alt></f>  keine Tortur wie noch vor gut 200 Jahren.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="429">
+  <input>Er ist der Sektor mit der umfangreichsten Menge an <f id="1">garbage</f>  .</input>
+  <ref>Er ist der Sektor mit der umfangreichsten Menge an <f id="1">Müll<alt>Abfall</alt></f>  .</ref>
+</s>
+<s category="pp" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="430">
+  <input>Der kleine Junge wünscht sich <f id="1">for Christmas</f>  einen Computer.</input>
+  <ref>Der kleine Junge wünscht sich <f id="1">zu Weihnachten</f>  einen Computer.</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="431">
+  <input>Wer kommt für die Kosten auf, wenn <f id="1">suddenly</f>  bis zu 10-mal mehr Rechner gekauft werden müssen?</input>
+  <ref>Wer kommt für die Kosten auf, wenn <f id="1">plötzlich</f>  bis zu 10-mal mehr Rechner gekauft werden müssen?</ref>
+</s>
+<s category="pp" source="Mittelpunkt B2 - Klett" id="432">
+  <input>Die Band spielt <f id="1">in the background</f>  .</input>
+  <ref>Die Band spielt <f id="1">im Hintergrund</f>  .</ref>
+</s>
+<s category="n" source="Mittelpunkt B2 - Klett" id="433">
+  <input>Ich muss ja noch <f id="1">my homework</f>  für die Uni fertig kriegen.</input>
+  <ref>Ich muss ja noch <f id="1">meine Hausarbeit<alt>meine Hausaufgaben</alt></f>  für die Uni fertig kriegen.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="434">
+  <input>Der Lehrer hat <f id="1">the behaviour</f>  der Schüler heftig kritisiert.</input>
+  <ref>Der Lehrer hat <f id="1">das Benehmen<alt>das Verhalten</alt></f>  der Schüler heftig kritisiert.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="435">
+  <input>Gestern wurde <f id="1">a terrorist attack</f>  auf eine Fabrik verübt.</input>
+  <ref>Gestern wurde <f id="1">ein terroristischer Anschlag<alt>ein Terroranschlag</alt></f>  auf eine Fabrik verübt.</ref>
+</s>
+<s category="adv" source="&#9;MERLIN Learner Corpus,  docid=1031_0002036" id="436">
+  <input><f id="1">In sum</f>  sind die oben genannten Besonderheiten und Tipps sehr wichtig für alle, die eine Wohnung in Berlin suchen.</input>
+  <ref><f id="1">Zusammengefasst<alt>Zusammenfassend</alt></f>  sind die oben genannten Besonderheiten und Tipps sehr wichtig für alle, die eine Wohnung in Berlin suchen.</ref>
+</s>
+<s category="v" source="MERLIN Learner Corpus, docid=1023_0101844" id="437">
+  <input>Deswegen habe ich <f id="1">good</f>  Kontakt mit den Leuten.</input>
+  <ref>Deswegen habe ich <f id="1">guten</f>  Kontakt mit den Leuten.</ref>
+</s>
+<s category="v" source="SCHUBERT-Verlag Leipzig" id="438">
+  <input>Der Nachwuchssportler <f id="1">received</f>  eine Chance.</input>
+  <ref>Der Nachwuchssportler <f id="1">erhielt</f>  eine Chance.</ref>
+</s>
+<s category="adj" source="MERLIN Learner Corpus,  docid=1031_0002006" id="439">
+  <input>In <f id="1">following</f>  Bericht beschreibe ich die Möglichkeiten ein eigenes Zuhause zu bekommen.</input>
+  <ref>In <f id="1">folgendem</f>  Bericht beschreibe ich die Möglichkeiten ein eigenes Zuhause zu bekommen.</ref>
+</s>
+<s category="pp" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="440">
+  <input>Die Temperatur <f id="1">of our rivers</f>  steigt.</input>
+  <ref>Die Temperatur <f id="1">unserer Flüsse</f>  steigt.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="441">
+  <input>Sie stellten zu hohe <f id="1">demands</f>  .</input>
+  <ref>Sie stellten zu hohe <f id="1">Ansprüche<alt>Forderungen</alt></f>  .</ref>
+</s>
+<s category="v" source="MERLIN Learner Corpus,  docid=1031_0002036" id="442">
+  <input>Sicherlich ist es für alle neuen Einwohner in Essen sehr wichtig zu wissen, welche Aspekte bei der Wohnungssuche in dieser großen Stadt <f id="1">considered</f>  werden müssen.</input>
+  <ref>Sicherlich ist es für alle neuen Einwohner in Essen sehr wichtig zu wissen, welche Aspekte bei der Wohnungssuche in dieser großen Stadt <f id="1">berücksichtigt<alt>erwogen</alt><alt>betrachtet</alt></f>  werden müssen.</ref>
+</s>
+<s category="expr" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="443">
+  <input>Viele andere Problemen <f id="1">take precedence</f>  .</input>
+  <ref>Viele andere Problemen <f id="1">haben Vorrang</f>  .</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="444">
+  <input>Ich weiß nicht ob ich <f id="1">risk it</f>  soll.</input>
+  <ref>Ich weiß nicht ob ich <f id="1">es riskieren<alt>es wagen</alt></f>  soll.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="445">
+  <input>Er sagte, dass <f id="1">the pronunciation</f>  des Englischen schwierig sein kann.</input>
+  <ref>Er sagte, dass <f id="1">die Aussprache</f>  des Englischen schwierig sein kann.</ref>
+</s>
+<s category="v" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="446">
+  <input>Er <f id="1">dreams about</f>  großen Tigern.</input>
+  <ref>Er <f id="1">träumt von</f>  großen Tigern.</ref>
+</s>
+<s category="v" source="MERLIN Learner Corpus,  docid=1061_0120338" id="447">
+  <input>Zuerst <f id="1">congratulate</f>  ich dir zu deiner bestandenen Prüfung und wünsche dir einen schönen Urlaub in Istanbul.</input>
+  <ref>Zuerst <f id="1">gratuliere</f>  ich dir zu deiner bestandenen Prüfung und wünsche dir einen schönen Urlaub in Istanbul.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="448">
+  <input>Wie viele <f id="1">languages</f>  sprichst du?</input>
+  <ref>Wie viele <f id="1">Sprachen</f>  sprichst du?</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="449">
+  <input>Wir können noch <f id="1">additional measures</f>  erwarten.</input>
+  <ref>Wir können noch <f id="1">zusätzliche Maßnahmen<alt>Zusatzmaßnahmen</alt></f>  erwarten.</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1061_0120877" id="450">
+  <input>Ich würde <f id="1">tomorrow</f>  eine E-mail schreiben und dir sagen, ob ich komme oder nicht.</input>
+  <ref>Ich würde <f id="1">morgen</f>  eine E-mail schreiben und dir sagen, ob ich komme oder nicht.</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="451">
+  <input><f id="1">At the beginning</f>  arbeitete Anna ohne Anstrengung bis zum Abend.</input>
+  <ref><f id="1">Am Anfang<alt>Anfangs</alt><alt>Zu Beginn</alt></f>  arbeitete Anna ohne Anstrengung bis zum Abend.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="452">
+  <input>Da ich selber Hunde hatte, <f id="1">disturbed</f>  mich das Hundegebell nicht.</input>
+  <ref>Da ich selber Hunde hatte, <f id="1">störte</f>  mich das Hundegebell nicht.</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1031_0003221" id="453">
+  <input>Ich erinnere mich noch daran, dass <f id="1">the boys</f>  zu den Mädchen gehen.</input>
+  <ref>Ich erinnere mich noch daran, dass <f id="1">die Jungen</f>  zu den Mädchen gehen.</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="454">
+  <input>Ich habe Tom <f id="1">one month ago</f>  auf einer Party kennen gelernt.</input>
+  <ref>Ich habe Tom <f id="1">vor einem Monat</f>  auf einer Party kennen gelernt.</ref>
+</s>
+<s category="adv" source="MERLIN Learner Corpus,  docid=1031_0003162" id="455">
+  <input>Schauen Sie <f id="1">first</f>  Ihre Auswahl an und sprechen Sie dann direkt mit dem Verkäufer.</input>
+  <ref>Schauen Sie <f id="1">zuerst<alt>erstens</alt></f>  Ihre Auswahl an und sprechen Sie dann direkt mit dem Verkäufer.</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="456">
+  <input>Carla fährt <f id="1">this summer</f>  mit ihren Freunden nach Griechenland.</input>
+  <ref>Carla fährt <f id="1">diesen Sommer</f>  mit ihren Freunden nach Griechenland.</ref>
+</s>
+<s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="457">
+  <input>Ich sehe mir <f id="1">every new episode</f>  im Fernsehen an.</input>
+  <ref>Ich sehe mir <f id="1">jede neue Folge</f>  im Fernsehen an.</ref>
+</s>
+<s category="v" source="Mittelpunkt B2 - Klett" id="458">
+  <input>Ich <f id="1">recommend</f>  Ihnen, sich gesund zu ernähren.</input>
+  <ref>Ich <f id="1">empfehle</f>  Ihnen, sich gesund zu ernähren.</ref>
+</s>
+<s category="pp" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="459">
+  <input>Die Qualität wird <f id="1">by the producers</f>  gewährleistet.</input>
+  <ref>Die Qualität wird <f id="1">vom Produzenten<alt>vom Hersteller</alt></f>  gewährleistet.</ref>
+</s>
+<s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="460">
+  <input>Wir waren <f id="1">obligated</f>  , das Firmengeheimnis für uns zu behalten.</input>
+  <ref>Wir waren <f id="1">verpflichtet</f>  , das Firmengeheimnis für uns zu behalten.</ref>
+</s>
+<s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="461">
+  <input><f id="1">Soon after</f>  verlässt Juliane ihr Geburtsland Peru in Richtung Deutschland.</input>
+  <ref><f id="1">Bald danach<alt>Bald darauf</alt><alt>Kurz danach</alt><alt>Kurz darauf</alt></f>  verlässt Juliane ihr Geburtsland Peru in Richtung Deutschland.</ref>
+</s>
+<s category="p" source="MERLIN Learner Corpus,  docid=1023_0101906" id="462">
+  <input>Ich bin seit 2 Jahren in der Schweiz und ich habe meine Ausbildung an der Universität <f id="1">in</f>  Handel, Wirtschaft und Soziologie abgeschlossen.</input>
+  <ref>Ich bin seit 2 Jahren in der Schweiz und ich habe meine Ausbildung an der Universität <f id="1">in</f>  Handel, Wirtschaft und Soziologie abgeschlossen.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="463">
+  <input>In dieser Situation wäre es schon <f id="1">an improvement</f>  .</input>
+  <ref>In dieser Situation wäre es schon <f id="1">ein Fortschritt<alt>eine Verbesserung</alt></f>  .</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1031_000320" id="464">
+  <input>Leider muss man sich immer mehr an <f id="1">the idea</f>  gewöhnen, dass eine Sprache immer nützlicher wird, je mehr sie in der Welt benutzt wird.</input>
+  <ref>Leider muss man sich immer mehr an <f id="1">die Idee<alt>den Gedanken</alt></f>  gewöhnen, dass eine Sprache immer nützlicher wird, je mehr sie in der Welt benutzt wird</ref>
+</s>
+<s category="adv" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="465">
+  <input><f id="1">Lately</f>  spricht sie immer über die Rückkehr.</input>
+  <ref><f id="1">Neuerdings<alt>In letzter Zeit</alt><alt>Seit kürzem</alt><alt>Kürzlich</alt></f>  spricht sie immer über die Rückkehr.</ref>
+</s>
+<s category="expr" source="SCHUBERT-Verlag Leipzig" id="466">
+  <input>In einer Studie der amerikanischen Universität von Maryland geht man sogar davon aus, dass mindestens <f id="1">one third of the time</f>  , die Mitarbeiter vor dem Rechner verbringen, durch frustrierende Erlebnisse verloren geht.</input>
+  <ref>In einer Studie der amerikanischen Universität von Maryland geht man sogar davon aus, dass mindestens <f id="1">ein Drittel der Zeit</f>  , die Mitarbeiter vor dem Rechner verbringen, durch frustrierende Erlebnisse verloren geht.</ref>
+</s>
+<s category="v" source="SCHUBERT-Verlag Leipzig" id="467">
+  <input>Fast alle Büroarbeiter haben den Kollegen Computer schon <f id="1">yelled at</f>  und verflucht.</input>
+  <ref>Fast alle Büroarbeiter haben den Kollegen Computer schon <f id="1">angeschrien</f>  und verflucht.</ref>
+</s>
+<s category="expr" source=" MERLIN Learner Corpus,  docid=1031_0002083" id="468">
+  <input>Wenn Sie nach Rom gehen, verhalten Sie sich bitte <f id="1">as the romans</f>  .</input>
+  <ref>Wenn Sie nach Rom gehen, verhalten Sie sich bitte <f id="1">wie die Römer</f>  .</ref>
+</s>
+<s category="adv" source="Mittelpunkt B2 - Klett" id="469">
+  <input>Ich bin <f id="1">in my search for</f>  einem Zimmer in einem ruhig gelegenen Hotel auf ihre Adresse gestoßen.</input>
+  <ref>Ich bin <f id="1">bei meiner Suche nach<alt>auf meiner Suche nach</alt></f>  einem Zimmer in einem ruhig gelegenen Hotel auf ihre Adresse gestoßen.</ref>
+</s>
+<s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="470">
+  <input>Der Gärtner <f id="1">sprayed</f>  Wasser auf die Blumen.</input>
+  <ref>Der Gärtner <f id="1">spritzte</f>  Wasser auf die Blumen.</ref>
+</s>
+<s category="n" source="Mittelpunkt B2 - Klett" id="471">
+  <input>Man muss über <f id="1">the errors</f>  sprechen.</input>
+  <ref>Man muss über <f id="1">die Fehler</f>  sprechen.</ref>
+</s>
+<s category="a" id="472">
+  <input>Die <f id="1">most important</f>  Wörter im sind schon gesagt.</input>
+  <ref>Die <f id="1">wichtigsten</f>  Wörter im sind schon gesagt.</ref>
+</s>
+<s category="a" source="Mittelpunkt B2 - Klett" id="473">
+  <input>Das klingt <f id="1">crazy</f>  , aber unter Belastung sind sie besonders motiviert.</input>
+  <ref>Das klingt <f id="1">verrückt</f>  , aber unter Belastung sind sie besonders motiviert.</ref>
+</s>
+<s category="adj" source="MERLIN Learner Corpus,  docid=1023_0101846" id="474">
+  <input>Meine Stärken sind Organisationstalent, Einsatzbereitschaft und Zuverlässigkeit sowie <f id="1">correct</f>  Umgangsformen und ein freundliches Auftreten.</input>
+  <ref>Meine Stärken sind Organisationstalent, Einsatzbereitschaft und Zuverlässigkeit sowie <f id="1">korrekte<alt>richtige</alt></f>  Umgangsformen und ein freundliches Auftreten.</ref>
+</s>
+<s category="expr" source="Mittelpunkt B2 - Klett" id="475">
+  <input>Die Familie sieht <f id="1">no solution to the problem</f>  und macht die Stadt verantwortlich.</input>
+  <ref>Die Familie sieht <f id="1">keine Lösung des Problems<alt>keine Lösung für das Problem</alt></f>  und macht die Stadt verantwortlich.</ref>
+</s>
+<s category="adv" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="476">
+  <input>Das Buch wird <f id="1">often</f>  gelesen.</input>
+  <ref>Das Buch wird <f id="1">oft<alt>viel</alt><alt>häufig</alt></f>  gelesen.</ref>
+</s>
+<s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="477">
+  <input>Mobiles Lernen kann wunderbar in <f id="1">existing</f>  Konzepte eingefügt werden.</input>
+  <ref>Mobiles Lernen kann wunderbar in <f id="1">bestehende<alt>existierende</alt></f>  Konzepte eingefügt werden.</ref>
+</s>
+<s category="n" source=" MERLIN Learner Corpus,  docid=1023_0101897" id="478">
+  <input>Ich habe einen universitären Studienabschluss als Portugiesisch- und <f id="1">Spanish teacher</f>  , spreche und schreibe Spanisch wie meine Zweitsprache.</input>
+  <ref>Ich habe einen universitären Studienabschluss als Portugiesisch- und <f id="1">Spanischlehrerin<alt>Spanischlehrer</alt></f>  , spreche und schreibe Spanisch wie meine Zweitsprache.</ref>
+</s>
+<s category="p" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="479">
+  <input><f id="1">As soon as</f>  sie zu Boden fallen, werden sie zu Nährstoffen für Tiere und Pflanzen.</input>
+  <ref><f id="1">Sobald</f>  sie zu Boden fallen, werden sie zu Nährstoffen für Tiere und Pflanzen.</ref>
+</s>
+<s category="pp" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="480">
+  <input>Sie ist groß <f id="1">for her age</f>  .</input>
+  <ref>Sie ist groß <f id="1">für ihr Alter</f>  .</ref>
+</s>
+<s category="v" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="481">
+  <input>Das Haus vor der Kirche <f id="1">belongs to</f>  dem Bürgermeister.</input>
+  <ref>Das Haus vor der Kirche <f id="1">gehört</f>  dem Bürgermeister.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="482">
+  <input>Die moderne Medizin hat <f id="1">our relationship with</f>  Schmerz grundlegend verändert.</input>
+  <ref>Die moderne Medizin hat <f id="1">unser Verhältnis zum</f>  Schmerz grundlegend verändert.</ref>
+</s>
+<s category="p" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="483">
+  <input>Die Geburtenrate liegt <f id="1">below</f>  der Sterberate.</input>
+  <ref>Die Geburtenrate liegt <f id="1">unter<alt>unterhalb</alt></f>  der Sterberate.</ref>
+</s>
+<s category="n" source=" MERLIN Learner Corpus,  docid=1061_0120273" id="484">
+  <input>Wenn ich <f id="1">summer holidays</f>  habe, fliege ich nach Südkorea.</input>
+  <ref>Wenn ich <f id="1">Sommerferien<alt>Sommerurlaub</alt></f>  habe, fliege ich nach Südkorea.</ref>
+</s>
+<s category="n" source="SCHUBERT-Verlag Leipzig" id="485">
+  <input>Wie informieren Sie sich über das Radio- und <f id="1">tv program</f>  ?</input>
+  <ref>Wie informieren Sie sich über das Radio- und <f id="1">Fernsehprogramm</f>  ?</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1031_0001998" id="486">
+  <input>Während ich <f id="1">the last four years</f>  meines Lebens im Ausland verbrachte, war ich sehr oft mit der Frage der Kulturmischung konfrontiert.</input>
+  <ref>Während ich <f id="1">die letzten vier Jahre<alt>die vergangenen vier Jahre</alt></f>  meines Lebens im Ausland verbrachte, war ich sehr oft mit der Frage der Kulturmischung konfrontiert.</ref>
+</s>
+<s category="adv" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="487">
+  <input><f id="1">Nowadays</f>  reist man mit dem Flugzeug.</input>
+  <ref><f id="1">Heutzutage</f>  reist man mit dem Flugzeug.</ref>
+</s>
+<s category="conn" source="SCHUBERT-Verlag Leipzig" id="488">
+  <input><f id="1">When</f>  wir hörten, dass eine Mauer gebaut wird, habe ich mir eins, zwei, drei die Bärbel geschnappt.</input>
+  <ref><f id="1">Als</f>  wir hörten, dass eine Mauer gebaut wird, habe ich mir eins, zwei, drei die Bärbel geschnappt.</ref>
+</s>
+<s category="n" source=" MERLIN Learner Corpus,  docid=1031_0001949" id="489">
+  <input><f id="1">But that does not mean</f>  , dass ich die Traditionen meines Landes vergessen habe.</input>
+  <ref><f id="1">Das heißt aber nicht<alt>Aber das heißt nicht</alt><alt>Aber das bedeutet nicht</alt><alt>Das bedeutet aber nicht</alt><alt>Allerdings bedeutet das nicht</alt></f>  , dass ich die Traditionen meines Landes vergessen habe.</ref>
+</s>
+<s category="n" source="MERLIN Learner Corpus,  docid=1061_0120374" id="490">
+  <input>Maria ist in der Schule und in 2 Wochen fliegt <f id="1">she</f>  mit ihrer Klasse nach Frankreich.</input>
+  <ref>Maria ist in der Schule und in 2 Wochen fliegt <f id="1">sie</f>  mit ihrer Klasse nach Frankreich.</ref>
+</s>
+<s category="adj" source="MERLIN Learner Corpus,  docid=1071_0024782" id="491">
+  <input>Lieber Jens, herzlichen Glückwunsch zu deinem <f id="1">new</f>  Bruder!</input>
+  <ref>Lieber Jens, herzlichen Glückwunsch zu deinem <f id="1">neuen</f>  Bruder!</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="492">
+  <input>Das sind Gefühle, die beim Musikhören oft <f id="1">occur</f>  .</input>
+  <ref>Das sind Gefühle, die beim Musikhören oft <f id="1">auftreten<alt>hochkommen</alt><alt>vorkommen</alt></f>  .</ref>
+</s>
+<s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="493">
+  <input><f id="1">They affect</f>  Männer ebenso wie Frauen.</input>
+  <ref><f id="1">Sie betreffen</f>  Männer ebenso wie Frauen.</ref>
+</s>
+<s category="pp" source="SCHUBERT-Verlag Leipzig" id="494">
+  <input>Eine Dokumentation (2006) enthüllt, dass die Deutschen in vielen Bereichen <f id="1">in the midfield</f>  liegen.</input>
+  <ref>Eine Dokumentation (2006) enthüllt, dass die Deutschen in vielen Bereichen <f id="1">im Mittelfeld</f>  liegen.</ref>
+</s>
+<s category="p" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="495">
+  <input><f id="1">Since</f>  Jahren ist er Vegetarier.</input>
+  <ref><f id="1">Seit</f>  Jahren ist er Vegetarier.</ref>
+</s>
+<s category="w" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="496">
+  <input>Wir <f id="1">have tried</f>  , gemeinsam mit Kollegen ein solches Konzept umzusetzen.</input>
+  <ref>Wir <f id="1">haben versucht</f>  , gemeinsam mit Kollegen ein solches Konzept umzusetzen.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="497">
+  <input>Alle <f id="1">participants</f>  erhalten als Dank eine Urkunde.</input>
+  <ref>Alle <f id="1">Teilnehmer<alt>Beteiligten</alt></f>  erhalten als Dank eine Urkunde.</ref>
+</s>
+<s category="adj" source="SCHUBERT-Verlag Leipzig" id="498">
+  <input>Die Mitglieder der Mannschaft sollten ihre <f id="1">medical</f>  Untersuchung nicht vergessen.</input>
+  <ref>Die Mitglieder der Mannschaft sollten ihre <f id="1">ärztliche<alt>medizinische</alt><alt>Medizin-</alt></f>  Untersuchung nicht vergessen.</ref>
+</s>
+<s category="adv" source="SCHUBERT-Verlag Leipzig" id="499">
+  <input>Sie wünschte sich jedoch, <f id="1">that</f>  die Kinder in Berlin aufwachsen.</input>
+  <ref>Sie wünschte sich jedoch, <f id="1">dass<alt>daß</alt></f>  die Kinder in Berlin aufwachsen.</ref>
+</s>
+<s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="500">
+  <input>Freiwillig verlässt <f id="1">hardly anybody</f>  das Haus.</input>
+  <ref>Freiwillig verlässt <f id="1">kaum einer<alt>kaum jemand</alt><alt>fast niemand</alt><alt>kaum jemanden</alt></f>  das Haus.</ref>
+</s>
+</sentencepairs>

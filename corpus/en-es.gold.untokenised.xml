@@ -1,0 +1,1994 @@
+<sentencepairs L1="en" L2="es">
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="1">
+  <input>La pelota vasca es <f id="1">a sport</f>  tradicional vasco.</input>
+  <ref>La pelota vasca es <f id="1">un deporte</f>  tradicional vasco.</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="2">
+  <input>En ocasiones puede <f id="1">give the impression</f>  que el proceso no es tan rápido como se quisiera.</input>
+  <ref>En ocasiones puede <f id="1">dar la impresión<alt>dar la impresión de</alt></f>  que el proceso no es tan rápido como se quisiera.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="3">
+  <input>A los niños les falta un espacio para hacer <f id="1">their homework</f>  .</input>
+  <ref>A los niños les falta un espacio para hacer <f id="1">sus deberes<alt>los deberes</alt><alt>sus tareas</alt></f>  .</ref>
+</s>
+<s category="adv" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="4">
+  <input>Se han observado <f id="1">occasionally</f>  sequedad de boca y visión borrosa.</input>
+  <ref>Se han observado <f id="1">ocasionalmente<alt>de vez en cuando</alt><alt>en ocasiones</alt><alt>a veces</alt></f>  sequedad de boca y visión borrosa.</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="5">
+  <input>No fue nada fácil, <f id="1">although</f>  al final conseguí.</input>
+  <ref>No fue nada fácil, <f id="1">aunque</f>  al final conseguí.</ref>
+</s>
+<s category="n" source="Lucía Etxebarría. De todo lo visible y lo invisible. Madrid: Editorial Espasa Calpe, 2001 (171)." id="6">
+  <input>Julito, <f id="1">her boyfriend</f>  , trabajaba en una tienda.</input>
+  <ref>Julito, <f id="1">su novio</f>  , trabajaba en una tienda.</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="7">
+  <input>Cerca del Auditorio Nacional en Madrid es un sitio excelente para degustar mil formas de cocinar <f id="1">cod</f>  .</input>
+  <ref>Cerca del Auditorio Nacional en Madrid es un sitio excelente para degustar mil formas de cocinar <f id="1">el bacalao<alt>bacalao</alt></f>  .</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="8">
+  <input>¡No deje <f id="1">the towel</f>  en la piscina!</input>
+  <ref>¡No deje <f id="1">la toalla</f>  en la piscina!</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="9">
+  <input>Es una medida que nos vuelve a llevar a <f id="1">the Middle Ages</f>  .</input>
+  <ref>Es una medida que nos vuelve a llevar a <f id="1">la Edad Media</f>  .</ref>
+</s>
+<s category="expr" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="10">
+  <input>Yo <f id="1">am against</f>  plantear este objetivo en los términos de una batalla contra otras formas de ocio.</input>
+  <ref>Yo <f id="1">soy contrario a<alt>estoy en contra de</alt><alt>opongo a</alt></f>  plantear este objetivo en los términos de una batalla contra otras formas de ocio.</ref>
+</s>
+<s category="pp" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="11">
+  <input>En este momento nieva <f id="1">in the north</f>  de Holanda.</input>
+  <ref>En este momento nieva <f id="1">en el norte</f>  de Holanda.</ref>
+</s>
+<s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="12">
+  <input>A mí me parece que esta tarde no <f id="1">going to rain</f>  , pero quiza mañana sí.</input>
+  <ref>A mí me parece que esta tarde no <f id="1">va a llover</f>  , pero quiza mañana sí.</ref>
+</s>
+<s category="a" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="13">
+  <input>Esta orquesta sinfónica es dirigida por <f id="1">one of the most famous</f>  directores del mundo.</input>
+  <ref>Esta orquesta sinfónica es dirigida por <f id="1">uno de los más famosos<alt>uno de los más reconocidos</alt></f>  directores del mundo.</ref>
+</s>
+<s category="expr" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="14">
+  <input><f id="1">Nowadays</f>  , la concentración de ácidos en la atmósfera es un problema.</input>
+  <ref><f id="1">Hoy en día<alt>En la actualidad</alt><alt>Actualmente</alt></f>  , la concentración de ácidos en la atmósfera es un problema.</ref>
+</s>
+<s category="v" id="15">
+  <input>El embajador <f id="1">signed</f>  hoy el acuerdo.</input>
+  <ref>El embajador <f id="1">firmó</f>  hoy el acuerdo.</ref>
+</s>
+<s category="w" source="Dr. Guillermo Sanz Gallego, Ghent University" id="16">
+  <input>Es una pequeña victoria para el gobierno español que <f id="1">has begun to</f>  luchar contra la enorme tasa de desempleo.</input>
+  <ref>Es una pequeña victoria para el gobierno español que <f id="1">ha empezado a<alt>ha comenzado a</alt></f>  luchar contra la enorme tasa de desempleo.</ref>
+</s>
+<s category="a" source="Dr. Guillermo Sanz Gallego, Ghent University" id="17">
+  <input>En muchas de tus <f id="1">previous</f>  películas vuelve a acentuarse el papel de la transexualidad y la inseguridad sexual.</input>
+  <ref>En muchas de tus <f id="1">anteriores<alt>pasadas</alt></f>  películas vuelve a acentuarse el papel de la transexualidad y la inseguridad sexual.</ref>
+</s>
+<s category="v" source="Lucía Etxebarría. De todo lo visible y lo invisible. Madrid: Editorial Espasa Calpe, 2001 (171)." id="18">
+  <input>Trabajaba en una tienda de mobiliario de cocina que <f id="1">had inherited from</f>  sus padres</input>
+  <ref>Trabajaba en una tienda de mobiliario de cocina que <f id="1">había heredado de</f>  sus padres</ref>
+</s>
+<s category="v" source="El País - 7-2-2014" id="19">
+  <input>El Gobierno defiende que <f id="1">to spy on terrorists</f>  es legal.</input>
+  <ref>El Gobierno defiende que <f id="1">espiar a terroristas</f>  es legal.</ref>
+</s>
+<s category="pron" source="Prisma Grammatica Spaans - drs. E. Slager" id="20">
+  <input>Parece que hay algunos problemas con <f id="1">his</f>  pasaporte.</input>
+  <ref>Parece que hay algunos problemas con <f id="1">su</f>  pasaporte.</ref>
+</s>
+<s category="pron" source="Prisma Grammatica Spaans - drs. E. Slager" id="21">
+  <input><f id="1">She</f>  tiene la llave.</input>
+  <ref><f id="1">Ella</f>  tiene la llave.</ref>
+</s>
+<s category="a" source="Prisma Grammatica Spaans - drs. E. Slager" id="22">
+  <input>Nos comimos dos pollos <f id="1">entire</f>  .</input>
+  <ref>Nos comimos dos pollos <f id="1">enteros</f>  .</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="23">
+  <input>Mi jefe <f id="1">needs</f>  una moto que consuma menos gasolina.</input>
+  <ref>Mi jefe <f id="1">necesita</f>  una moto que consuma menos gasolina.</ref>
+</s>
+<s category="expr" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="24">
+  <input>La educación sexual es un aspecto <f id="1">of great importance</f>  en nuestra sociedad moderna.</input>
+  <ref>La educación sexual es un aspecto <f id="1">de gran importancia<alt>muy importante</alt><alt>de una gran importancia</alt></f>  en nuestra sociedad moderna.</ref>
+</s>
+<s category="p" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="25">
+  <input><f id="1">By means of</f>  juegos de ficción el niño asimila poco a poco ese mundo externo.</input>
+  <ref><f id="1">Por medio de<alt>Mediante</alt><alt>A través de</alt><alt>Mediante de</alt></f>  juegos de ficción el niño asimila poco a poco ese mundo externo.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="26">
+  <input>Al mismo tiempo el obispo pide a sus feligreses que recen para que los líderes de ETA opten por la salida pacífica y <f id="1">distance themselves from</f>  la violencia y el terror.</input>
+  <ref>Al mismo tiempo el obispo pide a sus feligreses que recen para que los líderes de ETA opten por la salida pacífica y <f id="1">se distancien de</f>  la violencia y el terror.</ref>
+</s>
+<s category="w" source="Dr. Guillermo Sanz Gallego, Ghent University" id="27">
+  <input>En el periódico aparece <f id="1">an article</f>  sobre la crisis</input>
+  <ref>En el periódico aparece <f id="1">un artículo</f>  sobre la crisis</ref>
+</s>
+<s category="a" source="Prisma Grammatica Spaans - drs. E. Slager" id="28">
+  <input>Le aconsejo este vino <f id="1">red</f>  de Argentina.</input>
+  <ref>Le aconsejo este vino <f id="1">tinto</f>  de Argentina.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="29">
+  <input>Pero aún quedan muchos reductos en los que el macho hispánico <f id="1">exercises</f>  su poder.</input>
+  <ref>Pero aún quedan muchos reductos en los que el macho hispánico <f id="1">ejerce</f>  su poder.</ref>
+</s>
+<s category="pp" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="30">
+  <input>Muchas personas tratan el problema de las drogas <f id="1">from the point of view</f>  del gobierno.</input>
+  <ref>Muchas personas tratan el problema de las drogas <f id="1">desde el punto de vista<alt>desde la perspectiva</alt></f>  del gobierno.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="31">
+  <input>En el dilema actual, <f id="1">the minority</f>  ha pasado a ser más grande.</input>
+  <ref>En el dilema actual, <f id="1">la minoría</f>  ha pasado a ser más grande.</ref>
+</s>
+<s category="p" source="Prisma Grammatica Spaans - drs. E. Slager" id="32">
+  <input>Me quieren todos, <f id="1">even</f>  el idiota ese.</input>
+  <ref>Me quieren todos, <f id="1">hasta<alt>incluso</alt></f>  el idiota ese.</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="33">
+  <input><f id="1">In winter</f>  se suele ir de viaje a otros destinos.</input>
+  <ref><f id="1">En invierno</f>  se suele ir de viaje a otros destinos.</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="34">
+  <input>Los partidos políticos <f id="1">took the initiative</f>  del proceso.</input>
+  <ref>Los partidos políticos <f id="1">tomaron la iniciativa<alt>han tomado la iniciativa</alt></f>  del proceso.</ref>
+</s>
+<s category="v" source="Prisma Grammatica Spaans - drs. E. Slager" id="35">
+  <input>Es el instrumento que <f id="1">sounds</f>  más fuerte.</input>
+  <ref>Es el instrumento que <f id="1">suena</f>  más fuerte.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="36">
+  <input>Es importante <f id="1">to save</f>  dinero.</input>
+  <ref>Es importante <f id="1">ahorrar</f>  dinero.</ref>
+</s>
+<s category="n" source="Prisma Grammatica Spaans - drs. E. Slager" id="37">
+  <input>Durante toda la guerra estuvo escondido en <f id="1">the basement</f>  de su propia casa.</input>
+  <ref>Durante toda la guerra estuvo escondido en <f id="1">el sótano</f>  de su propia casa.</ref>
+</s>
+<s category="v" source="w" id="38">
+  <input><f id="1">The same happens</f>  con las relaciones homosexuales.</input>
+  <ref><f id="1">Lo mismo sucede<alt>Lo mismo ocurre</alt><alt>Lo mismo pasa</alt></f>  con las relaciones homosexuales.</ref>
+</s>
+<s category="a" source="Prisma Grammatica Spaans - drs. E. Slager" id="39">
+  <input>Tengo <f id="1">too many</f>  problemas para ocuparme también de los tuyos.</input>
+  <ref>Tengo <f id="1">demasiados</f>  problemas para ocuparme también de los tuyos.</ref>
+</s>
+<s category="n" source="Jaime Bayly - No se lo digas a nadie" id="40">
+  <input>Cuando terminaron de cantar, Joaquín sopló <f id="1">the candles</f>  con fuerza.</input>
+  <ref>Cuando terminaron de cantar, Joaquín sopló <f id="1">las velas<alt>los cirios</alt></f>  con fuerza.</ref>
+</s>
+<s category="n" source="Roberto Bolaño. 2666. Barcelona: Editorial Anagrama, 2004 (1024)." id="41">
+  <input>El crítico literario Lothar Junge vivía en una casita en las afueras, junto a un bosque y <f id="1">a hill</f>  .</input>
+  <ref>El crítico literario Lothar Junge vivía en una casita en las afueras, junto a un bosque y <f id="1">una colina<alt>un cerro</alt></f>  .</ref>
+</s>
+<s category="expr" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="42">
+  <input>Si eso <f id="1">goes on this way</f>  , el sector se colapsará en un plazo no muy largo.</input>
+  <ref>Si eso <f id="1">sigue así</f>  , el sector se colapsará en un plazo no muy largo.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="43">
+  <input>Mañana la televisión italiana transmitirá dos <f id="1">football matches</f>  .</input>
+  <ref>Mañana la televisión italiana transmitirá dos <f id="1">partidos de fútbol</f>  .</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="44">
+  <input>El <f id="1">judge</f>  es la única persona que puede instituir una adopción.</input>
+  <ref>El <f id="1">juez</f>  es la única persona que puede instituir una adopción.</ref>
+</s>
+<s category="p" source="Dr. Guillermo Sanz Gallego, Ghent University" id="45">
+  <input>El año pasado fallecieron siete personas <f id="1">as a consequence of</f>  saltar o caer de balcones en hoteles de España.</input>
+  <ref>El año pasado fallecieron siete personas <f id="1">a consecuencia de<alt>como consecuencia de</alt></f>  saltar o caer de balcones en hoteles de España.</ref>
+</s>
+<s category="n" source="El País - 7-2-2014" id="46">
+  <input>Los socialistan buscan fomentar <f id="1">the dissidence</f>  en el PP.</input>
+  <ref>Los socialistan buscan fomentar <f id="1">la disidencia</f>  en el PP.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="47">
+  <input>El gobierno junto con los empresarios del sector <f id="1">are searching for</f>  la mejor manera.</input>
+  <ref>El gobierno junto con los empresarios del sector <f id="1">están buscando</f>  la mejor manera.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="48">
+  <input>Sólo el 10% de la población <f id="1">pays the fines</f>  .</input>
+  <ref>Sólo el 10% de la población <f id="1">paga las multas</f>  .</ref>
+</s>
+<s category="n" source="UniLang Language Community" id="49">
+  <input><f id="1">A crow</f>  usa el cerebro para obtener de beber.</input>
+  <ref><f id="1">Un cuervo</f>  usa el cerebro para obtener de beber.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="50">
+  <input>Al otro lado de la pensión <f id="1">is</f>  la carretera que va de Málaga a Torremolinos.</input>
+  <ref>Al otro lado de la pensión <f id="1">está</f>  la carretera que va de Málaga a Torremolinos.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="51">
+  <input>El hombre <f id="1">has understood</f>  que su mujer es su igual en todos los terrenos.</input>
+  <ref>El hombre <f id="1">ha comprendido<alt>ha entendido</alt><alt>ha entendido</alt></f>  que su mujer es su igual en todos los terrenos.</ref>
+</s>
+<s category="v" source="El País - 7-2-2014" id="52">
+  <input>El mensaje renovador del Papa <f id="1">loses value</f>  si el Vaticano consiente la pederastia en su seno.</input>
+  <ref>El mensaje renovador del Papa <f id="1">pierde valor<alt>pierde su valor</alt></f>  si el Vaticano consiente la pederastia en su seno.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="53">
+  <input>Una de las consecuencias de la crisis económica es <f id="1">the decrease</f>  considerable del número de matrimonios.</input>
+  <ref>Una de las consecuencias de la crisis económica es <f id="1">el descenso<alt>la disminución</alt><alt>una reducción</alt></f>  considerable del número de matrimonios.</ref>
+</s>
+<s source="Basisgrammatica Spaans - Werkgroep Hispagram" id="54">
+  <input><f id="1">If I had money</f>  , te compraría el anillo más precioso del mundo.</input>
+  <ref><f id="1">Si tuviese dinero<alt>Si tuviera divero</alt><alt>Si yo hubiera dinero</alt><alt>Si hubiera dinero</alt></f>  , te compraría el anillo más precioso del mundo.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="55">
+  <input>Entonces también se esperan grandes <f id="1">delays</f>  y posibles anulaciones de vuelos.</input>
+  <ref>Entonces también se esperan grandes <f id="1">retrasos<alt>demoras</alt></f>  y posibles anulaciones de vuelos.</ref>
+</s>
+<s category="a" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="56">
+  <input><f id="1">Any</f>  tema puede ser atractivo si se sabe contar bien.</input>
+  <ref><f id="1">Cualquier</f>  tema puede ser atractivo si se sabe contar bien.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="57">
+  <input><f id="1">They fired him</f>  porque había robado dinero.</input>
+  <ref><f id="1">Le despidieron<alt>Lo despidieron</alt></f>  porque había robado dinero.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="58">
+  <input>El número de inmigrantes indocumentados <f id="1">approaches</f>  los 250000.</input>
+  <ref>El número de inmigrantes indocumentados <f id="1">se aproxima a<alt>se acerca a</alt></f>  los 250000.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="59">
+  <input>Los jóvenes <f id="1">consumers</f>  de drogas ilícitas presentan características comunes.</input>
+  <ref>Los jóvenes <f id="1">consumidores</f>  de drogas ilícitas presentan características comunes.</ref>
+</s>
+<s category="pp" source="Dr. Guillermo Sanz Gallego, Ghent University" id="60">
+  <input>Y en España <f id="1">in the countryside</f>  también es muy normal.</input>
+  <ref>Y en España <f id="1">en el campo</f>  también es muy normal.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="61">
+  <input>El gobierno espera recuperar la confianza de <f id="1">the investors</f>  .</input>
+  <ref>El gobierno espera recuperar la confianza de <f id="1">los inversores</f>  .</ref>
+</s>
+<s category="pp" source="Jaime Bayly - No se lo digas a nadie" id="62">
+  <input>Joaquín se miró <f id="1">in the mirror</f>  .</input>
+  <ref>Joaquín se miró <f id="1">en el espejo</f>  .</ref>
+</s>
+<s category="n" source="El País - 7-2-2014" id="63">
+  <input>Sony eliminará 5000 <f id="1">jobs</f>  .</input>
+  <ref>Sony eliminará 5000 <f id="1">empleos<alt>puestos de trabajo</alt><alt>puestos de empleo</alt></f>  .</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="64">
+  <input>La Guerra Civil española <f id="1">ended</f>  provocando más de medio millón de víctimas.</input>
+  <ref>La Guerra Civil española <f id="1">terminó<alt>acabó</alt></f>  provocando más de medio millón de víctimas.</ref>
+</s>
+<s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="65">
+  <input>Vino a vernos <f id="1">on sunday</f>  .</input>
+  <ref>Vino a vernos <f id="1">el domingo</f>  .</ref>
+</s>
+<s category="a" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="66">
+  <input>La velocidad <f id="1">average</f>  de los vehículos se situaba en 11 kilómetros por hora.</input>
+  <ref>La velocidad <f id="1">media</f>  de los vehículos se situaba en 11 kilómetros por hora.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="67">
+  <input>¡Tienes que <f id="1">hurry up</f>  , la película está para comenzar!</input>
+  <ref>¡Tienes que <f id="1">darte prisa<alt>apurarte</alt></f>  , la película está para comenzar!</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="68">
+  <input>¿Por qué no <f id="1">follow</f>  ustedes mi consejo?</input>
+  <ref>¿Por qué no <f id="1">siguen</f>  ustedes mi consejo?</ref>
+</s>
+<s category="expr" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="69">
+  <input><f id="1">Given the facts</f>  es probable que parte de su viaje lo realice en caravana.</input>
+  <ref><f id="1">Dadas las fechas<alt>Dados los hechos</alt></f>  es probable que parte de su viaje lo realice en caravana.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="70">
+  <input>Las <f id="1">flight attendants</f>  cuentan a los pasajeros.</input>
+  <ref>Las <f id="1">azafatas</f>  cuentan a los pasajeros.</ref>
+</s>
+<s category="p" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="71">
+  <input><f id="1">After</f>  del segundo bloque de notícias se tiene pensado ofrecer una entrevista.</input>
+  <ref><f id="1">Después</f>  del segundo bloque de notícias se tiene pensado ofrecer una entrevista.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="72">
+  <input>Con el traspaso al Ministerio de Cultura, el gobierno español <f id="1">recognises</f>  que las corridas de toros son una disciplina artística.</input>
+  <ref>Con el traspaso al Ministerio de Cultura, el gobierno español <f id="1">reconoce</f>  que las corridas de toros son una disciplina artística.</ref>
+</s>
+<s category="w" source="Jorge Luis Borges. “El hombre en el umbral”, en El Aleph. Madrid: Alianza Editorial, 1971 (152)." id="73">
+  <input>Su nombre <f id="1">has been lost</f>  o nunca se supo, pero andaba desnudo por estas calles, o cubierto de harapos, contándose los dedos con el pulgar y haciendo mofa de los árboles</input>
+  <ref>Su nombre <f id="1">se ha perdido<alt>se perdió</alt></f>  o nunca se supo, pero andaba desnudo por estas calles, o cubierto de harapos, contándose los dedos con el pulgar y haciendo mofa de los árboles</ref>
+</s>
+<s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="74">
+  <input>Te trataremos como a <f id="1">everybody else</f>  .</input>
+  <ref>Te trataremos como a <f id="1">todos los demás<alt>los demás</alt></f>  .</ref>
+</s>
+<s category="p" source="Jaime Bayly - No se lo digas a nadie" id="75">
+  <input>Todos aplaudieron, <f id="1">except for</f>  Luis Felipe.</input>
+  <ref>Todos aplaudieron, <f id="1">con excepción de<alt>menos</alt><alt>excepto</alt><alt>excepto por</alt><alt>salvo por</alt></f>  Luis Felipe.</ref>
+</s>
+<s category="expr" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="76">
+  <input>El tratamiento es largo, <f id="1">it can take years</f>  , yo todavía estoy inmerso en él.</input>
+  <ref>El tratamiento es largo, <f id="1">puede durar años<alt>puede tomar años</alt><alt>puede tardar años</alt></f>  , yo todavía estoy inmerso en él.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="77">
+  <input>¿ <f id="1">Do you regret</f>  que tu colega sustituya al jefe del departamento?</input>
+  <ref>¿ <f id="1">Lamentas<alt>Te arrepientes que</alt></f>  que tu colega sustituya al jefe del departamento?</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="78">
+  <input>Deseaba <f id="1">overcome</f>  la tradicional división entre las dos Españas que había llevado a la Guerra Civil.</input>
+  <ref>Deseaba <f id="1">superar</f>  la tradicional división entre las dos Españas que había llevado a la Guerra Civil.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="79">
+  <input>Además tienen que seguir <f id="1">performing</f>  en su puesto de trabajo cada vez mejor y se les exige absoluta lealtad.</input>
+  <ref>Además tienen que seguir <f id="1">rindiendo<alt>funcionando</alt><alt>cumpliendo</alt></f>  en su puesto de trabajo cada vez mejor y se les exige absoluta lealtad.</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="80">
+  <input>El toro que entra en la plaza se convierte <f id="1">almost</f>  en un animal sagrado.</input>
+  <ref>El toro que entra en la plaza se convierte <f id="1">casi<alt>prácticamente</alt></f>  en un animal sagrado.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="81">
+  <input>Hoy unos 18000 de sus lagos <f id="1">are victims of</f>  la acidez.</input>
+  <ref>Hoy unos 18000 de sus lagos <f id="1">son víctimas de</f>  la acidez.</ref>
+</s>
+<s category="expr" id="82">
+  <input>Pueden <f id="1">bring to an end</f>  todas estas iniciativas.</input>
+  <ref>Pueden <f id="1">llevar a cabo<alt>poner fin a</alt><alt>acabar</alt></f>  todas estas iniciativas.</ref>
+</s>
+<s category="adv" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="83">
+  <input>Todavía no se ha pensado <f id="1">enough</f>  sobre las consecuencias.</input>
+  <ref>Todavía no se ha pensado <f id="1">suficientemente<alt>bastante</alt><alt>lo suficiente</alt></f>  sobre las consecuencias.</ref>
+</s>
+<s category="adv" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="84">
+  <input>Los aldeanos <f id="1">no longer</f>  lavan la ropa en el río.</input>
+  <ref>Los aldeanos <f id="1">ya no</f>  lavan la ropa en el río.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="85">
+  <input>Los catalanes están empezando a mostrar <f id="1">symptoms of weakness</f>  .</input>
+  <ref>Los catalanes están empezando a mostrar <f id="1">síntomas de debilidad</f>  .</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="86">
+  <input>No puedes <f id="1">complain</f>  , que el culpable eres tú.</input>
+  <ref>No puedes <f id="1">quejarte</f>  , que el culpable eres tú.</ref>
+</s>
+<s category="adv" id="87">
+  <input>Los controles antidopaje acababan de instaurarse <f id="1">one year ago</f>  .</input>
+  <ref>Los controles antidopaje acababan de instaurarse <f id="1">hace uno año</f>  .</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="88">
+  <input>La banda terrorista ETA <f id="1">has become</f>  una organización debilitada.</input>
+  <ref>La banda terrorista ETA <f id="1">se ha convertido en<alt>se ha vuelto</alt></f>  una organización debilitada.</ref>
+</s>
+<s category="adv" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="89">
+  <input>El profesor no es <f id="1">as</f>  inteligente como usted cree.</input>
+  <ref>El profesor no es <f id="1">tan</f>  inteligente como usted cree.</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="90">
+  <input>La mejor forma <f id="1">to protect yourself</f>  es no tener relaciones sexuales.</input>
+  <ref>La mejor forma <f id="1">de protegerte<alt>de protegerse</alt></f>  es no tener relaciones sexuales.</ref>
+</s>
+<s category="expr" source="El País - 7-2-2014" id="91">
+  <input>Sacyr y Panamá <f id="1">are looking for ways to</f>  intentar desatascar la crisis del canal.</input>
+  <ref>Sacyr y Panamá <f id="1">buscan vías para<alt>están buscando formas de</alt><alt>buscan maneras de</alt><alt>buscan formas de</alt><alt>están buscando maneras de</alt></f>  intentar desatascar la crisis del canal.</ref>
+</s>
+<s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="92">
+  <input>Según muchos estudios, es un error <f id="1">to believe</f>  que la educación bilingüe perjudica al progreso de los niños en sus estudios.</input>
+  <ref>Según muchos estudios, es un error <f id="1">creer<alt>pensar</alt></f>  que la educación bilingüe perjudica al progreso de los niños en sus estudios.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="93">
+  <input>Con este portátil no se puede <f id="1">translate</f>  el texto suficientemente rápido.</input>
+  <ref>Con este portátil no se puede <f id="1">traducir</f>  el texto suficientemente rápido.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="94">
+  <input>Tienes que <f id="1">bring me</f>  el periódico.</input>
+  <ref>Tienes que <f id="1">traerme</f>  el periódico.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="95">
+  <input><f id="1">The broadcast</f>  de la Televisión Española se hace via satélite.</input>
+  <ref><f id="1">La emisión<alt>La difusión</alt><alt>La transmisión</alt></f>  de la Televisión Española se hace via satélite.</ref>
+</s>
+<s category="p" source="Dr. Guillermo Sanz Gallego, Ghent University" id="96">
+  <input>Ahora además se marchan los inmigrantes <f id="1">due to</f>  la crisis.</input>
+  <ref>Ahora además se marchan los inmigrantes <f id="1">debido a<alt>por causa de</alt><alt>por</alt></f>  la crisis.</ref>
+</s>
+<s category="adv" source="Miguel Delibes. Los santos inocentes. Barcelona: Planeta, 1981 (134)" id="97">
+  <input>Paco, el Bajo, se aproximó <f id="1">slowly</f>  al grupo.</input>
+  <ref>Paco, el Bajo, se aproximó <f id="1">lentamente<alt>despacio</alt></f>  al grupo.</ref>
+</s>
+<s category="expr" source="Jaime Bayly - No se lo digas a nadie" id="98">
+  <input>Se encontró <f id="1">face to face</f>  con su padre.</input>
+  <ref>Se encontró <f id="1">cara a cara<alt>frente a frente</alt></f>  con su padre.</ref>
+</s>
+<s category="a" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="99">
+  <input>La felicidad es el fuego <f id="1">holy</f>  que mantiene nuestro ánimo encendido.</input>
+  <ref>La felicidad es el fuego <f id="1">sagrado<alt>santo</alt></f>  que mantiene nuestro ánimo encendido.</ref>
+</s>
+<s category="adv" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="100">
+  <input><f id="1">In fact</f>  ya hay bacterias resistentes a todos los antibióticos.</input>
+  <ref><f id="1">De hecho<alt>En realidad</alt></f>  ya hay bacterias resistentes a todos los antibióticos.</ref>
+</s>
+<s category="a" source="Prisma Grammatica Spaans - drs. E. Slager" id="101">
+  <input>Llevas <f id="1">the same</f>  zapatos que yo.</input>
+  <ref>Llevas <f id="1">los mismos</f>  zapatos que yo.</ref>
+</s>
+<s category="v" source="Prisma Grammatica Spaans - drs. E. Slager" id="102">
+  <input>Los marinos <f id="1">fear</f>  estas tormentas.</input>
+  <ref>Los marinos <f id="1">temen<alt>tienen miedo de</alt></f>  estas tormentas.</ref>
+</s>
+<s category="a" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="103">
+  <input>Si está usted <f id="1">pregnant</f>  consulte a su médico antes de tomar este medicamento.</input>
+  <ref>Si está usted <f id="1">embarazada</f>  consulte a su médico antes de tomar este medicamento.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="104">
+  <input>La votación en favor <f id="1">implies</f>  la legalización del aborto.</input>
+  <ref>La votación en favor <f id="1">implica</f>  la legalización del aborto.</ref>
+</s>
+<s category="expr" source="Prisma Grammatica Spaans - drs. E. Slager" id="105">
+  <input>Mañana <f id="1">please</f>  no vuelvas a despertarme a esta hora.</input>
+  <ref>Mañana <f id="1">por favor<alt>te ruego</alt></f>  no vuelvas a despertarme a esta hora.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="106">
+  <input>Según una reconocida psicóloga, Julia Vidal, se sigue esperando de las mujeres que realicen la mayoría de <f id="1">household chores</f>  .</input>
+  <ref>Según una reconocida psicóloga, Julia Vidal, se sigue esperando de las mujeres que realicen la mayoría de <f id="1">las tareas domésticas<alt>las tareas del hogar</alt><alt>las quehaceres de casa</alt></f>  .</ref>
+</s>
+<s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="107">
+  <input>Señor Elías, <f id="1">fill</f>  este formulario, por favor.</input>
+  <ref>Señor Elías, <f id="1">rellene</f>  este formulario, por favor.</ref>
+</s>
+<s category="pp" source="El País - 7-2-2014" id="108">
+  <input>La cita olímpica más cara <f id="1">in history</f>  despierta muchas dudas.</input>
+  <ref>La cita olímpica más cara <f id="1">de la historia</f>  despierta muchas dudas.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="109">
+  <input>Un estudio de la Comisión <f id="1">concludes</f>  que la lección de accidentes pasados no ha servido para consolidar los programas contra derramamientos de petróleo de gobiernos e industriales.</input>
+  <ref>Un estudio de la Comisión <f id="1">concluye<alt>llega a la conclusión</alt></f>  que la lección de accidentes pasados no ha servido para consolidar los programas contra derramamientos de petróleo de gobiernos e industriales.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="110">
+  <input>Ahora dejan <f id="1">fall</f>  con fuerza precisamente a toda esa misma gente.</input>
+  <ref>Ahora dejan <f id="1">caer</f>  con fuerza precisamente a toda esa misma gente.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="111">
+  <input>No sólo necesitas una idea; tiene que ser buena y además <f id="1">you have to know</f>  cómo desarrollarla.</input>
+  <ref>No sólo necesitas una idea; tiene que ser buena y además <f id="1">has de saber<alt>tienes que saber</alt><alt>debes saber</alt><alt>hay que saber</alt></f>  cómo desarrollarla.</ref>
+</s>
+<s category="v" source="Camilo José Cela. La colmena. Madrid: Castalia, 1990 (183)." id="112">
+  <input>A don Roberto le cogió el concierto <f id="1">scratching</f>  los labios con el mango de la pluma</input>
+  <ref>A don Roberto le cogió el concierto <f id="1">rascándose</f>  los labios con el mango de la pluma</ref>
+</s>
+<s category="n" source="El País - 7-2-2014" id="113">
+  <input>La frontera se cierra durante <f id="1">half an hour</f>  .</input>
+  <ref>La frontera se cierra durante <f id="1">media hora</f>  .</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="114">
+  <input>El Pipistop es un despertador que <f id="1">predicts</f>  en qué momento justo te estás empezando a hacer pipí.</input>
+  <ref>El Pipistop es un despertador que <f id="1">adivina<alt>predice</alt><alt>prevé</alt></f>  en qué momento justo te estás empezando a hacer pipí.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="115">
+  <input>Recientemente se publicaron <f id="1">the results</f>  de una estudia sobre la imagen del Instituto de la Mujer.</input>
+  <ref>Recientemente se publicaron <f id="1">los resultados</f>  de una estudia sobre la imagen del Instituto de la Mujer.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="116">
+  <input>Luisa se pinta <f id="1">her lips</f>  .</input>
+  <ref>Luisa se pinta <f id="1">los labios<alt>sus labios</alt></f>  .</ref>
+</s>
+<s category="n" id="117">
+  <input>Dormir bien es <f id="1">a pleasure</f>  y una necesidad.</input>
+  <ref>Dormir bien es <f id="1">un placer<alt>un gusto</alt></f>  y una necesidad.</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="118">
+  <input>El Ejecutivo español volvió a reaccionar <f id="1">with skepticism</f>  .</input>
+  <ref>El Ejecutivo español volvió a reaccionar <f id="1">con escepticismo</f>  .</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="119">
+  <input>Su sueño <f id="1">has become reality</f>  , porque en septiembre de 2010 se le fotografió en estado de buena esperanza.</input>
+  <ref>Su sueño <f id="1">se ha hecho realidad<alt>se ha convertido en realidad</alt><alt>se ha vuelto realidad</alt></f>  , porque en septiembre de 2010 se le fotografió en estado de buena esperanza.</ref>
+</s>
+<s category="v" source="Prisma Grammatica Spaans - drs. E. Slager" id="120">
+  <input>Sus padres seguían <f id="1">sending him</f>  dinero cada mes.</input>
+  <ref>Sus padres seguían <f id="1">enviándole<alt>enviarle</alt><alt>mandarle</alt></f>  dinero cada mes.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="121">
+  <input>El água de <f id="1">the geysers</f>  de Islandia tiene una temperatura muy alta.</input>
+  <ref>El água de <f id="1">los géiser<alt>los géiseres</alt></f>  de Islandia tiene una temperatura muy alta.</ref>
+</s>
+<s category="comp" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="122">
+  <input>Un tercio de los bosques alemanes está <f id="1">in danger of</f>  quedarse sin vida animal.</input>
+  <ref>Un tercio de los bosques alemanes está <f id="1">en peligro de<alt>en riesgo de</alt></f>  quedarse sin vida animal.</ref>
+</s>
+<s category="expr" id="123">
+  <input>En verano siempre <f id="1">it is very hot</f>  en el campo.</input>
+  <ref>En verano siempre <f id="1">hace mucho calor</f>  en el campo.</ref>
+</s>
+<s category="adv" source="Roberto Bolaño. 2666. Barcelona: Editorial Anagrama, 2004 (1024)." id="124">
+  <input><f id="1">On the contrary</f>  , por aquellos días Bubis tuvo que viajar a Frankfurt.</input>
+  <ref><f id="1">Al contrario<alt>Por el contrario</alt></f>  , por aquellos días Bubis tuvo que viajar a Frankfurt.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="125">
+  <input>Según el periódico El País, para las elecciones anticipadas el Partido Popular (PP), de ideología conservadora, puede <f id="1">count on</f>  el 45,3% de los votos y la mayoría absoluta en el Congreso.</input>
+  <ref>Según el periódico El País, para las elecciones anticipadas el Partido Popular (PP), de ideología conservadora, puede <f id="1">contar con</f>  el 45,3% de los votos y la mayoría absoluta en el Congreso.</ref>
+</s>
+<s category="pp" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="126">
+  <input>El gobierno estudia un plan de acción <f id="1">in favour of</f>  la mujer.</input>
+  <ref>El gobierno estudia un plan de acción <f id="1">a favor de<alt>en favor de</alt></f>  la mujer.</ref>
+</s>
+<s category="comp" source="Dr. Guillermo Sanz Gallego, Ghent University" id="127">
+  <input>Un 20% de la población activa <f id="1">is unemployed</f>  .</input>
+  <ref>Un 20% de la población activa <f id="1">está desempleado</f>  .</ref>
+</s>
+<s category="pron" source="Prisma Grammatica Spaans - drs. E. Slager" id="128">
+  <input><f id="1">If</f>  lo lees bien, verás lo que dice.</input>
+  <ref><f id="1">Si</f>  lo lees bien, verás lo que dice.</ref>
+</s>
+<s category="p" source="Gabriel García Márquez. El coronel no tiene quien le escriba. Buenos Aires: Editorial Sudamericana, 1972 (56)." id="129">
+  <input>Vagó por el pueblo en siesta, sin pensar en nada, <f id="1">not even</f>  tratando de convencerse de que su problema no tenía solución.</input>
+  <ref>Vagó por el pueblo en siesta, sin pensar en nada, <f id="1">ni siquiera</f>  tratando de convencerse de que su problema no tenía solución.</ref>
+</s>
+<s category="a" source="Dr. Guillermo Sanz Gallego, Ghent University" id="130">
+  <input>Las perspectivas de esta generación perdida son <f id="1">little hopeful</f>  .</input>
+  <ref>Las perspectivas de esta generación perdida son <f id="1">poco esperanzadoras<alt>poco optimista</alt></f>  .</ref>
+</s>
+<s category="p" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="131">
+  <input>Un dilema cada vez más frecuente <f id="1">between</f>  jóvenes es el de casarse o juntarse.</input>
+  <ref>Un dilema cada vez más frecuente <f id="1">entre</f>  jóvenes es el de casarse o juntarse.</ref>
+</s>
+<s category="p" source="Dr. Guillermo Sanz Gallego, Ghent University" id="132">
+  <input>Zapatero se postuló <f id="1">as</f>  candidato en 2008.</input>
+  <ref>Zapatero se postuló <f id="1">como</f>  candidato en 2008.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="133">
+  <input>El periódico dice que <f id="1">the queen</f>  está de viaje.</input>
+  <ref>El periódico dice que <f id="1">la reina</f>  está de viaje.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="134">
+  <input>No tiene sentido <f id="1">to fight</f>  por la igualdad.</input>
+  <ref>No tiene sentido <f id="1">luchar</f>  por la igualdad.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="135">
+  <input>En la lucha contra la droga se necesita <f id="1">in the first place</f>  la nueva ley.</input>
+  <ref>En la lucha contra la droga se necesita <f id="1">en primer lugar</f>  la nueva ley.</ref>
+</s>
+<s category="p" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="136">
+  <input>El matrimonio no es una guerra, <f id="1">but</f>  el puro servicio militar.</input>
+  <ref>El matrimonio no es una guerra, <f id="1">sino<alt>pero</alt></f>  el puro servicio militar.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="137">
+  <input><f id="1">In that way</f>  podemos reconstruir qué capas de pintura y qué colores se encuentran bajo la superficie visible.</input>
+  <ref><f id="1">Así<alt>De esa manera</alt><alt>De ese modo</alt><alt>De esa forma</alt></f>  podemos reconstruir qué capas de pintura y qué colores se encuentran bajo la superficie visible.</ref>
+</s>
+<s category="p" source="Ramón J. Sender. Los cinco libros de Nancy. Barcelona: Ediciones Destino, 1984 (195)." id="138">
+  <input>Usted no haría nada <f id="1">against</f>  Curro.</input>
+  <ref>Usted no haría nada <f id="1">contra</f>  Curro.</ref>
+</s>
+<s category="v" source="Julio Cortázar. Rayuela. Buenos Aires: Editorial Sudamericana, 1973 (106-107)." id="139">
+  <input><f id="1">You will find</f>  muchísimas cosas extrañas en la calle.</input>
+  <ref><f id="1">Encontrarás<alt>Encontrará</alt><alt>Usted encontrará</alt><alt>Se encuentra</alt></f>  muchísimas cosas extrañas en la calle.</ref>
+</s>
+<s category="w" source="Dr. Guillermo Sanz Gallego, Ghent University" id="140">
+  <input>Habrá que <f id="1">await</f>  las declaraciones del Ministro de Interior.</input>
+  <ref>Habrá que <f id="1">esperar</f>  las declaraciones del Ministro de Interior.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="141">
+  <input>En <f id="1">the shop</f>  hablan francés e inglés.</input>
+  <ref>En <f id="1">la tienda</f>  hablan francés e inglés.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="142">
+  <input>Tus amigos <f id="1">have to</f>  salir antes de que vuelva tu padre.</input>
+  <ref>Tus amigos <f id="1">tienen que<alt>deben</alt><alt>tendrán que</alt></f>  salir antes de que vuelva tu padre.</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="143">
+  <input>Apartamentos y hoteles, <f id="1">above all</f>  en Ibiza, se tienen que enfrentar a los artistas de este temerario deporte.</input>
+  <ref>Apartamentos y hoteles, <f id="1">sobre todo<alt>ante todo</alt><alt>encima de todo</alt></f>  en Ibiza, se tienen que enfrentar a los artistas de este temerario deporte.</ref>
+</s>
+<s category="a" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="144">
+  <input>Te voy a dar <f id="1">some</f>  ejemplos.</input>
+  <ref>Te voy a dar <f id="1">unos<alt>algunos</alt></f>  ejemplos.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="145">
+  <input>Durante los últimos quince años ha habido una notable afluencia de <f id="1">foreigners</f>  a nuestro país.</input>
+  <ref>Durante los últimos quince años ha habido una notable afluencia de <f id="1">extranjeros</f>  a nuestro país.</ref>
+</s>
+<s category="a" source="Dr. Guillermo Sanz Gallego, Ghent University" id="146">
+  <input>Latinoamérica es <f id="1">far more important</f>  para la empresa.</input>
+  <ref>Latinoamérica es <f id="1">mucho más importante<alt>muchísimo más importante</alt></f>  para la empresa.</ref>
+</s>
+<s category="v" source="youtube user Emmanuel Silva" id="147">
+  <input><f id="1">I completely agree</f>  , las cosas no cambiarán si uno mismo no cambia primero.</input>
+  <ref><f id="1">Estoy totalmente de acuerdo<alt>Estoy completamente de acuerdo</alt><alt>Yo estoy completamente de acuerdo</alt></f>  , las cosas no cambiarán si uno mismo no cambia primero.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="149">
+  <input>El alcalde <f id="1">approves</f>  la manifestación</input>
+  <ref>El alcalde <f id="1">consiente<alt>aprueba</alt></f>  la manifestación</ref>
+</s>
+<s category="pp" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="150">
+  <input>Después se fue a cenar <f id="1">with another</f>  .</input>
+  <ref>Después se fue a cenar <f id="1">con otro<alt>con otra</alt></f>  .</ref>
+</s>
+<s category="w" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="151">
+  <input>Ahora hace siete que no me inyecto heroína y <f id="1">am on the way to</f>  ser un profesional de la abogacía.</input>
+  <ref>Ahora hace siete que no me inyecto heroína y <f id="1">estoy en camino de</f>  ser un profesional de la abogacía.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="152">
+  <input>Los <f id="1">barrels</f>  siguen colocándose en aquella zona.</input>
+  <ref>Los <f id="1">barriles<alt>toneles</alt></f>  siguen colocándose en aquella zona.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="153">
+  <input>La madrileña plaza fue escenario el jueves de duros <f id="1">clashes</f>  entre manifestantes y policía.</input>
+  <ref>La madrileña plaza fue escenario el jueves de duros <f id="1">enfrentamientos</f>  entre manifestantes y policía.</ref>
+</s>
+<s category="p" source="Prisma Grammatica Spaans - drs. E. Slager" id="154">
+  <input>La muerte de su mujer, <f id="1">of which</f>  no sabíamos nada, nos ha afectado muchísimo.</input>
+  <ref>La muerte de su mujer, <f id="1">de la que<alt>de la cual</alt></f>  no sabíamos nada, nos ha afectado muchísimo.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="155">
+  <input>Pagamos <f id="1">the rent</f>  de la casa a principios del mes.</input>
+  <ref>Pagamos <f id="1">el alquiler<alt>la renta</alt></f>  de la casa a principios del mes.</ref>
+</s>
+<s category="p" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="156">
+  <input>En las aguas del Mar Muerto es posible flotar <f id="1">without</f>  nadar.</input>
+  <ref>En las aguas del Mar Muerto es posible flotar <f id="1">sin</f>  nadar.</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="157">
+  <input>Es posible que sientas <f id="1">shame</f>  por tener una ITS.</input>
+  <ref>Es posible que sientas <f id="1">vergüenza</f>  por tener una ITS.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="158">
+  <input>La novedad en <f id="1">this time</f>  es que este programa también podrá leerse en inglés.</input>
+  <ref>La novedad en <f id="1">esta ocasión<alt>esta vez</alt><alt>este momento</alt></f>  es que este programa también podrá leerse en inglés.</ref>
+</s>
+<s category="pp" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="159">
+  <input>El heroinómano es básicamente un masoquista, hay que expulsar la agresividad <f id="1">outwards</f>  .</input>
+  <ref>El heroinómano es básicamente un masoquista, hay que expulsar la agresividad <f id="1">hacia fuera<alt>hacia afuera</alt></f>  .</ref>
+</s>
+<s category="expr" source="Prisma Grammatica Spaans - drs. E. Slager" id="160">
+  <input>Los peces murieron <f id="1">one after the other</f>  .</input>
+  <ref>Los peces murieron <f id="1">uno tras otro<alt>uno detrás de otro</alt></f>  .</ref>
+</s>
+<s category="adv" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="161">
+  <input>Dinamarca importa <f id="1">as much</f>  petróleo como Suecia.</input>
+  <ref>Dinamarca importa <f id="1">tanto</f>  petróleo como Suecia.</ref>
+</s>
+<s category="v" source="El País - 7-2-2014" id="162">
+  <input>El 4 de junio de 2007, Sochi <f id="1">won</f>  en su primera presentación como aspirante a ser sede olímpica.</input>
+  <ref>El 4 de junio de 2007, Sochi <f id="1">ganó</f>  en su primera presentación como aspirante a ser sede olímpica.</ref>
+</s>
+<s category="a" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="163">
+  <input>Si sabes moverte encontrarás préstamos <f id="1">at low interest</f>  .</input>
+  <ref>Si sabes moverte encontrarás préstamos <f id="1">a bajo interés</f>  .</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="164">
+  <input>Si lo haces en la ciudad, <f id="1">apparently</f>  se pone de moda inmediatamente, cuenta Yolanda riéndose.</input>
+  <ref>Si lo haces en la ciudad, <f id="1">por lo visto<alt>aparentemente</alt><alt>evidentemente</alt><alt>al parecer</alt></f>  se pone de moda inmediatamente, cuenta Yolanda riéndose.</ref>
+</s>
+<s category="conj" source="Prisma Grammatica Spaans - drs. E. Slager" id="165">
+  <input>Voy a ir <f id="1">because</f>  mis padres están de vacaciones.</input>
+  <ref>Voy a ir <f id="1">porque</f>  mis padres están de vacaciones.</ref>
+</s>
+<s category="comp" source="Ramón J. Sender. Los cinco libros de Nancy. Barcelona: Ediciones Destino, 1984 (195)." id="166">
+  <input>Yo vi el diablo <f id="1">in his eyes</f>  y protesté</input>
+  <ref>Yo vi el diablo <f id="1">en sus ojos<alt>en los ojos</alt></f>  y protesté</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="167">
+  <input>Las reacciones de <f id="1">the proponents</f>  de las corridas de toros son incomprensibles.</input>
+  <ref>Las reacciones de <f id="1">los defensores</f>  de las corridas de toros son incomprensibles.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="168">
+  <input>Estas botas <f id="1">cost</f>  sólo 50 euros.</input>
+  <ref>Estas botas <f id="1">valen<alt>cuestan</alt></f>  sólo 50 euros.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="169">
+  <input>Emiten <f id="1">a documentary</f>  sobre el hambre en el mundo.</input>
+  <ref>Emiten un <f id="1">un documental</f>  sobre el hambre en el mundo.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="170">
+  <input>Antes de la llegada de los españoles, los incas ya <f id="1">cultivated</f>  el maíz.</input>
+  <ref>Antes de la llegada de los españoles, los incas ya <f id="1">cultivaban</f>  el maíz.</ref>
+</s>
+<s category="expr" source="Prisma Grammatica Spaans - drs. E. Slager" id="171">
+  <input><f id="1">The more</f>  lo leo, menos lo entiendo.</input>
+  <ref><f id="1">Cuanto más</f>  lo leo, menos lo entiendo.</ref>
+</s>
+<s category="expr" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="172">
+  <input><f id="1">On one hand</f>  , las exportaciónes irían cayendo.</input>
+  <ref><f id="1">Por un lado<alt>De una parte</alt></f>  , las exportaciónes irían cayendo.</ref>
+</s>
+<s category="v" source="El País - 7-2-2014" id="173">
+  <input>Inmigrantes acusan a la Guardia Civil de dispararles y los agentes <f id="1">deny it</f>  .</input>
+  <ref>Inmigrantes acusan a la Guardia Civil de dispararles y los agentes <f id="1">lo niegan</f>  .</ref>
+</s>
+<s category="pp" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="174">
+  <input>El plan de reformas que el Gobierno pretende desarrollar <f id="1">in the next years</f>  sólo se reflejará timidamente este curso.</input>
+  <ref>El plan de reformas que el Gobierno pretende desarrollar <f id="1">en los próximos años</f>  sólo se reflejará timidamente este curso.</ref>
+</s>
+<s category="w" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="175">
+  <input>Los meses <f id="1">that preceded</f>  la muerte del dictador fueron tiempos convulsos.</input>
+  <ref>Los meses <f id="1">que precedieron a<alt>que han precidido a</alt></f>  la muerte del dictador fueron tiempos convulsos.</ref>
+</s>
+<s category="v" source="Jaime Bayly - No se lo digas a nadie" id="176">
+  <input>Luis Felipe <f id="1">stood up</f>  y prendió las luces del comedor.</input>
+  <ref>Luis Felipe <f id="1">se puso de pie<alt>se levantó</alt><alt>se puso en pie</alt></f>  y prendió las luces del comedor.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="177">
+  <input>En este momento <f id="1">we interview</f>  el famoso cantante Julio Iglesias.</input>
+  <ref>En este momento <f id="1">entrevistamos<alt>entrevistamos a</alt></f>  el famoso cantante Julio Iglesias.</ref>
+</s>
+<s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="178">
+  <input>Muchos jóvenes <f id="1">believe</f>  que todos los políticos son unos corruptos.</input>
+  <ref>Muchos jóvenes <f id="1">creen<alt>piensan</alt></f>  que todos los políticos son unos corruptos.</ref>
+</s>
+<s category="n" source="Prisma Grammatica Spaans - drs. E. Slager" id="179">
+  <input>¿Qué vas a hacer durante <f id="1">the weekends</f>  ?</input>
+  <ref>¿Qué vas a hacer durante <f id="1">los fines de semana</f>  ?</ref>
+</s>
+<s category="v" source="Prisma Grammatica Spaans - drs. E. Slager" id="180">
+  <input>La niña <f id="1">has hurt herself</f>  jugando en el jardín.</input>
+  <ref>La niña <f id="1">se ha hecho daño<alt>se ha lastimado</alt></f>  jugando en el jardín.</ref>
+</s>
+<s category="a" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="181">
+  <input>Si crees que has estado <f id="1">exposed</f>  , anda a consultar a un médico.</input>
+  <ref>Si crees que has estado <f id="1">expuesto<alt>expuesta</alt></f>  , anda a consultar a un médico.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="182">
+  <input>Javier es <f id="1">a clown</f>  y se enamora de Natalia.</input>
+  <ref>Javier es <f id="1">un payaso</f>  y se enamora de Natalia.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="183">
+  <input>El mercado de Barcelona ha sido el que ha sufrido mayores <f id="1">lows</f>  de todas las bolsas.</input>
+  <ref>El mercado de Barcelona ha sido el que ha sufrido mayores <f id="1">bajas</f>  de todas las bolsas.</ref>
+</s>
+<s category="n" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="184">
+  <input>La primera sesión de cine que se realizó ante el público fue un verdadero <f id="1">success</f>  .</input>
+  <ref>La primera sesión de cine que se realizó ante el público fue un verdadero <f id="1">éxito</f>  .</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="185">
+  <input>En aquellos momentos <f id="1">the cyclists</f>  eran partidarios de volver a alzarse.</input>
+  <ref>En aquellos momentos <f id="1">los ciclistas</f>  eran partidarios de volver a alzarse.</ref>
+</s>
+<s category="w" source="Dr. Guillermo Sanz Gallego, Ghent University" id="186">
+  <input>Han pasado <f id="1">to the opposition party</f>  .</input>
+  <ref>Han pasado <f id="1">al partido de la oposición</f>  .</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="187">
+  <input>La misma táctica <f id="1">was employed</f>  por mis compañeros.</input>
+  <ref>La misma táctica <f id="1">fue empleada<alt>ha sido empleado</alt></f>  por mis compañeros.</ref>
+</s>
+<s category="p" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="188">
+  <input>Los monumentos históricos se deterioran <f id="1">because of</f>  la corrosión.</input>
+  <ref>Los monumentos históricos se deterioran <f id="1">por<alt>por causa de</alt><alt>debido a</alt></f>  la corrosión.</ref>
+</s>
+<s category="expr" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="189">
+  <input>Siempre <f id="1">is worth it to</f>  hablar con él</input>
+  <ref>Siempre <f id="1">vale la pena<alt>vale la pena de</alt></f>  hablar con él</ref>
+</s>
+<s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="190">
+  <input><f id="1">On saturdays</f>  salía muy temprano para ir al mercado.</input>
+  <ref><f id="1">Los sábados</f>  salía muy temprano para ir al mercado.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="191">
+  <input>¿Cuál es tu <f id="1">relationship</f>  con este asunto de género?</input>
+  <ref>¿Cuál es tu <f id="1">relación</f>  con este asunto de género?</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="192">
+  <input>Como la abuela no veía bien, <f id="1">we used to</f>  acompañarla.</input>
+  <ref>Como la abuela no veía bien, <f id="1">solíamos</f>  acompañarla.</ref>
+</s>
+<s category="expr" source="La Señal - Ángel Gutiérrez y David Zurdo" id="193">
+  <input>Sin <f id="1">paying attention</f>  a la disputa, Ian siguió echando gasolina.</input>
+  <ref>Sin <f id="1">prestar atención</f>  a la disputa, Ian siguió echando gasolina.</ref>
+</s>
+<s category="v" id="194">
+  <input><f id="1">It bothers me that</f>  hagan tanto ruido.</input>
+  <ref><f id="1">Me molesta que</f>  hagan tanto ruido.</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="195">
+  <input>Una visión completa del capital de Rajoy no puede realizarse <f id="1">given that</f>  no se conoce el valor de las viviendas.</input>
+  <ref>Una visión completa del capital de Rajoy no puede realizarse <f id="1">dado que</f>  no se conoce el valor de las viviendas.</ref>
+</s>
+<s category="n" source="Prisma Grammatica Spaans - drs. E. Slager" id="196">
+  <input>¿Qué <f id="1">size</f>  tiene tu cuarto?</input>
+  <ref>¿Qué <f id="1">tamaño</f>  tiene tu cuarto?</ref>
+</s>
+<s category="n" source="Jaime Bayly - No se lo digas a nadie" id="197">
+  <input>Casualmente estoy necesitando <f id="1">a loan</f>  de alguna entidad bancaria para financiarme un lote en Las Lomas de Pachacamac.</input>
+  <ref>Casualmente estoy necesitando <f id="1">un préstamo</f>  de alguna entidad bancaria para financiarme un lote en Las Lomas de Pachacamac.</ref>
+</s>
+<s category="pron" source="Prisma Grammatica Spaans - drs. E. Slager" id="198">
+  <input>El coche está aparcado <f id="1">there</f>  desde las nueve de la mañana.</input>
+  <ref>El coche está aparcado <f id="1">ahí<alt>allí</alt></f>  desde las nueve de la mañana.</ref>
+</s>
+<s category="a" source="Prisma Grammatica Spaans - drs. E. Slager" id="199">
+  <input>Las flores son <f id="1">cheap</f>  aquí.</input>
+  <ref>Las flores son <f id="1">baratas</f>  aquí.</ref>
+</s>
+<s category="w" source="Julio Cortázar. Rayuela. Buenos Aires: Editorial Sudamericana, 1973 (106-107)." id="200">
+  <input>Por favor, Horacio - dijo la Maga, <f id="1">hugging him</f>  y escondiendo la cara.</input>
+  <ref>Por favor, Horacio - dijo la Maga, <f id="1">abrazándose a él</f>  y escondiendo la cara.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="201">
+  <input>España y <f id="1">France</f>  siempre han declarado que no se puede negociar sobre la independencia de El País Vasco.</input>
+  <ref>España y <f id="1">Francia</f>  siempre han declarado que no se puede negociar sobre la independencia de El País Vasco.</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="202">
+  <input><f id="1">I feel as if</f>  una parte de mí pertenece a ese mundo en ruinas.</input>
+  <ref><f id="1">Tengo la sensación de que<alt>Me siento como si</alt><alt>Tengo la impresión de que</alt></f>  una parte de mí pertenece a ese mundo en ruinas.</ref>
+</s>
+<s category="p" source="El País - 7-2-2014" id="203">
+  <input><f id="1">Perhaps</f>  esta reforma no sea más que una estrategia de comunicación.</input>
+  <ref><f id="1">Quizá<alt>Quizás</alt><alt>Tal vez</alt></f>  esta reforma no sea más que una estrategia de comunicación.</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="204">
+  <input>La confianza pública en la medicina depende de <f id="1">the honesty</f>  de los profesionales.</input>
+  <ref>La confianza pública en la medicina depende de <f id="1">la honradez<alt>la honestidad</alt><alt>la sinceridad</alt><alt>la franqueza</alt></f>  de los profesionales.</ref>
+</s>
+<s category="v" source="El País - 7-2-2014" id="205">
+  <input>Si no <f id="1">take sufficient measures</f>  , se puede conducir al aislamiento.</input>
+  <ref>Si no <f id="1">se ponen medios suficientes<alt>tomamos medidas suficientes</alt><alt>se ponen medidas suficientes</alt><alt>tomamos medios suficientes</alt></f>  , se puede conducir al aislamiento.</ref>
+</s>
+<s category="a" source="Dr. Guillermo Sanz Gallego, Ghent University" id="206">
+  <input>Eso significa que para el gobierno será <f id="1">more difficult</f>  reducir el déficit.</input>
+  <ref>Eso significa que para el gobierno será <f id="1">más difícil</f>  reducir el déficit.</ref>
+</s>
+<s category="pp" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="207">
+  <input>Corrigieron las faltas <f id="1">in less than</f>  una hora.</input>
+  <ref>Corrigieron las faltas <f id="1">en menos de</f>  una hora.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="208">
+  <input>Mi hermana riega las plantas <f id="1">one time per</f>  semana.</input>
+  <ref>Mi hermana riega las plantas <f id="1">una vez por<alt>una vez cada</alt></f>  semana.</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="209">
+  <input>En la batalla contra las bacterias la guerra está perdida si se emplea <f id="1">brute force</f>  .</input>
+  <ref>En la batalla contra las bacterias la guerra está perdida si se emplea <f id="1">fuerza bruta</f>  .</ref>
+</s>
+<s category="comp" id="210">
+  <input>Los niños <f id="1">have to be more careful</f>  .</input>
+  <ref>Los niños <f id="1">deben tener más cuidado<alt>tienen que tener más cuidado</alt><alt>tienen que ser más cuidadosos</alt></f>  .</ref>
+</s>
+<s category="pp" source="Prisma Grammatica Spaans - drs. E. Slager" id="211">
+  <input>Cuando salen las invitaciones, siempre me envio una <f id="1">to myself</f>  .</input>
+  <ref>Cuando salen las invitaciones, siempre me envio una <f id="1">a mí mismo<alt>para mí mismo</alt></f>  .</ref>
+</s>
+<s category="pp" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="212">
+  <input>El incendio había destruido gran parte <f id="1">of the neighbourhood</f>  .</input>
+  <ref>El incendio había destruido gran parte <f id="1">del barrio</f>  .</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="213">
+  <input>Mi padre siempre <f id="1">brings me</f>  aceite de oliva de España.</input>
+  <ref>Mi padre siempre <f id="1">me trae<alt>me lleva</alt></f>  aceite de oliva de España.</ref>
+</s>
+<s category="pp" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="214">
+  <input>Todos los veranos vienen muchos turistas <f id="1">to our village</f>  .</input>
+  <ref>Todos los veranos vienen muchos turistas <f id="1">a nuestro pueblo<alt>a nuestra aldea</alt></f>  .</ref>
+</s>
+<s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="215">
+  <input><f id="1">It upsets him that</f>  no haya nada que hacer.</input>
+  <ref><f id="1">Le molesta que</f>  no haya nada que hacer.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="216">
+  <input>Mi <f id="1">younger brother</f>  siempre me pide dinero.</input>
+  <ref>Mi <f id="1">hermano menor</f>  siempre me pide dinero.</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="217">
+  <input>Un joven que <f id="1">is bored</f>  leyendo es un lector adulto que se ha perdido.</input>
+  <ref>Un joven que <f id="1">se aburre</f>  leyendo es un lector adulto que se ha perdido.</ref>
+</s>
+<s category="p" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="218">
+  <input><f id="1">Although</f>  se entremataron abundantemente en las guerras civiles, muchos sobrevivieron.</input>
+  <ref><f id="1">Aunque<alt>A pesar de que</alt></f>  se entremataron abundantemente en las guerras civiles, muchos sobrevivieron.</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="219">
+  <input>Los niños y los jóvenes <f id="1">deserve to</f>  disfrutar de la máxima calidad.</input>
+  <ref>Los niños y los jóvenes <f id="1">merecen</f>  disfrutar de la máxima calidad.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="220">
+  <input>Mantengo a nivel mi conocimiento del español <f id="1">reading</f>  mucho.</input>
+  <ref>Mantengo a nivel mi conocimiento del español <f id="1">leyendo</f>  mucho.</ref>
+</s>
+<s category="n" id="221">
+  <input>Lamento <f id="1">the lack of</f>  espacios verdes.</input>
+  <ref>Lamento <f id="1">la falta de</f>  espacios verdes.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="222">
+  <input>El PSOE espera <f id="1">regain the trust</f>  de los españoles.</input>
+  <ref>El PSOE espera <f id="1">recuperar la confianza</f>  de los españoles.</ref>
+</s>
+<s category="pp" id="223">
+  <input>Hay inocentes imágenes <f id="1">with a certain degree of</f>  doble sentido.</input>
+  <ref>Hay inocentes imágenes <f id="1">con cierto grado de<alt>con un cierto grado de</alt><alt>con un cierto nivel de</alt></f>  doble sentido.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="224">
+  <input>Robert Angus Smith, un químico inglés, <f id="1">first used</f>  la expresión lluvia ácida.</input>
+  <ref>Robert Angus Smith, un químico inglés, <f id="1">utilizó por primera vez<alt>usó por primera vez</alt></f>  la expresión lluvia ácida.</ref>
+</s>
+<s category="w" source="Dr. Guillermo Sanz Gallego, Ghent University" id="225">
+  <input>Se necesitan <f id="1">more funds</f>  para ese estudio de mercado.</input>
+  <ref>Se necesitan <f id="1">más fondos<alt>más dinero</alt></f>  para ese estudio de mercado.</ref>
+</s>
+<s category="a" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="226">
+  <input>El representante del sindicato insistió a los trabajadores <f id="1">on strike</f>  a que continuaran presionando a la junta directiva de la empresa.</input>
+  <ref>El representante del sindicato insistió a los trabajadores <f id="1">en huelga</f>  a que continuaran presionando a la junta directiva de la empresa.</ref>
+</s>
+<s category="a" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="227">
+  <input>Oímos un programa <f id="1">very strange</f>  en la radio.</input>
+  <ref>Oímos un programa <f id="1">muy extraño<alt>muy curioso</alt><alt>muy raro</alt></f>  en la radio.</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="228">
+  <input><f id="1">They treated him</f>  con respeto porque era muy rico.</input>
+  <ref><f id="1">Le trataban<alt>Le trataron</alt></f>  con respeto porque era muy rico.</ref>
+</s>
+<s category="a" source="Dr. Guillermo Sanz Gallego, Ghent University" id="229">
+  <input>En la actualidad se cuenta con la medicina <f id="1">most advanced</f>  .</input>
+  <ref>En la actualidad se cuenta con la medicina <f id="1">más avanzada</f>  .</ref>
+</s>
+<s category="n" source="El País - 7-2-2014" id="230">
+  <input>Sus físicas le permitieron <f id="1">longevity</f>  extraordinaria.</input>
+  <ref>Sus físicas le permitieron <f id="1">una longevidad</f>  extraordinaria.</ref>
+</s>
+<s category="p" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="231">
+  <input>Si era así, el dragón tenía que ser muy poderoso, y muy difícil <f id="1">to</f>  vencer.</input>
+  <ref>Si era así, el dragón tenía que ser muy poderoso, y muy difícil <f id="1">de</f>  vencer.</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="232">
+  <input>De nuevo, el hombre <f id="1">has played a role</f>  en esta expansión de especies extranjeras.</input>
+  <ref>De nuevo, el hombre <f id="1">ha jugado un papel<alt>ha desempeñado un papel</alt><alt>ha representado un papel</alt></f>  en esta expansión de especies extranjeras.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="233">
+  <input>Y hacer un mayor esfuerzo <f id="1">to try to</f>  alcanzar una mayor competitividad.</input>
+  <ref>Y hacer un mayor esfuerzo <f id="1">para intentar<alt>para tratar de</alt></f>  alcanzar una mayor competitividad.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="234">
+  <input>No permiten <f id="1">to smoke</f>  en este local.</input>
+  <ref>No permiten <f id="1">fumar</f>  en este local.</ref>
+</s>
+<s category="p" source="Prisma Grammatica Spaans - drs. E. Slager" id="235">
+  <input>Lo hizo <f id="1">in</f>  sólo dos horas.</input>
+  <ref>Lo hizo <f id="1">en<alt>dentro de</alt></f>  sólo dos horas.</ref>
+</s>
+<s category="a" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="236">
+  <input>Treinta días después de haber sufrido un atraco, un joven reconoce a su <f id="1">presumed</f>  atracador.</input>
+  <ref>Treinta días después de haber sufrido un atraco, un joven reconoce a su <f id="1">presunto<alt>supuesto</alt></f>  atracador.</ref>
+</s>
+<s category="adv" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="237">
+  <input>Nunca se besan <f id="1">in public</f>  .</input>
+  <ref>Nunca se besan <f id="1">en público</f>  .</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="238">
+  <input>La nueva carretera de circunvalación de la ciudad de Málaga <f id="1">has been completed</f>  este jueves.</input>
+  <ref>La nueva carretera de circunvalación de la ciudad de Málaga <f id="1">ha sido completada<alt>se ha completado</alt></f>  este jueves.</ref>
+</s>
+<s category="n" source="Prisma Grammatica Spaans - drs. E. Slager" id="239">
+  <input>Nunca había visto <f id="1">so many people</f>  en el hogar.</input>
+  <ref>Nunca había visto <f id="1">tanta gente<alt>tantas personas</alt></f>  en el hogar.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="240">
+  <input>El <f id="1">poor elephant</f>  va a morir.</input>
+  <ref>El <f id="1">pobre elefante</f>  va a morir.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="241">
+  <input>En primavera hay tantos <f id="1">birds</f>  en el castaño que me despiertan por la mañana.</input>
+  <ref>En primavera hay tantos <f id="1">pájaros</f>  en el castaño que me despiertan por la mañana.</ref>
+</s>
+<s category="pp" source="Prisma Grammatica Spaans - drs. E. Slager" id="242">
+  <input>Tienes que tener más confianza <f id="1">in yourself</f>  .</input>
+  <ref>Tienes que tener más confianza <f id="1">en ti mismo</f>  .</ref>
+</s>
+<s category="n" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="243">
+  <input>Activar <f id="1">the circulatory system</f>  de esta manera es necesario para la prevención de resfriados y para la salud de las arterias.</input>
+  <ref>Activar <f id="1">el sistema circulatorio</f>  de esta manera es necesario para la prevención de resfriados y para la salud de las arterias.</ref>
+</s>
+<s category="comp" source="Dr. Guillermo Sanz Gallego, Ghent University" id="244">
+  <input><f id="1">On the left</f>  se encuentra el Palacio Real.</input>
+  <ref><f id="1">A la izquierda</f>  se encuentra el Palacio Real.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="245">
+  <input>La policía cree que los asesinatos de las dos mujeres pueden haber sido obra de <f id="1">a serial killer</f>  , pero recalca que aún es pronto para llegar a esta conclusión.</input>
+  <ref>La policía cree que los asesinatos de las dos mujeres pueden haber sido obra de <f id="1">un asesino en serie</f>  , pero recalca que aún es pronto para llegar a esta conclusión.</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="246">
+  <input>No me gusta ese <f id="1">smell</f>  de azufre.</input>
+  <ref>No me gusta ese <f id="1">olor</f>  de azufre.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="247">
+  <input>Se espera centralizar los paquetes disponibles <f id="1">increasing</f>  la presión a la Administración española.</input>
+  <ref>Se espera centralizar los paquetes disponibles <f id="1">aumentando</f>  la presión a la Administración española.</ref>
+</s>
+<s category="v" source="Jaime Bayly - No se lo digas a nadie" id="248">
+  <input>Joaquín <f id="1">left his room</f>  y bajó al comedor.</input>
+  <ref>Joaquín <f id="1">salió de su cuarto</f>  y bajó al comedor.</ref>
+</s>
+<s category="adv" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="249">
+  <input>No me vas a convencer, es inútil que lo repitas <f id="1">again</f>  , ya te he oído bien la primera vez.</input>
+  <ref>No me vas a convencer, es inútil que lo repitas <f id="1">otra vez<alt>de nuevo</alt></f>  , ya te he oído bien la primera vez.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="250">
+  <input>El divorcio, por ejemplo, <f id="1">has made possible</f>  que el matrimonio no sea forzosamente para toda la vida.</input>
+  <ref>El divorcio, por ejemplo, <f id="1">ha posibilitado<alt>ha hecho posible</alt><alt>ha permitido</alt><alt>ha hecho posible</alt></f>  que el matrimonio no sea forzosamente para toda la vida.</ref>
+</s>
+<s category="v" source="Jaime Bayly - No se lo digas a nadie" id="251">
+  <input>Joaquín estaba en su cuarto, <f id="1">reading</f>  un libro sobre la historia de los mundiales de fútbol.</input>
+  <ref>Joaquín estaba en su cuarto, <f id="1">leyendo</f>  un libro sobre la historia de los mundiales de fútbol.</ref>
+</s>
+<s category="p" source="Dr. Guillermo Sanz Gallego, Ghent University" id="252">
+  <input><f id="1">During</f>  el desfile se pidió silencio y se apeló al respeto hacia los militares.</input>
+  <ref><f id="1">Durante</f>  el desfile se pidió silencio y se apeló al respeto hacia los militares.</ref>
+</s>
+<s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="253">
+  <input>Ya caen hojas <f id="1">everywhere</f>  en nuestro jardín.</input>
+  <ref>Ya caen hojas <f id="1">por todas partes</f>  en nuestro jardín.</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="254">
+  <input>Si ellos no <f id="1">receive treatment</f>  , pueden seguir transmitiendo la infección a otras personas.</input>
+  <ref>Si ellos no <f id="1">reciben tratamiento</f>  , pueden seguir transmitiendo la infección a otras personas.</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="255">
+  <input>Esta universidad tiene sedes en Piamonte y Emilia Romana, <f id="1">both</f>  al norte del país.</input>
+  <ref>Esta universidad tiene sedes en Piamonte y Emilia Romana, <f id="1">ambas</f>  al norte del país.</ref>
+</s>
+<s category="w" source="Dr. Guillermo Sanz Gallego, Ghent University" id="256">
+  <input>La empresa Nuevas Tecnologias y Energias Catala (NT-K) ha ganado el recurso interpuesto contra <f id="1">the sentence</f>  de 2010 de un tribunal municipal que dictaba que NT-K no continuara importando a España la tableta que fabricaba en China.</input>
+  <ref>La empresa Nuevas Tecnologias y Energias Catala (NT-K) ha ganado el recurso interpuesto contra <f id="1">la sentencia<alt>la condena</alt></f>  de 2010 de un tribunal municipal que dictaba que NT-K no continuara importando a España la tableta que fabricaba en China.</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="257">
+  <input>La elevación de la temperatura de las aguas fue reconocida por <f id="1">fishermen</f>  peruanos.</input>
+  <ref>La elevación de la temperatura de las aguas fue reconocida por <f id="1">pescadores</f>  peruanos.</ref>
+</s>
+<s category="adv" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="258">
+  <input>Llueve <f id="1">less</f>  y cada vez más personas viven cerca del mar.</input>
+  <ref>Llueve <f id="1">menos</f>  y cada vez más personas viven cerca del mar.</ref>
+</s>
+<s category="comp" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="259">
+  <input>Los vehículos circulan con absoluta normalidad <f id="1">thanks to</f>  la red de túneles que recorre toda la ciudad.</input>
+  <ref>Los vehículos circulan con absoluta normalidad <f id="1">gracias a<alt>debido a</alt></f>  la red de túneles que recorre toda la ciudad.</ref>
+</s>
+<s category="n" id="260">
+  <input>Este <f id="1">increase</f>  ha propiciado el saneamento financiero de las empresas.</input>
+  <ref>Este <f id="1">aumento<alt>incremento</alt><alt>crecimiento</alt></f>  ha propiciado el saneamento financiero de las empresas.</ref>
+</s>
+<s category="v" source="Prisma Grammatica Spaans - drs. E. Slager" id="261">
+  <input>Sí, pero <f id="1">don't worry</f>  , es sólo un niño.</input>
+  <ref>Sí, pero <f id="1">no te inquietes<alt>no te preocupes</alt><alt>no se preocupe</alt><alt>no hay que preocuparse</alt><alt>no se preocupen</alt></f>  , es sólo un niño.</ref>
+</s>
+<s category="v" id="262">
+  <input>El niño <f id="1">does as if</f>  bebiera de una taza.</input>
+  <ref>El niño <f id="1">hace como si</f>  bebiera de una taza.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="263">
+  <input><f id="1">It is a pity</f>  que ellos no vuelvan más pronto.</input>
+  <ref><f id="1">Es una lástima<alt>Es una pena</alt><alt>Es lamentable</alt></f>  que ellos no vuelvan más pronto.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="264">
+  <input>El dentista me sacó dos <f id="1">molars</f>  .</input>
+  <ref>El dentista me sacó dos <f id="1">muelas</f>  .</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="265">
+  <input>Pero a la una y cuarto se abrió la puerta y <f id="1">appeared</f>  el hombre.</input>
+  <ref>Pero a la una y cuarto se abrió la puerta y <f id="1">apareció</f>  el hombre.</ref>
+</s>
+<s category="v" id="266">
+  <input>Es dificil <f id="1">foresee</f>  en este momento todas las consecuencias.</input>
+  <ref>Es dificil <f id="1">prever</f>  en este momento todas las consecuencias.</ref>
+</s>
+<s category="v" source="Julio Cortázar. Rayuela. Buenos Aires: Editorial Sudamericana, 1973 (106-107)." id="267">
+  <input>Ossip <f id="1">will follow you</f>  a dos metros de distancia.</input>
+  <ref>Ossip <f id="1">te seguirá</f>  a dos metros de distancia.</ref>
+</s>
+<s category="a" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="268">
+  <input>La calle donde vivo está <f id="1">close to</f>  la oficina.</input>
+  <ref>La calle donde vivo está <f id="1">cerca de</f>  la oficina.</ref>
+</s>
+<s category="a" source="El País - 7-2-2014" id="269">
+  <input>El líder <f id="1">xenophobic</f>  Wilders propone que Holanda abandone la UE.</input>
+  <ref>El líder <f id="1">xenófobo</f>  Wilders propone que Holanda abandone la UE.</ref>
+</s>
+<s category="expr" source="Prisma Grammatica Spaans - drs. E. Slager" id="270">
+  <input><f id="1">It seems that</f>  entre tú y yo nos hemos bebido las dos botellas.</input>
+  <ref><f id="1">Parece que</f>  entre tú y yo nos hemos bebido las dos botellas.</ref>
+</s>
+<s category="a" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="271">
+  <input>No hay niño <f id="1">better</f>  que él, no llora nunca.</input>
+  <ref>No hay niño <f id="1">mejor</f>  que él, no llora nunca.</ref>
+</s>
+<s category="adv" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="272">
+  <input>El interés del menor prevalece sobre <f id="1">any other</f>  .</input>
+  <ref>El interés del menor prevalece sobre <f id="1">cualquier otro</f>  .</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="273">
+  <input>Es ese momento <f id="1">happened</f>  dos cosas.</input>
+  <ref>Es ese momento <f id="1">sucedieron<alt>pasaron</alt></f>  dos cosas.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="274">
+  <input>En caso de que tuviera lugar la formación de una nueva isla, se podría convertir en una atracción <f id="1">first degree</f>  , como apuntan las expectativas.</input>
+  <ref>En caso de que tuviera lugar la formación de una nueva isla, se podría convertir en una atracción <f id="1">de primer orden<alt>de primer grado</alt><alt>de primer grado</alt></f>  , como apuntan las expectativas.</ref>
+</s>
+<s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="275">
+  <input>Para parar este modo de grabar, <f id="1">push</f>  la tecla PARAR, o bien PAUSA.</input>
+  <ref>Para parar este modo de grabar, <f id="1">pulse</f>  la tecla PARAR, o bien PAUSA.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="276">
+  <input>Ya se lo dije <f id="1">before</f>  .</input>
+  <ref>Ya se lo dije <f id="1">antes</f>  .</ref>
+</s>
+<s category="n" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="277">
+  <input>Dicen que <f id="1">the biggest danger</f>  está en los Ayuntamientos.</input>
+  <ref>Dicen que <f id="1">el mayor peligro<alt>el peligro más grande</alt></f>  está en los Ayuntamientos.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="278">
+  <input>Nuestra <f id="1">birthrate</f>  es baja y la población envejece.</input>
+  <ref>Nuestra <f id="1">tasa de natalidad</f>  es baja y la población envejece.</ref>
+</s>
+<s category="w" source="UniLang Language Community" id="279">
+  <input>¿Cuál es el precio <f id="1">per hour</f>  ?</input>
+  <ref>¿Cuál es el precio <f id="1">por hora</f>  ?</ref>
+</s>
+<s category="v" source="Prisma Grammatica Spaans - drs. E. Slager" id="280">
+  <input>El libro <f id="1">is written</f>  en el español del siglo XVI.</input>
+  <ref>El libro <f id="1">está escrito</f>  en el español del siglo XVI.</ref>
+</s>
+<s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="281">
+  <input><f id="1">At last</f>  pude hablar con ella.</input>
+  <ref><f id="1">Por fin<alt>Finalmente</alt></f>  pude hablar con ella.</ref>
+</s>
+<s category="n" source="UniLang Language Community" id="282">
+  <input>Había tan poca que, tratara como tratara, no podía alcanzarla con su <f id="1">beak</f>  .</input>
+  <ref>Había tan poca que, tratara como tratara, no podía alcanzarla con su <f id="1">pico</f>  .</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="283">
+  <input>La construcción de este nuevo <f id="1">railway</f>  acabará conectando el Norte de África con las grandes ciudades.</input>
+  <ref>La construcción de este nuevo <f id="1">ferrocarril<alt>ferroviario</alt></f>  acabará conectando el Norte de África con las grandes ciudades.</ref>
+</s>
+<s category="a" source="Prisma Grammatica Spaans - drs. E. Slager" id="284">
+  <input>Fuentes <f id="1">reliable</f>  afirman que fue así como sucedió.</input>
+  <ref>Fuentes <f id="1">fiables<alt>confiables</alt></f>  afirman que fue así como sucedió.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="285">
+  <input>A pesar de <f id="1">the measures</f>  , a los jóvenes les es más difícil acceder al empleo.</input>
+  <ref>A pesar de <f id="1">las medidas</f>  , a los jóvenes les es más difícil acceder al empleo.</ref>
+</s>
+<s category="n" id="286">
+  <input>Mañana vamos a <f id="1">the swimming pool</f>  .</input>
+  <ref>Mañana vamos a <f id="1">la piscina</f>  .</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="287">
+  <input>Mi sobrina y yo <f id="1">are much alike</f>  .</input>
+  <ref>Mi sobrina y yo <f id="1">nos parecemos mucho<alt>somos parecidos</alt></f>  .</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="288">
+  <input>La gente quiere <f id="1">relax</f>  durante las vacaciones.</input>
+  <ref>La gente quiere <f id="1">descansar<alt>relajarse</alt></f>  durante las vacaciones.</ref>
+</s>
+<s category="a" source="UniLang Language Community" id="289">
+  <input>Un cuervo <f id="1">thirsty</f>  encontró un cántaro con algo de agua.</input>
+  <ref>Un cuervo <f id="1">sediento</f>  encontró un cántaro con algo de agua.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="290">
+  <input>El 12 de octubre de 1492 <f id="1">arrived</f>  Colón al continente americano.</input>
+  <ref>El 12 de octubre de 1492 <f id="1">llegó<alt>llega</alt></f>  Colón al continente americano.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="291">
+  <input>Después de un accidente se rellenan los formularios necesarios para <f id="1">the insurance companies</f>  .</input>
+  <ref>Después de un accidente se rellenan los formularios necesarios para <f id="1">las compañías de seguros<alt>las aseguradoras</alt><alt>las empresas de seguros</alt></f>  .</ref>
+</s>
+<s category="pp" source="El País - 7-2-2014" id="292">
+  <input>Los analistas opinan que la empresa no está <f id="1">in risk of</f>  sucumbir.</input>
+  <ref>Los analistas opinan que la empresa no está <f id="1">en riesgo de<alt>en peligro de</alt></f>  sucumbir.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="293">
+  <input>Recientemente se confirmó la participación de una serie de actores en la vigésimo tercera <f id="1">film</f>  de James Bond.</input>
+  <ref>Recientemente se confirmó la participación de una serie de actores en la vigésimo tercera <f id="1">película</f>  de James Bond.</ref>
+</s>
+<s category="a" source="UniLang Language Community" id="294">
+  <input>Puedes escoger <f id="1">any</f>  libro.</input>
+  <ref>Puedes escoger <f id="1">cualquier</f>  libro.</ref>
+</s>
+<s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="295">
+  <input>La señorita <f id="1">who</f>  preguntó por ti es muy guapa.</input>
+  <ref>La señorita <f id="1">que</f>  preguntó por ti es muy guapa.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="296">
+  <input>Yo no <f id="1">paid the bill</f>  , porque no tenía suficiente dinero.</input>
+  <ref>Yo no <f id="1">pagué la cuenta<alt>pagué la factura</alt></f>  , porque no tenía suficiente dinero.</ref>
+</s>
+<s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="297">
+  <input>Querer a dos mujeres <f id="1">at the same time</f>  era comun para él.</input>
+  <ref>Querer a dos mujeres <f id="1">a la vez<alt>al mismo tiempo</alt></f>  era comun para él.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="298">
+  <input><f id="1">The domino effect</f>  sobre la economía del país sería inmediato.</input>
+  <ref><f id="1">El efecto dominó</f>  sobre la economía del país sería inmediato.</ref>
+</s>
+<s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="299">
+  <input>Vivimos <f id="1">together</f>  desde hace uns meses.</input>
+  <ref>Vivimos <f id="1">juntos</f>  desde hace uns meses.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="300">
+  <input>España sería uno de <f id="1">the western countries</f>  mas perjudicados en el caso de una recesión económica mundial.</input>
+  <ref>España sería uno de <f id="1">los países occidentales</f>  mas perjudicados en el caso de una recesión económica mundial.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="301">
+  <input>El gobierno <f id="1">hopes that</f>  las nuevas iniciativas se aprueben lo antes posible.</input>
+  <ref>El gobierno <f id="1">espera que</f>  las nuevas iniciativas se aprueben lo antes posible.</ref>
+</s>
+<s category="v" source="El País - 7-2-2014" id="302">
+  <input>En política interior, Alemania <f id="1">turns towards</f>  el centro.</input>
+  <ref>En política interior, Alemania <f id="1">gira hacia</f>  el centro.</ref>
+</s>
+<s category="a" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="303">
+  <input>Ese político es <f id="1">worse</f>  que el diablo.</input>
+  <ref>Ese político es <f id="1">peor</f>  que el diablo.</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="304">
+  <input>Un día descubrí que entre mis <f id="1">ancestors</f>  había un historiador y profesor universitario.</input>
+  <ref>Un día descubrí que entre mis <f id="1">antepasados</f>  había un historiador y profesor universitario.</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="305">
+  <input>Se puede llamar al Rey en cualquier momento <f id="1">in case of</f>  necesidad.</input>
+  <ref>Se puede llamar al Rey en cualquier momento <f id="1">en caso de</f>  necesidad.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="306">
+  <input>Los estudiantes exigen que el Estado les dé <f id="1">an equal salary</f>  .</input>
+  <ref>Los estudiantes exigen que el Estado les dé <f id="1">un sueldo igual<alt>un salario igual</alt><alt>igualdad de salario</alt><alt>igual remuneración</alt></f>  .</ref>
+</s>
+<s category="n" source="Prisma Grammatica Spaans - drs. E. Slager" id="307">
+  <input>En <f id="1">the kitchen</f>  hay comida.</input>
+  <ref>En <f id="1">la cocina</f>  hay comida.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="308">
+  <input>Es posible que la lotería <f id="1">turns me into</f>  el hombre más rico del mundo.</input>
+  <ref>Es posible que la lotería <f id="1">me convierta en</f>  el hombre más rico del mundo.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="309">
+  <input>Los huelguistas <f id="1">oppose</f>  la privatización de AENA.</input>
+  <ref>Los huelguistas <f id="1">se oponen a</f>  la privatización de AENA.</ref>
+</s>
+<s category="a" source="Julio Cortázar. Rayuela. Buenos Aires: Editorial Sudamericana, 1973 (106-107)." id="310">
+  <input>Yo estaba bastante <f id="1">drunk</f>  y vos apareciste en la esquina y nos quedamos mirándonos como idiotas.</input>
+  <ref>Yo estaba bastante <f id="1">borracho<alt>borracha</alt><alt>bebido</alt></f>  y vos apareciste en la esquina y nos quedamos mirándonos como idiotas.</ref>
+</s>
+<s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="311">
+  <input><f id="1">Don't put</f>  los codos en la mesa.</input>
+  <ref><f id="1">No pongas</f>  los codos en la mesa.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="312">
+  <input>Aunque volcanes e <f id="1">fires</f>  también contaminen, el fenómeno de la lluvia ácida surge con la revolución industrial.</input>
+  <ref>Aunque volcanes e <f id="1">incendios</f>  también contaminen, el fenómeno de la lluvia ácida surge con la revolución industrial.</ref>
+</s>
+<s category="adv" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="313">
+  <input>Los niños tienes pocas ocasiones para jugar <f id="1">freely</f>  .</input>
+  <ref>Los niños tienes pocas ocasiones para jugar <f id="1">libremente</f>  .</ref>
+</s>
+<s category="expr" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="314">
+  <input>No todo ha sido <f id="1">a breeze</f>  para el nuevo ariete del Barça.</input>
+  <ref>No todo ha sido <f id="1">de color de rosa<alt>de color rosado</alt><alt>pan comido</alt></f>  para el nuevo ariete del Barça.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="315">
+  <input>El movimiento tiene que aclarar que <f id="1">the ceasefire</f>  no es temporal.</input>
+  <ref>El movimiento tiene que aclarar que <f id="1">el alto del fuego</f>  no es temporal.</ref>
+</s>
+<s category="v" source="Jaime Bayly - No se lo digas a nadie" id="316">
+  <input>También quiero <f id="1">thank</f>  a mi hermana Ximena y mi hermanito Fernando por ser tan buenos conmigo y por hacerme regalitos tan bonitos.</input>
+  <ref>También quiero <f id="1">agradecer<alt>dar las gracias</alt></f>  a mi hermana Ximena y mi hermanito Fernando por ser tan buenos conmigo y por hacerme regalitos tan bonitos.</ref>
+</s>
+<s category="pp" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="317">
+  <input>Cada día mi abuelo viene <f id="1">on foot</f>  .</input>
+  <ref>Cada día mi abuelo viene <f id="1">a pie</f>  .</ref>
+</s>
+<s category="adv" id="318">
+  <input>La gente <f id="1">in general</f>  espera que el PSOE vencerá.</input>
+  <ref>La gente <f id="1">en general</f>  espera que el PSOE vencerá.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="319">
+  <input>Los opositores <f id="1">dismissed</f>  el asunto.</input>
+  <ref>Los opositores <f id="1">despacharon<alt>rechazaron</alt><alt>despidieron</alt></f>  el asunto.</ref>
+</s>
+<s category="adv" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="320">
+  <input>Se van a crear <f id="1">more than</f>  cuarenta nuevos titulos universitarios.</input>
+  <ref>Se van a crear <f id="1">más de</f>  cuarenta nuevos titulos universitarios.</ref>
+</s>
+<s category="n" source="El País - 7-2-2014" id="321">
+  <input>Su medio siglo de trayectoria fue un experimento continuo donde primó <f id="1">the search for</f>  métodos de expresión.</input>
+  <ref>Su medio siglo de trayectoria fue un experimento continuo donde primó <f id="1">la búsqueda de</f>  métodos de expresión.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="322">
+  <input>Los emigrantes españoles <f id="1">demand</f>  una enseñanza adecuada.</input>
+  <ref>Los emigrantes españoles <f id="1">exigen<alt>piden</alt></f>  una enseñanza adecuada.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="323">
+  <input>Mi <f id="1">eldest son</f>  va a casarse dentro de poco.</input>
+  <ref>Mi <f id="1">hijo mayor</f>  va a casarse dentro de poco.</ref>
+</s>
+<s category="n" source="El País - 7-2-2014" id="324">
+  <input>General Motors reduce <f id="1">its losses</f>  en Europa.</input>
+  <ref>General Motors reduce <f id="1">sus pérdidas</f>  en Europa.</ref>
+</s>
+<s category="a" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="325">
+  <input>El Turismo Rural se presenta hoy como un <f id="1">successful</f>  negocio para el empresario rural.</input>
+  <ref>El Turismo Rural se presenta hoy como un <f id="1">exitoso</f>  negocio para el empresario rural.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="326">
+  <input>La lista ha sido recopilada a partir del volumen de ventas y <f id="1">profits</f>  de las empresas.</input>
+  <ref>La lista ha sido recopilada a partir del volumen de ventas y <f id="1">beneficios</f>  de las empresas.</ref>
+</s>
+<s category="n" source="El País - 7-2-2014" id="327">
+  <input>El político lidera <f id="1">the polls</f>  para las elecciones nacionales de 2017.</input>
+  <ref>El político lidera <f id="1">los sondeos</f>  para las elecciones nacionales de 2017.</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="328">
+  <input><f id="1">It is about</f>  un juego muy sencillo pero muy divertido.</input>
+  <ref><f id="1">Se trata de</f>  un juego muy sencillo pero muy divertido.</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="329">
+  <input>Esta medida seguirá <f id="1">in force</f>  durante el verano.</input>
+  <ref>Esta medida seguirá <f id="1">en vigor<alt>vigente</alt><alt>teniendo validez</alt></f>  durante el verano.</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="330">
+  <input>El futuro presidente del Gobierno será <f id="1">most likely</f>  el líder del PP, Mariano Rajoy.</input>
+  <ref>El futuro presidente del Gobierno será <f id="1">muy posiblemente<alt>más probablemente</alt><alt>muy probablemente</alt><alt>lo más probable</alt></f>  el líder del PP, Mariano Rajoy.</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="331">
+  <input><f id="1">The conflict of interest</f>  sobre las aguas siempre va a existir.</input>
+  <ref><f id="1">El conflicto de intereses<alt>El conflicto de interés</alt></f>  sobre las aguas siempre va a existir.</ref>
+</s>
+<s category="expr" id="332">
+  <input>Admitió que su amigo <f id="1">was to blame for the</f>  atentado.</input>
+  <ref>Admitió que su amigo <f id="1">tenía la culpa del<alt>fue el culpable del</alt></f>  atentado.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="333">
+  <input>Entonces, <f id="1">the work</f>  del pintor fue abandonada en casa de Goya por los seguidores de Napoleón.</input>
+  <ref>Entonces, <f id="1">la obra</f>  del pintor fue abandonada en casa de Goya por los seguidores de Napoleón.</ref>
+</s>
+<s category="a" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="334">
+  <input>Todo indica que <f id="1">the worst</f>  que puede llegar a ocurrir es que las economías crezcan por debajo de lo previsto.</input>
+  <ref>Todo indica que <f id="1">lo más grave<alt>lo peor</alt></f>  que puede llegar a ocurrir es que las economías crezcan por debajo de lo previsto.</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="336">
+  <input>Eso <f id="1">explains why</f>  no me hayan contestado.</input>
+  <ref>Eso <f id="1">explica que<alt>explica porque</alt></f>  no me hayan contestado.</ref>
+</s>
+<s category="w" source="Dr. Guillermo Sanz Gallego, Ghent University" id="337">
+  <input>Ayer informaron en la radio de que no haría <f id="1">good weather</f>  este fin de semana.</input>
+  <ref>Ayer informaron en la radio de que no haría <f id="1">buen tiempo</f>  este fin de semana.</ref>
+</s>
+<s category="w" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="338">
+  <input>Los madrileños, <f id="1">instead of</f>  comerse el regalo, lo enterraron.</input>
+  <ref>Los madrileños, <f id="1">en vez de<alt>en lugar de</alt></f>  comerse el regalo, lo enterraron.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="339">
+  <input>Donde hay un drogadicto hay detŕas un problema con <f id="1">his parents</f>  .</input>
+  <ref>Donde hay un drogadicto hay detŕas un problema con <f id="1">sus padres</f>  .</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="340">
+  <input>Creo que el machismo ya no está bien visto, y es <f id="1">substituted by</f>  otro tipo de comportamiento.</input>
+  <ref>Creo que el machismo ya no está bien visto, y es <f id="1">sustituido por</f>  otro tipo de comportamiento.</ref>
+</s>
+<s category="expr" source="Dr. Guillermo Sanz Gallego, Ghent University" id="341">
+  <input>Unos 200 indignados han decidido <f id="1">to spend the night</f>  frente al congreso.</input>
+  <ref>Unos 200 indignados han decidido <f id="1">pasar la noche<alt>pernoctar</alt></f>  frente al congreso.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="342">
+  <input>Si lleva una moto, es obligatoria <f id="1">the use of a helmet</f>  .</input>
+  <ref>Si lleva una moto, es obligatoria <f id="1">la utilización del casco<alt>el uso del casco</alt></f>  .</ref>
+</s>
+<s category="expr" source="El País - 7-2-2014" id="343">
+  <input><f id="1">As was expected</f>  , el coletazo del escándalo también llegó a Cuba.</input>
+  <ref><f id="1">Como era de esperar<alt>Como esperado</alt><alt>Como se esperaba</alt></f>  , el coletazo del escándalo también llegó a Cuba.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="344">
+  <input>El 12 de octubre o día de la hispanidad, es <f id="1">a holiday</f>  en todo el mundo hispánico.</input>
+  <ref>El 12 de octubre o día de la hispanidad, es <f id="1">un día festivo<alt>un día de fiesta</alt></f>  en todo el mundo hispánico.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="345">
+  <input>Los nuevos programas han sido presentados por <f id="1">the political parties</f>  de nuestro país.</input>
+  <ref>Los nuevos programas han sido presentados por <f id="1">los partidos políticos</f>  de nuestro país.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="346">
+  <input>No sólo ha subido su <f id="1">debt</f>  , sino que también ha bajado el valor de su casa.</input>
+  <ref>No sólo ha subido su <f id="1">deuda</f>  , sino que también ha bajado el valor de su casa.</ref>
+</s>
+<s category="v" id="347">
+  <input>Planteaste el debate y ya no quieres <f id="1">shut up</f>  .</input>
+  <ref>Planteaste el debate y ya no quieres <f id="1">callar</f>  .</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="348">
+  <input>The <f id="1">watch</f>  que acabo de comprar es para mi sobrina.</input>
+  <ref>El <f id="1">reloj</f>  que acabo de comprar es para mi sobrina.</ref>
+</s>
+<s category="expr" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="349">
+  <input>Ese melocotón <f id="1">tastes good</f>  .</input>
+  <ref>Ese melocotón <f id="1">sabe muy bien<alt>sabe bien</alt></f>  .</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="350">
+  <input>La empresa ya fue <f id="1">owner</f>  de Endemol y de otras empresas de comunicaciones, pero se acabaron vendiendo.</input>
+  <ref>La empresa ya fue <f id="1">propietaria</f>  de Endemol y de otras empresas de comunicaciones, pero se acabaron vendiendo.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="351">
+  <input>Le <f id="1">appreciate</f>  mucho por su valor y su paciencia.</input>
+  <ref>Le <f id="1">aprecio</f>  mucho por su valor y su paciencia.</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="352">
+  <input>En nuestra biblioteca el silencio <f id="1">shines</f>  por su ausencia.</input>
+  <ref>En nuestra biblioteca el silencio <f id="1">brilla</f>  por su ausencia.</ref>
+</s>
+<s category="pp" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="353">
+  <input>La pelota sólo puede botar una vez <f id="1">on the floor</f>  .</input>
+  <ref>La pelota sólo puede botar una vez <f id="1">en el suelo</f>  .</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="354">
+  <input>No todas las lluvias benefician y algunas <f id="1">contaminate</f>  el ambiente.</input>
+  <ref>No todas las lluvias benefician y algunas <f id="1">contaminan</f>  el ambiente.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="355">
+  <input>El actor ha tenido <f id="1">bad luck</f>  .</input>
+  <ref>El actor ha tenido <f id="1">mala suerte</f>  .</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="356">
+  <input>El edificio de las placas de titanio onduladas de Frank Gehry <f id="1">acquired</f>  el estatus de icono al poco de su inauguración.</input>
+  <ref>El edificio de las placas de titanio onduladas de Frank Gehry <f id="1">adquirió</f>  el estatus de icono al poco de su inauguración.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="357">
+  <input>Jesús Guerra acabó siendo condenado a pagar <f id="1">a fine</f>  de 3587 euros.</input>
+  <ref>Jesús Guerra acabó siendo condenado a pagar <f id="1">una multa</f>  de 3587 euros.</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="358">
+  <input>La primera empresa en la lista es Santander, <f id="1">followed by</f>  Telefónica, Repsol y BBVA.</input>
+  <ref>La primera empresa en la lista es Santander, <f id="1">seguida de<alt>seguida por</alt></f>  Telefónica, Repsol y BBVA.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="359">
+  <input>Hace poco fui <f id="1">witness</f>  de un asalto al Banco de Bilbao en la calle de Medinaceli.</input>
+  <ref>Hace poco fui <f id="1">testigo</f>  de un asalto al Banco de Bilbao en la calle de Medinaceli.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="360">
+  <input>Me han <f id="1">chosen</f>  para interpretar a ese personaje, pero no puedo dar muchos detalles.</input>
+  <ref>Me han <f id="1">elegido<alt>seleccionado</alt></f>  para interpretar a ese personaje, pero no puedo dar muchos detalles.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="361">
+  <input>Me temo que tendré que <f id="1">keep living</f>  en casa de mis padres hasta los cuarenta.</input>
+  <ref>Me temo que tendré que <f id="1">seguir viviendo</f>  en casa de mis padres hasta los cuarenta.</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="362">
+  <input>Los niños empeizan a usar <f id="1">symbols</f>  desde el segundo año de vida.</input>
+  <ref>Los niños empeizan a usar <f id="1">símbolos</f>  desde el segundo año de vida.</ref>
+</s>
+<s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="363">
+  <input>Después de tantos años, <f id="1">still</f>  me da vergüenza recordarlo.</input>
+  <ref>Después de tantos años, <f id="1">todavía<alt>aún</alt></f>  me da vergüenza recordarlo.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="364">
+  <input>El número de españoles que acude a las plazas para presenciar la labor de los matadores, <f id="1">continues to diminish</f>  .</input>
+  <ref>El número de españoles que acude a las plazas para presenciar la labor de los matadores, <f id="1">continúa disminuyendo<alt>sigue disminuyendo</alt><alt>sigue reduciéndose</alt></f>  .</ref>
+</s>
+<s category="a" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="365">
+  <input>No creo que las necesidades afectivas de las personas estén necesariamente <f id="1">linked</f>  al matrimonio.</input>
+  <ref>No creo que las necesidades afectivas de las personas estén necesariamente <f id="1">ligadas</f>  al matrimonio.</ref>
+</s>
+<s category="adv" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="366">
+  <input>El 14 de Julio de 1789 la Bastilla fue asaltada <f id="1">by the population of</f>  París.</input>
+  <ref>El 14 de Julio de 1789 la Bastilla fue asaltada <f id="1">por la población de<alt>por parte de la población de</alt></f>  París.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="367">
+  <input>La policía seguirá vigilando y multando <f id="1">to ensure</f>  que el tráfico fluya con seguridad.</input>
+  <ref>La policía seguirá vigilando y multando <f id="1">para conseguir<alt>para asegurar</alt><alt>para garantizar</alt></f>  que el tráfico fluya con seguridad.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="368">
+  <input>La Televisión Española inaugura mañana una iniciativa con los ojos puestos en la competencia con las <f id="1">channels</f>  privadas.</input>
+  <ref>La Televisión Española inaugura mañana una iniciativa con los ojos puestos en la competencia con las <f id="1">cadenas</f>  privadas.</ref>
+</s>
+<s category="a" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="369">
+  <input>El lugar <f id="1">chosen</f>  como basurero atómico se encuentra a 480 kilómetros de Finisterre, en Galicia.</input>
+  <ref>El lugar <f id="1">escogido<alt>elegido</alt></f>  como basurero atómico se encuentra a 480 kilómetros de Finisterre, en Galicia.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="370">
+  <input>El periódico 20Minutos quería un tipo de debate en <f id="1">social networks</f>  .</input>
+  <ref>El periódico 20Minutos quería un tipo de debate en <f id="1">las redes sociales</f>  .</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="371">
+  <input>Allan Thornton <f id="1">belongs to</f>  un grupo llamado Greenpeace.</input>
+  <ref>Allan Thornton <f id="1">pertenece a</f>  un grupo llamado Greenpeace.</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="372">
+  <input><f id="1">Do</f>  exactamente lo que diga tu médico.</input>
+  <ref><f id="1">Haz</f>  exactamente lo que diga tu médico.</ref>
+</s>
+<s category="adv" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="373">
+  <input>Es necesario que fumas <f id="1">less</f>  .</input>
+  <ref>Es necesario que fumas <f id="1">menos</f>  .</ref>
+</s>
+<s category="p" source="Dr. Guillermo Sanz Gallego, Ghent University" id="374">
+  <input><f id="1">Moreover</f>  muchas familias no disponen de dinero.</input>
+  <ref><f id="1">Además</f>  muchas familias no disponen de dinero.</ref>
+</s>
+<s category="v" source="Juan Goytisolo. La resaca. Barcelona: Ediciones Destino, 1981 (153)." id="375">
+  <input>Alguien <f id="1">knocked on</f>  la puerta del bar, y todos cesaron de discutir.</input>
+  <ref>Alguien <f id="1">golpeó<alt>tocó a</alt><alt>llamó a</alt></f>  la puerta del bar, y todos cesaron de discutir.</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="376">
+  <input>Al cabo de los siglos, <f id="1">the surname</f>  Vargas resultaría uno de los más multiplicados.</input>
+  <ref>Al cabo de los siglos, <f id="1">el apellido</f>  Vargas resultaría uno de los más multiplicados.</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="377">
+  <input>En la isla de El Hierro del archipiélago canario la creciente actividad sísmica indica que un volcán subacuático puede entrar en erupción <f id="1">at any time</f>  .</input>
+  <ref>En la isla de El Hierro del archipiélago canario la creciente actividad sísmica indica que un volcán subacuático puede entrar en erupción <f id="1">en cualquier momento<alt>en todo momento</alt><alt>a cualquier hora</alt></f>  .</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="378">
+  <input>Desde el punto de vista pedagógico se convierte en un sitio para la socialización, que además impulsa <f id="1">the development</f>  de competencias académicas en el niño y el jovén.</input>
+  <ref>Desde el punto de vista pedagógico se convierte en un sitio para la socialización, que además impulsa <f id="1">el desarrollo</f>  de competencias académicas en el niño y el jovén.</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="379">
+  <input>Gobernará la nación <f id="1">from the beginning of</f>  2012.</input>
+  <ref>Gobernará la nación <f id="1">a partir de principios de<alt>desde el principio de</alt></f>  2012.</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="380">
+  <input>Una siesta de 26 minutos consigue que nos sintamos <f id="1">less tired</f>  y que podamos funcionar mejor.</input>
+  <ref>Una siesta de 26 minutos consigue que nos sintamos <f id="1">menos cansados</f>  y que podamos funcionar mejor.</ref>
+</s>
+<s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="381">
+  <input>Juan se había preparado <f id="1">better than</f>  su compañero.</input>
+  <ref>Juan se había preparado <f id="1">mejor que</f>  su compañero.</ref>
+</s>
+<s category="adv" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="382">
+  <input>El fenómeno se inicia <f id="1">close to</f>  Australia e Indonesia.</input>
+  <ref>El fenómeno se inicia <f id="1">cerca de</f>  Australia e Indonesia.</ref>
+</s>
+<s category="w" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="383">
+  <input>Voy <f id="1">to the pharmacy</f>  por aspirinas.</input>
+  <ref>Voy <f id="1">a la farmacia</f>  por aspirinas.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="384">
+  <input>Lo ideal sería poder <f id="1">swop</f>  las compras por productos españoles.</input>
+  <ref>Lo ideal sería poder <f id="1">canjear<alt>cambiar</alt><alt>intercambiar</alt></f>  las compras por productos españoles.</ref>
+</s>
+<s category="adv" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="385">
+  <input>Este negro panorama económico para España <f id="1">hardly</f>  tiene visos de realidad.</input>
+  <ref>Este negro panorama económico para España <f id="1">apenas<alt>casi no</alt></f>  tiene visos de realidad.</ref>
+</s>
+<s category="a" source="Prisma Grammatica Spaans - drs. E. Slager" id="386">
+  <input>Te mandaré <f id="1">another ten</f>  copias.</input>
+  <ref>Te mandaré <f id="1">otras diez</f>  copias.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="387">
+  <input>Mi papá siempre <f id="1">sets the table</f>  , mientras mi mamá prepara la comida.</input>
+  <ref>Mi papá siempre <f id="1">pone la mesa</f>  , mientras mi mamá prepara la comida.</ref>
+</s>
+<s category="comp" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="388">
+  <input>Hay que mantener <f id="1">at all times</f>  la velocidad adecuada a las condiciones de la vía.</input>
+  <ref>Hay que mantener <f id="1">en cada momento<alt>siempre</alt><alt>en todo momento</alt></f>  la velocidad adecuada a las condiciones de la vía.</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="389">
+  <input><f id="1">Daily life</f>  ya no está llena de grandes gestas.</input>
+  <ref><f id="1">La vida cotidiana<alt>La vida diaria</alt></f>  ya no está llena de grandes gestas.</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="390">
+  <input>Los libros de cocina se venden bien, <f id="1">according to</f>  un estudio de una conocida editorial.</input>
+  <ref>Los libros de cocina se venden bien, <f id="1">según</f>  un estudio de una conocida editorial.</ref>
+</s>
+<s category="expr" id="391">
+  <input>Mis vecinos <f id="1">are on holidays</f>  en España.</input>
+  <ref>Mis vecinos <f id="1">están de vacaciones</f>  en España.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="392">
+  <input>Hoy han vuelto a participar <f id="1">thousands of people</f>  en los encierros de Pamplona.</input>
+  <ref>Hoy han vuelto a participar <f id="1">miles de personas</f>  en los encierros de Pamplona.</ref>
+</s>
+<s category="p" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="393">
+  <input>A esa mujer la admiran <f id="1">even</f>  sus enemigos.</input>
+  <ref>A esa mujer la admiran <f id="1">hasta<alt>incluso</alt></f>  sus enemigos.</ref>
+</s>
+<s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="394">
+  <input>No te oigo <f id="1">well</f>  .</input>
+  <ref>No te oigo <f id="1">bien</f>  .</ref>
+</s>
+<s category="p" source="Dr. Guillermo Sanz Gallego, Ghent University" id="395">
+  <input>España fue advertida el viernes <f id="1">by</f>  la agencia de crédito Moody's.</input>
+  <ref>España fue advertida el viernes <f id="1">por</f>  la agencia de crédito Moody's.</ref>
+</s>
+<s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="396">
+  <input>Es mejor que <f id="1">bring it</f>  a la policía, ellos te dirán qué tienes que hacer.</input>
+  <ref>Es mejor que <f id="1">la lleves<alt>lo lleves</alt></f>  a la policía, ellos te dirán qué tienes que hacer.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="397">
+  <input>El éxito muchas veces no se <f id="1">achieve</f>  porque no se tiene una formación adecuada.</input>
+  <ref>El éxito muchas veces no se <f id="1">alcanza<alt>logra</alt></f>  porque no se tiene una formación adecuada.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="398">
+  <input>Lo que sí se conoce es que Mariano Rajoy como <f id="1">opposition leader</f>  y líder del PP gana 30000 euros más que el Presidente del Gobierno.</input>
+  <ref>Lo que sí se conoce es que Mariano Rajoy como <f id="1">líder de la oposición<alt>líder opositor</alt></f>  y líder del PP gana 30000 euros más que el Presidente del Gobierno.</ref>
+</s>
+<s category="det" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="399">
+  <input>Dicen que soy descendiente de uno de <f id="1">the</f>  protagonistas.</input>
+  <ref>Dicen que soy descendiente de uno de <f id="1">los</f>  protagonistas.</ref>
+</s>
+<s category="v" source="Prisma Grammatica Spaans - drs. E. Slager" id="400">
+  <input>La guerra <f id="1">lasted</f>  cien años.</input>
+  <ref>La guerra <f id="1">duró<alt>ha durado</alt></f>  cien años.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="401">
+  <input>La lluvia ácida <f id="1">affects</f>  los suelos, bosques y lagos.</input>
+  <ref>La lluvia ácida <f id="1">afecta a</f>  los suelos, bosques y lagos.</ref>
+</s>
+<s category="w" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="402">
+  <input>Los tranvias arrollan a <f id="1">pedestrians</f>  que osen interceptar su camino.</input>
+  <ref>Los tranvias arrollan a <f id="1">peatones</f>  que osen interceptar su camino.</ref>
+</s>
+<s category="expr" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="403">
+  <input>Pero <f id="1">one thing is clear</f>  , que se puede dejar de ser un heroinómano.</input>
+  <ref>Pero <f id="1">una cosa es clara</f>  , que se puede dejar de ser un heroinómano.</ref>
+</s>
+<s category="adv" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="404">
+  <input>No te prometo <f id="1">anything</f>  .</input>
+  <ref>No te prometo <f id="1">nada</f>  .</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="405">
+  <input>Espero que los frenos del coche <f id="1">work</f>  bien.</input>
+  <ref>Espero que los frenos del coche <f id="1">funcionen</f>  bien.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="406">
+  <input>Es <f id="1">a hypothesis</f>  que todavía está por comprobar.</input>
+  <ref>Es <f id="1">una hipotésis</f>  que todavía está por comprobar.</ref>
+</s>
+<s category="n" source="UniLang Language Community" id="407">
+  <input>¿Qué haces en tu <f id="1">spare time</f>  ?</input>
+  <ref>¿Qué haces en tu <f id="1">tiempo libre</f>  ?</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="408">
+  <input>A las autoridades les resulta difícil <f id="1">to do something</f>  al respecto porque no es realista tener un agente en cada balcón.</input>
+  <ref>A las autoridades les resulta difícil <f id="1">hacer algo</f>  al respecto porque no es realista tener un agente en cada balcón.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="409">
+  <input>Es aquí donde se logra más del 45% de <f id="1">the sales</f>  .</input>
+  <ref>Es aquí donde se logra más del 45% de <f id="1">las ventas</f>  .</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="410">
+  <input>Frente a esta situación, es necesario realizar <f id="1">a great effort</f>  para crear nuevos empleos.</input>
+  <ref>Frente a esta situación, es necesario realizar <f id="1">un gran esfuerzo<alt>un esfuerzo muy grande</alt><alt>un esfuerzo formidable</alt></f>  para crear nuevos empleos.</ref>
+</s>
+<s category="p" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="411">
+  <input>Mañana estos cuadros serán vendidos públicamente <f id="1">by</f>  el museo.</input>
+  <ref>Mañana estos cuadros serán vendidos públicamente <f id="1">por</f>  el museo.</ref>
+</s>
+<s category="p" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="412">
+  <input>Es así como la oferta de Turismo Rural manifiesta, <f id="1">both</f>  en Argentina como en Europa y América, una constante tasa de crecimiento.</input>
+  <ref>Es así como la oferta de Turismo Rural manifiesta, <f id="1">tanto</f>  en Argentina como en Europa y América, una constante tasa de crecimiento.</ref>
+</s>
+<s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="413">
+  <input>Te recomiendo <f id="1">that you go</f>  a la policía.</input>
+  <ref>Te recomiendo <f id="1">que vayas<alt>que vaya usted</alt></f>  a la policía.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="414">
+  <input>Nuestros tíos <f id="1">are very conservative</f>  .</input>
+  <ref>Nuestros tíos <f id="1">son muy conservadores</f>  .</ref>
+</s>
+<s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="415">
+  <input><f id="1">I like</f>  los libros que te hacen ver la realidad desde otro punto de vista.</input>
+  <ref><f id="1">Me gustan<alt>Me encantan</alt></f>  los libros que te hacen ver la realidad desde otro punto de vista.</ref>
+</s>
+<s category="v" source="youtube user Jomir Algamsar" id="416">
+  <input>¡Eso <f id="1">makes no sense</f>  , es un pensamiento sin profundidad y hueco!</input>
+  <ref>¡Eso <f id="1">no tiene sentido<alt>no tiene ningún sentido</alt></f>  , es un pensamiento sin profundidad y hueco!</ref>
+</s>
+<s category="q" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="417">
+  <input>Mauricio teme que <f id="1">hurt him</f>  los otros futbolistas.</input>
+  <ref>Mauricio teme que <f id="1">le hieran<alt>lo lastimen</alt></f>  los otros futbolistas.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="418">
+  <input>Estos dos mundos <f id="1">begin to</f>  acercarse.</input>
+  <ref>Estos dos mundos <f id="1">empiezan a<alt>inician a</alt><alt>comienzan a</alt></f>  acercarse.</ref>
+</s>
+<s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="419">
+  <input>Tiene <f id="1">such a</f>  nivel artístico que mereceria estar expuesto en un museo.</input>
+  <ref>Tiene <f id="1">tal</f>  nivel artístico que mereceria estar expuesto en un museo.</ref>
+</s>
+<s category="n" source="Mario Vargas Llosa. Pantaleón y las visitadoras. Madrid: Santillana Ediciones Generales, 1973 (260)." id="420">
+  <input>El <f id="1">army</f>  me hizo un flaco servicio confiándome este trabajo</input>
+  <ref>El <f id="1">ejército</f>  me hizo un flaco servicio confiándome este trabajo</ref>
+</s>
+<s category="comp" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="421">
+  <input><f id="1">In any case</f>  , son los niños los más afectados.</input>
+  <ref><f id="1">En cualquier caso<alt>De todos modos</alt><alt>De todas formas</alt><alt>De cualquier modo</alt></f>  , son los niños los más afectados.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="422">
+  <input>El ejecutivo <f id="1">hopes to</f>  generar 2500 millones de euros gracias a la reforma del impuesto de sociedades</input>
+  <ref>El ejecutivo <f id="1">espera</f>  generar 2500 millones de euros gracias a la reforma del impuesto de sociedades</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="423">
+  <input><f id="1">Until now</f>  los aprendices de cocinero con ambiciones académicas sólo podían dirigirse a la universidad de ciencias de la gastronomía de Italia.</input>
+  <ref><f id="1">Hasta ahora</f>  los aprendices de cocinero con ambiciones académicas sólo podían dirigirse a la universidad de ciencias de la gastronomía de Italia.</ref>
+</s>
+<s category="a" source="Dr. Guillermo Sanz Gallego, Ghent University" id="424">
+  <input><f id="1">Every</f>  año hay que volver a lamentar la muerte de turistas.</input>
+  <ref><f id="1">Cada</f>  año hay que volver a lamentar la muerte de turistas.</ref>
+</s>
+<s category="inter" source="Prisma Grammatica Spaans - drs. E. Slager" id="425">
+  <input>Les interesa saber <f id="1">how much</f>  van a tener que pagar por el piso.</input>
+  <ref>Les interesa saber <f id="1">cuánto</f>  van a tener que pagar por el piso.</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="426">
+  <input>Es <f id="1">certain that</f>  hay problemas individuales también.</input>
+  <ref>Es <f id="1">cierto que<alt>seguro que</alt><alt>verdad que</alt></f>  hay problemas individuales también.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="427">
+  <input>Desde siempre los pastores pueden <f id="1">make use of</f>  cerca de 125.000 kilómetros de caminos en el interior de España.</input>
+  <ref>Desde siempre los pastores pueden <f id="1">hacer uso de<alt>utilizar</alt></f>  cerca de 125.000 kilómetros de caminos en el interior de España.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="428">
+  <input>Los bancos han vuelto loco a todo el mundo con atractivas promesas sobre <f id="1">the advantages</f>  de una casa en propiedad.</input>
+  <ref>Los bancos han vuelto loco a todo el mundo con atractivas promesas sobre <f id="1">las ventajas<alt>los beneficios</alt></f>  de una casa en propiedad.</ref>
+</s>
+<s category="conj" source="Prisma Grammatica Spaans - drs. E. Slager" id="429">
+  <input>No estoy seguro de <f id="1">whether</f>  es cierto lo que dices.</input>
+  <ref>No estoy seguro de <f id="1">si</f>  es cierto lo que dices.</ref>
+</s>
+<s category="a" source="Dr. Guillermo Sanz Gallego, Ghent University" id="430">
+  <input>Es <f id="1">surprising</f>  que la agencia no espere unos días a ver la solución que sus líderes pueden darle a la crisis.</input>
+  <ref>Es <f id="1">sorprendente</f>  que la agencia no espere unos días a ver la solución que sus líderes pueden darle a la crisis.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="431">
+  <input>El maestro no quiso <f id="1">reveal</f>  nada sobre este simbolismo.</input>
+  <ref>El maestro no quiso <f id="1">desvelar<alt>revelar</alt></f>  nada sobre este simbolismo.</ref>
+</s>
+<s category="n" source="El País - 7-2-2014" id="432">
+  <input>Casi siempre ha habido <f id="1">threats</f>  , protestas y cinismos políticos o sociales.</input>
+  <ref>Casi siempre ha habido <f id="1">amenazas</f>  , protestas y cinismos políticos o sociales.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="433">
+  <input>Surge también con el empleo de <f id="1">fossil fuels</f>  .</input>
+  <ref>Surge también con el empleo de <f id="1">combustibles fósiles</f>  .</ref>
+</s>
+<s category="expr" source="Prisma Grammatica Spaans - drs. E. Slager" id="434">
+  <input>No sé <f id="1">what to do</f>  con este problema.</input>
+  <ref>No sé <f id="1">qué hacer</f>  con este problema.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="435">
+  <input>Hoy el hombre quiere <f id="1">hide</f>  sus actitudes machistas.</input>
+  <ref>Hoy el hombre quiere <f id="1">esconder<alt>esconderse</alt></f>  sus actitudes machistas.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="436">
+  <input>En el mismo documento aparece publicado que Zapatero <f id="1">can't speak</f>  inglés.</input>
+  <ref>En el mismo documento aparece publicado que Zapatero <f id="1">no sabe hablar<alt>no habla</alt><alt>no puede hablar</alt></f>  inglés.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="437">
+  <input><f id="1">At the party</f>  todos bailamos mucho.</input>
+  <ref><f id="1">En la fiesta</f>  todos bailamos mucho.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="438">
+  <input>Por ejemplo, <f id="1">tenderness</f>  tiene hoy un irresistible attractivo para el hombre.</input>
+  <ref>Por ejemplo, <f id="1">la ternura</f>  tiene hoy un irresistible attractivo para el hombre.</ref>
+</s>
+<s category="p" source="Dr. Guillermo Sanz Gallego, Ghent University" id="439">
+  <input>La semana pasada perdió la vida un joven británico de 24 años <f id="1">after</f>  una caída del balcón de la habitación de su hotel.</input>
+  <ref>La semana pasada perdió la vida un joven británico de 24 años <f id="1">tras<alt>después</alt></f>  una caída del balcón de la habitación de su hotel.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="440">
+  <input>De los drogadictos que deciden <f id="1">quit</f>  de la droga son pocos que logran superar el síndrome de adición.</input>
+  <ref>De los drogadictos que deciden <f id="1">salir<alt>quitar</alt><alt>retirarse</alt></f>  de la droga son pocos que logran superar el síndrome de adición.</ref>
+</s>
+<s category="comp" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="441">
+  <input>Queremos <f id="1">greater participation of</f>  las mujeres en la vida política.</input>
+  <ref>Queremos <f id="1">mayor participación de</f>  las mujeres en la vida política.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="442">
+  <input><f id="1">Family reunion</f>  es uno de los objeticos principales de la nueva política.</input>
+  <ref><f id="1">La reunión familiar</f>  es uno de los objeticos principales de la nueva política.</ref>
+</s>
+<s category="adv" source="youtube.com/sanxpineda" id="443">
+  <input>Si la vida fuera <f id="1">as easy as</f>  una telenovela, entonces las soluciones caerían del cielo.</input>
+  <ref>Si la vida fuera <f id="1">tan fácil como</f>  una telenovela, entonces las soluciones caerían del cielo.</ref>
+</s>
+<s category="n" source="Jaime Bayly - No se lo digas a nadie" id="444">
+  <input>Luego cogió <f id="1">a knife</f>  y partió la torta.</input>
+  <ref>Luego cogió <f id="1">un cuchillo</f>  y partió la torta.</ref>
+</s>
+<s source="Dr. Guillermo Sanz Gallego, Ghent University" id="445">
+  <input>Como resultado de esta caída se registran menos <f id="1">births</f>  , como revela un estudio del INE.</input>
+  <ref>Como resultado de esta caída se registran menos <f id="1">nacimientos</f>  , como revela un estudio del INE.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="446">
+  <input>El tráfico en el centro de Madrid <f id="1">has worsened</f>  a pesar del aumento de multas.</input>
+  <ref>El tráfico en el centro de Madrid <f id="1">ha empeorado<alt>ha agravado</alt></f>  a pesar del aumento de multas.</ref>
+</s>
+<s source="Prisma Grammatica Spaans - drs. E. Slager" id="447">
+  <input>Fue el día <f id="1">in which</f>  estallaba la guerra.</input>
+  <ref>Fue el día <f id="1">en que<alt>en el que</alt></f>  estallaba la guerra.</ref>
+</s>
+<s category="adv" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="448">
+  <input>Estoy de acuerdo <f id="1">with the latter</f>  .</input>
+  <ref>Estoy de acuerdo <f id="1">con esto último<alt>con el último</alt><alt>con la última</alt></f>  .</ref>
+</s>
+<s category="w" source="Prisma Grammatica Spaans - drs. E. Slager" id="449">
+  <input><f id="1">Despite everything</f>  sigue gustándome.</input>
+  <ref><f id="1">A pesar de todo</f>  sigue gustándome.</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="450">
+  <input>Generalmente requiere la participación de dos <f id="1">players</f>  o equipos que a su vez golpean por turnos una pelota contra un muro.</input>
+  <ref>Generalmente requiere la participación de dos <f id="1">jugadores</f>  o equipos que a su vez golpean por turnos una pelota contra un muro.</ref>
+</s>
+<s category="pp" source="La Señal - Ángel Gutiérrez y David Zurdo" id="451">
+  <input>Las palabras de Gloria resonaban <f id="1">in his mind</f>  .</input>
+  <ref>Las palabras de Gloria resonaban <f id="1">en su mente</f>  .</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="452">
+  <input>Goya <f id="1">kept</f>  el cuadro escondido por diez años.</input>
+  <ref>Goya <f id="1">mantuvo</f>  el cuadro escondido por diez años.</ref>
+</s>
+<s category="n" source="Juan José Millás. Tonto, muerto, bastardo e invisible. Madrid: Alfaguara, 1995 (149)." id="453">
+  <input>Después, dejándome guiar por mi <f id="1">sense of direction</f>  , comencé a alejarme de la zona turística donde estaban enclavados los hoteles.</input>
+  <ref>Después, dejándome guiar por mi <f id="1">sentido de la orientación</f>  , comencé a alejarme de la zona turística donde estaban enclavados los hoteles.</ref>
+</s>
+<s category="a" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="454">
+  <input>He tomado <f id="1">all kinds of</f>  drogas.</input>
+  <ref>He tomado <f id="1">todo tipo de<alt>toda clase de</alt></f>  drogas.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="455">
+  <input>Suponen que el precio de la gasolina <f id="1">will increase</f>  otra vez.</input>
+  <ref>Suponen que el precio de la gasolina <f id="1">va a subir<alt>subirá</alt><alt>aumentará</alt><alt>se incrementará</alt></f>  otra vez.</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="456">
+  <input>Sigo haciendo <f id="1">the same</f>  , pero ahora me pagan por ello.</input>
+  <ref>Sigo haciendo <f id="1">lo mismo</f>  , pero ahora me pagan por ello.</ref>
+</s>
+<s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="457">
+  <input>La casa de Avila, <f id="1">which</f>  compraron hace menos de un año, la han vendido.</input>
+  <ref>La casa de Avila, <f id="1">que</f>  compraron hace menos de un año, la han vendido.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="458">
+  <input>Mis abuelos siempre <f id="1">prayed</f>  antes de comer.</input>
+  <ref>Mis abuelos siempre <f id="1">rezaban</f>  antes de comer.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="459">
+  <input>Una excepción fue <f id="1">the case against</f>  Jesús Guerra.</input>
+  <ref>Una excepción fue <f id="1">el caso contra<alt>el proceso contra</alt></f>  Jesús Guerra.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="460">
+  <input>La medida es el resultado de <f id="1">a truce</f>  anunciada meses antes por la banda terrorista.</input>
+  <ref>La medida es el resultado de <f id="1">una tregua</f>  anunciada meses antes por la banda terrorista.</ref>
+</s>
+<s category="a" source="Prisma Grammatica Spaans - drs. E. Slager" id="461">
+  <input>Vinieron muchos compañeros <f id="1">of mine</f>  .</input>
+  <ref>Vinieron muchos compañeros <f id="1">míos</f>  .</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="462">
+  <input>Con este juego creció <f id="1">the team</f>  de Pep Guardiola hasta convertirse en el mejor del mundo</input>
+  <ref>Con este juego creció <f id="1">el equipo</f>  de Pep Guardiola hasta convertirse en el mejor del mundo</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="463">
+  <input>El Consejo de Ministros examinó ayer el plan de acción para <f id="1">equal opportunities</f>  de la mujer.</input>
+  <ref>El Consejo de Ministros examinó ayer el plan de acción para <f id="1">la igualdad de oportunidades</f>  de la mujer.</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="464">
+  <input>Hay wifi en los trenes de larga y media distancia, <f id="1">as well as</f>  en los trenes de cercanías.</input>
+  <ref>Hay wifi en los trenes de larga y media distancia, <f id="1">así como</f>  en los trenes de cercanías.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="465">
+  <input>Las <f id="1">expectations</f>  de los que están en favor muestra de un optimismo exagerado.</input>
+  <ref>Las <f id="1">expectativas</f>  de los que están en favor muestra de un optimismo exagerado.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="466">
+  <input>No podemos <f id="1">miss the opportunity</f>  histórica de conseguir una solución democrática.</input>
+  <ref>No podemos <f id="1">dejar escapar la oportunidad<alt>perder la oportunidad</alt><alt>pasar por alto la oportunidad</alt></f>  histórica de conseguir una solución democrática.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="467">
+  <input>Con esta adquisición Telefónica espera <f id="1">to attain</f>  un mínimo de 2.700 millones de euros en efectos de sinergia.</input>
+  <ref>Con esta adquisición Telefónica espera <f id="1">conseguir<alt>alcanzar</alt><alt>lograr</alt></f>  un mínimo de 2.700 millones de euros en efectos de sinergia.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="468">
+  <input>Es <f id="1">to prevent</f>  que la plaza vuelva a ser ocupada por los indignados del movimiento 15-M.</input>
+  <ref>Es <f id="1">para evitar<alt>para impedir</alt><alt>para prevenir</alt></f>  que la plaza vuelva a ser ocupada por los indignados del movimiento 15-M.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="469">
+  <input>¿Cómo es que todos tus hermanos tienen <f id="1">black hair</f>  y tú no?</input>
+  <ref>¿Cómo es que todos tus hermanos tienen <f id="1">el pelo negro<alt>el cabello negro</alt></f>  y tú no?</ref>
+</s>
+<s category="w" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="470">
+  <input>El los exámenes Maribel siempre <f id="1">becomes</f>  muy nerviosa.</input>
+  <ref>El los exámenes Maribel siempre <f id="1">se pone<alt>se vuelve</alt></f>  muy nerviosa.</ref>
+</s>
+<s category="n" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="471">
+  <input>Es un perro que tiene <f id="1">a white spot</f>  en la frente.</input>
+  <ref>Es un perro que tiene <f id="1">una mancha blanca</f>  en la frente.</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="472">
+  <input>El juego espontáneo <f id="1">is full of</f>  significado.</input>
+  <ref>El juego espontáneo <f id="1">está lleno de</f>  significado.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="473">
+  <input>Siguiendo <f id="1">the orders</f>  del Gobierno, la policía madrileña lleva tres días cerrando el paso a la Puerta del Sol.</input>
+  <ref>Siguiendo <f id="1">las órdenes</f>  del Gobierno, la policía madrileña lleva tres días cerrando el paso a la Puerta del Sol.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="474">
+  <input>En 1990 sus padres <f id="1">died</f>  en un accidente aéreo.</input>
+  <ref>En 1990 sus padres <f id="1">fallecieron<alt>murieron</alt></f>  en un accidente aéreo.</ref>
+</s>
+<s category="comp" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="475">
+  <input>Me ha dicho que la cena es <f id="1">at nine o'clock</f>  .</input>
+  <ref>Me ha dicho que la cena es <f id="1">a las nueve</f>  .</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="476">
+  <input>Los economistas prevén <f id="1">however</f>  que ahora sea menor.</input>
+  <ref>Los economistas prevén <f id="1">sin embargo<alt>no obstante</alt></f>  que ahora sea menor.</ref>
+</s>
+<s category="expr" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="477">
+  <input>Fue un público que deseaba ir <f id="1">as far as possible</f>  en el camino iniciado.</input>
+  <ref>Fue un público que deseaba ir <f id="1">lo más lejos posible</f>  en el camino iniciado.</ref>
+</s>
+<s category="adv" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="478">
+  <input>El insomnio afecta <f id="1">at least</f>  a un tercio de la población adulta en algún momento de su vida.</input>
+  <ref>El insomnio afecta <f id="1">al menos</f>  a un tercio de la población adulta en algún momento de su vida.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="479">
+  <input>Por fin Juanita decide <f id="1">to marry</f>  .</input>
+  <ref>Por fin Juanita decide <f id="1">casarse</f>  .</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="480">
+  <input>En España <f id="1">there are</f>  dos tipos de inmigración.</input>
+  <ref>En España <f id="1">hay<alt>existen</alt></f>  dos tipos de inmigración.</ref>
+</s>
+<s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="481">
+  <input>Los túneles <f id="1">flood</f>  si llueve de forma persistente.</input>
+  <ref>Los túneles <f id="1">se inundan</f>  si llueve de forma persistente.</ref>
+</s>
+<s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="482">
+  <input>Este festejo, de larga tradición en Madrid, <f id="1">has its origin</f>  en los tiempos de Carlos III.</input>
+  <ref>Este festejo, de larga tradición en Madrid, <f id="1">tiene su origen</f>  en los tiempos de Carlos III.</ref>
+</s>
+<s category="expr" source="Prisma Grammatica Spaans - drs. E. Slager" id="483">
+  <input>Este problema <f id="1">has nothing to do with</f>  el clima político actual.</input>
+  <ref>Este problema <f id="1">no tiene nada que ver con</f>  el clima político actual.</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="484">
+  <input>Ya no <f id="1">watch TV</f>  todos los días.</input>
+  <ref>Ya no <f id="1">vemos la tele<alt>vemos la televisión</alt><alt>vemos tele</alt><alt>ven la televisión</alt><alt>ven tele</alt><alt>ven la tele</alt></f>  todos los días.</ref>
+</s>
+<s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="485">
+  <input>La policía española ha podido <f id="1">arrest</f>  a una serie de dirigentes de la banda terrorista.</input>
+  <ref>La policía española ha podido <f id="1">arrestar<alt>capturar</alt><alt>encarcelar</alt><alt>detener</alt></f>  a una serie de dirigentes de la banda terrorista.</ref>
+</s>
+<s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="486">
+  <input>Los <f id="1">team members</f>  se felicitan después del partido.</input>
+  <ref>Los <f id="1">miembros del equipo</f>  se felicitan después del partido.</ref>
+</s>
+<s category="v" source="Prisma Grammatica Spaans - drs. E. Slager" id="487">
+  <input>Meses <f id="1">after finishing</f>  su novena sinfonía, el compositor murió.</input>
+  <ref>Meses <f id="1">después de finalizar<alt>después de terminar</alt></f>  su novena sinfonía, el compositor murió.</ref>
+</s>
+<s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="488">
+  <input>El problema es una cuestión de <f id="1">public health</f>  .</input>
+  <ref>El problema es una cuestión de <f id="1">salud pública</f>  .</ref>
+</s>
+<s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="489">
+  <input>La empresa había informado <f id="1">beforehand</f>  a los medios de comunicación.</input>
+  <ref>La empresa había informado <f id="1">de antemano<alt>previamente</alt></f>  a los medios de comunicación.</ref>
+</s>
+<s category="v" source="Prisma Grammatica Spaans - drs. E. Slager" id="490">
+  <input><f id="1">There were</f>  mucha más gente que el otro día.</input>
+  <ref><f id="1">Había</f>  mucha más gente que el otro día.</ref>
+</s>
+<s category="adv" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="491">
+  <input>Te lo repito <f id="1">more than once</f>  .</input>
+  <ref>Te lo repito <f id="1">más de una vez<alt>una vez más</alt></f>  .</ref>
+</s>
+<s category="v" source="Gramática - Lengua Española - Larousse" id="492">
+  <input>Lo castigaron por haber <f id="1">lied</f>  .</input>
+  <ref>Lo castigaron por haber <f id="1">mentido</f>  .</ref>
+</s>
+<s category="v" source="María Dueñas. El tiempo entre costuras. Madrid: Planeta, 2009 (600)." id="493">
+  <input>En este momento lo único que pueden estar gestionando es algo <f id="1">related to</f>  el suministro de wolframio</input>
+  <ref>En este momento lo único que pueden estar gestionando es algo <f id="1">relacionado con</f>  el suministro de wolframio</ref>
+</s>
+<s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="494">
+  <input>Antes de comprar esta cama, <f id="1">we slept</f>  en una de un metro veinte de ancho.</input>
+  <ref>Antes de comprar esta cama, <f id="1">dormimos</f>  en una de un metro veinte de ancho.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="495">
+  <input>Durante el verano hay que lamentar demasiadas <f id="1">fatalities</f>  en las carreteras españolas.</input>
+  <ref>Durante el verano hay que lamentar demasiadas <f id="1">víctimas mortales<alt>muertes</alt><alt>fatalidades</alt><alt>fallecimientos</alt></f>  en las carreteras españolas.</ref>
+</s>
+<s category="n" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="496">
+  <input>Creo que es importante cuidarse y <f id="1">the only way</f>  es hacerlo todos los días.</input>
+  <ref>Creo que es importante cuidarse y <f id="1">la única manera<alt>la única forma</alt></f>  es hacerlo todos los días.</ref>
+</s>
+<s category="a" source="Dr. Guillermo Sanz Gallego, Ghent University" id="497">
+  <input>La siesta <f id="1">daily</f>  hacía que los músculos se relajaran y que el corazón se fortaleciera.</input>
+  <ref>La siesta <f id="1">diaria</f>  hacía que los músculos se relajaran y que el corazón se fortaleciera.</ref>
+</s>
+<s category="v" id="498">
+  <input><f id="1">He left</f>  a la calle.</input>
+  <ref><f id="1">Salió<alt>Se fue</alt><alt>Ha salido</alt></f>  a la calle.</ref>
+</s>
+<s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="499">
+  <input>Se han definido cuatro <f id="1">goals</f>  para el programa.</input>
+  <ref>Se han definido cuatro <f id="1">objetivos</f>  para el programa.</ref>
+</s>
+<s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="500">
+  <input><f id="1">The meaning of</f>  las figuras peculiares del panfleto antibélico de Picasso sigue siendo enigmático</input>
+  <ref><f id="1">El significado de</f>  las figuras peculiares del panfleto antibélico de Picasso sigue siendo enigmático</ref>
+</s>
+</sentencepairs>
