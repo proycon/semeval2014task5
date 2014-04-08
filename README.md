@@ -193,7 +193,7 @@ as the evaluation is contained in this repository. Participants output and the
 evaluation output is found in the ``evaluation/`` directory.
 
  * Evaluation results (static):
-   [evaluation/semeval_results.html](http://lst.science.ru.nl/~proycon/semeval_results.html)
+   [evaluation/semeval_results.html](http://htmlpreview.github.io/?https://github.com/proycon/semeval2014task5/blob/master/evaluation/semeval-results.html)
  * Evaluation results (IPython 3 Notebook): [evaluation/semeval_results.ipynb](http://raw.github.com/proycon/semeval2014task5/raw/master/evaluation/semeval_results.ipynb)
 
 
