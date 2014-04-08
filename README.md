@@ -1,7 +1,7 @@
 SemEval 2014 - Task 5 - L2 Writing Assistant
 ============================================
     
-*Maarten van Gompel, Iris Hendrickx, Antal van den Bosch, Radboud University Nijmegen*
+*Maarten van Gompel, Iris Hendrickx, Antal van den Bosch, Radboud University Nijmegen*; 
 *Els Lefever, Véronique Hoste, Ghent University*
 
 http://alt.qcri.org/semeval2014/task5/
@@ -192,7 +192,8 @@ translation assistance system. The system output of all participants, as well
 as the evaluation is contained in this repository. Participants output and the
 evaluation output is found in the ``evaluation/`` directory.
 
- * Evaluation results (static): [evaluation/semeval_results.html](http://raw.github.com/proycon/semeval2014task5/raw/master/evaluation/semeval_results.html)
+ * Evaluation results (static):
+   [evaluation/semeval_results.html](http://lst.science.ru.nl/~mvgompel/semeval_results.html)
  * Evaluation results (IPython 3 Notebook): [evaluation/semeval_results.ipynb](http://raw.github.com/proycon/semeval2014task5/raw/master/evaluation/semeval_results.ipynb)
 
 
