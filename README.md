@@ -1,8 +1,10 @@
 SemEval 2014 - Task 5 - L2 Writing Assistant
 ============================================
     
+*Maarten van Gompel, Iris Hendrickx, Antal van den Bosch, Radboud University Nijmegen*
+*Els Lefever, Véronique Hoste, Ghent University*
+
 http://alt.qcri.org/semeval2014/task5/
-Contact: Maarten van Gompel <proycon@anaproy.nl>
 
 
 Introduction
