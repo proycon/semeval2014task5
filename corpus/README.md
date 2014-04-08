@@ -1,7 +1,7 @@
 SEMEVAL 2014 TASK 5 - LEARNER CORPUS - GOLD STANDARD
 ========================================================
 
-*Maarten van Gompel, Iris Hendrickx, Antal van den Bosch, Radboud University Nijmegen*
+*Maarten van Gompel, Iris Hendrickx, Antal van den Bosch, Radboud University Nijmegen*;
 *Els Lefever, Véronique Hoste, Ghent University*
 
 This corpus is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International**: 
