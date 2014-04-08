@@ -68,14 +68,14 @@ accomplish this.
 
 The following example sentence pairs illustrate the idea:
 
-    * Input (L1=English,L2=Spanish): “Hoy vamos a the **swimming pool**”.
-        * Desired output: “Hoy vamos a **la piscina**”
-    * Input (L1=English, L2=German): “Das wetter ist wirklich **abominable**”.
-        * Desired output: “Das wetter ist wirklich **ekelhaft**”
-    * Input (L1=French,L2=English): “I return home **parce'qu je suis fatigué**”
-        * Desired output: “I return home **because I am tired**”.
-    * Input (L1=Dutch, L2=English): “Workers are facing a massive **aanval op** their employment and social right.”
-        * Desired output: “Workers are facing a massive **attack on** their employment and social rights”
+ * Input (L1=English,L2=Spanish): “Hoy vamos a the **swimming pool**”.
+ * Desired output: “Hoy vamos a **la piscina**”
+ * Input (L1=English, L2=German): “Das wetter ist wirklich **abominable**”.
+ * Desired output: “Das wetter ist wirklich **ekelhaft**”
+ * Input (L1=French,L2=English): “I return home **parce'qu je suis fatigué**”
+ * Desired output: “I return home **because I am tired**”.
+ * Input (L1=Dutch, L2=English): “Workers are facing a massive **aanval op** their employment and social right.”
+ * Desired output: “Workers are facing a massive **attack on** their employment and social rights”
 
 The L2 writing assistant task can be related to two tasks that were offered in
 previous years of SemEval: Lexical Substitution (Mihalcea et al, 2010) and
@@ -120,8 +120,8 @@ therefore allow two different types of runs, following the example of the
 Cross-Lingual Lexical Substitution and Cross-Lingual Word Sense Disambiguation
 tasks:
 
-     * **Best** - The system must output its best guess;
-     * **Out of Five** - The system may output up to five alternatives.
+ * **Best** - The system must output its best guess;
+ * **Out of Five** - The system may output up to five alternatives.
 
 Up to three runs may be submitted per language-pair and evaluation type
 (totalling 24 runs in total if you participate for all language pairs and all
@@ -136,10 +136,10 @@ Data and Tools
 
  We provide material for the following L1 and L2 pairs:
 
-    English-German
-    English-Spanish
-    French-English
-    Dutch-English
+ * English-German
+ * English-Spanish
+ * French-English
+ * Dutch-English
 
 Both trial and test data will be offered in a clear and simple XML format. The
 test data will be delivered in tokenised format. This tokenisation is done
@@ -218,12 +218,12 @@ Installation
 
 System-wide installation:
 
- $ sudo python ./setup.py install
+    $ sudo python ./setup.py install
 
 Python usually defaults to Python 2, but you may also use Python 3, this is
 required if you want to use the IPython Notebook with the results:
 
- $ sudo python3 ./setup.py install
+    $ sudo python3 ./setup.py install
 
 If you obtain an import error then make sure the package ``python-setuptools`` is
 installed in your distribution. You also need the package ``python-lxml``. 
@@ -247,7 +247,7 @@ Evaluation
 
 The evaluation script should be run as follows:
 
- $ semeval2014task5-evaluate --ref trialdata.xml --out systemout.xml
+    $ semeval2014task5-evaluate --ref trialdata.xml --out systemout.xml
 
 If you want additional Machine Translation evaluation metrics (BLEU, METEOR,
 NIST,TER, WER, PER), you need to download the MT Evaluation Scripts from 
@@ -265,7 +265,7 @@ The semeval2014task5.format module enables you to easily read and write the XML
 format for this task.  Import the format library in your Python source as
 follows:
 
- import libsemeval2014task5 format as format
+    import libsemeval2014task5 format as format
 
 An example system that shows the functionality of this library has been
 implemented in example.py, which has been heavily commented. Please consult
