@@ -2,14 +2,20 @@ SEMEVAL 2014 TASK 5 - LEARNER CORPUS - GOLD STANDARD
 ========================================================
 
 *Maarten van Gompel, Iris Hendrickx, Antal van den Bosch, Radboud University Nijmegen*
-*Els Lefever, Veronique Host, Ghent University*
+*Els Lefever, Véronique Hoste, Ghent University*
 
 This corpus is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International**: 
 http://creativecommons.org/licenses/by-nc-sa/4.0/  and has been compiled from a variety of sources for academic purposes.
 
-We acknowledge and thank all of the following sources, which were used in the compilation of this data. All individual sentences in the data are explicitly marked with their source, in quite a few cases text has been altered or translated and may not match the original exactly. 
+We acknowledge and thank all of the following sources, which were used in the
+compilation of this data. All individual sentences in the data are explicitly
+marked with their source, in quite a few cases text has been altered or
+translated and may not match the original exactly. 
 
-**Disclaimer:** We have kept within the bounds of citation law or fair-use and no significant part of any of the sources can be reproduced from this corpus, not can this corpus ever form any kind of substitute for the original source and the application for which the respective authors intended it.
+**Disclaimer:** We have kept within the bounds of citation law or fair-use. 
+No significant part of any of the sources can be reproduced from this corpus,
+nor can this corpus ever form any kind of substitute for the original source
+and the application for which the respective authors intended it.
 
 
 **Spanish:**
@@ -98,5 +104,8 @@ We acknowledge and thank all of the following sources, which were used in the co
 Last, but certainly not least, we explicitly want to thanks the following people for helping us with corrections:
 
     * Andreu van Hooft, Radboud University Nijmegen
-    * Sara, Ghent University 
+    * Sarah Schulz, Ghent University 
 
+and for assistance compiling Dutch-English data:
+
+    * Nils Smeuninx
