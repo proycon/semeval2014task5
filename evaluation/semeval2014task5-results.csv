@@ -67,6 +67,7 @@ nl-en	best	IUCL-run1	0.544	0.679	1.0
 nl-en	best	IUCL-run2	0.544	0.679	1.0
 nl-en	best	CNRC-run1	0.45	0.61	1.0
 nl-en	best	CNRC-run2	0.444	0.609	1.0
+nl-en	best	colibrita-ep7os12-l1r1	0.269	0.338	0.6120857699805068
 nl-en	best	Sensible-wtmxlingyu	0.115	0.152	0.33528265107212474
 nl-en	best	Sensible-wtm	0.092	0.099	0.21442495126705652
 nl-en	best	Sensible-wtmxling	0.088	0.095	0.21442495126705652
@@ -77,6 +78,7 @@ nl-en	oof	IUCL-run1	0.634	0.753	1.0
 nl-en	oof	IUCL-run2	0.634	0.753	1.0
 nl-en	oof	CNRC-run1	0.606	0.723	1.0
 nl-en	oof	CNRC-run2	0.602	0.721	1.0
+nl-en	oof	colibrita-ep7os12-l1r1	0.32	0.393	0.6120857699805068
 nl-en	oof	Sensible-wtmxlingyu	0.123	0.171	0.33528265107212474
 nl-en	oof	Sensible-wtm	0.099	0.115	0.21442495126705652
 nl-en	oof	Sensible-wtmxling	0.096	0.112	0.21442495126705652
