@@ -1,0 +1,2002 @@
+<sentencepairs L1="en" L2="es">
+  <s id="1">
+    <input>La pelota vasca es <f id="1">a sport</f>  tradicional vasco .</input>
+    <output>La pelota vasca es <f id="1">un deporte<alt>una deporte</alt><alt>un el deporte</alt><alt>una el deporte</alt><alt>el deporte</alt></f>  tradicional vasco .</output>
+  </s>
+  <s id="2">
+    <input>En ocasiones puede <f id="1">give the impression</f>  que el proceso no es tan rápido como se quisiera .</input>
+    <output>En ocasiones puede <f id="1">dar la impresión de<alt>dar la impresión</alt><alt>causar la impresión de</alt><alt>dan la impresión de</alt><alt>dar la sensación de</alt></f>  que el proceso no es tan rápido como se quisiera .</output>
+  </s>
+  <s id="3">
+    <input>A los niños les falta un espacio para hacer <f id="1">their homework</f>  .</input>
+    <output>A los niños les falta un espacio para hacer <f id="1">sus deberes<alt>los deberes</alt><alt>sus deberes escolares</alt><alt>por fin sus deberes</alt><alt>sus tareas</alt></f>  .</output>
+  </s>
+  <s id="4">
+    <input>Se han observado <f id="1">occasionally</f>  sequedad de boca y visión borrosa .</input>
+    <output>Se han observado <f id="1">en ocasiones<alt>ocasionalmente</alt><alt>a veces</alt><alt>veces</alt><alt>en ocasiones ,</alt></f>  sequedad de boca y visión borrosa .</output>
+  </s>
+  <s id="5">
+    <input>No fue nada fácil , <f id="1">although</f>  al final conseguí .</input>
+    <output>No fue nada fácil , <f id="1">aunque<alt>aunque ,</alt><alt>pero</alt><alt>si bien</alt><alt>pese</alt></f>  al final conseguí .</output>
+  </s>
+  <s id="6">
+    <input>Julito , <f id="1">her boyfriend</f>  , trabajaba en una tienda .</input>
+    <output>Julito , <f id="1">su novio<alt>de su novio</alt><alt>a su novio</alt><alt>que su novio</alt><alt>por su novio</alt></f>  , trabajaba en una tienda .</output>
+  </s>
+  <s id="7">
+    <input>Cerca del Auditorio Nacional en Madrid es un sitio excelente para degustar mil formas de cocinar <f id="1">cod</f>  .</input>
+    <output>Cerca del Auditorio Nacional en Madrid es un sitio excelente para degustar mil formas de cocinar <f id="1">bacalao<alt>el bacalao</alt><alt>COD</alt><alt>de bacalao</alt><alt>del bacalao</alt></f>  .</output>
+  </s>
+  <s id="8">
+    <input>¡ No deje <f id="1">the towel</f>  en la piscina !</input>
+    <output>¡ No deje <f id="1">la toalla<alt>de la toalla</alt><alt>a la toalla</alt><alt>el toalla</alt><alt>en la toalla</alt></f>  en la piscina !</output>
+  </s>
+  <s id="9">
+    <input>Es una medida que nos vuelve a llevar a <f id="1">the Middle Ages</f>  .</input>
+    <output>Es una medida que nos vuelve a llevar a <f id="1">la edad media<alt>de la edad media</alt><alt>los tiempos de la edad media</alt><alt>que la edad media</alt><alt>a la edad media</alt></f>  .</output>
+  </s>
+  <s id="10">
+    <input>Yo <f id="1">am against</f>  plantear este objetivo en los términos de una batalla contra otras formas de ocio .</input>
+    <output>Yo <f id="1">estoy en contra de<alt>estoy en contra</alt><alt>estoy en contra de los</alt><alt>estoy en contra de las</alt><alt>estoy en contra del</alt></f>  plantear este objetivo en los términos de una batalla contra otras formas de ocio .</output>
+  </s>
+  <s id="11">
+    <input>En este momento nieva <f id="1">in the north</f>  de Holanda .</input>
+    <output>En este momento nieva <f id="1">en el norte<alt>, en el norte</alt><alt>en los del norte</alt><alt>en el norte de</alt><alt>en el norte del</alt></f>  de Holanda .</output>
+  </s>
+  <s id="12">
+    <input>A mí me parece que esta tarde no <f id="1">going to rain</f>  , pero quiza mañana sí .</input>
+    <output>A mí me parece que esta tarde no <f id="1">va a la lluvia<alt>va a lluvia</alt><alt>van a la lluvia</alt><alt>vamos a la lluvia</alt><alt>van a lluvia</alt></f>  , pero quiza mañana sí .</output>
+  </s>
+  <s id="13">
+    <input>Esta orquesta sinfónica es dirigida por <f id="1">one of the most famous</f>  directores del mundo .</input>
+    <output>Esta orquesta sinfónica es dirigida por <f id="1">uno de los más famoso<alt>uno de los más famosos</alt><alt>una de las más famoso</alt><alt>uno de los más famosa</alt><alt>una de las más famosa</alt></f>  directores del mundo .</output>
+  </s>
+  <s id="14">
+    <input><f id="1">Nowadays</f>  , la concentración de ácidos en la atmósfera es un problema .</input>
+    <output><f id="1">Hoy en día<alt>En la actualidad</alt><alt>Actualmente</alt><alt>Hoy</alt><alt>Hoy día</alt></f>  , la concentración de ácidos en la atmósfera es un problema .</output>
+  </s>
+  <s id="15">
+    <input>El embajador <f id="1">signed</f>  hoy el acuerdo .</input>
+    <output>El embajador <f id="1">firmado<alt>firmada</alt><alt>firmó</alt><alt>firmaron</alt><alt>firmados</alt></f>  hoy el acuerdo .</output>
+  </s>
+  <s id="16">
+    <input>Es una pequeña victoria para el gobierno español que <f id="1">has begun to</f>  luchar contra la enorme tasa de desempleo .</input>
+    <output>Es una pequeña victoria para el gobierno español que <f id="1">ha comenzado a<alt>ha empezado a</alt><alt>ha comenzado para</alt><alt>ha empezado para</alt><alt>ha iniciado para</alt></f>  luchar contra la enorme tasa de desempleo .</output>
+  </s>
+  <s id="17">
+    <input>En muchas de tus <f id="1">previous</f>  películas vuelve a acentuarse el papel de la transexualidad y la inseguridad sexual .</input>
+    <output>En muchas de tus <f id="1">anterior<alt>anteriores</alt><alt>los anteriores</alt><alt>las anteriores</alt><alt>anterior de</alt></f>  películas vuelve a acentuarse el papel de la transexualidad y la inseguridad sexual .</output>
+  </s>
+  <s id="18">
+    <input>Trabajaba en una tienda de mobiliario de cocina que <f id="1">had inherited from</f>  sus padres</input>
+    <output>Trabajaba en una tienda de mobiliario de cocina que <f id="1">había heredado de<alt>ha heredado de</alt><alt>habían heredado de</alt><alt>había heredado desde</alt><alt>había heredado del</alt></f>  sus padres</output>
+  </s>
+  <s id="19">
+    <input>El Gobierno defiende que <f id="1">to spy on terrorists</f>  es legal .</input>
+    <output>El Gobierno defiende que <f id="1">para espiar a los terroristas<alt>espíen a los terroristas</alt><alt>espíen a terroristas</alt><alt>para espiar a terroristas</alt><alt>a espiar a los terroristas</alt></f>  es legal .</output>
+  </s>
+  <s id="20">
+    <input>Parece que hay algunos problemas con <f id="1">his</f>  pasaporte .</input>
+    <output>Parece que hay algunos problemas con <f id="1">su<alt>sus</alt><alt>de su</alt><alt>el</alt><alt>a su</alt></f>  pasaporte .</output>
+  </s>
+  <s id="21">
+    <input><f id="1">She</f>  tiene la llave .</input>
+    <output><f id="1">Ella<alt>Que ella</alt><alt>Que</alt><alt>Se</alt><alt>Ha</alt></f>  tiene la llave .</output>
+  </s>
+  <s id="22">
+    <input>Nos comimos dos pollos <f id="1">entire</f>  .</input>
+    <output>Nos comimos dos pollos <f id="1">toda<alt>toda la</alt><alt>todo</alt><alt>todo el</alt><alt>conjunto</alt></f>  .</output>
+  </s>
+  <s id="23">
+    <input>Mi jefe <f id="1">needs</f>  una moto que consuma menos gasolina .</input>
+    <output>Mi jefe <f id="1">necesita<alt>tiene</alt><alt>necesidades</alt><alt>necesita de</alt><alt>hay</alt></f>  una moto que consuma menos gasolina .</output>
+  </s>
+  <s id="24">
+    <input>La educación sexual es un aspecto <f id="1">of great importance</f>  en nuestra sociedad moderna .</input>
+    <output>La educación sexual es un aspecto <f id="1">de gran importancia<alt>de gran importancia ,</alt><alt>de una gran importancia</alt><alt>de suma importancia</alt><alt>de gran importancia tanto</alt></f>  en nuestra sociedad moderna .</output>
+  </s>
+  <s id="25">
+    <input><f id="1">By means of</f>  juegos de ficción el niño asimila poco a poco ese mundo externo .</input>
+    <output><f id="1">Por medio de<alt>A través de</alt><alt>Por medios de</alt><alt>Mediante</alt><alt>Mediante de</alt></f>  juegos de ficción el niño asimila poco a poco ese mundo externo .</output>
+  </s>
+  <s id="26">
+    <input>Al mismo tiempo el obispo pide a sus feligreses que recen para que los líderes de ETA opten por la salida pacífica y <f id="1">distance themselves from</f>  la violencia y el terror .</input>
+    <output>Al mismo tiempo el obispo pide a sus feligreses que recen para que los líderes de ETA opten por la salida pacífica y <f id="1">distanciarse de<alt>se distancien de</alt><alt>se distancian de</alt><alt>se distancia de</alt><alt>distanciarse</alt></f>  la violencia y el terror .</output>
+  </s>
+  <s id="27">
+    <input>En el periódico aparece <f id="1">an article</f>  sobre la crisis</input>
+    <output>En el periódico aparece <f id="1">un artículo<alt>en un artículo</alt><alt>de un artículo</alt><alt>un artículo que</alt><alt>una el artículo</alt></f>  sobre la crisis</output>
+  </s>
+  <s id="28">
+    <input>Le aconsejo este vino <f id="1">red</f>  de Argentina .</input>
+    <output>Le aconsejo este vino <f id="1">tinto<alt>rojo</alt><alt>trámites</alt><alt>los trámites</alt><alt>Cruz</alt></f>  de Argentina .</output>
+  </s>
+  <s id="29">
+    <input>Pero aún quedan muchos reductos en los que el macho hispánico <f id="1">exercises</f>  su poder .</input>
+    <output>Pero aún quedan muchos reductos en los que el macho hispánico <f id="1">ejerce<alt>ejercicios</alt><alt>ejercicios de</alt><alt>ejerza</alt><alt>ejercite</alt></f>  su poder .</output>
+  </s>
+  <s id="30">
+    <input>Muchas personas tratan el problema de las drogas <f id="1">from the point of view</f>  del gobierno .</input>
+    <output>Muchas personas tratan el problema de las drogas <f id="1">desde el punto de vista<alt>, desde el punto de vista</alt><alt>desde un punto de vista</alt><alt>y desde el punto de vista</alt><alt>de que desde el punto de vista</alt></f>  del gobierno .</output>
+  </s>
+  <s id="31">
+    <input>En el dilema actual , <f id="1">the minority</f>  ha pasado a ser más grande .</input>
+    <output>En el dilema actual , <f id="1">la minoría<alt>a la minoría</alt><alt>las minorías</alt><alt>de la minoría</alt><alt>la minoría se</alt></f>  ha pasado a ser más grande .</output>
+  </s>
+  <s id="32">
+    <input>Me quieren todos , <f id="1">even</f>  el idiota ese .</input>
+    <output>Me quieren todos , <f id="1">incluso<alt>incluso en</alt><alt>incluso a</alt><alt>incluso ,</alt><alt>aunque</alt></f>  el idiota ese .</output>
+  </s>
+  <s id="33">
+    <input><f id="1">In winter</f>  se suele ir de viaje a otros destinos .</input>
+    <output><f id="1">En el invierno<alt>En invierno</alt><alt>En invierno ,</alt><alt>En el invierno ,</alt><alt>En pleno invierno</alt></f>  se suele ir de viaje a otros destinos .</output>
+  </s>
+  <s id="34">
+    <input>Los partidos políticos <f id="1">took the initiative</f>  del proceso .</input>
+    <output>Los partidos políticos <f id="1">han tomado la iniciativa<alt>tomó la iniciativa</alt><alt>que tomaron la iniciativa</alt><alt>tomaron la iniciativa</alt><alt>tuvo la iniciativa</alt></f>  del proceso .</output>
+  </s>
+  <s id="35">
+    <input>Es el instrumento que <f id="1">sounds</f>  más fuerte .</input>
+    <output>Es el instrumento que <f id="1">suena<alt>parece</alt><alt>me suena</alt><alt>suene</alt><alt>suenan</alt></f>  más fuerte .</output>
+  </s>
+  <s id="36">
+    <input>Es importante <f id="1">to save</f>  dinero .</input>
+    <output>Es importante <f id="1">para ahorrar<alt>a ahorrar</alt><alt>de ahorrar</alt><alt>ahorrar</alt><alt>para salvar</alt></f>  dinero .</output>
+  </s>
+  <s id="37">
+    <input>Durante toda la guerra estuvo escondido en <f id="1">the basement</f>  de su propia casa .</input>
+    <output>Durante toda la guerra estuvo escondido en <f id="1">el sótano<alt>la sótano</alt><alt>en el sótano</alt><alt>los sótano</alt><alt>del sótano</alt></f>  de su propia casa .</output>
+  </s>
+  <s id="38">
+    <input><f id="1">The same happens</f>  con las relaciones homosexuales .</input>
+    <output><f id="1">Lo mismo sucede<alt>Lo mismo ocurre</alt><alt>Ocurre lo mismo</alt><alt>Lo mismo pasa</alt><alt>El mismo sucede</alt></f>  con las relaciones homosexuales .</output>
+  </s>
+  <s id="39">
+    <input>Tengo <f id="1">too many</f>  problemas para ocuparme también de los tuyos .</input>
+    <output>Tengo <f id="1">muchos<alt>demasiados</alt><alt>también muchos</alt><alt>demasiadas</alt><alt>demasiado muchos</alt></f>  problemas para ocuparme también de los tuyos .</output>
+  </s>
+  <s id="40">
+    <input>Cuando terminaron de cantar , Joaquín sopló <f id="1">the candles</f>  con fuerza .</input>
+    <output>Cuando terminaron de cantar , Joaquín sopló <f id="1">las velas<alt>el velas</alt><alt>el las velas</alt><alt>la velas</alt><alt>la las velas</alt></f>  con fuerza .</output>
+  </s>
+  <s id="41">
+    <input>El crítico literario Lothar Junge vivía en una casita en las afueras , junto a un bosque y <f id="1">a hill</f>  .</input>
+    <output>El crítico literario Lothar Junge vivía en una casita en las afueras , junto a un bosque y <f id="1">una colina<alt>un Hill</alt><alt>una Hill</alt><alt>de una colina</alt><alt>una montaña</alt></f>  .</output>
+  </s>
+  <s id="42">
+    <input>Si eso <f id="1">goes on this way</f>  , el sector se colapsará en un plazo no muy largo .</input>
+    <output>Si eso <f id="1">va de este modo<alt>se va de este modo</alt><alt>va de esta manera</alt><alt>se va de esta manera</alt><alt>va de esta forma</alt></f>  , el sector se colapsará en un plazo no muy largo .</output>
+  </s>
+  <s id="43">
+    <input>Mañana la televisión italiana transmitirá dos <f id="1">football matches</f>  .</input>
+    <output>Mañana la televisión italiana transmitirá dos <f id="1">partidos de fútbol<alt>fútbol</alt><alt>de fútbol</alt><alt>los partidos de fútbol</alt><alt>el fútbol</alt></f>  .</output>
+  </s>
+  <s id="44">
+    <input>El <f id="1">judge</f>  es la única persona que puede instituir una adopción .</input>
+    <output>El <f id="1">juez<alt>juez ,</alt><alt>juez .</alt><alt>el juez</alt><alt>juez de</alt></f>  es la única persona que puede instituir una adopción .</output>
+  </s>
+  <s id="45">
+    <input>El año pasado fallecieron siete personas <f id="1">as a consequence of</f>  saltar o caer de balcones en hoteles de España .</input>
+    <output>El año pasado fallecieron siete personas <f id="1">como consecuencia de<alt>como consecuencia de la</alt><alt>como consecuencia del</alt><alt>a consecuencia de</alt><alt>como consecuencia de los</alt></f>  saltar o caer de balcones en hoteles de España .</output>
+  </s>
+  <s id="46">
+    <input>Los socialistan buscan fomentar <f id="1">the dissidence</f>  en el PP .</input>
+    <output>Los socialistan buscan fomentar <f id="1">la disidencia<alt>la disidencias</alt><alt>el disidencias</alt><alt>los disidencias</alt><alt>de la disidencia</alt></f>  en el PP .</output>
+  </s>
+  <s id="47">
+    <input>El gobierno junto con los empresarios del sector <f id="1">are searching for</f>  la mejor manera .</input>
+    <output>El gobierno junto con los empresarios del sector <f id="1">están buscando<alt>se están buscando</alt><alt>está buscando</alt><alt>son la búsqueda de</alt><alt>se buscando</alt></f>  la mejor manera .</output>
+  </s>
+  <s id="48">
+    <input>Sólo el 10 % de la población <f id="1">pays the fines</f>  .</input>
+    <output>Sólo el 10 % de la población <f id="1">paga las multas<alt>se paga el multas</alt><alt>paga la multas</alt><alt>, paga las multas</alt><alt>paga el multas</alt></f>  .</output>
+  </s>
+  <s id="49">
+    <input><f id="1">A crow</f>  usa el cerebro para obtener de beber .</input>
+    <output><f id="1">Una cantar<alt>Un cantar</alt><alt>De cantar</alt><alt>Una de cantar</alt><alt>La cantar</alt></f>  usa el cerebro para obtener de beber .</output>
+  </s>
+  <s id="50">
+    <input>Al otro lado de la pensión <f id="1">is</f>  la carretera que va de Málaga a Torremolinos .</input>
+    <output>Al otro lado de la pensión <f id="1">es<alt>, es</alt><alt>de</alt><alt>que</alt><alt>es de</alt></f>  la carretera que va de Málaga a Torremolinos .</output>
+  </s>
+  <s id="51">
+    <input>El hombre <f id="1">has understood</f>  que su mujer es su igual en todos los terrenos .</input>
+    <output>El hombre <f id="1">ha comprendido<alt>ha entendido</alt><alt>se ha entendido</alt><alt>que ha comprendido</alt><alt>ha comprendido bien</alt></f>  que su mujer es su igual en todos los terrenos .</output>
+  </s>
+  <s id="52">
+    <input>El mensaje renovador del Papa <f id="1">loses value</f>  si el Vaticano consiente la pederastia en su seno .</input>
+    <output>El mensaje renovador del Papa <f id="1">pierde valor<alt>pierda valor</alt><alt>pierde el valor</alt><alt>pierde valor añadido</alt><alt>pierden valor</alt></f>  si el Vaticano consiente la pederastia en su seno .</output>
+  </s>
+  <s id="53">
+    <input>Una de las consecuencias de la crisis económica es <f id="1">the decrease</f>  considerable del número de matrimonios .</input>
+    <output>Una de las consecuencias de la crisis económica es <f id="1">la disminución<alt>la reducción</alt><alt>el descenso</alt><alt>la la disminución</alt><alt>por la disminución</alt></f>  considerable del número de matrimonios .</output>
+  </s>
+  <s id="54">
+    <input><f id="1">If I had money</f>  , te compraría el anillo más precioso del mundo .</input>
+    <output><f id="1">Si yo hubiera dinero<alt>Si hubiera dinero</alt><alt>Si tuviera dinero</alt><alt>Si he tenido dinero</alt><alt>Si me había dinero</alt></f>  , te compraría el anillo más precioso del mundo .</output>
+  </s>
+  <s id="55">
+    <input>Entonces también se esperan grandes <f id="1">delays</f>  y posibles anulaciones de vuelos .</input>
+    <output>Entonces también se esperan grandes <f id="1">retrasos<alt>demoras</alt><alt>los retrasos</alt><alt>retrasos de</alt><alt>de retrasos</alt></f>  y posibles anulaciones de vuelos .</output>
+  </s>
+  <s id="56">
+    <input><f id="1">Any</f>  tema puede ser atractivo si se sabe contar bien .</input>
+    <output><f id="1">Cualquier<alt>Ningún</alt><alt>Un</alt><alt>De cualquier</alt><alt>En cualquier</alt></f>  tema puede ser atractivo si se sabe contar bien .</output>
+  </s>
+  <s id="57">
+    <input><f id="1">They fired him</f>  porque había robado dinero .</input>
+    <output><f id="1">Se dispararon él<alt>Se disparó él</alt><alt>Se le dispararon</alt><alt>Les dispararon él</alt><alt>Se disparó de él</alt></f>  porque había robado dinero .</output>
+  </s>
+  <s id="58">
+    <input>El número de inmigrantes indocumentados <f id="1">approaches</f>  los 250000 .</input>
+    <output>El número de inmigrantes indocumentados <f id="1">enfoques<alt>planteamientos</alt><alt>enfoques de</alt><alt>los enfoques</alt><alt>a enfoques</alt></f>  los 250000 .</output>
+  </s>
+  <s id="59">
+    <input>Los jóvenes <f id="1">consumers</f>  de drogas ilícitas presentan características comunes .</input>
+    <output>Los jóvenes <f id="1">consumidores<alt>de los consumidores</alt><alt>los consumidores</alt><alt>a los consumidores</alt><alt>de consumidores</alt></f>  de drogas ilícitas presentan características comunes .</output>
+  </s>
+  <s id="60">
+    <input>Y en España <f id="1">in the countryside</f>  también es muy normal .</input>
+    <output>Y en España <f id="1">en el campo<alt>, en el campo</alt><alt>en las zonas rurales</alt><alt>en el paisaje</alt><alt>en la campo</alt></f>  también es muy normal .</output>
+  </s>
+  <s id="61">
+    <input>El gobierno espera recuperar la confianza de <f id="1">the investors</f>  .</input>
+    <output>El gobierno espera recuperar la confianza de <f id="1">los inversores<alt>los inversionistas</alt><alt>los inversores ,</alt><alt>los inversores con los</alt><alt>los inversores de</alt></f>  .</output>
+  </s>
+  <s id="62">
+    <input>Joaquín se miró <f id="1">in the mirror</f>  .</input>
+    <output>Joaquín se miró <f id="1">en el espejo<alt>al espejo</alt><alt>el espejo</alt><alt>en espejo</alt><alt>a el espejo</alt></f>  .</output>
+  </s>
+  <s id="63">
+    <input>Sony eliminará 5000 <f id="1">jobs</f>  .</input>
+    <output>Sony eliminará 5000 <f id="1">empleos<alt>puestos de trabajo</alt><alt>puestos</alt><alt>empleo</alt><alt>puestos de</alt></f>  .</output>
+  </s>
+  <s id="64">
+    <input>La Guerra Civil española <f id="1">ended</f>  provocando más de medio millón de víctimas .</input>
+    <output>La Guerra Civil española <f id="1">terminaron<alt>acabaron</alt><alt>acabó</alt><alt>terminó</alt><alt>terminado</alt></f>  provocando más de medio millón de víctimas .</output>
+  </s>
+  <s id="65">
+    <input>Vino a vernos <f id="1">on sunday</f>  .</input>
+    <output>Vino a vernos <f id="1">el domingo<alt>en domingo</alt><alt>el pasado domingo</alt><alt>del domingo</alt><alt>, el domingo</alt></f>  .</output>
+  </s>
+  <s id="66">
+    <input>La velocidad <f id="1">average</f>  de los vehículos se situaba en 11 kilómetros por hora .</input>
+    <output>La velocidad <f id="1">media<alt>de la media</alt><alt>media de</alt><alt>la media</alt><alt>promedio</alt></f>  de los vehículos se situaba en 11 kilómetros por hora .</output>
+  </s>
+  <s id="67">
+    <input>¡ Tienes que <f id="1">hurry up</f>  , la película está para comenzar !</input>
+    <output>¡ Tienes que <f id="1">apresurarse<alt>darse prisa</alt><alt>darnos prisa</alt><alt>se dé prisa</alt><alt>dé prisa</alt></f>  , la película está para comenzar !</output>
+  </s>
+  <s id="68">
+    <input>¿ Por qué no <f id="1">follow</f>  ustedes mi consejo ?</input>
+    <output>¿ Por qué no <f id="1">seguir<alt>sigan</alt><alt>seguir a</alt><alt>seguimos</alt><alt>seguir el</alt></f>  ustedes mi consejo ?</output>
+  </s>
+  <s id="69">
+    <input><f id="1">Given the facts</f>  es probable que parte de su viaje lo realice en caravana .</input>
+    <output><f id="1">A la vista de los hechos<alt>Dados los hechos</alt><alt>Dado los hechos</alt><alt>Dada los hechos</alt><alt>Ante los hechos</alt></f>  es probable que parte de su viaje lo realice en caravana .</output>
+  </s>
+  <s id="70">
+    <input>Las <f id="1">flight attendants</f>  cuentan a los pasajeros .</input>
+    <output>Las <f id="1">vuelo escoltar<alt>vuelos escoltar</alt><alt>el vuelo escoltar</alt><alt>de vuelo escoltar</alt><alt>fuga escoltar</alt></f>  cuentan a los pasajeros .</output>
+  </s>
+  <s id="71">
+    <input><f id="1">After</f>  del segundo bloque de notícias se tiene pensado ofrecer una entrevista .</input>
+    <output><f id="1">Después<alt>Después de</alt><alt>Tras</alt><alt>Después de que</alt><alt>Después de la</alt></f>  del segundo bloque de notícias se tiene pensado ofrecer una entrevista .</output>
+  </s>
+  <s id="72">
+    <input>Con el traspaso al Ministerio de Cultura , el gobierno español <f id="1">recognises</f>  que las corridas de toros son una disciplina artística .</input>
+    <output>Con el traspaso al Ministerio de Cultura , el gobierno español <f id="1">reconoce<alt>se reconoce</alt><alt>, reconoce</alt><alt>que reconoce</alt><alt>reconozca</alt></f>  que las corridas de toros son una disciplina artística .</output>
+  </s>
+  <s id="73">
+    <input>Su nombre <f id="1">has been lost</f>  o nunca se supo , pero andaba desnudo por estas calles , o cubierto de harapos , contándose los dedos con el pulgar y haciendo mofa de los árboles</input>
+    <output>Su nombre <f id="1">se ha perdido<alt>ha perdido</alt><alt>ha sido perdido</alt><alt>que ha perdido</alt><alt>que se ha perdido</alt></f>  o nunca se supo , pero andaba desnudo por estas calles , o cubierto de harapos , contándose los dedos con el pulgar y haciendo mofa de los árboles</output>
+  </s>
+  <s id="74">
+    <input>Te trataremos como a <f id="1">everybody else</f>  .</input>
+    <output>Te trataremos como a <f id="1">todo el mundo<alt>todos los demás</alt><alt>los demás</alt><alt>las demás</alt><alt>que todo el mundo</alt></f>  .</output>
+  </s>
+  <s id="75">
+    <input>Todos aplaudieron , <f id="1">except for</f>  Luis Felipe .</input>
+    <output>Todos aplaudieron , <f id="1">excepto<alt>excepto para</alt><alt>excepto por</alt><alt>salvo para</alt><alt>salvo por</alt></f>  Luis Felipe .</output>
+  </s>
+  <s id="76">
+    <input>El tratamiento es largo , <f id="1">it can take years</f>  , yo todavía estoy inmerso en él .</input>
+    <output>El tratamiento es largo , <f id="1">puede tomar años<alt>que puede tomar años</alt><alt>se puede tomar años</alt><alt>puede tardar años</alt><alt>puede tener años</alt></f>  , yo todavía estoy inmerso en él .</output>
+  </s>
+  <s id="77">
+    <input>¿ <f id="1">Do you regret</f>  que tu colega sustituya al jefe del departamento ?</input>
+    <output>¿ <f id="1">Qué lamento<alt>¿ lamento</alt><alt>Qué lamentar</alt><alt>¿ lamentar</alt><alt>Tiene usted lamento</alt></f>  que tu colega sustituya al jefe del departamento ?</output>
+  </s>
+  <s id="78">
+    <input>Deseaba <f id="1">overcome</f>  la tradicional división entre las dos Españas que había llevado a la Guerra Civil .</input>
+    <output>Deseaba <f id="1">superar<alt>vencer</alt><alt>a superar</alt><alt>de superar</alt><alt>superar de</alt></f>  la tradicional división entre las dos Españas que había llevado a la Guerra Civil .</output>
+  </s>
+  <s id="79">
+    <input>Además tienen que seguir <f id="1">performing</f>  en su puesto de trabajo cada vez mejor y se les exige absoluta lealtad .</input>
+    <output>Además tienen que seguir <f id="1">funcionando<alt>realizando</alt><alt>desempeñando</alt><alt>cumpliendo</alt><alt>realizar</alt></f>  en su puesto de trabajo cada vez mejor y se les exige absoluta lealtad .</output>
+  </s>
+  <s id="80">
+    <input>El toro que entra en la plaza se convierte <f id="1">almost</f>  en un animal sagrado .</input>
+    <output>El toro que entra en la plaza se convierte <f id="1">casi<alt>prácticamente</alt><alt>en casi</alt><alt>de casi</alt><alt>a casi</alt></f>  en un animal sagrado .</output>
+  </s>
+  <s id="81">
+    <input>Hoy unos 18000 de sus lagos <f id="1">are victims of</f>  la acidez .</input>
+    <output>Hoy unos 18000 de sus lagos <f id="1">son víctimas de<alt>son las víctimas de</alt><alt>, son víctimas de</alt><alt>que son víctimas de</alt><alt>sean víctimas de</alt></f>  la acidez .</output>
+  </s>
+  <s id="82">
+    <input>Pueden <f id="1">bring to an end</f>  todas estas iniciativas .</input>
+    <output>Pueden <f id="1">poner fin a<alt>poner fin</alt><alt>acabar con</alt><alt>fin a</alt><alt>ponga fin a</alt></f>  todas estas iniciativas .</output>
+  </s>
+  <s id="83">
+    <input>Todavía no se ha pensado <f id="1">enough</f>  sobre las consecuencias .</input>
+    <output>Todavía no se ha pensado <f id="1">suficiente<alt>lo suficiente</alt><alt>suficientes</alt><alt>suficientemente</alt><alt>bastante</alt></f>  sobre las consecuencias .</output>
+  </s>
+  <s id="84">
+    <input>Los aldeanos <f id="1">no longer</f>  lavan la ropa en el río .</input>
+    <output>Los aldeanos <f id="1">ya no<alt>no</alt><alt>ya no se</alt><alt>no ya</alt><alt>ya</alt></f>  lavan la ropa en el río .</output>
+  </s>
+  <s id="85">
+    <input>Los catalanes están empezando a mostrar <f id="1">symptoms of weakness</f>  .</input>
+    <output>Los catalanes están empezando a mostrar <f id="1">síntomas de debilidad<alt>síntomas de la debilidad</alt><alt>síntomas de debilidad de</alt><alt>síntomas de nuestra debilidad</alt><alt>síntomas de una debilidad</alt></f>  .</output>
+  </s>
+  <s id="86">
+    <input>No puedes <f id="1">complain</f>  , que el culpable eres tú .</input>
+    <output>No puedes <f id="1">quejarse<alt>se quejan</alt><alt>quejarnos</alt><alt>se quejan de</alt><alt>quejarme</alt></f>  , que el culpable eres tú .</output>
+  </s>
+  <s id="87">
+    <input>Los controles antidopaje acababan de instaurarse <f id="1">one year ago</f>  .</input>
+    <output>Los controles antidopaje acababan de instaurarse <f id="1">hace un año<alt>un año</alt><alt>de hace un año</alt><alt>hace un año ,</alt><alt>un año ,</alt></f>  .</output>
+  </s>
+  <s id="88">
+    <input>La banda terrorista ETA <f id="1">has become</f>  una organización debilitada .</input>
+    <output>La banda terrorista ETA <f id="1">se ha convertido en<alt>ha convertido en</alt><alt>ha convertirse en</alt><alt>ha vuelto</alt><alt>ha convertido</alt></f>  una organización debilitada .</output>
+  </s>
+  <s id="89">
+    <input>El profesor no es <f id="1">as</f>  inteligente como usted cree .</input>
+    <output>El profesor no es <f id="1">como<alt>tan</alt><alt>, como</alt><alt>lo</alt><alt>tal como</alt></f>  inteligente como usted cree .</output>
+  </s>
+  <s id="90">
+    <input>La mejor forma <f id="1">to protect yourself</f>  es no tener relaciones sexuales .</input>
+    <output>La mejor forma <f id="1">de proteger usted<alt>de protegerse</alt><alt>de proteger mismo</alt><alt>de proteger a usted</alt><alt>de proteger a los usted</alt></f>  es no tener relaciones sexuales .</output>
+  </s>
+  <s id="91">
+    <input>Sacyr y Panamá <f id="1">are looking for ways to</f>  intentar desatascar la crisis del canal .</input>
+    <output>Sacyr y Panamá <f id="1">están buscando formas de<alt>están buscando maneras de</alt><alt>buscan maneras de</alt><alt>estamos buscando formas de</alt><alt>están buscando formas para</alt></f>  intentar desatascar la crisis del canal .</output>
+  </s>
+  <s id="92">
+    <input>Según muchos estudios , es un error <f id="1">to believe</f>  que la educación bilingüe perjudica al progreso de los niños en sus estudios .</input>
+    <output>Según muchos estudios , es un error <f id="1">creer<alt>pensar</alt><alt>de creer</alt><alt>que creo</alt><alt>para creer</alt></f>  que la educación bilingüe perjudica al progreso de los niños en sus estudios .</output>
+  </s>
+  <s id="93">
+    <input>Con este portátil no se puede <f id="1">translate</f>  el texto suficientemente rápido .</input>
+    <output>Con este portátil no se puede <f id="1">traducir<alt>convertir</alt><alt>transformar</alt><alt>de traducir</alt><alt>traducirse</alt></f>  el texto suficientemente rápido .</output>
+  </s>
+  <s id="94">
+    <input>Tienes que <f id="1">bring me</f>  el periódico .</input>
+    <output>Tienes que <f id="1">me llevan<alt>exponer en</alt><alt>aportar mí</alt><alt>llevar a mí</alt><alt>ofrecerme</alt></f>  el periódico .</output>
+  </s>
+  <s id="95">
+    <input><f id="1">The broadcast</f>  de la Televisión Española se hace via satélite .</input>
+    <output><f id="1">La difusión<alt>La emisión</alt><alt>La transmisión</alt><alt>La emiten</alt><alt>La televisión</alt></f>  de la Televisión Española se hace via satélite .</output>
+  </s>
+  <s id="96">
+    <input>Ahora además se marchan los inmigrantes <f id="1">due to</f>  la crisis .</input>
+    <output>Ahora además se marchan los inmigrantes <f id="1">debido a<alt>, debido a</alt><alt>debido a que</alt><alt>el debido a</alt><alt>debida a</alt></f>  la crisis .</output>
+  </s>
+  <s id="97">
+    <input>Paco , el Bajo , se aproximó <f id="1">slowly</f>  al grupo .</input>
+    <output>Paco , el Bajo , se aproximó <f id="1">lentamente<alt>despacio</alt><alt>lenta</alt><alt>lentitud</alt><alt>lentamente ,</alt></f>  al grupo .</output>
+  </s>
+  <s id="98">
+    <input>Se encontró <f id="1">face to face</f>  con su padre .</input>
+    <output>Se encontró <f id="1">cara a cara<alt>frente a frente</alt><alt>a enfrentarnos</alt><alt>cara a cara a</alt><alt>cara a cara a la</alt></f>  con su padre .</output>
+  </s>
+  <s id="99">
+    <input>La felicidad es el fuego <f id="1">holy</f>  que mantiene nuestro ánimo encendido .</input>
+    <output>La felicidad es el fuego <f id="1">sagrado<alt>Santo</alt><alt>santa</alt><alt>Santos</alt><alt>sagrada</alt></f>  que mantiene nuestro ánimo encendido .</output>
+  </s>
+  <s id="100">
+    <input><f id="1">In fact</f>  ya hay bacterias resistentes a todos los antibióticos .</input>
+    <output><f id="1">De hecho ,<alt>De hecho</alt><alt>En realidad</alt><alt>En efecto</alt><alt>De hecho de</alt></f>  ya hay bacterias resistentes a todos los antibióticos .</output>
+  </s>
+  <s id="101">
+    <input>Llevas <f id="1">the same</f>  zapatos que yo .</input>
+    <output>Llevas <f id="1">el mismo<alt>lo mismo</alt><alt>la misma</alt><alt>los mismos</alt><alt>al mismo</alt></f>  zapatos que yo .</output>
+  </s>
+  <s id="102">
+    <input>Los marinos <f id="1">fear</f>  estas tormentas .</input>
+    <output>Los marinos <f id="1">temo<alt>miedo</alt><alt>temor</alt><alt>temo que</alt><alt>temen</alt></f>  estas tormentas .</output>
+  </s>
+  <s id="103">
+    <input>Si está usted <f id="1">pregnant</f>  consulte a su médico antes de tomar este medicamento .</input>
+    <output>Si está usted <f id="1">embarazadas<alt>embarazada</alt><alt>las mujeres embarazadas</alt><alt>preñadas</alt><alt>está embarazada</alt></f>  consulte a su médico antes de tomar este medicamento .</output>
+  </s>
+  <s id="104">
+    <input>La votación en favor <f id="1">implies</f>  la legalización del aborto .</input>
+    <output>La votación en favor <f id="1">implica<alt>que implica</alt><alt>, supone</alt><alt>significa</alt><alt>implica que</alt></f>  la legalización del aborto .</output>
+  </s>
+  <s id="105">
+    <input>Mañana <f id="1">please</f>  no vuelvas a despertarme a esta hora .</input>
+    <output>Mañana <f id="1">por favor<alt>por favor ,</alt><alt>, por favor</alt><alt>favor</alt><alt>le ruego</alt></f>  no vuelvas a despertarme a esta hora .</output>
+  </s>
+  <s id="106">
+    <input>Según una reconocida psicóloga , Julia Vidal , se sigue esperando de las mujeres que realicen la mayoría de <f id="1">household chores</f>  .</input>
+    <output>Según una reconocida psicóloga , Julia Vidal , se sigue esperando de las mujeres que realicen la mayoría de <f id="1">las tareas domésticas<alt>tareas domésticas</alt><alt>labores del hogar</alt><alt>los hogares tareas domésticas</alt><alt>tareas del hogar</alt></f>  .</output>
+  </s>
+  <s id="107">
+    <input>Señor Elías , <f id="1">fill</f>  este formulario , por favor .</input>
+    <output>Señor Elías , <f id="1">llenar<alt>de llenar</alt><alt>colmar</alt><alt>cubrir</alt><alt>llenan</alt></f>  este formulario , por favor .</output>
+  </s>
+  <s id="108">
+    <input>La cita olímpica más cara <f id="1">in history</f>  despierta muchas dudas .</input>
+    <output>La cita olímpica más cara <f id="1">en la historia<alt>de la historia</alt><alt>de la historia en</alt><alt>en historia</alt><alt>en la historia ,</alt></f>  despierta muchas dudas .</output>
+  </s>
+  <s id="109">
+    <input>Un estudio de la Comisión <f id="1">concludes</f>  que la lección de accidentes pasados no ha servido para consolidar los programas contra derramamientos de petróleo de gobiernos e industriales .</input>
+    <output>Un estudio de la Comisión <f id="1">concluye<alt>, concluye</alt><alt>se concluye</alt><alt>concluyen</alt><alt>concluye el</alt></f>  que la lección de accidentes pasados no ha servido para consolidar los programas contra derramamientos de petróleo de gobiernos e industriales .</output>
+  </s>
+  <s id="110">
+    <input>Ahora dejan <f id="1">fall</f>  con fuerza precisamente a toda esa misma gente .</input>
+    <output>Ahora dejan <f id="1">caer<alt>caída</alt><alt>caen</alt><alt>entran</alt><alt>la caída</alt></f>  con fuerza precisamente a toda esa misma gente .</output>
+  </s>
+  <s id="111">
+    <input>No sólo necesitas una idea ; tiene que ser buena y además <f id="1">you have to know</f>  cómo desarrollarla .</input>
+    <output>No sólo necesitas una idea ; tiene que ser buena y además <f id="1">tienen que saber<alt>tiene que saber</alt><alt>tienen que saben</alt><alt>tienen que sabe</alt><alt>tienen que sabemos</alt></f>  cómo desarrollarla .</output>
+  </s>
+  <s id="112">
+    <input>A don Roberto le cogió el concierto <f id="1">scratching</f>  los labios con el mango de la pluma</input>
+    <output>A don Roberto le cogió el concierto <f id="1">rascar en<alt>vacunoadopte</alt></f>  los labios con el mango de la pluma</output>
+  </s>
+  <s id="113">
+    <input>La frontera se cierra durante <f id="1">half an hour</f>  .</input>
+    <output>La frontera se cierra durante <f id="1">media hora<alt>la mitad de una hora</alt><alt>una media hora</alt><alt>media hora de</alt><alt>media hora ,</alt></f>  .</output>
+  </s>
+  <s id="114">
+    <input>El Pipistop es un despertador que <f id="1">predicts</f>  en qué momento justo te estás empezando a hacer pipí .</input>
+    <output>El Pipistop es un despertador que <f id="1">predice<alt>prevé</alt><alt>pronostica</alt><alt>predicen</alt><alt>prever</alt></f>  en qué momento justo te estás empezando a hacer pipí .</output>
+  </s>
+  <s id="115">
+    <input>Recientemente se publicaron <f id="1">the results</f>  de una estudia sobre la imagen del Instituto de la Mujer .</input>
+    <output>Recientemente se publicaron <f id="1">los resultados<alt>el resultado</alt><alt>de los resultados</alt><alt>resultados</alt><alt>en los resultados</alt></f>  de una estudia sobre la imagen del Instituto de la Mujer .</output>
+  </s>
+  <s id="116">
+    <input>Luisa se pinta <f id="1">her lips</f>  .</input>
+    <output>Luisa se pinta <f id="1">su labios<alt>su boca</alt><alt>a su labios</alt><alt>de su boca</alt><alt>de su labios</alt></f>  .</output>
+  </s>
+  <s id="117">
+    <input>Dormir bien es <f id="1">a pleasure</f>  y una necesidad .</input>
+    <output>Dormir bien es <f id="1">un placer<alt>para mí un placer</alt><alt>una satisfacción</alt><alt>un gran placer</alt><alt>un placer para mí</alt></f>  y una necesidad .</output>
+  </s>
+  <s id="118">
+    <input>El Ejecutivo español volvió a reaccionar <f id="1">with skepticism</f>  .</input>
+    <output>El Ejecutivo español volvió a reaccionar <f id="1">con escepticismo<alt>con el escepticismo</alt><alt>con escepticismo respecto</alt><alt>, con escepticismo</alt><alt>con esceptisismo</alt></f>  .</output>
+  </s>
+  <s id="119">
+    <input>Su sueño <f id="1">has become reality</f>  , porque en septiembre de 2010 se le fotografió en estado de buena esperanza .</input>
+    <output>Su sueño <f id="1">se ha convertido en realidad<alt>se ha convertido en la realidad</alt><alt>se ha hecho realidad</alt><alt>se ha convertido en una realidad</alt><alt>se ha convertido realidad</alt></f>  , porque en septiembre de 2010 se le fotografió en estado de buena esperanza .</output>
+  </s>
+  <s id="120">
+    <input>Sus padres seguían <f id="1">sending him</f>  dinero cada mes .</input>
+    <output>Sus padres seguían <f id="1">enviarle<alt>enviando él</alt><alt>enviar él</alt><alt>envío él</alt><alt>enviando a él</alt></f>  dinero cada mes .</output>
+  </s>
+  <s id="121">
+    <input>El água de <f id="1">the geysers</f>  de Islandia tiene una temperatura muy alta .</input>
+    <output>El água de <f id="1">la geysers<alt>los geysers</alt><alt>las geysers</alt><alt>el geysers</alt><alt>de la geysers</alt></f>  de Islandia tiene una temperatura muy alta .</output>
+  </s>
+  <s id="122">
+    <input>Un tercio de los bosques alemanes está <f id="1">in danger of</f>  quedarse sin vida animal .</input>
+    <output>Un tercio de los bosques alemanes está <f id="1">en peligro de<alt>el peligro de</alt><alt>el riesgo de</alt><alt>en riesgo de</alt><alt>en peligro de que</alt></f>  quedarse sin vida animal .</output>
+  </s>
+  <s id="123">
+    <input>En verano siempre <f id="1">it is very hot</f>  en el campo .</input>
+    <output>En verano siempre <f id="1">es muy caliente<alt>es muy candente</alt><alt>es muy cálidos</alt><alt>resulta muy caliente</alt><alt>es muy cálido</alt></f>  en el campo .</output>
+  </s>
+  <s id="124">
+    <input><f id="1">On the contrary</f>  , por aquellos días Bubis tuvo que viajar a Frankfurt .</input>
+    <output><f id="1">Por el contrario<alt>Al contrario</alt><alt>De lo contrario</alt><alt>Muy al contrario</alt><alt>, por el contrario</alt></f>  , por aquellos días Bubis tuvo que viajar a Frankfurt .</output>
+  </s>
+  <s id="125">
+    <input>Según el periódico El País , para las elecciones anticipadas el Partido Popular ( PP ) , de ideología conservadora , puede <f id="1">count on</f>  el 45,3 % de los votos y la mayoría absoluta en el Congreso .</input>
+    <output>Según el periódico El País , para las elecciones anticipadas el Partido Popular ( PP ) , de ideología conservadora , puede <f id="1">contar con<alt>contar en</alt><alt>contar con que</alt><alt>contar con el</alt><alt>contar sobre</alt></f>  el 45,3 % de los votos y la mayoría absoluta en el Congreso .</output>
+  </s>
+  <s id="126">
+    <input>El gobierno estudia un plan de acción <f id="1">in favour of</f>  la mujer .</input>
+    <output>El gobierno estudia un plan de acción <f id="1">en favor de<alt>a favor de</alt><alt>, en favor de</alt><alt>en favor de que</alt><alt>a favor de que</alt></f>  la mujer .</output>
+  </s>
+  <s id="127">
+    <input>Un 20 % de la población activa <f id="1">is unemployed</f>  .</input>
+    <output>Un 20 % de la población activa <f id="1">es desempleados<alt>está desempleada</alt><alt>está desempleado</alt><alt>de empleo</alt><alt>es parados</alt></f>  .</output>
+  </s>
+  <s id="128">
+    <input><f id="1">If</f>  lo lees bien , verás lo que dice .</input>
+    <output><f id="1">Si<alt>Si se</alt><alt>Si de</alt><alt>Si la</alt><alt>Si a</alt></f>  lo lees bien , verás lo que dice .</output>
+  </s>
+  <s id="129">
+    <input>Vagó por el pueblo en siesta , sin pensar en nada , <f id="1">not even</f>  tratando de convencerse de que su problema no tenía solución .</input>
+    <output>Vagó por el pueblo en siesta , sin pensar en nada , <f id="1">ni siquiera<alt>ni siquiera de</alt><alt>ni</alt><alt>no incluso</alt><alt>no siquiera</alt></f>  tratando de convencerse de que su problema no tenía solución .</output>
+  </s>
+  <s id="130">
+    <input>Las perspectivas de esta generación perdida son <f id="1">little hopeful</f>  .</input>
+    <output>Las perspectivas de esta generación perdida son <f id="1">poco esperanzadores<alt>poco esperanzadora</alt><alt>poco esperanza</alt><alt>poca esperanza</alt><alt>poco esperanzador</alt></f>  .</output>
+  </s>
+  <s id="131">
+    <input>Un dilema cada vez más frecuente <f id="1">between</f>  jóvenes es el de casarse o juntarse .</input>
+    <output>Un dilema cada vez más frecuente <f id="1">entre<alt>entre los</alt><alt>entre las</alt><alt>entre el</alt><alt>entre la</alt></f>  jóvenes es el de casarse o juntarse .</output>
+  </s>
+  <s id="132">
+    <input>Zapatero se postuló <f id="1">as</f>  candidato en 2008 .</input>
+    <output>Zapatero se postuló <f id="1">como<alt>, como</alt><alt>al</alt><alt>en</alt><alt>tal como</alt></f>  candidato en 2008 .</output>
+  </s>
+  <s id="133">
+    <input>El periódico dice que <f id="1">the queen</f>  está de viaje .</input>
+    <output>El periódico dice que <f id="1">la reina<alt>reina</alt><alt>la reina de</alt><alt>la la reina</alt><alt>a la Reina</alt></f>  está de viaje .</output>
+  </s>
+  <s id="134">
+    <input>No tiene sentido <f id="1">to fight</f>  por la igualdad .</input>
+    <output>No tiene sentido <f id="1">que lucha<alt>para luchar</alt><alt>que luchar</alt><alt>de luchar</alt><alt>de lucha</alt></f>  por la igualdad .</output>
+  </s>
+  <s id="135">
+    <input>En la lucha contra la droga se necesita <f id="1">in the first place</f>  la nueva ley .</input>
+    <output>En la lucha contra la droga se necesita <f id="1">en primer lugar<alt>en primer lugar ,</alt><alt>, en primer lugar ,</alt><alt>, en primer lugar</alt><alt>en el primer lugar</alt></f>  la nueva ley .</output>
+  </s>
+  <s id="136">
+    <input>El matrimonio no es una guerra , <f id="1">but</f>  el puro servicio militar .</input>
+    <output>El matrimonio no es una guerra , <f id="1">pero<alt>sino</alt><alt>pero en</alt><alt>sino que</alt><alt>pero ,</alt></f>  el puro servicio militar .</output>
+  </s>
+  <s id="137">
+    <input><f id="1">In that way</f>  podemos reconstruir qué capas de pintura y qué colores se encuentran bajo la superficie visible .</input>
+    <output><f id="1">De este modo<alt>De esa forma</alt><alt>De ese modo</alt><alt>De esta forma</alt><alt>De esa manera</alt></f>  podemos reconstruir qué capas de pintura y qué colores se encuentran bajo la superficie visible .</output>
+  </s>
+  <s id="138">
+    <input>Usted no haría nada <f id="1">against</f>  Curro .</input>
+    <output>Usted no haría nada <f id="1">en contra de<alt>contra</alt><alt>en contra</alt><alt>contra la</alt><alt>contra el</alt></f>  Curro .</output>
+  </s>
+  <s id="139">
+    <input><f id="1">You will find</f>  muchísimas cosas extrañas en la calle .</input>
+    <output><f id="1">Encontrarán<alt>Encontrará</alt><alt>Ustedes encontrarán</alt><alt>Encontrarán ustedes</alt><alt>Se encontrarán</alt></f>  muchísimas cosas extrañas en la calle .</output>
+  </s>
+  <s id="140">
+    <input>Habrá que <f id="1">await</f>  las declaraciones del Ministro de Interior .</input>
+    <output>Habrá que <f id="1">esperar a<alt>esperar</alt><alt>espera de</alt><alt>esperamos</alt><alt>esperan a</alt></f>  las declaraciones del Ministro de Interior .</output>
+  </s>
+  <s id="141">
+    <input>En <f id="1">the shop</f>  hablan francés e inglés .</input>
+    <output>En <f id="1">la tienda<alt>el tienda</alt><alt>los tienda</alt><alt>las tienda</alt><alt>la tienda de</alt></f>  hablan francés e inglés .</output>
+  </s>
+  <s id="142">
+    <input>Tus amigos <f id="1">have to</f>  salir antes de que vuelva tu padre .</input>
+    <output>Tus amigos <f id="1">tienen que<alt>tenemos que</alt><alt>a</alt><alt>han a</alt><alt>tener que</alt></f>  salir antes de que vuelva tu padre .</output>
+  </s>
+  <s id="143">
+    <input>Apartamentos y hoteles , <f id="1">above all</f>  en Ibiza , se tienen que enfrentar a los artistas de este temerario deporte .</input>
+    <output>Apartamentos y hoteles , <f id="1">sobre todo<alt>sobre todo ,</alt><alt>ante todo</alt><alt>por encima de todo</alt><alt>por encima de todos</alt></f>  en Ibiza , se tienen que enfrentar a los artistas de este temerario deporte .</output>
+  </s>
+  <s id="144">
+    <input>Te voy a dar <f id="1">some</f>  ejemplos .</input>
+    <output>Te voy a dar <f id="1">algunos<alt>algunas</alt><alt>a algunos</alt><alt>de algunos</alt><alt>unos</alt></f>  ejemplos .</output>
+  </s>
+  <s id="145">
+    <input>Durante los últimos quince años ha habido una notable afluencia de <f id="1">foreigners</f>  a nuestro país .</input>
+    <output>Durante los últimos quince años ha habido una notable afluencia de <f id="1">los extranjeros<alt>extranjeros</alt><alt>extranjeros ,</alt><alt>de los extranjeros</alt><alt>los extranjeros ,</alt></f>  a nuestro país .</output>
+  </s>
+  <s id="146">
+    <input>Latinoamérica es <f id="1">far more important</f>  para la empresa .</input>
+    <output>Latinoamérica es <f id="1">mucho más importante<alt>mucho más importantes</alt><alt>lo más importante</alt><alt>ahora más importante</alt><alt>más importante</alt></f>  para la empresa .</output>
+  </s>
+  <s id="147">
+    <input><f id="1">I completely agree</f>  , las cosas no cambiarán si uno mismo no cambia primero .</input>
+    <output><f id="1">Estoy completamente de acuerdo<alt>Estoy totalmente de acuerdo</alt><alt>Estoy absolutamente de acuerdo</alt><alt>Estoy completamente de acuerdo en</alt><alt>Estoy totalmente de acuerdo en</alt></f>  , las cosas no cambiarán si uno mismo no cambia primero .</output>
+  </s>
+  <s id="148">
+    <input>Según RENFE llevará algo de tiempo debido a la financiación del sistema , pero los pasajeros podrán navegar por Internet <f id="1">as soon as possible</f>  en breve a bordo de los trenes .</input>
+    <output>Según RENFE llevará algo de tiempo debido a la financiación del sistema , pero los pasajeros podrán navegar por Internet <f id="1">tan pronto como sea posible<alt>lo antes posible</alt><alt>, tan pronto como sea posible</alt><alt>lo más pronto posible</alt><alt>, lo antes posible</alt></f>  en breve a bordo de los trenes .</output>
+  </s>
+  <s id="149">
+    <input>El alcalde <f id="1">approves</f>  la manifestación</input>
+    <output>El alcalde <f id="1">aprueba<alt>apruebe</alt><alt>se aprueba</alt><alt>y aprueba</alt><alt>la aprueba</alt></f>  la manifestación</output>
+  </s>
+  <s id="150">
+    <input>Después se fue a cenar <f id="1">with another</f>  .</input>
+    <output>Después se fue a cenar <f id="1">con otro<alt>con otra</alt><alt>con la otra</alt><alt>con el otro</alt><alt>a otro</alt></f>  .</output>
+  </s>
+  <s id="151">
+    <input>Ahora hace siete que no me inyecto heroína y <f id="1">am on the way to</f>  ser un profesional de la abogacía .</input>
+    <output>Ahora hace siete que no me inyecto heroína y <f id="1">estoy en la forma de<alt>estoy en la manera de</alt><alt>estoy en el camino a</alt><alt>estoy sobre el camino a</alt><alt>estoy sobre la forma de</alt></f>  ser un profesional de la abogacía .</output>
+  </s>
+  <s id="152">
+    <input>Los <f id="1">barrels</f>  siguen colocándose en aquella zona .</input>
+    <output>Los <f id="1">barriles<alt>de barriles</alt><alt>los barriles</alt><alt>barrica</alt><alt>barricas</alt></f>  siguen colocándose en aquella zona .</output>
+  </s>
+  <s id="153">
+    <input>La madrileña plaza fue escenario el jueves de duros <f id="1">clashes</f>  entre manifestantes y policía .</input>
+    <output>La madrileña plaza fue escenario el jueves de duros <f id="1">enfrentamientos<alt>combates</alt><alt>enfrentamientos ,</alt><alt>enfrentamientos que</alt><alt>los enfrentamientos</alt></f>  entre manifestantes y policía .</output>
+  </s>
+  <s id="154">
+    <input>La muerte de su mujer , <f id="1">of which</f>  no sabíamos nada , nos ha afectado muchísimo .</input>
+    <output>La muerte de su mujer , <f id="1">de que<alt>de la que</alt><alt>de los que</alt><alt>que</alt><alt>del que</alt></f>  no sabíamos nada , nos ha afectado muchísimo .</output>
+  </s>
+  <s id="155">
+    <input>Pagamos <f id="1">the rent</f>  de la casa a principios del mes .</input>
+    <output>Pagamos <f id="1">el alquiler<alt>la el alquiler</alt><alt>del alquiler</alt><alt>al alquiler</alt><alt>el el alquiler</alt></f>  de la casa a principios del mes .</output>
+  </s>
+  <s id="156">
+    <input>En las aguas del Mar Muerto es posible flotar <f id="1">without</f>  nadar .</input>
+    <output>En las aguas del Mar Muerto es posible flotar <f id="1">sin<alt>, sin</alt><alt>sin que</alt><alt>sin la</alt><alt>sin el</alt></f>  nadar .</output>
+  </s>
+  <s id="157">
+    <input>Es posible que sientas <f id="1">shame</f>  por tener una ITS .</input>
+    <output>Es posible que sientas <f id="1">vergüenza<alt>lástima</alt><alt>la vergüenza</alt><alt>pena</alt><alt>vergüenza ,</alt></f>  por tener una ITS .</output>
+  </s>
+  <s id="158">
+    <input>La novedad en <f id="1">this time</f>  es que este programa también podrá leerse en inglés .</input>
+    <output>La novedad en <f id="1">este momento<alt>este tiempo</alt><alt>esta hora</alt><alt>esta ocasión</alt><alt>esta época</alt></f>  es que este programa también podrá leerse en inglés .</output>
+  </s>
+  <s id="159">
+    <input>El heroinómano es básicamente un masoquista , hay que expulsar la agresividad <f id="1">outwards</f>  .</input>
+    <output>El heroinómano es básicamente un masoquista , hay que expulsar la agresividad <f id="1">hacia afuera<alt>hacia fuera</alt><alt>hacia el exterior</alt><alt>afuera</alt><alt>hacia</alt></f>  .</output>
+  </s>
+  <s id="160">
+    <input>Los peces murieron <f id="1">one after the other</f>  .</input>
+    <output>Los peces murieron <f id="1">uno tras otro<alt>uno después del otro</alt><alt>, uno tras otro</alt><alt>una tras otra</alt><alt>, una tras otra</alt></f>  .</output>
+  </s>
+  <s id="161">
+    <input>Dinamarca importa <f id="1">as much</f>  petróleo como Suecia .</input>
+    <output>Dinamarca importa <f id="1">como mucho<alt>tanto</alt><alt>mucho</alt><alt>mucho como</alt><alt>tanta</alt></f>  petróleo como Suecia .</output>
+  </s>
+  <s id="162">
+    <input>El 4 de junio de 2007 , Sochi <f id="1">won</f>  en su primera presentación como aspirante a ser sede olímpica .</input>
+    <output>El 4 de junio de 2007 , Sochi <f id="1">ganó<alt>ganado</alt><alt>ha ganado</alt><alt>ganaron</alt><alt>ganada</alt></f>  en su primera presentación como aspirante a ser sede olímpica .</output>
+  </s>
+  <s id="163">
+    <input>Si sabes moverte encontrarás préstamos <f id="1">at low interest</f>  .</input>
+    <output>Si sabes moverte encontrarás préstamos <f id="1">a bajo interés<alt>de bajo interés</alt><alt>a bajo interés ,</alt><alt>a bajo interés de</alt><alt>a bajo interés que</alt></f>  .</output>
+  </s>
+  <s id="164">
+    <input>Si lo haces en la ciudad , <f id="1">apparently</f>  se pone de moda inmediatamente , cuenta Yolanda riéndose .</input>
+    <output>Si lo haces en la ciudad , <f id="1">aparentemente<alt>aparentemente ,</alt><alt>al parecer ,</alt><alt>que aparentemente</alt><alt>al parecer</alt></f>  se pone de moda inmediatamente , cuenta Yolanda riéndose .</output>
+  </s>
+  <s id="165">
+    <input>Voy a ir <f id="1">because</f>  mis padres están de vacaciones .</input>
+    <output>Voy a ir <f id="1">porque<alt>, porque</alt><alt>por</alt><alt>ya</alt><alt>pues</alt></f>  mis padres están de vacaciones .</output>
+  </s>
+  <s id="166">
+    <input>Yo vi el diablo <f id="1">in his eyes</f>  y protesté</input>
+    <output>Yo vi el diablo <f id="1">en su ojos<alt>en los ojos</alt><alt>en sus ojos</alt><alt>a sus ojos</alt><alt>en su los ojos</alt></f>  y protesté</output>
+  </s>
+  <s id="167">
+    <input>Las reacciones de <f id="1">the proponents</f>  de las corridas de toros son incomprensibles .</input>
+    <output>Las reacciones de <f id="1">los defensores<alt>los partidarios</alt><alt>los promotores</alt><alt>los proponentes</alt><alt>la partidarios</alt></f>  de las corridas de toros son incomprensibles .</output>
+  </s>
+  <s id="168">
+    <input>Estas botas <f id="1">cost</f>  sólo 50 euros .</input>
+    <output>Estas botas <f id="1">coste<alt>costo</alt><alt>costes</alt><alt>el coste</alt><alt>de coste</alt></f>  sólo 50 euros .</output>
+  </s>
+  <s id="169">
+    <input>Emiten <f id="1">a documentary</f>  sobre el hambre en el mundo .</input>
+    <output>Emiten <f id="1">un documental<alt>documental</alt><alt>una documental</alt><alt>de un documental</alt><alt>un documental sobre</alt></f>  sobre el hambre en el mundo .</output>
+  </s>
+  <s id="170">
+    <input>Antes de la llegada de los españoles , los incas ya <f id="1">cultivated</f>  el maíz .</input>
+    <output>Antes de la llegada de los españoles , los incas ya <f id="1">cultivados<alt>cultivan</alt><alt>cultivadas</alt><alt>cultivaban</alt><alt>cultivado</alt></f>  el maíz .</output>
+  </s>
+  <s id="171">
+    <input><f id="1">The more</f>  lo leo , menos lo entiendo .</input>
+    <output><f id="1">La más<alt>Los más</alt><alt>El más</alt><alt>Los más de</alt><alt>Más</alt></f>  lo leo , menos lo entiendo .</output>
+  </s>
+  <s id="172">
+    <input><f id="1">On one hand</f>  , las exportaciónes irían cayendo .</input>
+    <output><f id="1">Por un lado<alt>Por una parte</alt><alt>Por otro lado</alt><alt>, por un lado</alt><alt>Por un lado ,</alt></f>  , las exportaciónes irían cayendo .</output>
+  </s>
+  <s id="173">
+    <input>Inmigrantes acusan a la Guardia Civil de dispararles y los agentes <f id="1">deny it</f>  .</input>
+    <output>Inmigrantes acusan a la Guardia Civil de dispararles y los agentes <f id="1">negarlo<alt>negar</alt><alt>negar que</alt><alt>puede negarlo</alt><alt>lo niegan</alt></f>  .</output>
+  </s>
+  <s id="174">
+    <input>El plan de reformas que el Gobierno pretende desarrollar <f id="1">in the next years</f>  sólo se reflejará timidamente este curso .</input>
+    <output>El plan de reformas que el Gobierno pretende desarrollar <f id="1">en los próximos años<alt>en los próximos años ,</alt><alt>, en los próximos años</alt><alt>en la próxima años</alt><alt>en el próximo años</alt></f>  sólo se reflejará timidamente este curso .</output>
+  </s>
+  <s id="175">
+    <input>Los meses <f id="1">that preceded</f>  la muerte del dictador fueron tiempos convulsos .</input>
+    <output>Los meses <f id="1">que precedieron a<alt>que precedieron</alt><alt>que precedió a</alt><alt>que han precedido a</alt><alt>que precedió</alt></f>  la muerte del dictador fueron tiempos convulsos .</output>
+  </s>
+  <s id="176">
+    <input>Luis Felipe <f id="1">stood up</f>  y prendió las luces del comedor .</input>
+    <output>Luis Felipe <f id="1">levantado<alt>se levantó</alt><alt>se ha levantado</alt><alt>defendieron</alt><alt>se alzó</alt></f>  y prendió las luces del comedor .</output>
+  </s>
+  <s id="177">
+    <input>En este momento <f id="1">we interview</f>  el famoso cantante Julio Iglesias .</input>
+    <output>En este momento <f id="1">tenemos entrevista<alt>nos entrevista</alt><alt>estamos entrevista</alt><alt>no entrevista</alt><alt>que entrevista</alt></f>  el famoso cantante Julio Iglesias .</output>
+  </s>
+  <s id="178">
+    <input>Muchos jóvenes <f id="1">believe</f>  que todos los políticos son unos corruptos .</input>
+    <output>Muchos jóvenes <f id="1">creen<alt>creo</alt><alt>, creo</alt><alt>que creo</alt><alt>creer</alt></f>  que todos los políticos son unos corruptos .</output>
+  </s>
+  <s id="179">
+    <input>¿ Qué vas a hacer durante <f id="1">the weekends</f>  ?</input>
+    <output>¿ Qué vas a hacer durante <f id="1">los fines de semana<alt>de los fines de semana</alt><alt>el chorro</alt><alt>la fines de semana</alt><alt>el fines de semana</alt></f>  ?</output>
+  </s>
+  <s id="180">
+    <input>La niña <f id="1">has hurt herself</f>  jugando en el jardín .</input>
+    <output>La niña <f id="1">ha herido misma<alt>ha afectado misma</alt><alt>ha herido ella</alt><alt>ha herido ella misma</alt><alt>ha afectado ella</alt></f>  jugando en el jardín .</output>
+  </s>
+  <s id="181">
+    <input>Si crees que has estado <f id="1">exposed</f>  , anda a consultar a un médico .</input>
+    <output>Si crees que has estado <f id="1">expuestos<alt>expuestas</alt><alt>expuesta</alt><alt>expuesto</alt><alt>están expuestos</alt></f>  , anda a consultar a un médico .</output>
+  </s>
+  <s id="182">
+    <input>Javier es <f id="1">a clown</f>  y se enamora de Natalia .</input>
+    <output>Javier es <f id="1">un payaso<alt>una payaso</alt><alt>un ``Payaso</alt><alt>de un payaso</alt><alt>una ``Payaso</alt></f>  y se enamora de Natalia .</output>
+  </s>
+  <s id="183">
+    <input>El mercado de Barcelona ha sido el que ha sufrido mayores <f id="1">lows</f>  de todas las bolsas .</input>
+    <output>El mercado de Barcelona ha sido el que ha sufrido mayores <f id="1">históricos<alt>mínimos</alt><alt>bajos</alt><alt>mínimos históricos</alt><alt>niveles sin precedentes</alt></f>  de todas las bolsas .</output>
+  </s>
+  <s id="184">
+    <input>La primera sesión de cine que se realizó ante el público fue un verdadero <f id="1">success</f>  .</input>
+    <output>La primera sesión de cine que se realizó ante el público fue un verdadero <f id="1">éxito<alt>éxito ,</alt><alt>éxito de</alt><alt>el éxito</alt><alt>logro</alt></f>  .</output>
+  </s>
+  <s id="185">
+    <input>En aquellos momentos <f id="1">the cyclists</f>  eran partidarios de volver a alzarse .</input>
+    <output>En aquellos momentos <f id="1">los ciclistas<alt>a los ciclistas</alt><alt>la los ciclistas</alt><alt>la ciclistas</alt><alt>el los ciclistas</alt></f>  eran partidarios de volver a alzarse .</output>
+  </s>
+  <s id="186">
+    <input>Han pasado <f id="1">to the opposition party</f>  .</input>
+    <output>Han pasado <f id="1">al partido de la oposición<alt>el partido de la oposición</alt><alt>a el partido de la oposición</alt><alt>para el Partido de la oposición</alt><alt>por el Partido de la oposición</alt></f>  .</output>
+  </s>
+  <s id="187">
+    <input>La misma táctica <f id="1">was employed</f>  por mis compañeros .</input>
+    <output>La misma táctica <f id="1">ha sido empleado<alt>fue empleadas</alt><alt>ha sido contratados</alt><alt>ha sido contratado</alt><alt>ha sido empleadas</alt></f>  por mis compañeros .</output>
+  </s>
+  <s id="188">
+    <input>Los monumentos históricos se deterioran <f id="1">because of</f>  la corrosión .</input>
+    <output>Los monumentos históricos se deterioran <f id="1">porque de<alt>debido a</alt><alt>, porque de</alt><alt>porque</alt><alt>puesto de</alt></f>  la corrosión .</output>
+  </s>
+  <s id="189">
+    <input>Siempre <f id="1">is worth it to</f>  hablar con él</input>
+    <output>Siempre <f id="1">vale la pena a<alt>vale la pena de</alt><alt>merece la pena a</alt><alt>merece la pena de</alt><alt>merece la pena para</alt></f>  hablar con él</output>
+  </s>
+  <s id="190">
+    <input><f id="1">On saturdays</f>  salía muy temprano para ir al mercado .</input>
+    <output><f id="1">Los domingos<alt>Sobre los sábados</alt><alt>En los sábados</alt><alt>De los sábados</alt><alt>El sábado</alt></f>  salía muy temprano para ir al mercado .</output>
+  </s>
+  <s id="191">
+    <input>¿ Cuál es tu <f id="1">relationship</f>  con este asunto de género ?</input>
+    <output>¿ Cuál es tu <f id="1">relación<alt>en relación</alt><alt>la relación</alt><alt>relaciones</alt><alt>de relación</alt></f>  con este asunto de género ?</output>
+  </s>
+  <s id="192">
+    <input>Como la abuela no veía bien , <f id="1">we used to</f>  acompañarla .</input>
+    <output>Como la abuela no veía bien , <f id="1">solíamos<alt>hemos utilizado para</alt><alt>que solía</alt><alt>hemos usado para</alt><alt>que solíamos</alt></f>  acompañarla .</output>
+  </s>
+  <s id="193">
+    <input>Sin <f id="1">paying attention</f>  a la disputa , Ian siguió echando gasolina .</input>
+    <output>Sin <f id="1">prestar atención<alt>prestando atención</alt><alt>prestar la debida atención</alt><alt>se presta atención</alt><alt>de atención</alt></f>  a la disputa , Ian siguió echando gasolina .</output>
+  </s>
+  <s id="194">
+    <input><f id="1">It bothers me that</f>  hagan tanto ruido .</input>
+    <output><f id="1">Me molesta que<alt>Me preocupa que</alt><alt>No me molesta que</alt><alt>Lo que me molesta que</alt><alt>Me molesta que la</alt></f>  hagan tanto ruido .</output>
+  </s>
+  <s id="195">
+    <input>Una visión completa del capital de Rajoy no puede realizarse <f id="1">given that</f>  no se conoce el valor de las viviendas .</input>
+    <output>Una visión completa del capital de Rajoy no puede realizarse <f id="1">, dado que<alt>dado que</alt><alt>puesto que</alt><alt>ya que</alt><alt>dado de que</alt></f>  no se conoce el valor de las viviendas .</output>
+  </s>
+  <s id="196">
+    <input>¿ Qué <f id="1">size</f>  tiene tu cuarto ?</input>
+    <output>¿ Qué <f id="1">tamaño<alt>importancia</alt><alt>dimensión</alt><alt>el tamaño</alt><alt>tamaño de</alt></f>  tiene tu cuarto ?</output>
+  </s>
+  <s id="197">
+    <input>Casualmente estoy necesitando <f id="1">a loan</f>  de alguna entidad bancaria para financiarme un lote en Las Lomas de Pachacamac .</input>
+    <output>Casualmente estoy necesitando <f id="1">un préstamo<alt>un crédito</alt><alt>de un préstamo</alt><alt>el préstamo</alt><alt>una préstamo</alt></f>  de alguna entidad bancaria para financiarme un lote en Las Lomas de Pachacamac .</output>
+  </s>
+  <s id="198">
+    <input>El coche está aparcado <f id="1">there</f>  desde las nueve de la mañana .</input>
+    <output>El coche está aparcado <f id="1">allí<alt>existe</alt><alt>hay</alt><alt>no</alt><alt>,</alt></f>  desde las nueve de la mañana .</output>
+  </s>
+  <s id="199">
+    <input>Las flores son <f id="1">cheap</f>  aquí .</input>
+    <output>Las flores son <f id="1">baratos<alt>baratas</alt><alt>barata</alt><alt>barato</alt><alt>baratas ,</alt></f>  aquí .</output>
+  </s>
+  <s id="200">
+    <input>Por favor , Horacio - dijo la Maga , <f id="1">hugging him</f>  y escondiendo la cara .</input>
+    <output>Por favor , Horacio - dijo la Maga , <f id="1">abrazos él<alt>le abrazos</alt><alt>abrazos de él</alt><alt>él abrazos</alt><alt>abrazos a él</alt></f>  y escondiendo la cara .</output>
+  </s>
+  <s id="201">
+    <input>España y <f id="1">France</f>  siempre han declarado que no se puede negociar sobre la independencia de El País Vasco .</input>
+    <output>España y <f id="1">Francia<alt>Francia ,</alt><alt>Francia que</alt><alt>Francia de</alt><alt>en Francia</alt></f>  siempre han declarado que no se puede negociar sobre la independencia de El País Vasco .</output>
+  </s>
+  <s id="202">
+    <input><f id="1">I feel as if</f>  una parte de mí pertenece a ese mundo en ruinas .</input>
+    <output><f id="1">Me siento como si<alt>Me parece como si</alt><alt>Siento como si</alt><alt>Creo que si</alt><alt>Me siento como si de</alt></f>  una parte de mí pertenece a ese mundo en ruinas .</output>
+  </s>
+  <s id="203">
+    <input><f id="1">Perhaps</f>  esta reforma no sea más que una estrategia de comunicación .</input>
+    <output><f id="1">Quizás<alt>Quizá</alt><alt>Tal vez</alt><alt>Quizá de</alt><alt>Quizás de</alt></f>  esta reforma no sea más que una estrategia de comunicación .</output>
+  </s>
+  <s id="204">
+    <input>La confianza pública en la medicina depende de <f id="1">the honesty</f>  de los profesionales .</input>
+    <output>La confianza pública en la medicina depende de <f id="1">la sinceridad<alt>la honestidad</alt><alt>la honradez</alt><alt>la veracidad</alt><alt>la la honestidad</alt></f>  de los profesionales .</output>
+  </s>
+  <s id="205">
+    <input>Si no <f id="1">take sufficient measures</f>  , se puede conducir al aislamiento .</input>
+    <output>Si no <f id="1">tomamos medidas suficientes<alt>tomar medidas suficientes</alt><alt>tener medidas suficientes</alt><alt>tome medidas suficientes</alt><alt>adoptar medidas suficientes</alt></f>  , se puede conducir al aislamiento .</output>
+  </s>
+  <s id="206">
+    <input>Eso significa que para el gobierno será <f id="1">more difficult</f>  reducir el déficit .</input>
+    <output>Eso significa que para el gobierno será <f id="1">más difícil<alt>más difícil ,</alt><alt>mucho más difícil</alt><alt>más difícil de</alt><alt>aún más difícil</alt></f>  reducir el déficit .</output>
+  </s>
+  <s id="207">
+    <input>Corrigieron las faltas <f id="1">in less than</f>  una hora .</input>
+    <output>Corrigieron las faltas <f id="1">en menos de<alt>que en menos de</alt><alt>de menos de</alt><alt>a menos de</alt><alt>, en menos de</alt></f>  una hora .</output>
+  </s>
+  <s id="208">
+    <input>Mi hermana riega las plantas <f id="1">one time per</f>  semana .</input>
+    <output>Mi hermana riega las plantas <f id="1">de una vez por<alt>una vez por</alt><alt>un tiempo por</alt><alt>una vez cada</alt><alt>uno tiempo por</alt></f>  semana .</output>
+  </s>
+  <s id="209">
+    <input>En la batalla contra las bacterias la guerra está perdida si se emplea <f id="1">brute force</f>  .</input>
+    <output>En la batalla contra las bacterias la guerra está perdida si se emplea <f id="1">la fuerza bruta<alt>a la fuerza bruta</alt><alt>una fuerza brutal</alt><alt>la fuerza brutal</alt><alt>toscos fuerza</alt></f>  .</output>
+  </s>
+  <s id="210">
+    <input>Los niños <f id="1">have to be more careful</f>  .</input>
+    <output>Los niños <f id="1">tienen que ser más cuidadosos<alt>tienen que tener más cuidado</alt><alt>han de tener más cuidado</alt><alt>tienen que ser más cuidadosa</alt><alt>tienen que ser más cautos</alt></f>  .</output>
+  </s>
+  <s id="211">
+    <input>Cuando salen las invitaciones , seimpre me envio una <f id="1">to myself</f>  .</input>
+    <output>Cuando salen las invitaciones , seimpre me envio una <f id="1">a mí<alt>de mí</alt><alt>a mí mismo</alt><alt>de mí mismo</alt><alt>a mí misma</alt></f>  .</output>
+  </s>
+  <s id="212">
+    <input>El incendio había destruido gran parte <f id="1">of the neighbourhood</f>  .</input>
+    <output>El incendio había destruido gran parte <f id="1">de la vecindad<alt>de la política de vecindad</alt><alt>de la de vecindad</alt><alt>de nuestra vecindad</alt><alt>de los países vecinos</alt></f>  .</output>
+  </s>
+  <s id="213">
+    <input>Mi padre siempre <f id="1">brings me</f>  aceite de oliva de España .</input>
+    <output>Mi padre siempre <f id="1">me lleva<alt>me lleva de</alt><alt>me lleva a</alt><alt>me pone</alt><alt>que me lleva</alt></f>  aceite de oliva de España .</output>
+  </s>
+  <s id="214">
+    <input>Todos los veranos vienen muchos turistas <f id="1">to our village</f>  .</input>
+    <output>Todos los veranos vienen muchos turistas <f id="1">a nuestro pueblo<alt>de nuestro pueblo</alt><alt>para nuestro pueblo</alt><alt>que nuestro pueblo</alt><alt>a nuestra aldea</alt></f>  .</output>
+  </s>
+  <s id="215">
+    <input><f id="1">It upsets him that</f>  no haya nada que hacer .</input>
+    <output><f id="1">Se le molesta que<alt>Que le molesta que</alt><alt>No le molesta que</alt><alt>No altera él que</alt><alt>Se altera él que</alt></f>  no haya nada que hacer .</output>
+  </s>
+  <s id="216">
+    <input>Mi <f id="1">younger brother</f>  siempre me pide dinero .</input>
+    <output>Mi <f id="1">hermano menor<alt>hermano pequeño</alt><alt>hermano joven</alt><alt>hermano más joven</alt><alt>joven hermano</alt></f>  siempre me pide dinero .</output>
+  </s>
+  <s id="217">
+    <input>Un joven que <f id="1">is bored</f>  leyendo es un lector adulto que se ha perdido .</input>
+    <output>Un joven que <f id="1">es aburrido<alt>se aburre</alt><alt>es aburridos</alt><alt>se aburrieron</alt><alt>se aburran</alt></f>  leyendo es un lector adulto que se ha perdido .</output>
+  </s>
+  <s id="218">
+    <input><f id="1">Although</f>  se entremataron abundantemente en las guerras civiles , muchos sobrevivieron .</input>
+    <output><f id="1">Aunque<alt>Si bien</alt><alt>Si</alt><alt>A pesar</alt><alt>Aunque la</alt></f>  se entremataron abundantemente en las guerras civiles , muchos sobrevivieron .</output>
+  </s>
+  <s id="219">
+    <input>Los niños y los jóvenes <f id="1">deserve to</f>  disfrutar de la máxima calidad .</input>
+    <output>Los niños y los jóvenes <f id="1">merecen<alt>merecen a</alt><alt>merecen que</alt><alt>merecen para</alt><alt>merecen de</alt></f>  disfrutar de la máxima calidad .</output>
+  </s>
+  <s id="220">
+    <input>Mantengo a nivel mi conocimiento del español <f id="1">reading</f>  mucho .</input>
+    <output>Mantengo a nivel mi conocimiento del español <f id="1">lectura<alt>leyendo</alt><alt>la lectura</alt><alt>de lectura</alt><alt>de la lectura</alt></f>  mucho .</output>
+  </s>
+  <s id="221">
+    <input>Lamento <f id="1">the lack of</f>  espacios verdes .</input>
+    <output>Lamento <f id="1">la falta de<alt>la ausencia de</alt><alt>la falta de la</alt><alt>la falta de los</alt><alt>la falta de de</alt></f>  espacios verdes .</output>
+  </s>
+  <s id="222">
+    <input>El PSOE espera <f id="1">regain the trust</f>  de los españoles .</input>
+    <output>El PSOE espera <f id="1">recuperar la confianza<alt>recobrar la confianza</alt><alt>recuperar la la confianza</alt><alt>a recuperar la confianza</alt><alt>recuperar la confianza del</alt></f>  de los españoles .</output>
+  </s>
+  <s id="223">
+    <input>Hay inocentes imágenes <f id="1">with a certain degree of</f>  doble sentido .</input>
+    <output>Hay inocentes imágenes <f id="1">con un cierto grado de<alt>con cierto grado de</alt><alt>con un determinado grado de</alt><alt>con una cierta</alt><alt>con un cierto grado de la</alt></f>  doble sentido .</output>
+  </s>
+  <s id="224">
+    <input>Robert Angus Smith , un químico inglés , <f id="1">first used</f>  la expresión lluvia ácida .</input>
+    <output>Robert Angus Smith , un químico inglés , <f id="1">en primer usa<alt>en primer lugar usa</alt><alt>primera usa</alt><alt>primer usa</alt><alt>primera utiliza</alt></f>  la expresión lluvia ácida .</output>
+  </s>
+  <s id="225">
+    <input>Se necesitan <f id="1">more funds</f>  para ese estudio de mercado .</input>
+    <output>Se necesitan <f id="1">más fondos<alt>más recursos</alt><alt>más fondos europeos</alt><alt>de más fondos</alt><alt>más los fondos</alt></f>  para ese estudio de mercado .</output>
+  </s>
+  <s id="226">
+    <input>El representante del sindicato insistió a los trabajadores <f id="1">on strike</f>  a que continuaran presionando a la junta directiva de la empresa .</input>
+    <output>El representante del sindicato insistió a los trabajadores <f id="1">en huelga<alt>a la huelga</alt><alt>en huelga ,</alt><alt>de huelga</alt><alt>sobre la huelga</alt></f>  a que continuaran presionando a la junta directiva de la empresa .</output>
+  </s>
+  <s id="227">
+    <input>Oímos un programa <f id="1">very strange</f>  en la radio .</input>
+    <output>Oímos un programa <f id="1">muy extraño<alt>muy extrañas</alt><alt>muy extraña</alt><alt>muy raro</alt><alt>muy extraño ,</alt></f>  en la radio .</output>
+  </s>
+  <s id="228">
+    <input><f id="1">They treated him</f>  con respeto porque era muy rico .</input>
+    <output><f id="1">Se trata él<alt>Tratan él</alt><alt>Se trata de él</alt><alt>Tratan de él</alt><alt>Trataron a él</alt></f>  con respeto porque era muy rico .</output>
+  </s>
+  <s id="229">
+    <input>En la actualidad se cuenta con la medicina <f id="1">most advanced</f>  .</input>
+    <output>En la actualidad se cuenta con la medicina <f id="1">más avanzados<alt>más avanzadas</alt><alt>más avanzado</alt><alt>más avanzada</alt><alt>los más avanzados</alt></f>  .</output>
+  </s>
+  <s id="230">
+    <input>Sus físicas le permitieron <f id="1">longevity</f>  extraordinaria .</input>
+    <output>Sus físicas le permitieron <f id="1">la longevidad<alt>longevidad</alt><alt>la longevidad humana</alt></f>  extraordinaria .</output>
+  </s>
+  <s id="231">
+    <input>Si era así , el dragón tenía que ser muy poderoso , y muy difícil <f id="1">to</f>  vencer .</input>
+    <output>Si era así , el dragón tenía que ser muy poderoso , y muy difícil <f id="1">de<alt>para</alt><alt>a</alt><alt>que</alt><alt>,</alt></f>  vencer .</output>
+  </s>
+  <s id="232">
+    <input>De nuevo , el hombre <f id="1">has played a role</f>  en esta expansión de especies extranjeras .</input>
+    <output>De nuevo , el hombre <f id="1">ha desempeñado un papel<alt>ha desempeñado un papel importante</alt><alt>ha jugado un papel importante</alt><alt>ha jugado un papel</alt><alt>ha desempeñado un importante papel</alt></f>  en esta expansión de especies extranjeras .</output>
+  </s>
+  <s id="233">
+    <input>Y hacer un mayor esfuerzo <f id="1">to try to</f>  alcanzar una mayor competitividad .</input>
+    <output>Y hacer un mayor esfuerzo <f id="1">para intentar<alt>para tratar de</alt><alt>de intentar</alt><alt>a intentar</alt><alt>intentar</alt></f>  alcanzar una mayor competitividad .</output>
+  </s>
+  <s id="234">
+    <input>No permiten <f id="1">to smoke</f>  en este local .</input>
+    <output>No permiten <f id="1">a fumar<alt>fumar</alt><alt>que fumar</alt><alt>a humo</alt><alt>de fumar</alt></f>  en este local .</output>
+  </s>
+  <s id="235">
+    <input>Lo hizo <f id="1">in</f>  sólo dos horas .</input>
+    <output>Lo hizo <f id="1">en<alt>, en</alt><alt>en el</alt><alt>en la</alt><alt>de</alt></f>  sólo dos horas .</output>
+  </s>
+  <s id="236">
+    <input>Treinta días después de haber sufrido un atraco , un joven reconoce a su <f id="1">presumed</f>  atracador .</input>
+    <output>Treinta días después de haber sufrido un atraco , un joven reconoce a su <f id="1">supuesta<alt>presunta</alt><alt>presunto</alt><alt>presunción</alt><alt>la presunta</alt></f>  atracador .</output>
+  </s>
+  <s id="237">
+    <input>Nunca se besan <f id="1">in public</f>  .</input>
+    <output>Nunca se besan <f id="1">en público<alt>en el público</alt><alt>a la opinión pública</alt><alt>público</alt><alt>públicas</alt></f>  .</output>
+  </s>
+  <s id="238">
+    <input>La nueva carretera de circunvalación de la ciudad de Málaga <f id="1">has been completed</f>  este jueves .</input>
+    <output>La nueva carretera de circunvalación de la ciudad de Málaga <f id="1">ha concluido<alt>se ha completado</alt><alt>ha completado</alt><alt>ha sido completado</alt><alt>ha finalizado</alt></f>  este jueves .</output>
+  </s>
+  <s id="239">
+    <input>Nunca había visto <f id="1">so many people</f>  en el hogar .</input>
+    <output>Nunca había visto <f id="1">tanta gente<alt>a tantas personas</alt><alt>tantas personas</alt><alt>muchas personas</alt><alt>que tantas personas</alt></f>  en el hogar .</output>
+  </s>
+  <s id="240">
+    <input>El <f id="1">poor elephant</f>  va a morir .</input>
+    <output>El <f id="1">elefante pobres<alt>pobre elefante</alt><alt>elefante pobre</alt><alt>pobre del elefante</alt><alt>elefante deficiente</alt></f>  va a morir .</output>
+  </s>
+  <s id="241">
+    <input>En primavera hay tantos <f id="1">birds</f>  en el castaño que me despiertan por la mañana .</input>
+    <output>En primavera hay tantos <f id="1">aves<alt>las aves</alt><alt>pájaros</alt><alt>de aves</alt><alt>de las aves</alt></f>  en el castaño que me despiertan por la mañana .</output>
+  </s>
+  <s id="242">
+    <input>Tienes que tener más confianza <f id="1">in yourself</f>  .</input>
+    <output>Tienes que tener más confianza <f id="1">en usted<alt>en uno mismo</alt><alt>en sí mismo</alt><alt>en el mismo</alt><alt>en usted mismo</alt></f>  .</output>
+  </s>
+  <s id="243">
+    <input>Activar <f id="1">the circulatory system</f>  de esta manera es necesario para la prevención de resfriados y para la salud de las arterias .</input>
+    <output>Activar <f id="1">el sistema circulatorias<alt>el sistema problamas</alt><alt>el sistema circulatorios</alt><alt>el sistema de circulatorias</alt><alt>el sistema de problamas</alt></f>  de esta manera es necesario para la prevención de resfriados y para la salud de las arterias .</output>
+  </s>
+  <s id="244">
+    <input><f id="1">On the left</f>  se encuentra el Palacio Real .</input>
+    <output><f id="1">En la izquierda<alt>De la izquierda</alt><alt>A la izquierda</alt><alt>La izquierda</alt><alt>Por la izquierda</alt></f>  se encuentra el Palacio Real .</output>
+  </s>
+  <s id="245">
+    <input>La policía cree que los asesinatos de las dos mujeres pueden haber sido obra de <f id="1">a serial killer</f>  , pero recalca que aún es pronto para llegar a esta conclusión .</input>
+    <output>La policía cree que los asesinatos de las dos mujeres pueden haber sido obra de <f id="1">un asesino en serie<alt>de un asesino en serie</alt><alt>una asesino en serie</alt><alt>a un asesino en serie</alt><alt>el asesino en serie</alt></f>  , pero recalca que aún es pronto para llegar a esta conclusión .</output>
+  </s>
+  <s id="246">
+    <input>No me gusta ese <f id="1">smell</f>  de azufre .</input>
+    <output>No me gusta ese <f id="1">olor<alt>olor a</alt><alt>aroma</alt><alt>huele</alt><alt>oler</alt></f>  de azufre .</output>
+  </s>
+  <s id="247">
+    <input>Se espera centralizar los paquetes disponibles <f id="1">increasing</f>  la presión a la Administración española .</input>
+    <output>Se espera centralizar los paquetes disponibles <f id="1">aumentar<alt>aumentando</alt><alt>incrementar</alt><alt>de aumentar</alt><alt>aumento de</alt></f>  la presión a la Administración española .</output>
+  </s>
+  <s id="248">
+    <input>Joaquín <f id="1">left his room</f>  y bajó al comedor .</input>
+    <output>Joaquín <f id="1">dejó su margen<alt>izquierda su espacio</alt><alt>dejaron su margen</alt><alt>dejó su espacio</alt><alt>nórdica su espacio</alt></f>  y bajó al comedor .</output>
+  </s>
+  <s id="249">
+    <input>No me vas a convencer , es inútil que lo repitas <f id="1">again</f>  , ya te he oído bien la primera vez .</input>
+    <output>No me vas a convencer , es inútil que lo repitas <f id="1">de nuevo<alt>nuevo</alt><alt>una vez más</alt><alt>otra vez</alt><alt>más</alt></f>  , ya te he oído bien la primera vez .</output>
+  </s>
+  <s id="250">
+    <input>El divorcio , por ejemplo , <f id="1">has made possible</f>  que el matrimonio no sea forzosamente para toda la vida .</input>
+    <output>El divorcio , por ejemplo , <f id="1">ha hecho posible<alt>se ha hecho posible</alt><alt>ha permitido</alt><alt>ha sido posible</alt><alt>que ha hecho posible</alt></f>  que el matrimonio no sea forzosamente para toda la vida .</output>
+  </s>
+  <s id="251">
+    <input>Joaquín estaba en su cuarto , <f id="1">reading</f>  un libro sobre la historia de los mundiales de fútbol .</input>
+    <output>Joaquín estaba en su cuarto , <f id="1">lectura<alt>leyendo</alt><alt>leer</alt><alt>la lectura</alt><alt>la lectura de</alt></f>  un libro sobre la historia de los mundiales de fútbol .</output>
+  </s>
+  <s id="252">
+    <input><f id="1">During</f>  el desfile se pidió silencio y se apeló al respeto hacia los militares .</input>
+    <output><f id="1">Durante<alt>En</alt><alt>Durante la</alt><alt>Durante el</alt><alt>Durante los</alt></f>  el desfile se pidió silencio y se apeló al respeto hacia los militares .</output>
+  </s>
+  <s id="253">
+    <input>Ya caen hojas <f id="1">everywhere</f>  en nuestro jardín .</input>
+    <output>Ya caen hojas <f id="1">en todas partes<alt>de todas partes</alt><alt>por todas partes</alt><alt>partes</alt><alt>todas partes</alt></f>  en nuestro jardín .</output>
+  </s>
+  <s id="254">
+    <input>Si ellos no <f id="1">receive treatment</f>  , pueden seguir transmitiendo la infección a otras personas .</input>
+    <output>Si ellos no <f id="1">reciben tratamiento<alt>recibir tratamiento</alt><alt>reciben el tratamiento</alt><alt>reciben un tratamiento</alt><alt>recibe tratamiento</alt></f>  , pueden seguir transmitiendo la infección a otras personas .</output>
+  </s>
+  <s id="255">
+    <input>Esta universidad tiene sedes en Piamonte y Emilia Romana , <f id="1">both</f>  al norte del país .</input>
+    <output>Esta universidad tiene sedes en Piamonte y Emilia Romana , <f id="1">tanto<alt>ambos</alt><alt>ambas</alt><alt>tanto a</alt><alt>, tanto</alt></f>  al norte del país .</output>
+  </s>
+  <s id="256">
+    <input>La empresa Nuevas Tecnologias y Energias Catala ( NT-K ) ha ganado el recurso interpuesto contra <f id="1">the sentence</f>  de 2010 de un tribunal municipal que dictaba que NT-K no continuara importando a España la tableta que fabricaba en China .</input>
+    <output>La empresa Nuevas Tecnologias y Energias Catala ( NT-K ) ha ganado el recurso interpuesto contra <f id="1">la frase<alt>la sentencia</alt><alt>la pena</alt><alt>la condena</alt><alt>la muerte</alt></f>  de 2010 de un tribunal municipal que dictaba que NT-K no continuara importando a España la tableta que fabricaba en China .</output>
+  </s>
+  <s id="257">
+    <input>La elevación de la temperatura de las aguas fue reconocida por <f id="1">fishermen</f>  peruanos .</input>
+    <output>La elevación de la temperatura de las aguas fue reconocida por <f id="1">los pescadores<alt>pescadores</alt><alt>los pescadores de</alt><alt>a los pescadores</alt><alt>de los pescadores</alt></f>  peruanos .</output>
+  </s>
+  <s id="258">
+    <input>Llueve <f id="1">less</f>  y cada vez más personas viven cerca del mar .</input>
+    <output>Llueve <f id="1">menos<alt>de menos</alt><alt>menor</alt><alt>a menos</alt><alt>, menos</alt></f>  y cada vez más personas viven cerca del mar .</output>
+  </s>
+  <s id="259">
+    <input>Los vehículos circulan con absoluta normalidad <f id="1">thanks to</f>  la red de túneles que recorre toda la ciudad .</input>
+    <output>Los vehículos circulan con absoluta normalidad <f id="1">gracias a<alt>, gracias a</alt><alt>agradecimiento a</alt><alt>gracias a que</alt><alt>las gracias a</alt></f>  la red de túneles que recorre toda la ciudad .</output>
+  </s>
+  <s id="260">
+    <input>Este <f id="1">increase</f>  ha propiciado el saneamento financiero de las empresas .</input>
+    <output>Este <f id="1">incremento<alt>aumento</alt><alt>aumento de</alt><alt>incremento de</alt><alt>aumentar</alt></f>  ha propiciado el saneamento financiero de las empresas .</output>
+  </s>
+  <s id="261">
+    <input>Sí , pero <f id="1">don 't worry</f>  , es sólo un niño .</input>
+    <output>Sí , pero <f id="1">no te preocupes<alt>no se preocupen</alt><alt>tranquilícese</alt><alt>¿ no te preocupes</alt><alt>no se preocupe</alt></f>  , es sólo un niño .</output>
+  </s>
+  <s id="262">
+    <input>El niño <f id="1">does as if</f>  bebiera de una taza .</input>
+    <output>El niño <f id="1">hace como si<alt>, como si</alt><alt>tiene como si</alt><alt>no como si</alt><alt>no hace como si</alt></f>  bebiera de una taza .</output>
+  </s>
+  <s id="263">
+    <input><f id="1">It is a pity</f>  que ellos no vuelvan más pronto .</input>
+    <output><f id="1">Es una lástima<alt>Es una pena</alt><alt>Es una lástima que</alt><alt>Es lamentable</alt><alt>Que es una lástima</alt></f>  que ellos no vuelvan más pronto .</output>
+  </s>
+  <s id="264">
+    <input>El dentista me sacó dos <f id="1">molars</f>  .</input>
+    <output>El dentista me sacó dos <f id="1">molars</f>  .</output>
+  </s>
+  <s id="265">
+    <input>Pero a la una y cuarto se abrió la puerta y <f id="1">appeared</f>  el hombre .</input>
+    <output>Pero a la una y cuarto se abrió la puerta y <f id="1">apareció<alt>parecía</alt><alt>compareció</alt><alt>aparecieron</alt><alt>aparecido</alt></f>  el hombre .</output>
+  </s>
+  <s id="266">
+    <input>Es dificil <f id="1">foresee</f>  en este momento todas las consecuencias .</input>
+    <output>Es dificil <f id="1">prever<alt>de prever</alt><alt>prevén</alt><alt>predecir</alt><alt>preveo</alt></f>  en este momento todas las consecuencias .</output>
+  </s>
+  <s id="267">
+    <input>Ossip <f id="1">will follow you</f>  a dos metros de distancia .</input>
+    <output>Ossip <f id="1">seguirá usted<alt>siga usted</alt><alt>seguirán usted</alt><alt>sigan usted</alt><alt>sigan ustedes</alt></f>  a dos metros de distancia .</output>
+  </s>
+  <s id="268">
+    <input>La calle donde vivo está <f id="1">close to</f>  la oficina .</input>
+    <output>La calle donde vivo está <f id="1">cerca de<alt>próxima a</alt><alt>cercana a</alt><alt>cercano a</alt><alt>cerca</alt></f>  la oficina .</output>
+  </s>
+  <s id="269">
+    <input>El líder <f id="1">xenophobic</f>  Wilders propone que Holanda abandone la UE .</input>
+    <output>El líder <f id="1">xenófobos<alt>xenófobas</alt><alt>xenófobo</alt><alt>xenófoba</alt><alt>de xenofobia</alt></f>  Wilders propone que Holanda abandone la UE .</output>
+  </s>
+  <s id="270">
+    <input><f id="1">It seems that</f>  entre tú y yo nos hemos bebido las dos botellas .</input>
+    <output><f id="1">Parece que<alt>Me parece que</alt><alt>Parece ser que</alt><alt>No parece que</alt><alt>Nos parece que</alt></f>  entre tú y yo nos hemos bebido las dos botellas .</output>
+  </s>
+  <s id="271">
+    <input>No hay niño <f id="1">better</f>  que él , no llora nunca .</input>
+    <output>No hay niño <f id="1">mejor<alt>una mejor</alt><alt>mejores</alt><alt>un mejor</alt><alt>la mejor</alt></f>  que él , no llora nunca .</output>
+  </s>
+  <s id="272">
+    <input>El interés del menor prevalece sobre <f id="1">any other</f>  .</input>
+    <output>El interés del menor prevalece sobre <f id="1">cualquier otro<alt>cualquier otra</alt><alt>ningún otro</alt><alt>ninguna otra</alt><alt>otros</alt></f>  .</output>
+  </s>
+  <s id="273">
+    <input>Es ese momento <f id="1">happened</f>  dos cosas .</input>
+    <output>Es ese momento <f id="1">ocurrió<alt>sucedió</alt><alt>ocurrido</alt><alt>ha ocurrido</alt><alt>sucedido</alt></f>  dos cosas .</output>
+  </s>
+  <s id="274">
+    <input>En caso de que tuviera lugar la formación de una nueva isla , se podría convertir en una atracción <f id="1">first degree</f>  , como apuntan las expectativas .</input>
+    <output>En caso de que tuviera lugar la formación de una nueva isla , se podría convertir en una atracción <f id="1">de primer grado<alt>primer grado</alt><alt>primera grado</alt><alt>primera medida</alt><alt>en primer grado</alt></f>  , como apuntan las expectativas .</output>
+  </s>
+  <s id="275">
+    <input>Para parar este modo de grabar , <f id="1">push</f>  la tecla PARAR , o bien PAUSA .</input>
+    <output>Para parar este modo de grabar , <f id="1">impulsar<alt>presionar</alt><alt>empujar</alt><alt>fomentar</alt><alt>promover</alt></f>  la tecla PARAR , o bien PAUSA .</output>
+  </s>
+  <s id="276">
+    <input>Ya se lo dije <f id="1">before</f>  .</input>
+    <output>Ya se lo dije <f id="1">antes<alt>antes de</alt><alt>antes de que</alt><alt>antes que</alt><alt>ante</alt></f>  .</output>
+  </s>
+  <s id="277">
+    <input>Dicen que <f id="1">the biggest danger</f>  está en los Ayuntamientos .</input>
+    <output>Dicen que <f id="1">el mayor peligro<alt>el mayor riesgo</alt><alt>la mayor peligro</alt><alt>el mayor peligro de</alt><alt>el principal peligro</alt></f>  está en los Ayuntamientos .</output>
+  </s>
+  <s id="278">
+    <input>Nuestra <f id="1">birthrate</f>  es baja y la población envejece .</input>
+    <output>Nuestra <f id="1">natalidad</f>  es baja y la población envejece .</output>
+  </s>
+  <s id="279">
+    <input>¿ Cuál es el precio <f id="1">per hour</f>  ?</input>
+    <output>¿ Cuál es el precio <f id="1">por hora<alt>por hora de</alt><alt>de euros hora</alt><alt>euros por hora</alt><alt>de por hora</alt></f>  ?</output>
+  </s>
+  <s id="280">
+    <input>El libro <f id="1">is written</f>  en el español del siglo XVI .</input>
+    <output>El libro <f id="1">está escrito<alt>está escrita</alt><alt>, escrito</alt><alt>está inscrito</alt><alt>está redactado</alt></f>  en el español del siglo XVI .</output>
+  </s>
+  <s id="281">
+    <input><f id="1">At last</f>  pude hablar con ella .</input>
+    <output><f id="1">En el pasado<alt>En última</alt><alt>Por último</alt><alt>En la última</alt><alt>En último</alt></f>  pude hablar con ella .</output>
+  </s>
+  <s id="282">
+    <input>Había tan poca que , tratara como tratara , no podía alcanzarla con su <f id="1">beak</f>  .</input>
+    <output>Había tan poca que , tratara como tratara , no podía alcanzarla con su <f id="1">pico</f>  .</output>
+  </s>
+  <s id="283">
+    <input>La construcción de este nuevo <f id="1">railway</f>  acabará conectando el Norte de África con las grandes ciudades .</input>
+    <output>La construcción de este nuevo <f id="1">ferroviaria<alt>tren</alt><alt>ferrocarril</alt><alt>el ferrocarril</alt><alt>ferroviario</alt></f>  acabará conectando el Norte de África con las grandes ciudades .</output>
+  </s>
+  <s id="284">
+    <input>Fuentes <f id="1">reliable</f>  afirman que fue así como sucedió .</input>
+    <output>Fuentes <f id="1">fiables<alt>fiable</alt><alt>confiables</alt><alt>fiables de</alt><alt>fiables de la</alt></f>  afirman que fue así como sucedió .</output>
+  </s>
+  <s id="285">
+    <input>A pesar de <f id="1">the measures</f>  , a los jóvenes les es más difícil acceder al empleo .</input>
+    <output>A pesar de <f id="1">las medidas<alt>las medidas que</alt><alt>que las medidas</alt><alt>las medidas de las</alt><alt>las medidas de</alt></f>  , a los jóvenes les es más difícil acceder al empleo .</output>
+  </s>
+  <s id="286">
+    <input>Mañana vamos a <f id="1">the swimming pool</f>  .</input>
+    <output>Mañana vamos a <f id="1">la piscina<alt>los piscina</alt><alt>la piscina particular</alt><alt>de la piscina</alt><alt>las piscina</alt></f>  .</output>
+  </s>
+  <s id="287">
+    <input>Mi sobrina y yo <f id="1">are much alike</f>  .</input>
+    <output>Mi sobrina y yo <f id="1">son mucho por igual<alt>estamos mucho por igual</alt><alt>están mucho por igual</alt><alt>somos mucho por igual</alt><alt>mucho por igual</alt></f>  .</output>
+  </s>
+  <s id="288">
+    <input>La gente quiere <f id="1">relax</f>  durante las vacaciones .</input>
+    <output>La gente quiere <f id="1">relajar<alt>relajarse</alt><alt>liberalizar</alt><alt>descansar</alt><alt>relajemos</alt></f>  durante las vacaciones .</output>
+  </s>
+  <s id="289">
+    <input>Un cuervo <f id="1">thirsty</f>  encontró un cántaro con algo de agua .</input>
+    <output>Un cuervo <f id="1">sedientas<alt>sed</alt><alt>sedientos</alt><alt>encuentre sediento</alt></f>  encontró un cántaro con algo de agua .</output>
+  </s>
+  <s id="290">
+    <input>El 12 de octubre de 1492 <f id="1">arrived</f>  Colón al continente americano .</input>
+    <output>El 12 de octubre de 1492 <f id="1">llegado<alt>llegaron</alt><alt>llegó</alt><alt>llegué</alt><alt>ha llegado</alt></f>  Colón al continente americano .</output>
+  </s>
+  <s id="291">
+    <input>Después de un accidente se rellenan los formularios necesarios para <f id="1">the insurance companies</f>  .</input>
+    <output>Después de un accidente se rellenan los formularios necesarios para <f id="1">las compañías de seguros<alt>las empresas de seguros</alt><alt>las compañías aseguradoras</alt><alt>las compañías de seguro</alt><alt>las aseguradoras</alt></f>  .</output>
+  </s>
+  <s id="292">
+    <input>Los analistas opinan que la empresa no está <f id="1">in risk of</f>  sucumbir .</input>
+    <output>Los analistas opinan que la empresa no está <f id="1">en riesgo de<alt>en peligro de</alt><alt>el riesgo de</alt><alt>en el riesgo de</alt><alt>en riesgo de la</alt></f>  sucumbir .</output>
+  </s>
+  <s id="293">
+    <input>Recientemente se confirmó la participación de una serie de actores en la vigésimo tercera <f id="1">film</f>  de James Bond .</input>
+    <output>Recientemente se confirmó la participación de una serie de actores en la vigésimo tercera <f id="1">película<alt>cine</alt><alt>la película</alt><alt>películas</alt><alt>de cine</alt></f>  de James Bond .</output>
+  </s>
+  <s id="294">
+    <input>Puedes escoger <f id="1">any</f>  libro .</input>
+    <output>Puedes escoger <f id="1">cualquier<alt>ningún</alt><alt>un</alt><alt>alguna</alt><alt>ninguna</alt></f>  libro .</output>
+  </s>
+  <s id="295">
+    <input>La señorita <f id="1">who</f>  preguntó por ti es muy guapa .</input>
+    <output>La señorita <f id="1">que<alt>quién</alt><alt>quienes</alt><alt>quien</alt><alt>, que</alt></f>  preguntó por ti es muy guapa .</output>
+  </s>
+  <s id="296">
+    <input>Yo no <f id="1">paid the bill</f>  , porque no tenía suficiente dinero .</input>
+    <output>Yo no <f id="1">pagar la factura<alt>pagan la factura</alt><alt>paga la factura</alt><alt>paguen la factura</alt><alt>pague la factura</alt></f>  , porque no tenía suficiente dinero .</output>
+  </s>
+  <s id="297">
+    <input>Querer a dos mujeres <f id="1">at the same time</f>  era comun para él .</input>
+    <output>Querer a dos mujeres <f id="1">al mismo tiempo<alt>al mismo tiempo ,</alt><alt>, al mismo tiempo</alt><alt>en el mismo tiempo</alt><alt>que al mismo tiempo</alt></f>  era comun para él .</output>
+  </s>
+  <s id="298">
+    <input><f id="1">The domino effect</f>  sobre la economía del país sería inmediato .</input>
+    <output><f id="1">El efecto dominó<alt>El efecto dominó en</alt><alt>El efecto de dominó</alt><alt>El efecto dominó ,</alt><alt>Un efecto dominó</alt></f>  sobre la economía del país sería inmediato .</output>
+  </s>
+  <s id="299">
+    <input>Vivimos <f id="1">together</f>  desde hace uns meses .</input>
+    <output>Vivimos <f id="1">juntos<alt>junto</alt><alt>juntos ,</alt><alt>conjuntamente</alt><alt>, junto</alt></f>  desde hace uns meses .</output>
+  </s>
+  <s id="300">
+    <input>España sería uno de <f id="1">the western countries</f>  mas perjudicados en el caso de una recesión económica mundial .</input>
+    <output>España sería uno de <f id="1">los países occidentales<alt>los países de Europa Occidental</alt><alt>los países occidentales ,</alt><alt>los de los países occidentales</alt><alt>los los países occidentales</alt></f>  mas perjudicados en el caso de una recesión económica mundial .</output>
+  </s>
+  <s id="301">
+    <input>El gobierno <f id="1">hopes that</f>  las nuevas iniciativas se aprueben lo antes posible .</input>
+    <output>El gobierno <f id="1">espera que<alt>espera que con</alt><alt>espera que ,</alt><alt>espera que el</alt><alt>espera de</alt></f>  las nuevas iniciativas se aprueben lo antes posible .</output>
+  </s>
+  <s id="302">
+    <input>En política interior , Alemania <f id="1">turns towards</f>  el centro .</input>
+    <output>En política interior , Alemania <f id="1">se convierte hacia<alt>se vuelve hacia</alt><alt>convierte hacia</alt><alt>vuelve hacia</alt><alt>se convierte en</alt></f>  el centro .</output>
+  </s>
+  <s id="303">
+    <input>Ese político es <f id="1">worse</f>  que el diablo .</input>
+    <output>Ese político es <f id="1">peor<alt>aún peor</alt><alt>lo peor</alt><alt>peor es</alt><alt>peor ,</alt></f>  que el diablo .</output>
+  </s>
+  <s id="304">
+    <input>Un día descubrí que entre mis <f id="1">ancestors</f>  había un historiador y profesor universitario .</input>
+    <output>Un día descubrí que entre mis <f id="1">antepasados<alt>ancestros</alt><alt>antepasados la</alt><alt>antecesores</alt><alt>antepasados .</alt></f>  había un historiador y profesor universitario .</output>
+  </s>
+  <s id="305">
+    <input>Se puede llamar al Rey en cualquier momento <f id="1">in case of</f>  necesidad .</input>
+    <output>Se puede llamar al Rey en cualquier momento <f id="1">en caso de<alt>, en caso de</alt><alt>en el caso de</alt><alt>en caso de la</alt><alt>en caso de que</alt></f>  necesidad .</output>
+  </s>
+  <s id="306">
+    <input>Los estudiantes exigen que el Estado les dé <f id="1">an equal salary</f>  .</input>
+    <output>Los estudiantes exigen que el Estado les dé <f id="1">igualdad de salario<alt>un mismo salario</alt><alt>igualdad de sueldo</alt><alt>una igualdad de salario</alt><alt>un igualdad de salario</alt></f>  .</output>
+  </s>
+  <s id="307">
+    <input>En <f id="1">the kitchen</f>  hay comida .</input>
+    <output>En <f id="1">la cocina<alt>la cocina ,</alt><alt>el cocina</alt><alt>los cocina</alt><alt>el cocina ,</alt></f>  hay comida .</output>
+  </s>
+  <s id="308">
+    <input>Es posible que la lotería <f id="1">turns me into</f>  el hombre más rico del mundo .</input>
+    <output>Es posible que la lotería <f id="1">convierte a mí en<alt>me convierte en</alt><alt>convierte mí en</alt><alt>me se convierte en</alt><alt>se convierte mí en</alt></f>  el hombre más rico del mundo .</output>
+  </s>
+  <s id="309">
+    <input>Los huelguistas <f id="1">oppose</f>  la privatización de AENA .</input>
+    <output>Los huelguistas <f id="1">oponerse a<alt>se oponen a</alt><alt>oponernos a</alt><alt>oponerme a</alt><alt>oponerse</alt></f>  la privatización de AENA .</output>
+  </s>
+  <s id="310">
+    <input>Yo estaba bastante <f id="1">drunk</f>  y vos apareciste en la esquina y nos quedamos mirándonos como idiotas .</input>
+    <output>Yo estaba bastante <f id="1">bebido<alt>bebidos</alt><alt>borracho</alt><alt>beber</alt><alt>emborrache</alt></f>  y vos apareciste en la esquina y nos quedamos mirándonos como idiotas .</output>
+  </s>
+  <s id="311">
+    <input><f id="1">Don 't put</f>  los codos en la mesa .</input>
+    <output><f id="1">Don ' t poner<alt>Don ' t ponen</alt><alt>Don ' t puesto</alt><alt>Don ' t ponga</alt><alt>Don ' t a</alt></f>  los codos en la mesa .</output>
+  </s>
+  <s id="312">
+    <input>Aunque volcanes e <f id="1">fires</f>  también contaminen , el fenómeno de la lluvia ácida surge con la revolución industrial .</input>
+    <output>Aunque volcanes e <f id="1">incendios<alt>incendios forestales</alt><alt>forestales</alt><alt>incendios que</alt><alt>incendios de</alt></f>  también contaminen , el fenómeno de la lluvia ácida surge con la revolución industrial .</output>
+  </s>
+  <s id="313">
+    <input>Los niños tienes pocas ocasiones para jugar <f id="1">freely</f>  .</input>
+    <output>Los niños tienes pocas ocasiones para jugar <f id="1">libremente<alt>libremente ,</alt><alt>libremente de</alt><alt>libremente la</alt><alt>libremente a</alt></f>  .</output>
+  </s>
+  <s id="314">
+    <input>No todo ha sido <f id="1">a breeze</f>  para el nuevo ariete del Barça .</input>
+    <output>No todo ha sido <f id="1">una brisa<alt>un brisa</alt><alt>la brisa</alt><alt>una Breeze</alt><alt>un Breeze</alt></f>  para el nuevo ariete del Barça .</output>
+  </s>
+  <s id="315">
+    <input>El movimiento tiene que aclarar que <f id="1">the ceasefire</f>  no es temporal .</input>
+    <output>El movimiento tiene que aclarar que <f id="1">el alto el fuego<alt>el fuego</alt><alt>el alto el fuego de</alt><alt>la fuego</alt><alt>el alto el fuego ,</alt></f>  no es temporal .</output>
+  </s>
+  <s id="316">
+    <input>También quiero <f id="1">thank</f>  a mi hermana Ximena y mi hermanito Fernando por ser tan buenos conmigo y por hacerme regalitos tan bonitos .</input>
+    <output>También quiero <f id="1">dar las gracias<alt>agradecer</alt><alt>gracias</alt><alt>felicitar</alt><alt>dar gracias</alt></f>  a mi hermana Ximena y mi hermanito Fernando por ser tan buenos conmigo y por hacerme regalitos tan bonitos .</output>
+  </s>
+  <s id="317">
+    <input>Cada día mi abuelo viene <f id="1">on foot</f>  .</input>
+    <output>Cada día mi abuelo viene <f id="1">a pie<alt>en pie</alt><alt>sobre la fiebre</alt><alt>a pagar</alt><alt>de pie</alt></f>  .</output>
+  </s>
+  <s id="318">
+    <input>La gente <f id="1">in general</f>  espera que el PSOE vencerá .</input>
+    <output>La gente <f id="1">en general<alt>en general ,</alt><alt>, en general</alt><alt>en general en</alt><alt>en general se</alt></f>  espera que el PSOE vencerá .</output>
+  </s>
+  <s id="319">
+    <input>Los opositores <f id="1">dismissed</f>  el asunto .</input>
+    <output>Los opositores <f id="1">desestimó<alt>destituyó</alt><alt>desechó</alt><alt>despidieron</alt><alt>despedido</alt></f>  el asunto .</output>
+  </s>
+  <s id="320">
+    <input>Se van a crear <f id="1">more than</f>  cuarenta nuevos titulos universitarios .</input>
+    <output>Se van a crear <f id="1">más de<alt>más que</alt><alt>más</alt><alt>más del</alt><alt>de más de</alt></f>  cuarenta nuevos titulos universitarios .</output>
+  </s>
+  <s id="321">
+    <input>Su medio siglo de trayectoria fue un experimento continuo donde primó <f id="1">the search for</f>  métodos de expresión .</input>
+    <output>Su medio siglo de trayectoria fue un experimento continuo donde primó <f id="1">la búsqueda de<alt>en la búsqueda de</alt><alt>de la búsqueda de</alt><alt>a la búsqueda de</alt><alt>la búsqueda de la</alt></f>  métodos de expresión .</output>
+  </s>
+  <s id="322">
+    <input>Los emigrantes españoles <f id="1">demand</f>  una enseñanza adecuada .</input>
+    <output>Los emigrantes españoles <f id="1">demanda<alt>la demanda</alt><alt>exigir</alt><alt>exigen</alt><alt>de la demanda</alt></f>  una enseñanza adecuada .</output>
+  </s>
+  <s id="323">
+    <input>Mi <f id="1">eldest son</f>  va a casarse dentro de poco .</input>
+    <output>Mi <f id="1">hijo mayor<alt>hermana mayor hijo</alt><alt>hermana mayor el hijo</alt><alt>hermana mayor hijo que</alt><alt>hermana mayor un hijo</alt></f>  va a casarse dentro de poco .</output>
+  </s>
+  <s id="324">
+    <input>General Motors reduce <f id="1">its losses</f>  en Europa .</input>
+    <output>General Motors reduce <f id="1">sus pérdidas<alt>su pérdidas</alt><alt>su las pérdidas</alt><alt>sus derrotas</alt><alt>sus empleos</alt></f>  en Europa .</output>
+  </s>
+  <s id="325">
+    <input>El Turismo Rural se presenta hoy como un <f id="1">successful</f>  negocio para el empresario rural .</input>
+    <output>El Turismo Rural se presenta hoy como un <f id="1">éxito<alt>buen</alt><alt>éxito de</alt><alt>éxito ,</alt><alt>exitoso</alt></f>  negocio para el empresario rural .</output>
+  </s>
+  <s id="326">
+    <input>La lista ha sido recopilada a partir del volumen de ventas y <f id="1">profits</f>  de las empresas .</input>
+    <output>La lista ha sido recopilada a partir del volumen de ventas y <f id="1">los beneficios<alt>beneficios</alt><alt>de los beneficios</alt><alt>ganancias</alt><alt>las ganancias</alt></f>  de las empresas .</output>
+  </s>
+  <s id="327">
+    <input>El político lidera <f id="1">the polls</f>  para las elecciones nacionales de 2017 .</input>
+    <output>El político lidera <f id="1">las encuestas<alt>las urnas</alt><alt>los sondeos</alt><alt>las encuestas de opinión</alt><alt>las elecciones</alt></f>  para las elecciones nacionales de 2017 .</output>
+  </s>
+  <s id="328">
+    <input><f id="1">It is about</f>  un juego muy sencillo pero muy divertido .</input>
+    <output><f id="1">Se trata de<alt>Es</alt><alt>Se trata</alt><alt>Es sobre</alt><alt>Es de</alt></f>  un juego muy sencillo pero muy divertido .</output>
+  </s>
+  <s id="329">
+    <input>Esta medida seguirá <f id="1">in force</f>  durante el verano .</input>
+    <output>Esta medida seguirá <f id="1">en vigor<alt>vigente</alt><alt>en vigor ,</alt><alt>en vigor en</alt><alt>en vigor de</alt></f>  durante el verano .</output>
+  </s>
+  <s id="330">
+    <input>El futuro presidente del Gobierno será <f id="1">most likely</f>  el líder del PP , Mariano Rajoy .</input>
+    <output>El futuro presidente del Gobierno será <f id="1">más probable<alt>más probable es que</alt><alt>más probable que</alt><alt>más probable es</alt><alt>probablemente</alt></f>  el líder del PP , Mariano Rajoy .</output>
+  </s>
+  <s id="331">
+    <input><f id="1">The conflict of interest</f>  sobre las aguas siempre va a existir .</input>
+    <output><f id="1">El conflicto de intereses<alt>El conflicto de interés</alt><alt>Los conflictos de intereses</alt><alt>Los conflictos de interés</alt><alt>El conflicto de interés ,</alt></f>  sobre las aguas siempre va a existir .</output>
+  </s>
+  <s id="332">
+    <input>Admitió que su amigo <f id="1">was to blame for the</f>  atentado .</input>
+    <output>Admitió que su amigo <f id="1">fue la culpa por el<alt>fue el culpable de la</alt><alt>fue la culpa de la</alt><alt>fue culpable de la</alt><alt>era culpable de la</alt></f>  atentado .</output>
+  </s>
+  <s id="333">
+    <input>Entonces , <f id="1">the work</f>  del pintor fue abandonada en casa de Goya por los seguidores de Napoleón .</input>
+    <output>Entonces , <f id="1">el trabajo<alt>la labor</alt><alt>los trabajos</alt><alt>de la labor</alt><alt>la trabajo</alt></f>  del pintor fue abandonada en casa de Goya por los seguidores de Napoleón .</output>
+  </s>
+  <s id="334">
+    <input>Todo indica que <f id="1">the worst</f>  que puede llegar a ocurrir es que las economías crezcan por debajo de lo previsto .</input>
+    <output>Todo indica que <f id="1">lo peor<alt>el peor</alt><alt>la peor</alt><alt>los peores</alt><alt>la lo peor</alt></f>  que puede llegar a ocurrir es que las economías crezcan por debajo de lo previsto .</output>
+  </s>
+  <s id="335">
+    <input>Hay que <f id="1">distringuish</f>  entre usos urbanos e industriales .</input>
+    <output>Hay que <f id="1">distringuish</f>  entre usos urbanos e industriales .</output>
+  </s>
+  <s id="336">
+    <input>Eso <f id="1">explains why</f>  no me hayan contestado .</input>
+    <output>Eso <f id="1">explica por qué<alt>explica porqué</alt><alt>explica</alt><alt>explica que</alt><alt>explica por qué los</alt></f>  no me hayan contestado .</output>
+  </s>
+  <s id="337">
+    <input>Ayer informaron en la radio de que no haría <f id="1">good weather</f>  este fin de semana .</input>
+    <output>Ayer informaron en la radio de que no haría <f id="1">buen tiempo<alt>buenas condiciones meteorológicas</alt><alt>buena condiciones meteorológicas</alt><alt>buena capear</alt><alt>buena meteorológicas</alt></f>  este fin de semana .</output>
+  </s>
+  <s id="338">
+    <input>Los madrileños , <f id="1">instead of</f>  comerse el regalo , lo enterraron .</input>
+    <output>Los madrileños , <f id="1">en lugar de<alt>en vez de</alt><alt>en lugar de la</alt><alt>lugar de</alt><alt>en lugar de en</alt></f>  comerse el regalo , lo enterraron .</output>
+  </s>
+  <s id="339">
+    <input>Donde hay un drogadicto hay detŕas un problema con <f id="1">his parents</f>  .</input>
+    <output>Donde hay un drogadicto hay detŕas un problema con <f id="1">sus padres<alt>de sus padres</alt><alt>su padres</alt><alt>a sus padres</alt><alt>con sus padres</alt></f>  .</output>
+  </s>
+  <s id="340">
+    <input>Creo que el machismo ya no está bien visto , y es <f id="1">substituted by</f>  otro tipo de comportamiento .</input>
+    <output>Creo que el machismo ya no está bien visto , y es <f id="1">sustituido por<alt>sustituir por</alt><alt>substituirse por</alt><alt>sustituidas por</alt><alt>sustituida por</alt></f>  otro tipo de comportamiento .</output>
+  </s>
+  <s id="341">
+    <input>Unos 200 indignados han decidido <f id="1">to spend the night</f>  frente al congreso .</input>
+    <output>Unos 200 indignados han decidido <f id="1">a pasar la noche<alt>para pasar la noche</alt><alt>pasar la noche</alt><alt>gastar la noche</alt><alt>a gastar la noche</alt></f>  frente al congreso .</output>
+  </s>
+  <s id="342">
+    <input>Si lleva una moto , es obligatoria <f id="1">the use of a helmet</f>  .</input>
+    <output>Si lleva una moto , es obligatoria <f id="1">la utilización de un casco<alt>el uso de un casco</alt><alt>del uso de un casco</alt><alt>de la utilización de un casco</alt><alt>el uso de la un casco</alt></f>  .</output>
+  </s>
+  <s id="343">
+    <input><f id="1">As was expected</f>  , el coletazo del escándalo también llegó a Cuba .</input>
+    <output><f id="1">Como era de esperar<alt>Como se esperaba</alt><alt>Como se espera</alt><alt>Como era de esperarse</alt><alt>Como estaba previsto</alt></f>  , el coletazo del escándalo también llegó a Cuba .</output>
+  </s>
+  <s id="344">
+    <input>El 12 de octubre o día de la hispanidad , es <f id="1">a holiday</f>  en todo el mundo hispánico .</input>
+    <output>El 12 de octubre o día de la hispanidad , es <f id="1">un vacaciones<alt>un día festivo</alt><alt>una vacaciones</alt><alt>una de vacaciones</alt><alt>de vacaciones</alt></f>  en todo el mundo hispánico .</output>
+  </s>
+  <s id="345">
+    <input>Los nuevos programas han sido presentados por <f id="1">the political parties</f>  de nuestro país .</input>
+    <output>Los nuevos programas han sido presentados por <f id="1">los partidos políticos<alt>los partidos</alt><alt>los partidos políticos ,</alt><alt>los partidos políticos europeos</alt><alt>la partidos políticos</alt></f>  de nuestro país .</output>
+  </s>
+  <s id="346">
+    <input>No sólo ha subido su <f id="1">debt</f>  , sino que también ha bajado el valor de su casa .</input>
+    <output>No sólo ha subido su <f id="1">deuda<alt>deuda pública</alt><alt>la deuda</alt><alt>endeudamiento</alt><alt>de la deuda</alt></f>  , sino que también ha bajado el valor de su casa .</output>
+  </s>
+  <s id="347">
+    <input>Planteaste el debate y ya no quieres <f id="1">shut up</f>  .</input>
+    <output>Planteaste el debate y ya no quieres <f id="1">callarse<alt>encerrados</alt><alt>callarse la boca</alt><alt>cerrar la</alt><alt>cerrar sus</alt></f>  .</output>
+  </s>
+  <s id="348">
+    <input>The <f id="1">watch</f>  que acabo de comprar es para mi sobrina .</input>
+    <output>The <f id="1">Watch<alt>ver</alt><alt>observar</alt><alt>presenciar</alt><alt>Watch ,</alt></f>  que acabo de comprar es para mi sobrina .</output>
+  </s>
+  <s id="349">
+    <input>Ese melocotón <f id="1">tastes good</f>  .</input>
+    <output>Ese melocotón <f id="1">gustos buena<alt>gustos buenas</alt><alt>gustos buenos</alt><alt>gustos bueno</alt><alt>gustos bien</alt></f>  .</output>
+  </s>
+  <s id="350">
+    <input>La empresa ya fue <f id="1">owner</f>  de Endemol y de otras empresas de comunicaciones , pero se acabaron vendiendo .</input>
+    <output>La empresa ya fue <f id="1">propietario<alt>dueño</alt><alt>el propietario</alt><alt>propietaria</alt><alt>titular</alt></f>  de Endemol y de otras empresas de comunicaciones , pero se acabaron vendiendo .</output>
+  </s>
+  <s id="351">
+    <input>Le <f id="1">appreciate</f>  mucho por su valor y su paciencia .</input>
+    <output>Le <f id="1">agradezco<alt>agradecería</alt><alt>agradecemos</alt><alt>aprecio</alt><alt>apreciamos</alt></f>  mucho por su valor y su paciencia .</output>
+  </s>
+  <s id="352">
+    <input>En nuestra biblioteca el silencio <f id="1">shines</f>  por su ausencia .</input>
+    <output>En nuestra biblioteca el silencio <f id="1">brilla<alt>que brilla</alt><alt>arroja</alt><alt>brillen</alt><alt>calva</alt></f>  por su ausencia .</output>
+  </s>
+  <s id="353">
+    <input>La pelota sólo puede botar una vez <f id="1">on the floor</f>  .</input>
+    <output>La pelota sólo puede botar una vez <f id="1">en el uso de la palabra<alt>de la palabra</alt><alt>sobre el uso de la palabra</alt><alt>sobre la palabra</alt><alt>en el piso</alt></f>  .</output>
+  </s>
+  <s id="354">
+    <input>No todas las lluvias benefician y algunas <f id="1">contaminate</f>  el ambiente .</input>
+    <output>No todas las lluvias benefician y algunas <f id="1">contaminen<alt>contaminar</alt><alt>contaminan</alt><alt>contaminemos</alt><alt>contaminando</alt></f>  el ambiente .</output>
+  </s>
+  <s id="355">
+    <input>El actor ha tenido <f id="1">bad luck</f>  .</input>
+    <output>El actor ha tenido <f id="1">mala suerte<alt>la mala suerte</alt><alt>una mala suerte</alt><alt>mala suerte ,</alt><alt>a la mala suerte</alt></f>  .</output>
+  </s>
+  <s id="356">
+    <input>El edificio de las placas de titanio onduladas de Frank Gehry <f id="1">acquired</f>  el estatus de icono al poco de su inauguración .</input>
+    <output>El edificio de las placas de titanio onduladas de Frank Gehry <f id="1">adquirido<alt>adquirió</alt><alt>adquirida</alt><alt>adquiridos</alt><alt>adquiridas</alt></f>  el estatus de icono al poco de su inauguración .</output>
+  </s>
+  <s id="357">
+    <input>Jesús Guerra acabó siendo condenado a pagar <f id="1">a fine</f>  de 3587 euros .</input>
+    <output>Jesús Guerra acabó siendo condenado a pagar <f id="1">una multa<alt>una sanción</alt><alt>un buen</alt><alt>de una multa</alt><alt>una hermosa</alt></f>  de 3587 euros .</output>
+  </s>
+  <s id="358">
+    <input>La primera empresa en la lista es Santander , <f id="1">followed by</f>  Telefónica , Repsol y BBVA .</input>
+    <output>La primera empresa en la lista es Santander , <f id="1">seguida de<alt>seguido por</alt><alt>seguida por</alt><alt>seguido de</alt><alt>seguidas de</alt></f>  Telefónica , Repsol y BBVA .</output>
+  </s>
+  <s id="359">
+    <input>Hace poco fui <f id="1">witness</f>  de un asalto al Banco de Bilbao en la calle de Medinaceli .</input>
+    <output>Hace poco fui <f id="1">testigo<alt>testigo de</alt><alt>testimonio</alt><alt>testigos</alt><alt>presenciar</alt></f>  de un asalto al Banco de Bilbao en la calle de Medinaceli .</output>
+  </s>
+  <s id="360">
+    <input>Me han <f id="1">chosen</f>  para interpretar a ese personaje , pero no puedo dar muchos detalles .</input>
+    <output>Me han <f id="1">elegido<alt>decidido</alt><alt>optado</alt><alt>escogido</alt><alt>optado por</alt></f>  para interpretar a ese personaje , pero no puedo dar muchos detalles .</output>
+  </s>
+  <s id="361">
+    <input>Me temo que tendré que <f id="1">keep living</f>  en casa de mis padres hasta los cuarenta .</input>
+    <output>Me temo que tendré que <f id="1">seguir viviendo<alt>mantener viven</alt><alt>mantener que viven</alt><alt>mantener la vida</alt><alt>mantener vida</alt></f>  en casa de mis padres hasta los cuarenta .</output>
+  </s>
+  <s id="362">
+    <input>Los niños empeizan a usar <f id="1">symbols</f>  desde el segundo año de vida .</input>
+    <output>Los niños empeizan a usar <f id="1">los símbolos<alt>símbolos</alt><alt>los símbolos que</alt><alt>de símbolos</alt><alt>en símbolos</alt></f>  desde el segundo año de vida .</output>
+  </s>
+  <s id="363">
+    <input>Después de tantos años , <f id="1">still</f>  me da vergüenza recordarlo .</input>
+    <output>Después de tantos años , <f id="1">todavía<alt>aún</alt><alt>siendo</alt><alt>sigue</alt><alt>siguen</alt></f>  me da vergüenza recordarlo .</output>
+  </s>
+  <s id="364">
+    <input>El número de españoles que acude a las plazas para presenciar la labor de los matadores , <f id="1">continues to diminish</f>  .</input>
+    <output>El número de españoles que acude a las plazas para presenciar la labor de los matadores , <f id="1">sigue disminuyendo<alt>continúa disminuyendo</alt><alt>continúa a disminuir</alt><alt>sigue a disminuir</alt><alt>continúa disminuir</alt></f>  .</output>
+  </s>
+  <s id="365">
+    <input>No creo que las necesidades afectivas de las personas estén necesariamente <f id="1">linked</f>  al matrimonio .</input>
+    <output>No creo que las necesidades afectivas de las personas estén necesariamente <f id="1">vinculado<alt>vinculada</alt><alt>ligados</alt><alt>vinculados</alt><alt>vinculadas</alt></f>  al matrimonio .</output>
+  </s>
+  <s id="366">
+    <input>El 14 de Julio de 1789 la Bastilla fue asaltada <f id="1">by the population of</f>  París .</input>
+    <output>El 14 de Julio de 1789 la Bastilla fue asaltada <f id="1">por la población de<alt>por parte de la población de</alt><alt>de la población de</alt><alt>en la población de</alt><alt>por de la población de</alt></f>  París .</output>
+  </s>
+  <s id="367">
+    <input>La policía seguirá vigilando y multando <f id="1">to ensure</f>  que el tráfico fluya con seguridad .</input>
+    <output>La policía seguirá vigilando y multando <f id="1">a garantizar<alt>para garantizar</alt><alt>a asegurar</alt><alt>para asegurar</alt><alt>de garantizar</alt></f>  que el tráfico fluya con seguridad .</output>
+  </s>
+  <s id="368">
+    <input>La Televisión Española inaugura mañana una iniciativa con los ojos puestos en la competencia con las <f id="1">channels</f>  privadas .</input>
+    <output>La Televisión Española inaugura mañana una iniciativa con los ojos puestos en la competencia con las <f id="1">cadenas<alt>canales</alt><alt>televisiones</alt><alt>vías</alt><alt>los canales</alt></f>  privadas .</output>
+  </s>
+  <s id="369">
+    <input>El lugar <f id="1">chosen</f>  como basurero atómico se encuentra a 480 kilómetros de Finisterre , en Galicia .</input>
+    <output>El lugar <f id="1">elegido<alt>decidido</alt><alt>escogido</alt><alt>elegido ,</alt><alt>elegida</alt></f>  como basurero atómico se encuentra a 480 kilómetros de Finisterre , en Galicia .</output>
+  </s>
+  <s id="370">
+    <input>El periódico 20 Minutos quería un tipo de debate en <f id="1">social networks</f>  .</input>
+    <output>El periódico 20 Minutos quería un tipo de debate en <f id="1">las redes sociales<alt>redes sociales</alt><alt>de redes sociales</alt><alt>en las redes sociales</alt><alt>red social</alt></f>  .</output>
+  </s>
+  <s id="371">
+    <input>Allan Thornton <f id="1">belongs to</f>  un grupo llamado Greenpeace .</input>
+    <output>Allan Thornton <f id="1">pertenece a<alt>le pertenece a</alt><alt>pertenezca a</alt><alt>perteneciente a</alt><alt>les pertenece a</alt></f>  un grupo llamado Greenpeace .</output>
+  </s>
+  <s id="372">
+    <input><f id="1">Do</f>  exactamente lo que diga tu médico .</input>
+    <output><f id="1">Hacer<alt>¿</alt><alt>Hacemos</alt><alt>Hacen</alt><alt>Ver</alt></f>  exactamente lo que diga tu médico .</output>
+  </s>
+  <s id="373">
+    <input>Es necesario que fumas <f id="1">less</f>  .</input>
+    <output>Es necesario que fumas <f id="1">menos<alt>menor</alt><alt>de menos</alt><alt>menos de</alt><alt>, menos</alt></f>  .</output>
+  </s>
+  <s id="374">
+    <input><f id="1">Moreover</f>  muchas familias no disponen de dinero .</input>
+    <output><f id="1">Además<alt>Además ,</alt><alt>Por otra parte</alt><alt>Asimismo</alt><alt>Además de</alt></f>  muchas familias no disponen de dinero .</output>
+  </s>
+  <s id="375">
+    <input>Alguien <f id="1">knocked on</f>  la puerta del bar , y todos cesaron de discutir .</input>
+    <output>Alguien <f id="1">llamado a<alt>llamado sobre</alt><alt>tocó a</alt><alt>llamado en</alt><alt>, tocó a</alt></f>  la puerta del bar , y todos cesaron de discutir .</output>
+  </s>
+  <s id="376">
+    <input>Al cabo de los siglos , <f id="1">the surname</f>  Vargas resultaría uno de los más multiplicados .</input>
+    <output>Al cabo de los siglos , <f id="1">el apellido<alt>el el apellido</alt><alt>la el apellido</alt><alt>los el apellido</alt><alt>las el apellido</alt></f>  Vargas resultaría uno de los más multiplicados .</output>
+  </s>
+  <s id="377">
+    <input>En la isla de El Hierro del archipiélago canario la creciente actividad sísmica indica que un volcán subacuático puede entrar en erupción <f id="1">at any time</f>  .</input>
+    <output>En la isla de El Hierro del archipiélago canario la creciente actividad sísmica indica que un volcán subacuático puede entrar en erupción <f id="1">en cualquier momento<alt>en cualquier momento ,</alt><alt>en cualquier otro momento</alt><alt>en cualquier tiempo</alt><alt>en algún momento</alt></f>  .</output>
+  </s>
+  <s id="378">
+    <input>Desde el punto de vista pedagógico se convierte en un sitio para la socialización , que además impulsa <f id="1">the development</f>  de competencias académicas en el niño y el jovén .</input>
+    <output>Desde el punto de vista pedagógico se convierte en un sitio para la socialización , que además impulsa <f id="1">el desarrollo<alt>la evolución</alt><alt>al desarrollo</alt><alt>en el desarrollo</alt><alt>la el desarrollo</alt></f>  de competencias académicas en el niño y el jovén .</output>
+  </s>
+  <s id="379">
+    <input>Gobernará la nación <f id="1">from the beginning of</f>  2012 .</input>
+    <output>Gobernará la nación <f id="1">desde el comienzo de<alt>a principios de</alt><alt>desde el principio de</alt><alt>desde principios de</alt><alt>a comienzos de</alt></f>  2012 .</output>
+  </s>
+  <s id="380">
+    <input>Una siesta de 26 minutos consigue que nos sintamos <f id="1">less tired</f>  y que podamos funcionar mejor .</input>
+    <output>Una siesta de 26 minutos consigue que nos sintamos <f id="1">menos cansado<alt>menos cansados</alt><alt>menos cansada</alt><alt>menos fatigada</alt><alt>menos hartos</alt></f>  y que podamos funcionar mejor .</output>
+  </s>
+  <s id="381">
+    <input>Juan se había preparado <f id="1">better than</f>  su compañero .</input>
+    <output>Juan se había preparado <f id="1">mejor que<alt>mejor de</alt><alt>mejor</alt><alt>mejor de lo que</alt><alt>mejor que a</alt></f>  su compañero .</output>
+  </s>
+  <s id="382">
+    <input>El fenómeno se inicia <f id="1">close to</f>  Australia e Indonesia .</input>
+    <output>El fenómeno se inicia <f id="1">cerca de<alt>cerca</alt><alt>una estrecha a</alt><alt>cercana a</alt><alt>cercano a</alt></f>  Australia e Indonesia .</output>
+  </s>
+  <s id="383">
+    <input>Voy <f id="1">to the pharmacy</f>  por aspirinas .</input>
+    <output>Voy <f id="1">a la farmacia<alt>a la la farmacia</alt><alt>la farmacia</alt><alt>a que la farmacia</alt><alt>de la farmacia</alt></f>  por aspirinas .</output>
+  </s>
+  <s id="384">
+    <input>Lo ideal sería poder <f id="1">swop</f>  las compras por productos españoles .</input>
+    <output>Lo ideal sería poder <f id="1">intercambiar</f>  las compras por productos españoles .</output>
+  </s>
+  <s id="385">
+    <input>Este negro panorama económico para España <f id="1">hardly</f>  tiene visos de realidad .</input>
+    <output>Este negro panorama económico para España <f id="1">apenas<alt>, apenas</alt><alt>que apenas</alt><alt>casi no</alt><alt>difícilmente</alt></f>  tiene visos de realidad .</output>
+  </s>
+  <s id="386">
+    <input>Te mandaré <f id="1">another ten</f>  copias .</input>
+    <output>Te mandaré <f id="1">otro diez<alt>otros diez</alt><alt>otra diez</alt><alt>diez</alt><alt>más de diez</alt></f>  copias .</output>
+  </s>
+  <s id="387">
+    <input>Mi papá siempre <f id="1">sets the table</f>  , mientras mi mamá prepara la comida .</input>
+    <output>Mi papá siempre <f id="1">establece la Mesa<alt>sienta la Mesa</alt><alt>fija la Mesa</alt><alt>sienta a la mesa</alt><alt>se establece la Mesa</alt></f>  , mientras mi mamá prepara la comida .</output>
+  </s>
+  <s id="388">
+    <input>Hay que mantener <f id="1">at all times</f>  la velocidad adecuada a las condiciones de la vía .</input>
+    <output>Hay que mantener <f id="1">en todo momento<alt>en todo momento ,</alt><alt>en todo momento de</alt><alt>en todo momento , en</alt><alt>en todos los tiempos</alt></f>  la velocidad adecuada a las condiciones de la vía .</output>
+  </s>
+  <s id="389">
+    <input><f id="1">Daily life</f>  ya no está llena de grandes gestas .</input>
+    <output><f id="1">La vida cotidiana<alt>La vida diaria</alt><alt>Vida cotidiana</alt><alt>Vida diaria</alt><alt>En la vida diaria</alt></f>  ya no está llena de grandes gestas .</output>
+  </s>
+  <s id="390">
+    <input>Los libros de cocina se venden bien , <f id="1">according to</f>  un estudio de una conocida editorial .</input>
+    <output>Los libros de cocina se venden bien , <f id="1">según<alt>de acuerdo con</alt><alt>según el</alt><alt>de acuerdo a</alt><alt>según la</alt></f>  un estudio de una conocida editorial .</output>
+  </s>
+  <s id="391">
+    <input>Mis vecinos <f id="1">are on holidays</f>  en España .</input>
+    <output>Mis vecinos <f id="1">están de vacaciones<alt>son de vacaciones</alt><alt>se están de vacaciones</alt><alt>se de vacaciones</alt><alt>está de vacaciones</alt></f>  en España .</output>
+  </s>
+  <s id="392">
+    <input>Hoy han vuelto a participar <f id="1">thousands of people</f>  en los encierros de Pamplona .</input>
+    <output>Hoy han vuelto a participar <f id="1">a miles de personas<alt>miles de personas</alt><alt>de miles de personas</alt><alt>, miles de personas</alt><alt>cientos de miles de personas</alt></f>  en los encierros de Pamplona .</output>
+  </s>
+  <s id="393">
+    <input>A esa mujer la admiran <f id="1">even</f>  sus enemigos .</input>
+    <output>A esa mujer la admiran <f id="1">incluso<alt>incluso a</alt><alt>todavía</alt><alt>aún</alt><alt>incluso de</alt></f>  sus enemigos .</output>
+  </s>
+  <s id="394">
+    <input>No te oigo <f id="1">well</f>  .</input>
+    <output>No te oigo <f id="1">bien<alt>así</alt><alt>muy bien</alt><alt>también</alt><alt>muy</alt></f>  .</output>
+  </s>
+  <s id="395">
+    <input>España fue advertida el viernes <f id="1">by</f>  la agencia de crédito Moody s.</input>
+    <output>España fue advertida el viernes <f id="1">por<alt>de</alt><alt>por la</alt><alt>en</alt><alt>con</alt></f>  la agencia de crédito Moody s.</output>
+  </s>
+  <s id="396">
+    <input>Es mejor que <f id="1">bring it</f>  a la policía , ellos te dirán qué tienes que hacer .</input>
+    <output>Es mejor que <f id="1">llevarlo<alt>vuelva</alt><alt>sacarlo</alt><alt>acercar</alt><alt>sacarla</alt></f>  a la policía , ellos te dirán qué tienes que hacer .</output>
+  </s>
+  <s id="397">
+    <input>El éxito muchas veces no se <f id="1">achieve</f>  porque no se tiene una formación adecuada .</input>
+    <output>El éxito muchas veces no se <f id="1">conseguir<alt>alcanzar</alt><alt>lograr</alt><alt>obtener</alt><alt>de lograr</alt></f>  porque no se tiene una formación adecuada .</output>
+  </s>
+  <s id="398">
+    <input>Lo que sí se conoce es que Mariano Rajoy como <f id="1">opposition leader</f>  y líder del PP gana 30000 euros más que el Presidente del Gobierno .</input>
+    <output>Lo que sí se conoce es que Mariano Rajoy como <f id="1">líder de la oposición<alt>líder de la oposición ,</alt><alt>dirigente de la oposición</alt><alt>la líder de la oposición ,</alt><alt>jefe de la oposición</alt></f>  y líder del PP gana 30000 euros más que el Presidente del Gobierno .</output>
+  </s>
+  <s id="399">
+    <input>Dicen que soy descendiente de uno de <f id="1">the</f>  protagonistas .</input>
+    <output>Dicen que soy descendiente de uno de <f id="1">los<alt>la</alt><alt>el</alt><alt>las</alt><alt>de la</alt></f>  protagonistas .</output>
+  </s>
+  <s id="400">
+    <input>La guerra <f id="1">lasted</f>  cien años .</input>
+    <output>La guerra <f id="1">ha durado<alt>que duró</alt><alt>se prolongó</alt><alt>duró</alt><alt>durado</alt></f>  cien años .</output>
+  </s>
+  <s id="401">
+    <input>La lluvia ácida <f id="1">affects</f>  los suelos , bosques y lagos .</input>
+    <output>La lluvia ácida <f id="1">afecta a<alt>que afecta a</alt><alt>, afecta a</alt><alt>afecta</alt><alt>afecte a</alt></f>  los suelos , bosques y lagos .</output>
+  </s>
+  <s id="402">
+    <input>Los tranvias arrollan a <f id="1">pedestrians</f>  que osen interceptar su camino .</input>
+    <output>Los tranvias arrollan a <f id="1">los peatones<alt>peatones</alt><alt>los peatones ,</alt><alt>de peatones</alt><alt>de los peatones</alt></f>  que osen interceptar su camino .</output>
+  </s>
+  <s id="403">
+    <input>Pero <f id="1">one thing is clear</f>  , que se puede dejar de ser un heroinómano .</input>
+    <output>Pero <f id="1">una cosa está clara<alt>una cosa es clara</alt><alt>hay una cosa clara</alt><alt>una cosa es claro</alt><alt>una cosa es evidente</alt></f>  , que se puede dejar de ser un heroinómano .</output>
+  </s>
+  <s id="404">
+    <input>No te prometo <f id="1">anything</f>  .</input>
+    <output>No te prometo <f id="1">nada<alt>algo</alt><alt>cualquier cosa</alt><alt>todo</alt><alt>cualquier</alt></f>  .</output>
+  </s>
+  <s id="405">
+    <input>Espero que los frenos del coche <f id="1">work</f>  bien .</input>
+    <output>Espero que los frenos del coche <f id="1">trabajo<alt>trabajar</alt><alt>funcionar</alt><alt>labor</alt><alt>el trabajo</alt></f>  bien .</output>
+  </s>
+  <s id="406">
+    <input>Es <f id="1">a hypothesis</f>  que todavía está por comprobar .</input>
+    <output>Es <f id="1">una hipótesis<alt>una hipótesis de</alt><alt>que una hipótesis</alt><alt>la hipótesis</alt><alt>un la hipótesis</alt></f>  que todavía está por comprobar .</output>
+  </s>
+  <s id="407">
+    <input>¿ Qué haces en tu <f id="1">spare time</f>  ?</input>
+    <output>¿ Qué haces en tu <f id="1">tiempo libre<alt>de tiempo</alt><alt>piezas de tiempo</alt><alt>piezas tiempo</alt><alt>de piezas de tiempo</alt></f>  ?</output>
+  </s>
+  <s id="408">
+    <input>A las autoridades les resulta difícil <f id="1">to do something</f>  al respecto porque no es realista tener un agente en cada balcón .</input>
+    <output>A las autoridades les resulta difícil <f id="1">hacer algo<alt>de hacer algo</alt><alt>para hacer algo</alt><alt>que hacer algo</alt><alt>a hacer algo</alt></f>  al respecto porque no es realista tener un agente en cada balcón .</output>
+  </s>
+  <s id="409">
+    <input>Es aquí donde se logra más del 45 % de <f id="1">the sales</f>  .</input>
+    <output>Es aquí donde se logra más del 45 % de <f id="1">las ventas<alt>la ventas</alt><alt>los ventas</alt><alt>la venta</alt><alt>la de ventas</alt></f>  .</output>
+  </s>
+  <s id="410">
+    <input>Frente a esta situación , es necesario realizar <f id="1">a great effort</f>  para crear nuevos empleos .</input>
+    <output>Frente a esta situación , es necesario realizar <f id="1">un gran esfuerzo<alt>un enorme esfuerzo</alt><alt>un gran esfuerzo por</alt><alt>un esfuerzo</alt><alt>grandes esfuerzos</alt></f>  para crear nuevos empleos .</output>
+  </s>
+  <s id="411">
+    <input>Mañana estos cuadros serán vendidos públicamente <f id="1">by</f>  el museo .</input>
+    <output>Mañana estos cuadros serán vendidos públicamente <f id="1">por<alt>en</alt><alt>, por</alt><alt>con</alt><alt>de</alt></f>  el museo .</output>
+  </s>
+  <s id="412">
+    <input>Es así como la oferta de Turismo Rural manifiesta , <f id="1">both</f>  en Argentina como en Europa y América , una constante tasa de crecimiento .</input>
+    <output>Es así como la oferta de Turismo Rural manifiesta , <f id="1">tanto<alt>ambas</alt><alt>ambos</alt><alt>, tanto</alt><alt>tanto a</alt></f>  en Argentina como en Europa y América , una constante tasa de crecimiento .</output>
+  </s>
+  <s id="413">
+    <input>Te recomiendo <f id="1">that you go</f>  a la policía .</input>
+    <output>Te recomiendo <f id="1">que vaya usted<alt>que vaya</alt><alt>que ir</alt><alt>que ustedes van</alt><alt>que va usted</alt></f>  a la policía .</output>
+  </s>
+  <s id="414">
+    <input>Nuestros tíos <f id="1">are very conservative</f>  .</input>
+    <output>Nuestros tíos <f id="1">son muy conservadora<alt>son muy conservador</alt><alt>son muy conservadoras</alt><alt>están muy conservadora</alt><alt>están muy conservador</alt></f>  .</output>
+  </s>
+  <s id="415">
+    <input><f id="1">I like</f>  los libros que te hacen ver la realidad desde otro punto de vista .</input>
+    <output><f id="1">Me gustaría<alt>Me gusta</alt><alt>Me gustaría que</alt><alt>Quiero</alt><alt>Me gusta que</alt></f>  los libros que te hacen ver la realidad desde otro punto de vista .</output>
+  </s>
+  <s id="416">
+    <input>¡ Eso <f id="1">makes no sense</f>  , es un pensamiento sin profundidad y hueco !</input>
+    <output>¡ Eso <f id="1">no tiene sentido<alt>no tiene ningún sentido</alt><alt>tiene sentido</alt><alt>carece de sentido</alt><alt>no tiene sentido alguno</alt></f>  , es un pensamiento sin profundidad y hueco !</output>
+  </s>
+  <s id="417">
+    <input>Mauricio teme que <f id="1">hurt him</f>  los otros futbolistas .</input>
+    <output>Mauricio teme que <f id="1">le hieran<alt>perjudicará</alt><alt>dañan él</alt><alt>perjudicados él</alt><alt>perjudicará él</alt></f>  los otros futbolistas .</output>
+  </s>
+  <s id="418">
+    <input>Estos dos mundos <f id="1">begin to</f>  acercarse .</input>
+    <output>Estos dos mundos <f id="1">comenzar a<alt>empezar a</alt><alt>empiecen a</alt><alt>comienzan a</alt><alt>empiece a</alt></f>  acercarse .</output>
+  </s>
+  <s id="419">
+    <input>Tiene <f id="1">such a</f>  nivel artístico que mereceria estar expuesto en un museo .</input>
+    <output>Tiene <f id="1">un<alt>una</alt><alt>tal</alt><alt>a un</alt><alt>semejante</alt></f>  nivel artístico que mereceria estar expuesto en un museo .</output>
+  </s>
+  <s id="420">
+    <input>El <f id="1">army</f>  me hizo un flaco servicio confiándome este trabajo</input>
+    <output>El <f id="1">ejército<alt>ejército ,</alt><alt>ejército que</alt><alt>ejército se</alt><alt>el ejército</alt></f>  me hizo un flaco servicio confiándome este trabajo</output>
+  </s>
+  <s id="421">
+    <input><f id="1">In any case</f>  , son los niños los más afectados .</input>
+    <output><f id="1">En cualquier caso<alt>En todo caso</alt><alt>En ningún caso</alt><alt>En cualquier caso ,</alt><alt>En cualquier caso de</alt></f>  , son los niños los más afectados .</output>
+  </s>
+  <s id="422">
+    <input>El ejecutivo <f id="1">hopes to</f>  generar 2500 millones de euros gracias a la reforma del impuesto de sociedades</input>
+    <output>El ejecutivo <f id="1">esperanzas para<alt>espera</alt><alt>esperanzas a</alt><alt>espera a</alt><alt>espera para</alt></f>  generar 2500 millones de euros gracias a la reforma del impuesto de sociedades</output>
+  </s>
+  <s id="423">
+    <input><f id="1">Until now</f>  los aprendices de cocinero con ambiciones académicas sólo podían dirigirse a la universidad de ciencias de la gastronomía de Italia .</input>
+    <output><f id="1">Hasta ahora<alt>Hasta ahora ,</alt><alt>Hasta ahora , a</alt><alt>Hasta ahora de</alt><alt>Hasta ahora en</alt></f>  los aprendices de cocinero con ambiciones académicas sólo podían dirigirse a la universidad de ciencias de la gastronomía de Italia .</output>
+  </s>
+  <s id="424">
+    <input><f id="1">Every</f>  año hay que volver a lamentar la muerte de turistas .</input>
+    <output><f id="1">Cada<alt>Todos los</alt><alt>Que cada</alt><alt>En cada</alt><alt>A cada</alt></f>  año hay que volver a lamentar la muerte de turistas .</output>
+  </s>
+  <s id="425">
+    <input>Les interesa saber <f id="1">how much</f>  van a tener que pagar por el piso .</input>
+    <output>Les interesa saber <f id="1">cuánto<alt>cómo</alt><alt>cuánta</alt><alt>¿ cuánto</alt><alt>cuántos</alt></f>  van a tener que pagar por el piso .</output>
+  </s>
+  <s id="426">
+    <input>Es <f id="1">certain that</f>  hay problemas individuales también .</input>
+    <output>Es <f id="1">cierto que<alt>seguro que</alt><alt>cierto de que</alt><alt>cierto que ,</alt><alt>cierto que la</alt></f>  hay problemas individuales también .</output>
+  </s>
+  <s id="427">
+    <input>Desde siempre los pastores pueden <f id="1">make use of</f>  cerca de 125.000 kilómetros de caminos en el interior de España .</input>
+    <output>Desde siempre los pastores pueden <f id="1">hacer uso de<alt>hacer uso de la</alt><alt>hacer uso del</alt><alt>utilizar</alt><alt>hacer uso de los</alt></f>  cerca de 125.000 kilómetros de caminos en el interior de España .</output>
+  </s>
+  <s id="428">
+    <input>Los bancos han vuelto loco a todo el mundo con atractivas promesas sobre <f id="1">the advantages</f>  de una casa en propiedad .</input>
+    <output>Los bancos han vuelto loco a todo el mundo con atractivas promesas sobre <f id="1">las ventajas<alt>las ventajas derivadas</alt><alt>las ventajas que</alt><alt>la ventajas</alt><alt>de las ventajas</alt></f>  de una casa en propiedad .</output>
+  </s>
+  <s id="429">
+    <input>No estoy seguro de <f id="1">whether</f>  es cierto lo que dices .</input>
+    <output>No estoy seguro de <f id="1">si<alt>si la</alt><alt>saber si</alt><alt>que</alt><alt>de si</alt></f>  es cierto lo que dices .</output>
+  </s>
+  <s id="430">
+    <input>Es <f id="1">surprising</f>  que la agencia no espere unos días a ver la solución que sus líderes pueden darle a la crisis .</input>
+    <output>Es <f id="1">sorprendente<alt>extraño</alt><alt>asombroso</alt><alt>de extrañar</alt><alt>sorprendente ,</alt></f>  que la agencia no espere unos días a ver la solución que sus líderes pueden darle a la crisis .</output>
+  </s>
+  <s id="431">
+    <input>El maestro no quiso <f id="1">reveal</f>  nada sobre este simbolismo .</input>
+    <output>El maestro no quiso <f id="1">revelar<alt>revelan</alt><alt>revelar de</alt><alt>revelar la</alt><alt>revelar el</alt></f>  nada sobre este simbolismo .</output>
+  </s>
+  <s id="432">
+    <input>Casi siempre ha habido <f id="1">threats</f>  , protestas y cinismos políticos o sociales .</input>
+    <output>Casi siempre ha habido <f id="1">amenazas<alt>las amenazas</alt><alt>de amenazas</alt><alt>amenazas de</alt><alt>de las amenazas</alt></f>  , protestas y cinismos políticos o sociales .</output>
+  </s>
+  <s id="433">
+    <input>Surge también con el empleo de <f id="1">fossil fuels</f>  .</input>
+    <output>Surge también con el empleo de <f id="1">los combustibles fósiles<alt>combustibles fósiles</alt><alt>los carburantes fósiles</alt><alt>energías fósiles</alt><alt>de los combustibles fósiles</alt></f>  .</output>
+  </s>
+  <s id="434">
+    <input>No sé <f id="1">what to do</f>  con este problema .</input>
+    <output>No sé <f id="1">qué hacer<alt>de qué hacer</alt><alt>lo que hacer</alt><alt>a qué hacer</alt><alt>en qué hacer</alt></f>  con este problema .</output>
+  </s>
+  <s id="435">
+    <input>Hoy el hombre quiere <f id="1">hide</f>  sus actitudes machistas .</input>
+    <output>Hoy el hombre quiere <f id="1">ocultar<alt>esconder</alt><alt>esconderse</alt><alt>disimular</alt><alt>escondernos</alt></f>  sus actitudes machistas .</output>
+  </s>
+  <s id="436">
+    <input>En el mismo documento aparece publicado que Zapatero <f id="1">can 't speak</f>  inglés .</input>
+    <output>En el mismo documento aparece publicado que Zapatero <f id="1">no pueden hablar<alt>no puede hablar</alt><alt>no se puede hablar</alt><alt>no pueden hablar en</alt><alt>no puede hablar en</alt></f>  inglés .</output>
+  </s>
+  <s id="437">
+    <input><f id="1">At the party</f>  todos bailamos mucho .</input>
+    <output><f id="1">En el Partido<alt>Al Partido</alt><alt>En la partido</alt><alt>En el partido que</alt><alt>El Partido</alt></f>  todos bailamos mucho .</output>
+  </s>
+  <s id="438">
+    <input>Por ejemplo , <f id="1">tenderness</f>  tiene hoy un irresistible attractivo para el hombre .</input>
+    <output>Por ejemplo , <f id="1">la ternura<alt>ternura</alt></f>  tiene hoy un irresistible attractivo para el hombre .</output>
+  </s>
+  <s id="439">
+    <input>La semana pasada perdió la vida un joven británico de 24 años <f id="1">after</f>  una caída del balcón de la habitación de su hotel .</input>
+    <output>La semana pasada perdió la vida un joven británico de 24 años <f id="1">después de<alt>después de que</alt><alt>después</alt><alt>, después de</alt><alt>tras</alt></f>  una caída del balcón de la habitación de su hotel .</output>
+  </s>
+  <s id="440">
+    <input>De los drogadictos que deciden <f id="1">quit</f>  de la droga son pocos que logran superar el síndrome de adición .</input>
+    <output>De los drogadictos que deciden <f id="1">el abandono<alt>hábito</alt><alt>se retiró</alt><alt>abandonarlo</alt><alt>abandonó</alt></f>  de la droga son pocos que logran superar el síndrome de adición .</output>
+  </s>
+  <s id="441">
+    <input>Queremos <f id="1">greater participation of</f>  las mujeres en la vida política .</input>
+    <output>Queremos <f id="1">una mayor participación de<alt>mayor participación de</alt><alt>la mayor participación de</alt><alt>que haya una mayor participación de</alt><alt>un mayor participación de</alt></f>  las mujeres en la vida política .</output>
+  </s>
+  <s id="442">
+    <input><f id="1">Family reunion</f>  es uno de los objeticos principales de la nueva política .</input>
+    <output><f id="1">La reagrupación familiar<alt>La reunificación familiar</alt><alt>La reunión familiar</alt><alt>Reagrupación familiar</alt><alt>Reunificación familiar</alt></f>  es uno de los objeticos principales de la nueva política .</output>
+  </s>
+  <s id="443">
+    <input>Si la vida fuera <f id="1">as easy as</f>  una telenovela , entonces las soluciones caerían del cielo .</input>
+    <output>Si la vida fuera <f id="1">tan fácil como<alt>tan sencillo como</alt><alt>tan fáciles como</alt><alt>tan fácil , como</alt><alt>como fácil como</alt></f>  una telenovela , entonces las soluciones caerían del cielo .</output>
+  </s>
+  <s id="444">
+    <input>Luego cogió <f id="1">a knife</f>  y partió la torta .</input>
+    <output>Luego cogió <f id="1">un cuchillo<alt>el cuchillo</alt><alt>a un cuchillo</alt><alt>una cuchillo</alt><alt>de un cuchillo</alt></f>  y partió la torta .</output>
+  </s>
+  <s id="445">
+    <input>Como resultado de esta caída se registran menos <f id="1">births</f>  , como revela un estudio del INE .</input>
+    <output>Como resultado de esta caída se registran menos <f id="1">nacimientos<alt>los nacimientos</alt><alt>partos</alt><alt>los partos</alt><alt>nacidos</alt></f>  , como revela un estudio del INE .</output>
+  </s>
+  <s id="446">
+    <input>El tráfico en el centro de Madrid <f id="1">has worsened</f>  a pesar del aumento de multas .</input>
+    <output>El tráfico en el centro de Madrid <f id="1">ha empeorado<alt>se ha agravado</alt><alt>se ha empeorado</alt><alt>ha agravado</alt><alt>ha empeorado de</alt></f>  a pesar del aumento de multas .</output>
+  </s>
+  <s id="447">
+    <input>Fue el día <f id="1">in which</f>  estallaba la guerra .</input>
+    <output>Fue el día <f id="1">en que<alt>en el que</alt><alt>en que la</alt><alt>en que el</alt><alt>en que se</alt></f>  estallaba la guerra .</output>
+  </s>
+  <s id="448">
+    <input>Estoy de acuerdo <f id="1">with the latter</f>  .</input>
+    <output>Estoy de acuerdo <f id="1">con la última<alt>con el último</alt><alt>con este último</alt><alt>con las últimas</alt><alt>con esta última</alt></f>  .</output>
+  </s>
+  <s id="449">
+    <input><f id="1">Despite everything</f>  sigue gustándome .</input>
+    <output><f id="1">A pesar de todo<alt>A pesar de todo ,</alt><alt>A pesar de todo lo</alt><alt>A pesar de que todo</alt><alt>Pese a todo</alt></f>  sigue gustándome .</output>
+  </s>
+  <s id="450">
+    <input>Generalmente requiere la participación de dos <f id="1">players</f>  o equipos que a su vez golpean por turnos una pelota contra un muro .</input>
+    <output>Generalmente requiere la participación de dos <f id="1">jugadores<alt>actores</alt><alt>agentes</alt><alt>protagonistas</alt><alt>actores ,</alt></f>  o equipos que a su vez golpean por turnos una pelota contra un muro .</output>
+  </s>
+  <s id="451">
+    <input>Las palabras de Gloria resonaban <f id="1">in his mind</f>  .</input>
+    <output>Las palabras de Gloria resonaban <f id="1">en su mente<alt>por su cuenta</alt><alt>en su cuenta</alt><alt>en su opinión</alt><alt>de su mente</alt></f>  .</output>
+  </s>
+  <s id="452">
+    <input>Goya <f id="1">kept</f>  el cuadro escondido por diez años .</input>
+    <output>Goya <f id="1">mantuvo<alt>mantenido</alt><alt>mantiene</alt><alt>mantenga</alt><alt>mantener</alt></f>  el cuadro escondido por diez años .</output>
+  </s>
+  <s id="453">
+    <input>Después , dejándome guiar por mi <f id="1">sense of direction</f>  , comencé a alejarme de la zona turística donde estaban enclavados los hoteles .</input>
+    <output>Después , dejándome guiar por mi <f id="1">sentido de dirección<alt>sentido de la dirección</alt><alt>sensación de dirección</alt><alt>sentimiento de dirección</alt><alt>sentido de la orientación</alt></f>  , comencé a alejarme de la zona turística donde estaban enclavados los hoteles .</output>
+  </s>
+  <s id="454">
+    <input>He tomado <f id="1">all kinds of</f>  drogas .</input>
+    <output>He tomado <f id="1">todo tipo de<alt>de todo tipo de</alt><alt>todos los tipos de</alt><alt>a todo tipo de</alt><alt>todos tipos de</alt></f>  drogas .</output>
+  </s>
+  <s id="455">
+    <input>Suponen que el precio de la gasolina <f id="1">will increase</f>  otra vez .</input>
+    <output>Suponen que el precio de la gasolina <f id="1">aumentará<alt>aumentarán</alt><alt>que aumentará</alt><alt>incrementará</alt><alt>va a aumentar</alt></f>  otra vez .</output>
+  </s>
+  <s id="456">
+    <input>Sigo haciendo <f id="1">the same</f>  , pero ahora me pagan por ello .</input>
+    <output>Sigo haciendo <f id="1">lo mismo<alt>la misma</alt><alt>el mismo</alt><alt>las mismas</alt><alt>de la misma</alt></f>  , pero ahora me pagan por ello .</output>
+  </s>
+  <s id="457">
+    <input>La casa de Avila , <f id="1">which</f>  compraron hace menos de un año , la han vendido .</input>
+    <output>La casa de Avila , <f id="1">que<alt>lo que</alt><alt>el que</alt><alt>la que</alt><alt>, que</alt></f>  compraron hace menos de un año , la han vendido .</output>
+  </s>
+  <s id="458">
+    <input>Mis abuelos siempre <f id="1">prayed</f>  antes de comer .</input>
+    <output>Mis abuelos siempre <f id="1">rezado</f>  antes de comer .</output>
+  </s>
+  <s id="459">
+    <input>Una excepción fue <f id="1">the case against</f>  Jesús Guerra .</input>
+    <output>Una excepción fue <f id="1">el caso en contra de<alt>el caso contra</alt><alt>el caso en contra</alt><alt>el caso contra el</alt><alt>el caso contra la</alt></f>  Jesús Guerra .</output>
+  </s>
+  <s id="460">
+    <input>La medida es el resultado de <f id="1">a truce</f>  anunciada meses antes por la banda terrorista .</input>
+    <output>La medida es el resultado de <f id="1">una tregua<alt>la tregua</alt><alt>de una tregua</alt><alt>una tregua de la</alt><alt>una tregua de</alt></f>  anunciada meses antes por la banda terrorista .</output>
+  </s>
+  <s id="461">
+    <input>Vinieron muchos compañeros <f id="1">of mine</f>  .</input>
+    <output>Vinieron muchos compañeros <f id="1">míos<alt>de minas</alt><alt>de la mía</alt><alt>mío</alt><alt>del mío</alt></f>  .</output>
+  </s>
+  <s id="462">
+    <input>Con este juego creció <f id="1">the team</f>  de Pep Guardiola hasta convertirse en el mejor del mundo</input>
+    <output>Con este juego creció <f id="1">el equipo<alt>del equipo</alt><alt>al equipo</alt><alt>, el equipo</alt><alt>un equipo</alt></f>  de Pep Guardiola hasta convertirse en el mejor del mundo</output>
+  </s>
+  <s id="463">
+    <input>El Consejo de Ministros examinó ayer el plan de acción para <f id="1">equal opportunities</f>  de la mujer .</input>
+    <output>El Consejo de Ministros examinó ayer el plan de acción para <f id="1">la igualdad de oportunidades<alt>la igualdad</alt><alt>la igualdad de oportunidades ,</alt><alt>igualdad de oportunidades</alt><alt>de la igualdad de oportunidades</alt></f>  de la mujer .</output>
+  </s>
+  <s id="464">
+    <input>Hay wifi en los trenes de larga y media distancia , <f id="1">as well as</f>  en los trenes de cercanías .</input>
+    <output>Hay wifi en los trenes de larga y media distancia , <f id="1">así como<alt>, así como</alt><alt>como así como</alt><alt>así como a</alt><alt>así como de</alt></f>  en los trenes de cercanías .</output>
+  </s>
+  <s id="465">
+    <input>Las <f id="1">expectations</f>  de los que están en favor muestra de un optimismo exagerado .</input>
+    <output>Las <f id="1">expectativas<alt>esperanzas</alt><alt>las expectativas</alt><alt>expectativas de</alt><alt>de las expectativas</alt></f>  de los que están en favor muestra de un optimismo exagerado .</output>
+  </s>
+  <s id="466">
+    <input>No podemos <f id="1">miss the opportunity</f>  histórica de conseguir una solución democrática .</input>
+    <output>No podemos <f id="1">desaprovechar la oportunidad<alt>perder la oportunidad</alt><alt>pasar la oportunidad</alt><alt>desperdiciar la oportunidad</alt><alt>desaprovechar esta oportunidad</alt></f>  histórica de conseguir una solución democrática .</output>
+  </s>
+  <s id="467">
+    <input>Con esta adquisición Telefónica espera <f id="1">to attain</f>  un mínimo de 2.700 millones de euros en efectos de sinergia .</input>
+    <output>Con esta adquisición Telefónica espera <f id="1">alcanzar<alt>de alcanzar</alt><alt>para alcanzar</alt><alt>lograr</alt><alt>conseguir</alt></f>  un mínimo de 2.700 millones de euros en efectos de sinergia .</output>
+  </s>
+  <s id="468">
+    <input>Es <f id="1">to prevent</f>  que la plaza vuelva a ser ocupada por los indignados del movimiento 15 - M .</input>
+    <output>Es <f id="1">para evitar<alt>para impedir</alt><alt>para prevenir</alt><alt>impedir</alt><alt>evitar</alt></f>  que la plaza vuelva a ser ocupada por los indignados del movimiento 15 - M .</output>
+  </s>
+  <s id="469">
+    <input>¿ Cómo es que todos tus hermanos tienen <f id="1">black hair</f>  y tú no ?</input>
+    <output>¿ Cómo es que todos tus hermanos tienen <f id="1">pelo negro<alt>de pelo negro</alt><alt>cabello negro</alt><alt>negro cabello</alt><alt>negro pelo</alt></f>  y tú no ?</output>
+  </s>
+  <s id="470">
+    <input>El los exámenes Maribel siempre <f id="1">becomes</f>  muy nerviosa .</input>
+    <output>El los exámenes Maribel siempre <f id="1">se convierte en<alt>resulta</alt><alt>convierte en</alt><alt>se convierte</alt><alt>se vuelve</alt></f>  muy nerviosa .</output>
+  </s>
+  <s id="471">
+    <input>Es un perro que tiene <f id="1">a white spot</f>  en la frente .</input>
+    <output>Es un perro que tiene <f id="1">un libro in situ<alt>una Libro in situ</alt><alt>un libro terreno</alt><alt>un libro lugar</alt><alt>un libro detectar</alt></f>  en la frente .</output>
+  </s>
+  <s id="472">
+    <input>El juego espontáneo <f id="1">is full of</f>  significado .</input>
+    <output>El juego espontáneo <f id="1">está lleno de<alt>está llena de</alt><alt>lleno de</alt><alt>, lleno de</alt><alt>es lleno de</alt></f>  significado .</output>
+  </s>
+  <s id="473">
+    <input>Siguiendo <f id="1">the orders</f>  del Gobierno , la policía madrileña lleva tres días cerrando el paso a la Puerta del Sol .</input>
+    <output>Siguiendo <f id="1">las órdenes<alt>los órdenes</alt><alt>órdenes</alt><alt>las instrucciones</alt><alt>el orden</alt></f>  del Gobierno , la policía madrileña lleva tres días cerrando el paso a la Puerta del Sol .</output>
+  </s>
+  <s id="474">
+    <input>En 1990 sus padres <f id="1">died</f>  en un accidente aéreo .</input>
+    <output>En 1990 sus padres <f id="1">murió<alt>, murió</alt><alt>han muerto</alt><alt>murieron</alt><alt>fallecieron</alt></f>  en un accidente aéreo .</output>
+  </s>
+  <s id="475">
+    <input>Me ha dicho que la cena es <f id="1">at nine o ' clock</f>  .</input>
+    <output>Me ha dicho que la cena es <f id="1">a las nueve<alt>a las nueve de la noche</alt><alt>en las nueve</alt><alt>en las nueve de la noche</alt><alt>a las nueve de la mañana</alt></f>  .</output>
+  </s>
+  <s id="476">
+    <input>Los economistas prevén <f id="1">however</f>  que ahora sea menor .</input>
+    <output>Los economistas prevén <f id="1">sin embargo<alt>pero</alt><alt>no obstante</alt><alt>embargo</alt><alt>sin embargo ,</alt></f>  que ahora sea menor .</output>
+  </s>
+  <s id="477">
+    <input>Fue un público que deseaba ir <f id="1">as far as possible</f>  en el camino iniciado .</input>
+    <output>Fue un público que deseaba ir <f id="1">lo más lejos posible<alt>en la medida de lo posible</alt><alt>tan lejos como sea posible</alt><alt>más lejos posible</alt><alt>lo más posible</alt></f>  en el camino iniciado .</output>
+  </s>
+  <s id="478">
+    <input>El insomnio afecta <f id="1">at least</f>  a un tercio de la población adulta en algún momento de su vida .</input>
+    <output>El insomnio afecta <f id="1">al menos<alt>por lo menos</alt><alt>al menos ,</alt><alt>, al menos</alt><alt>a al menos</alt></f>  a un tercio de la población adulta en algún momento de su vida .</output>
+  </s>
+  <s id="479">
+    <input>Por fin Juanita decide <f id="1">to marry</f>  .</input>
+    <output>Por fin Juanita decide <f id="1">a casarse<alt>casarse</alt><alt>a casarse con</alt><alt>de casarse</alt><alt>al matrimonio</alt></f>  .</output>
+  </s>
+  <s id="480">
+    <input>En España <f id="1">there are</f>  dos tipos de inmigración .</input>
+    <output>En España <f id="1">hay<alt>, hay</alt><alt>existen</alt><alt>existe</alt><alt>que hay</alt></f>  dos tipos de inmigración .</output>
+  </s>
+  <s id="481">
+    <input>Los túneles <f id="1">flood</f>  si llueve de forma persistente .</input>
+    <output>Los túneles <f id="1">inundación<alt>inundaciones</alt><alt>de inundación</alt><alt>de inundaciones</alt><alt>inundar</alt></f>  si llueve de forma persistente .</output>
+  </s>
+  <s id="482">
+    <input>Este festejo , de larga tradición en Madrid , <f id="1">has its origin</f>  en los tiempos de Carlos III .</input>
+    <output>Este festejo , de larga tradición en Madrid , <f id="1">tiene su origen<alt>tienen su origen</alt><alt>tenga su origen</alt><alt>ha su origen</alt><alt>tiene su origen ,</alt></f>  en los tiempos de Carlos III .</output>
+  </s>
+  <s id="483">
+    <input>Este problema <f id="1">has nothing to do with</f>  el clima político actual .</input>
+    <output>Este problema <f id="1">no tiene nada que ver con<alt>tiene nada que ver con</alt><alt>no tiene nada que ver con la</alt><alt>, no tiene nada que ver con</alt><alt>nada tiene que ver con</alt></f>  el clima político actual .</output>
+  </s>
+  <s id="484">
+    <input>Ya no <f id="1">watch TV</f>  todos los días .</input>
+    <output>Ya no <f id="1">ver la televisión<alt>presenciar la televisión</alt><alt>ven la televisión</alt><alt>ven televisión</alt><alt>Watch televisión</alt></f>  todos los días .</output>
+  </s>
+  <s id="485">
+    <input>La policía española ha podido <f id="1">arrest</f>  a una serie de dirigentes de la banda terrorista .</input>
+    <output>La policía española ha podido <f id="1">detener<alt>detención</alt><alt>arresto</alt><alt>arrestar</alt><alt>detenido</alt></f>  a una serie de dirigentes de la banda terrorista .</output>
+  </s>
+  <s id="486">
+    <input>Los <f id="1">team members</f>  se felicitan después del partido .</input>
+    <output>Los <f id="1">diputados equipo<alt>miembros del equipo</alt><alt>diputados de equipo</alt><alt>equipo diputados</alt><alt>miembros del equipo de</alt></f>  se felicitan después del partido .</output>
+  </s>
+  <s id="487">
+    <input>Meses <f id="1">after finishing</f>  su novena sinfonía , el compositor murió .</input>
+    <output>Meses <f id="1">después de terminar<alt>después de finalizar</alt><alt>después de concluir</alt><alt>tras finalizar</alt><alt>después de terminar su</alt></f>  su novena sinfonía , el compositor murió .</output>
+  </s>
+  <s id="488">
+    <input>El problema es una cuestión de <f id="1">public health</f>  .</input>
+    <output>El problema es una cuestión de <f id="1">salud pública<alt>la salud pública</alt><alt>de la salud pública</alt><alt>salud pública ,</alt><alt>salud</alt></f>  .</output>
+  </s>
+  <s id="489">
+    <input>La empresa había informado <f id="1">beforehand</f>  a los medios de comunicación .</input>
+    <output>La empresa había informado <f id="1">de antemano<alt>previamente</alt><alt>antes</alt><alt>previo</alt><alt>con antelación</alt></f>  a los medios de comunicación .</output>
+  </s>
+  <s id="490">
+    <input><f id="1">There were</f>  mucha más gente que el otro día .</input>
+    <output><f id="1">Hubo<alt>Había</alt><alt>Hay</alt><alt>Se han</alt><alt>Eran</alt></f>  mucha más gente que el otro día .</output>
+  </s>
+  <s id="491">
+    <input>Te lo repito <f id="1">more than once</f>  .</input>
+    <output>Te lo repito <f id="1">más de una vez<alt>una vez más</alt><alt>una vez más que</alt><alt>en más de una vez</alt><alt>una vez más de</alt></f>  .</output>
+  </s>
+  <s id="492">
+    <input>Lo castigaron por haber <f id="1">lied</f>  .</input>
+    <output>Lo castigaron por haber <f id="1">mentido<alt>mintió</alt><alt>ha mentido</alt><alt>mintieron</alt><alt>mentía</alt></f>  .</output>
+  </s>
+  <s id="493">
+    <input>En este momento lo único que pueden estar gestionando es algo <f id="1">related to</f>  el suministro de wolframio</input>
+    <output>En este momento lo único que pueden estar gestionando es algo <f id="1">relacionado con<alt>relacionados con</alt><alt>relacionadas con</alt><alt>relacionada con</alt><alt>relacionado para</alt></f>  el suministro de wolframio</output>
+  </s>
+  <s id="494">
+    <input>Antes de comprar esta cama , <f id="1">we slept</f>  en una de un metro veinte de ancho .</input>
+    <output>Antes de comprar esta cama , <f id="1">hemos dormido<alt>nos dormir</alt><alt>se durmieron</alt><alt>nos durmieron</alt><alt>que dormir</alt></f>  en una de un metro veinte de ancho .</output>
+  </s>
+  <s id="495">
+    <input>Durante el verano hay que lamentar demasiadas <f id="1">fatalities</f>  en las carreteras españolas .</input>
+    <output>Durante el verano hay que lamentar demasiadas <f id="1">víctimas mortales<alt>muertes</alt><alt>accidentes mortales</alt><alt>mortales</alt><alt>muertos</alt></f>  en las carreteras españolas .</output>
+  </s>
+  <s id="496">
+    <input>Creo que es importante cuidarse y <f id="1">the only way</f>  es hacerlo todos los días .</input>
+    <output>Creo que es importante cuidarse y <f id="1">la única manera<alt>la única forma</alt><alt>la única forma de</alt><alt>la única manera de</alt><alt>el único modo</alt></f>  es hacerlo todos los días .</output>
+  </s>
+  <s id="497">
+    <input>La siesta <f id="1">daily</f>  hacía que los músculos se relajaran y que el corazón se fortaleciera .</input>
+    <output>La siesta <f id="1">diariamente<alt>a diario</alt><alt>Daily</alt><alt>diario</alt><alt>diarias</alt></f>  hacía que los músculos se relajaran y que el corazón se fortaleciera .</output>
+  </s>
+  <s id="498">
+    <input><f id="1">He left</f>  a la calle .</input>
+    <output><f id="1">Ha salido<alt>Ha dejado</alt><alt>Dejó</alt><alt>Que dejó</alt><alt>Salió</alt></f>  a la calle .</output>
+  </s>
+  <s id="499">
+    <input>Se han definido cuatro <f id="1">goals</f>  para el programa .</input>
+    <output>Se han definido cuatro <f id="1">objetivos<alt>metas</alt><alt>los objetivos</alt><alt>objetivos que</alt><alt>objetivos ,</alt></f>  para el programa .</output>
+  </s>
+  <s id="500">
+    <input><f id="1">The meaning of</f>  las figuras peculiares del panfleto antibélico de Picasso sigue siendo enigmático</input>
+    <output><f id="1">El significado de<alt>El sentido de</alt><alt>La significado de</alt><alt>El significado de la</alt><alt>Del significado de</alt></f>  las figuras peculiares del panfleto antibélico de Picasso sigue siendo enigmático</output>
+  </s>
+</sentencepairs>
