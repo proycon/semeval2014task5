@@ -25,10 +25,10 @@ en-es	best	UNAL-run2	0.733	0.809	0.9939759036144579
 en-es	best	UNAL-run1	0.721	0.794	0.9939759036144579
 en-es	best	CNRC-run1	0.667	0.745	1.0
 en-es	best	CNRC-run2	0.651	0.735	1.0
+en-es	best	colibrita-ep7os12-l1r1lm	0.641	0.727	0.9538152610441767
 en-es	best	IUCL-run1	0.633	0.72	1.0
 en-es	best	IUCL-run2	0.633	0.72	1.0
-en-es	best	colibrita-ep7os12-l1r1	0.546	0.653	0.9538152610441767
-en-es	best	colibrita-ep7os12-l1r1lm	0.546	0.653	0.9538152610441767
+en-es	best	colibrita-ep7os12-l1r1	0.596	0.69	0.9538152610441767
 en-es	best	colibrita-ep7os12-baseline	0.544	0.651	0.9538152610441767
 en-es	best	Sensible-wtmxlingyu	0.239	0.351	0.8192771084337349
 en-es	best	TeamZ-run1	0.223	0.333	0.751004016064257
@@ -53,9 +53,9 @@ fr-en	best	CNRC-run1	0.556	0.694	1.0
 fr-en	best	CNRC-run2	0.533	0.686	1.0
 fr-en	best	IUCL-run1	0.545	0.682	1.0
 fr-en	best	IUCL-run2	0.545	0.682	1.0
-fr-en	best	colibrita-ep7os12-l1r1	0.448	0.538	0.802020202020202
+fr-en	best	colibrita-ep7os12-l1r1lm	0.461	0.556	0.802020202020202
 fr-en	best	colibrita-ep7os12-baseline	0.448	0.538	0.802020202020202
-fr-en	best	colibrita-ep7os12-l1r1lm	0.448	0.538	0.802020202020202
+fr-en	best	colibrita-ep7os12-l1r1	0.428	0.531	0.802020202020202
 fr-en	best	Sensible-wtmxlingyu	0.081	0.116	0.3212121212121212
 fr-en	best	Sensible-wtm	0.055	0.067	0.2101010101010101
 fr-en	best	Sensible-wtmxling	0.055	0.067	0.2101010101010101
