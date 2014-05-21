@@ -1,0 +1,2002 @@
+<sentencepairs L1="en" L2="de">
+<s id="1">
+  <input>Ich konnte Bärbel noch <f id="1">on the border</f>  in einen letzten S-Bahn-Zug nach Westberlin setzen .</input>
+  <output>Ich konnte Bärbel noch <f id="1">an der Grenze<alt>über den Außengrenzenfonds</alt><alt>auf der Grenze</alt><alt>zur Grenze</alt><alt>das an der Grenze</alt></f>  in einen letzten S-Bahn-Zug nach Westberlin setzen .</output>
+</s>
+<s id="2">
+  <input>Es ist <f id="1">exciting</f>  , so viele Orte und Menschen kennen gelernt zu haben .</input>
+  <output>Es ist <f id="1">aufregend<alt>spannend</alt><alt>spannende</alt><alt>spannender</alt><alt>faszinierend</alt></f>  , so viele Orte und Menschen kennen gelernt zu haben .</output>
+</s>
+<s id="3">
+  <input>Die Frau kehrte <f id="1">alone</f>  nach Lima zurück .</input>
+  <output>Die Frau kehrte <f id="1">allein<alt>alleine</alt><alt>nur</alt><alt>allein schon</alt><alt>ausschließlich</alt></f>  nach Lima zurück .</output>
+</s>
+<s id="4">
+  <input>Sie fährt heute <f id="1">home</f>  .</input>
+  <output>Sie fährt heute <f id="1">nach Hause<alt>Heimat</alt><alt>Hause</alt><alt>Zuhause</alt><alt>zuhause</alt></f>  .</output>
+</s>
+<s id="5">
+  <input>Er schoss den Ball <f id="1">through the window</f>  .</input>
+  <output>Er schoss den Ball <f id="1">durch das Fenster<alt>durch den Fenster</alt><alt>durch den Erfassungsfensters</alt><alt>durch das Erfassungsfensters</alt><alt>aus dem Fenster</alt></f>  .</output>
+</s>
+<s id="6">
+  <input>Im Tatort fand der Kriminalbeamte im zweiten Stock <f id="1">a dead body</f>  .</input>
+  <output>Im Tatort fand der Kriminalbeamte im zweiten Stock <f id="1">ein toter Körper<alt>einen toten Körper</alt><alt>toter Körper</alt><alt>einem toten Körper</alt><alt>eine tote Körper</alt></f>  .</output>
+</s>
+<s id="7">
+  <input>Computerfrust <f id="1">leads to</f>  volkswirtschaftlichen Schäden in Milliardenhöhe .</input>
+  <output>Computerfrust <f id="1">führt zu<alt>führt zur</alt><alt>führt zum</alt><alt>führen zu</alt><alt>führt nach</alt></f>  volkswirtschaftlichen Schäden in Milliardenhöhe .</output>
+</s>
+<s id="8">
+  <input>Längere Texte lassen sich leichter <f id="1">on a keyboard</f>  schreiben .</input>
+  <output>Längere Texte lassen sich leichter <f id="1">auf einer Klaviatur<alt>über eine Klaviatur</alt><alt>auf eine Klaviatur</alt><alt>über einen Klaviatur</alt><alt>auf einem Klaviatur</alt></f>  schreiben .</output>
+</s>
+<s id="9">
+  <input>Und dieser Anfang ist für <f id="1">an adult</f>  schwer .</input>
+  <output>Und dieser Anfang ist für <f id="1">ein Erwachsener<alt>eine erwachsene</alt><alt>eine ausgewachsene</alt><alt>ein erwachsenes</alt><alt>eine Erwachsene</alt></f>  schwer .</output>
+</s>
+<s id="10">
+  <input>Protestiert wird gegen die geplanten Balkone , die <f id="1">in the direction</f>  der Nachbarn weisen .</input>
+  <output>Protestiert wird gegen die geplanten Balkone , die <f id="1">in die Richtung<alt>in Richtung</alt><alt>in der Richtung</alt><alt>auf die Linie</alt><alt>im Sinne</alt></f>  der Nachbarn weisen .</output>
+</s>
+<s id="11">
+  <input>Er sah , dass <f id="1">the luggage</f>  aus frei Koffern bestand .</input>
+  <output>Er sah , dass <f id="1">, das Gepäck<alt>, die Gepäck</alt><alt>Die Gepäck</alt><alt>, den Gepäck</alt><alt>, die Koffer</alt></f>  aus frei Koffern bestand .</output>
+</s>
+<s id="12">
+  <input>Es gibt leider <f id="1">still</f>  zu viele Arbeitslose .</input>
+  <output>Es gibt leider <f id="1">immer noch<alt>noch</alt><alt>noch immer</alt><alt>nach wie vor</alt><alt>weiterhin</alt></f>  zu viele Arbeitslose .</output>
+</s>
+<s id="13">
+  <input>Die Konservativen wollen die <f id="1">existing</f>  Verhältnisse beibehalten .</input>
+  <output>Die Konservativen wollen die <f id="1">bestehenden<alt>bestehende</alt><alt>vorhandenen</alt><alt>existierenden</alt><alt>bereits bestehenden</alt></f>  Verhältnisse beibehalten .</output>
+</s>
+<s id="14">
+  <input>Tobias geht schon in die Schule dieses Jahr und Julia ist jetzt <f id="1">in third grade</f>  .</input>
+  <output>Tobias geht schon in die Schule dieses Jahr und Julia ist jetzt <f id="1">an dritter Dienstgrad<alt>in dritten Dienstgrad</alt><alt>an dritter Laufbahngruppe</alt><alt>in außereuropäischen Dienstgrad</alt><alt>an dritter Schiene</alt></f>  .</output>
+</s>
+<s id="15">
+  <input>Die neuen <f id="1">neighbours</f>  haben sich gut in die neue Umgebung eingewöhnt .</input>
+  <output>Die neuen <f id="1">Nachbarn<alt>Nachländern</alt><alt>Nachbarstaaten</alt><alt>Nachbarschaft</alt><alt>Nachbarländern</alt></f>  haben sich gut in die neue Umgebung eingewöhnt .</output>
+</s>
+<s id="16">
+  <input>Mancherorts beginnt der Tag <f id="1">now</f>  mit Dunst - und Nebelfeldern .</input>
+  <output>Mancherorts beginnt der Tag <f id="1">nun<alt>jetzt</alt><alt>inzwischen</alt><alt>nunmehr</alt><alt>heute</alt></f>  mit Dunst - und Nebelfeldern .</output>
+</s>
+<s id="17">
+  <input>Bei pubertierende Jugendlichen sind verstärkt soziale <f id="1">prejudices</f>  zu beobachten .</input>
+  <output>Bei pubertierende Jugendlichen sind verstärkt soziale <f id="1">Vorurteile<alt>Vorurteilen</alt><alt>Vorurteile ,</alt><alt>Vorurteile sind</alt><alt>Vorurteil ,</alt></f>  zu beobachten .</output>
+</s>
+<s id="18">
+  <input>Trauriger Spitzenreiter beim Tod durch Verbrechen sind die <f id="1">Latvians</f>  .</input>
+  <output>Trauriger Spitzenreiter beim Tod durch Verbrechen sind die <f id="1">Letten<alt>den Letten</alt><alt>Letten zu</alt><alt>Nationalität</alt><alt>Lettland</alt></f>  .</output>
+</s>
+<s id="19">
+  <input>Haben Sie <f id="1">yourself</f>  ein Weblog oder lesen Sie von anderen das Weblog ?</input>
+  <output>Haben Sie <f id="1">selbst<alt>haben selbst</alt><alt>selbst haben</alt><alt>sich</alt><alt>selber</alt></f>  ein Weblog oder lesen Sie von anderen das Weblog ?</output>
+</s>
+<s id="20">
+  <input>Es ist ganz <f id="1">pleasant</f>  , mal Abstand zu haben .</input>
+  <output>Es ist ganz <f id="1">angenehm<alt>wohlklingendem</alt><alt>angenehme</alt><alt>angenehmen</alt><alt>schön</alt></f>  , mal Abstand zu haben .</output>
+</s>
+<s id="21">
+  <input>Er hat den Verein <f id="1">until his death</f>  besucht .</input>
+  <output>Er hat den Verein <f id="1">bis zu seinem Tod</f>  besucht .</output>
+</s>
+<s id="22">
+  <input>Er arbeitet <f id="1">at</f>  der Eisenbahn .</input>
+  <output>Er arbeitet <f id="1">bei<alt>auf</alt><alt>in</alt><alt>an</alt><alt>mit</alt></f>  der Eisenbahn .</output>
+</s>
+<s id="23">
+  <input>Aber leider muss ich <f id="1">here</f>  in Dortmund bleiben zum Arbeiten und Deutsch weiterlernen .</input>
+  <output>Aber leider muss ich <f id="1">hier<alt>hierher</alt><alt>da</alt><alt>hier und</alt><alt>anwesend</alt></f>  in Dortmund bleiben zum Arbeiten und Deutsch weiterlernen .</output>
+</s>
+<s id="24">
+  <input>Das Medikament ist in jeder Apotheke <f id="1">available</f>  .</input>
+  <output>Das Medikament ist in jeder Apotheke <f id="1">verfügbar<alt>vorhanden</alt><alt>zur Verfügung</alt><alt>erhältlich</alt><alt>verfügbaren</alt></f>  .</output>
+</s>
+<s id="25">
+  <input>Wenn Sie eine Wohnung vermieten oder kaufen möchten , sollten Sie das nicht <f id="1">through the internet</f>  machen .</input>
+  <output>Wenn Sie eine Wohnung vermieten oder kaufen möchten , sollten Sie das nicht <f id="1">durch das Internet<alt>über Internet</alt></f>  machen .</output>
+</s>
+<s id="26">
+  <input>Ihr Baby <f id="1">needs</f>  sie ständig .</input>
+  <output>Ihr Baby <f id="1">muss<alt>braucht</alt><alt>benötigt</alt><alt>Bedürfnisse</alt><alt>Bedürfnissen</alt></f>  sie ständig .</output>
+</s>
+<s id="27">
+  <input>Viele <f id="1">family members</f>  und Freunde haben uns in Ostberlin besucht .</input>
+  <output>Viele <f id="1">Familienmitglieder<alt>Familienangehörige</alt><alt>Familienangehörigen</alt><alt>Angehörige</alt><alt>Familienmitgliedern</alt></f>  und Freunde haben uns in Ostberlin besucht .</output>
+</s>
+<s id="28">
+  <input>Wenden Sie sich <f id="1">to</f>  den Hersteller , falls das Problem erneut auftritt .</input>
+  <output>Wenden Sie sich <f id="1">an<alt>zu</alt><alt>auf</alt><alt>für</alt><alt>,</alt></f>  den Hersteller , falls das Problem erneut auftritt .</output>
+</s>
+<s id="29">
+  <input>Jan spricht <f id="1">only with him</f>  darüber .</input>
+  <output>Jan spricht <f id="1">lediglich mit ihm<alt>ausschließlich mit ihm</alt><alt>es nur mit ihm</alt><alt>allein bei ihm</alt><alt>dann doch mit ihm</alt></f>  darüber .</output>
+</s>
+<s id="30">
+  <input>Oft gibt es <f id="1">various reasons</f>  für das Dilemma .</input>
+  <output>Oft gibt es <f id="1">verschiedene Gründe<alt>diverse Gründe</alt><alt>verschiedene Ursachen</alt><alt>verschiedenen Gründen</alt><alt>mehrere Gründe</alt></f>  für das Dilemma .</output>
+</s>
+<s id="31">
+  <input>In den Bergen ist es <f id="1">in every season</f>  schön .</input>
+  <output>In den Bergen ist es <f id="1">in jeder Saison<alt>in jedem Saison</alt><alt>in jeder Saison so</alt><alt>auf jede Saison</alt><alt>in allen Saison</alt></f>  schön .</output>
+</s>
+<s id="32">
+  <input>Eine Regelung empfindet die Gesellschaft als <f id="1">necessary</f></input>
+  <output>Eine Regelung empfindet die Gesellschaft als <f id="1">notwendig<alt>notwendigen</alt><alt>notwendige</alt><alt>erforderlich</alt><alt>erforderlichen</alt></f></output>
+</s>
+<s id="33">
+  <input>Eltern <f id="1">complain</f>  immer darüber .</input>
+  <output>Eltern <f id="1">beschweren sich<alt>klagen</alt><alt>beschweren uns</alt><alt>beklagen sich</alt><alt>beklagen</alt></f>  immer darüber .</output>
+</s>
+<s id="34">
+  <input>Geräte wie Handys sind <f id="1">not permitted</f>  wenn sie nicht unterrichtlichen Belangen dienen .</input>
+  <output>Geräte wie Handys sind <f id="1">nicht zulässig<alt>nicht erlaubt</alt><alt>nicht gestattet</alt><alt>es verboten</alt><alt>nicht zugelassen</alt></f>  wenn sie nicht unterrichtlichen Belangen dienen .</output>
+</s>
+<s id="35">
+  <input>Wenn Sie sich für unsere Firma entschieden haben , dann kriegen Sie <f id="1">both</f>  einen anspruchsvollen Job , als auch die Möglichkeit das Leben in Köln zu genießen .</input>
+  <output>Wenn Sie sich für unsere Firma entschieden haben , dann kriegen Sie <f id="1">sowohl<alt>beide</alt><alt>beiden</alt><alt>beider</alt><alt>beides</alt></f>  einen anspruchsvollen Job , als auch die Möglichkeit das Leben in Köln zu genießen .</output>
+</s>
+<s id="36">
+  <input>Ich bin <f id="1">totally ready</f>  mich anzupassen an das Land , wo ich lebe .</input>
+  <output>Ich bin <f id="1">absolut bereit<alt>absolut fertig</alt><alt>absolut beitrittsreif</alt><alt>, völlig bereit</alt><alt>absolut reif</alt></f>  mich anzupassen an das Land , wo ich lebe .</output>
+</s>
+<s id="37">
+  <input>Du kannst deinen Charakter nicht <f id="1">change</f>  .</input>
+  <output>Du kannst deinen Charakter nicht <f id="1">ändern<alt>verändern</alt><alt>ändert</alt><alt>geändert</alt><alt>verändert</alt></f>  .</output>
+</s>
+<s id="38">
+  <input>Wir sehnen uns nach einem Leben <f id="1">without pain</f>  .</input>
+  <output>Wir sehnen uns nach einem Leben <f id="1">, ohne Schmerz<alt>, ohne Schmerzen</alt><alt>, ohne Leid</alt><alt>, ohne Schmerzen bereitet</alt><alt>, ohne Kummer</alt></f>  .</output>
+</s>
+<s id="39">
+  <input>Er <f id="1">ran</f>  im Morgenmantel zum Bäcker .</input>
+  <output>Er <f id="1">lief<alt>leitete</alt><alt>lief dann</alt><alt>eilte</alt><alt>leitete die</alt></f>  im Morgenmantel zum Bäcker .</output>
+</s>
+<s id="40">
+  <input>Kombiniere ich aber das alles <f id="1">in one device</f>  , kommt ein unbrauchbarer Kompromiss dabei heraus .</input>
+  <output>Kombiniere ich aber das alles <f id="1">in ein Gerät<alt>in einem Geräteserviceanbieter</alt><alt>in einem Gerät</alt><alt>auf ein Gerät</alt><alt>in dem einen Geräteserviceanbieter</alt></f>  , kommt ein unbrauchbarer Kompromiss dabei heraus .</output>
+</s>
+<s id="41">
+  <input>In einem Büro wird es für mich schnell <f id="1">boring</f>  .</input>
+  <output>In einem Büro wird es für mich schnell <f id="1">langweilig<alt>langweilig ,</alt><alt>langweiligen</alt><alt>Langeweile</alt><alt>langweilige</alt></f>  .</output>
+</s>
+<s id="42">
+  <input>Greenpeace richtet sich gegen <f id="1">the destruction</f>  der Umwelt .</input>
+  <output>Greenpeace richtet sich gegen <f id="1">die Zerstörung<alt>die Zerstörungen</alt><alt>die Vernichtung</alt><alt>der Zerstörung</alt><alt>eine Zerstörung</alt></f>  der Umwelt .</output>
+</s>
+<s id="43">
+  <input>In dieser Fabrik werden Fahrräder <f id="1">produced</f>  .</input>
+  <output>In dieser Fabrik werden Fahrräder <f id="1">produziert<alt>hergestellt</alt><alt>produzierte</alt><alt>produzierten</alt><alt>erzeugt</alt></f>  .</output>
+</s>
+<s id="44">
+  <input>Ich finde es <f id="1">unjust</f>  , dass Sie jeden Tag schon um 16 Uhr Feierabend machen .</input>
+  <output>Ich finde es <f id="1">ungerecht<alt>ungerechten</alt><alt>ungerechte</alt><alt>nicht richtig</alt><alt>ungerecht empfunden</alt></f>  , dass Sie jeden Tag schon um 16 Uhr Feierabend machen .</output>
+</s>
+<s id="45">
+  <input>Vertrauen ist der Grundstein jeder <f id="1">relationship</f>  .</input>
+  <output>Vertrauen ist der Grundstein jeder <f id="1">Beziehung<alt>Verhältnis</alt><alt>Beziehungen</alt><alt>Verhältnisses</alt><alt>Verbindung</alt></f>  .</output>
+</s>
+<s id="46">
+  <input>Mit weniger Ressourcen sollen höhere <f id="1">results</f>  erreicht werden .</input>
+  <output>Mit weniger Ressourcen sollen höhere <f id="1">Ergebnisse<alt>Resultate</alt><alt>Ergebnissen</alt><alt>Ergebnisse ,</alt><alt>Ergebnisse erzielt</alt></f>  erreicht werden .</output>
+</s>
+<s id="47">
+  <input>Ich habe einen guten Chef und <f id="1">the office</f>  liegt in der Nähe von meinem Haus .</input>
+  <output>Ich habe einen guten Chef und <f id="1">das Amt<alt>das Büro</alt><alt>dem Büro</alt><alt>des Büros</alt><alt>des Amtes</alt></f>  liegt in der Nähe von meinem Haus .</output>
+</s>
+<s id="48">
+  <input>Ich bin froh , <f id="1">to be healthy</f>  .</input>
+  <output>Ich bin froh , <f id="1">für gesund<alt>gesund</alt><alt>auf Gesundheit</alt><alt>von einer gesunden Einstellung</alt></f>  .</output>
+</s>
+<s id="49">
+  <input>Ich habe dich <f id="1">understood correctly</f>  .</input>
+  <output>Ich habe dich <f id="1">richtig verstanden<alt>richtig verstanden habe</alt><alt>richtig verstehe</alt><alt>gut verstanden</alt><alt>das richtig verstanden</alt></f>  .</output>
+</s>
+<s id="50">
+  <input>Er fuhr <f id="1">immediately after</f>  der Arbeit nach Hause .</input>
+  <output>Er fuhr <f id="1">unmittelbar nach<alt>sofort nach</alt><alt>direkt nach</alt><alt>gleich nach</alt><alt>zwar unmittelbar nach</alt></f>  der Arbeit nach Hause .</output>
+</s>
+<s id="51">
+  <input>Es ist so , dass <f id="1">educated</f>  Personen ein höheres Risiko eines fatalen Gehirnschlages tragen .</input>
+  <output>Es ist so , dass <f id="1">gebildete<alt>ausgebildete</alt><alt>gebildeten</alt><alt>für gebildete</alt><alt>ausgebildet</alt></f>  Personen ein höheres Risiko eines fatalen Gehirnschlages tragen .</output>
+</s>
+<s id="52">
+  <input>Wir streben nach Attraktivität und <f id="1">beauty</f>  .</input>
+  <output>Wir streben nach Attraktivität und <f id="1">Schönheit<alt>Schöne</alt><alt>Ästhetik</alt><alt>die Schönheit</alt><alt>Schönheit liegt</alt></f>  .</output>
+</s>
+<s id="53">
+  <input>In der Silvesternacht sind mein <f id="1">husband</f>  und ich auf die Bahnhofstraße gegangen .</input>
+  <output>In der Silvesternacht sind mein <f id="1">Mann<alt>Ehemann</alt><alt>Ehemanns</alt><alt>ihren Ehemann</alt><alt>Ihrem Mann</alt></f>  und ich auf die Bahnhofstraße gegangen .</output>
+</s>
+<s id="54">
+  <input>Das jährliche Pferderennen in Aachen zieht viele Besucher aus <f id="1">near and far</f>  an .</input>
+  <output>Das jährliche Pferderennen in Aachen zieht viele Besucher aus <f id="1">in nah und fern</f>  an .</output>
+</s>
+<s id="55">
+  <input>Der <f id="1">Father</f>  heißt Friedreich .</input>
+  <output>Der <f id="1">Pater<alt>Vater</alt><alt>Vaters</alt><alt>Vater hat</alt><alt>Vater Papst</alt></f>  heißt Friedreich .</output>
+</s>
+<s id="56">
+  <input>Der Text ist <f id="1">easy to understand</f>  für Kinder .</input>
+  <output>Der Text ist <f id="1">leicht verständlich<alt>leicht nachvollziehbar</alt><alt>einfach zu verstehen</alt><alt>leicht zu verstehen</alt><alt>so gut verständlich</alt></f>  für Kinder .</output>
+</s>
+<s id="57">
+  <input>Das ist möglicherweise auch ein Grund für <f id="1">this development</f>  .</input>
+  <output>Das ist möglicherweise auch ein Grund für <f id="1">diese Entwicklung<alt>dieser Entwicklung</alt><alt>diesen Bau</alt><alt>eine solche Entwicklung</alt><alt>solche Entwicklung</alt></f>  .</output>
+</s>
+<s id="58">
+  <input>In <f id="1">ten</f>  Minuten beginnt die Konferenz und der Rechner hat gerade das fertige Referat gefressen .</input>
+  <output>In <f id="1">zehn<alt>10</alt><alt>zehntens</alt><alt>insgesamt zehn</alt><alt>nur zehn</alt></f>  Minuten beginnt die Konferenz und der Rechner hat gerade das fertige Referat gefressen .</output>
+</s>
+<s id="59">
+  <input>Eine genetische Veranlagung <f id="1">plays a decisive role</f>  .</input>
+  <output>Eine genetische Veranlagung <f id="1">eine entscheidende Rolle spielt<alt>spielt eine entscheidende Rolle</alt></f>  .</output>
+</s>
+<s id="60">
+  <input>Das Programm wird automatisch beendet , alle nicht <f id="1">saved</f>  Daten gehen verloren .</input>
+  <output>Das Programm wird automatisch beendet , alle nicht <f id="1">gerettet<alt>gespart</alt><alt>retten können</alt><alt>gespeicherte</alt><alt>gerettet ,</alt></f>  Daten gehen verloren .</output>
+</s>
+<s id="61">
+  <input>Dies ist der erste Versuch , ein Sammelwerk von Handschriften <f id="1">to publish</f>  .</input>
+  <output>Dies ist der erste Versuch , ein Sammelwerk von Handschriften <f id="1">zu veröffentlichen<alt>zur Veröffentlichung</alt><alt>, zu veröffentlichen</alt><alt>herauszugeben</alt><alt>auf Veröffentlichung</alt></f>  .</output>
+</s>
+<s id="62">
+  <input>Wir <f id="1">have decided</f>  , konstruktiver mit Fehlern umzugehen .</input>
+  <output>Wir <f id="1">haben beschlossen<alt>beschlossen haben</alt><alt>entschieden haben</alt><alt>haben entschieden</alt><alt>haben sich entschlossen</alt></f>  , konstruktiver mit Fehlern umzugehen .</output>
+</s>
+<s id="63">
+  <input>Wenn Sie im August <f id="1">room</f>  haben , dann kann meine Frau mit der Arbeit anfangen .</input>
+  <output>Wenn Sie im August <f id="1">Raum<alt>Platz</alt><alt>Zimmer</alt><alt>Spielraum</alt><alt>Saal</alt></f>  haben , dann kann meine Frau mit der Arbeit anfangen .</output>
+</s>
+<s id="64">
+  <input>Mein Beruf ist <f id="1">unfortunately</f>  bei den Frauen nicht populär , aber ich bin mit meiner Entscheidung zufrieden .</input>
+  <output>Mein Beruf ist <f id="1">leider<alt>unglücklicher-</alt><alt>bedauerlicherweise</alt><alt>leider auch</alt><alt>unglücklicherweise</alt></f>  bei den Frauen nicht populär , aber ich bin mit meiner Entscheidung zufrieden .</output>
+</s>
+<s id="65">
+  <input>Ich <f id="1">would suggest</f>  , regelmäßig Sport zu treiben .</input>
+  <output>Ich <f id="1">würde vorschlagen<alt>schlage vor</alt><alt>würde meinen</alt><alt>denke mir</alt><alt>würde sagen</alt></f>  , regelmäßig Sport zu treiben .</output>
+</s>
+<s id="66">
+  <input>Die <f id="1">murder of</f>  Walter Sedlmayr beschäftigte uns monatelang .</input>
+  <output>Die <f id="1">Ermordung von<alt>Mord an</alt><alt>Morde an</alt><alt>Ermordung des</alt><alt>Ermordung</alt></f>  Walter Sedlmayr beschäftigte uns monatelang .</output>
+</s>
+<s id="67">
+  <input>Ein <f id="1">considerate</f>  Mann bringt ihr öfter mal Blumen mit .</input>
+  <output>Ein <f id="1">rücksichtsvoll<alt>achtungsvolle</alt><alt>solidarische</alt></f>  Mann bringt ihr öfter mal Blumen mit .</output>
+</s>
+<s id="68">
+  <input>Meinen Sie das <f id="1">seriously</f>  ?</input>
+  <output>Meinen Sie das <f id="1">ernsthaft<alt>ernst</alt><alt>ernst nehmen</alt><alt>schwer</alt><alt>Ernst</alt></f>  ?</output>
+</s>
+<s id="69">
+  <input>Er wurde <f id="1">on time</f>  vor der drohenden Gefahr gewarnt .</input>
+  <output>Er wurde <f id="1">rechtzeitig<alt>pünktlich</alt><alt>fristgerecht</alt><alt>wieder rechtzeitig</alt><alt>pünktlich ,</alt></f>  vor der drohenden Gefahr gewarnt .</output>
+</s>
+<s id="70">
+  <input>Ich möchte immer mehr wissen über <f id="1">the different cultures</f>  .</input>
+  <output>Ich möchte immer mehr wissen über <f id="1">die verschiedenen Kulturen<alt>die einzelnen Kulturen</alt><alt>unterschiedliche Kulturen</alt><alt>den verschiedenen Kulturen</alt><alt>den unterschiedlichen Kulturen</alt></f>  .</output>
+</s>
+<s id="71">
+  <input>Obwohl ich sie noch nicht verstehen <f id="1">could</f>  , habe ich sofort probiert mit den Einwohnern in Kontakt zu kommen .</input>
+  <output>Obwohl ich sie noch nicht verstehen <f id="1">könnte<alt>könnten</alt><alt>kann</alt><alt>konnte</alt><alt>könne</alt></f>  , habe ich sofort probiert mit den Einwohnern in Kontakt zu kommen .</output>
+</s>
+<s id="72">
+  <input>Wenn man <f id="1">for example</f>  als Spezialist kommt , um an einem befristeten Projekt teilzunehmen , kann man sich leisten , nicht in die Tiefe zu gehen .</input>
+  <output>Wenn man <f id="1">zum Beispiel<alt>beispielsweise</alt><alt>z.B.</alt><alt>etwa</alt><alt>so beispielsweise</alt></f>  als Spezialist kommt , um an einem befristeten Projekt teilzunehmen , kann man sich leisten , nicht in die Tiefe zu gehen .</output>
+</s>
+<s id="73">
+  <input>Ich freue mich sehr , dass wir uns seit April <f id="1">more often</f>  treffen können .</input>
+  <output>Ich freue mich sehr , dass wir uns seit April <f id="1">öfter<alt>häufiger</alt><alt>noch öfter</alt><alt>viel häufiger</alt><alt>öfter die</alt></f>  treffen können .</output>
+</s>
+<s id="74">
+  <input><f id="1">This reservation</f>  konnte die Forschungsgruppe jetzt entkräften .</input>
+  <output><f id="1">Dieser Vorbehalt<alt>Diese Vorbehalt</alt><alt>Dies Vorbehalt</alt><alt>In diesem Vorbehalt</alt><alt>Dieses Vorbehalt</alt></f>  konnte die Forschungsgruppe jetzt entkräften .</output>
+</s>
+<s id="75">
+  <input>Das Bild gefällt mir , <f id="1">even though</f>  es sehr modern ist .</input>
+  <output>Das Bild gefällt mir , <f id="1">obwohl<alt>auch wenn</alt><alt>obgleich</alt><alt>selbst wenn</alt><alt>wenngleich</alt></f>  es sehr modern ist .</output>
+</s>
+<s id="76">
+  <input>Ich <f id="1">take</f>  jetzt eine Tablette und dann geht es mir wieder gut .</input>
+  <output>Ich <f id="1">nehme<alt>bin</alt><alt>nehmen</alt><alt>ergreifen</alt><alt>gehe</alt></f>  jetzt eine Tablette und dann geht es mir wieder gut .</output>
+</s>
+<s id="77">
+  <input>Ich wäre Ihnen sehr dankbar , wenn Sie mir weitere Informationen über Rechte , <f id="1">obligations</f>  und Aufenthaltsformalitäten zuschicken könnten .</input>
+  <output>Ich wäre Ihnen sehr dankbar , wenn Sie mir weitere Informationen über Rechte , <f id="1">Pflichten<alt>Verpflichtungen</alt><alt>Pflichten ,</alt><alt>Auflagen</alt><alt>Verbindlichkeiten</alt></f>  und Aufenthaltsformalitäten zuschicken könnten .</output>
+</s>
+<s id="78">
+  <input>Ich arbeite <f id="1">mainly</f>  im Sommer .</input>
+  <output>Ich arbeite <f id="1">hauptsächlich<alt>vor allem</alt><alt>vorwiegend</alt><alt>überwiegend</alt><alt>vornehmlich</alt></f>  im Sommer .</output>
+</s>
+<s id="79">
+  <input>Mach doch nicht immer solche <f id="1">jokes</f>  !</input>
+  <output>Mach doch nicht immer solche <f id="1">Witze<alt>Witze zu</alt><alt>Scherzen</alt><alt>dummen Witze</alt><alt>die dummen Witze</alt></f>  !</output>
+</s>
+<s id="80">
+  <input>Wir werden <f id="1">energy sources</f>  nutzen , die direkt von der Sonne stammen .</input>
+  <output>Wir werden <f id="1">Energiequellen<alt>Energien</alt><alt>Energieträger</alt><alt>Energieträgern</alt><alt>die Energiequellen</alt></f>  nutzen , die direkt von der Sonne stammen .</output>
+</s>
+<s id="81">
+  <input>Wir leben <f id="1">in the age</f>  der Raumfahrt .</input>
+  <output>Wir leben <f id="1">im Zeitalter<alt>in der Ära</alt><alt>, im Zeitalter</alt><alt>sich im Zeitalter</alt><alt>das Zeitalter</alt></f>  der Raumfahrt .</output>
+</s>
+<s id="82">
+  <input>Sei nicht so <f id="1">stupid</f>  !</input>
+  <output>Sei nicht so <f id="1">dumm<alt>blöd</alt><alt>töricht</alt><alt>dumme</alt><alt>dumm ,</alt></f>  !</output>
+</s>
+<s id="83">
+  <input><f id="1">Instead of</f>  gleich mit dem Studium anzufangen , machte Ruth nach dem Abitur eine Weltreise .</input>
+  <output><f id="1">OOV</f>  gleich mit dem Studium anzufangen , machte Ruth nach dem Abitur eine Weltreise .</output>
+</s>
+<s id="84">
+  <input>Hier gibt es <f id="1">the possibility</f>  , auch von zu Hause aus am Computer zu arbeiten .</input>
+  <output>Hier gibt es <f id="1">die Möglichkeit<alt>die Möglichkeit ,</alt><alt>auch die Möglichkeit</alt><alt>der Möglichkeit</alt><alt>die Möglichkeiten</alt></f>  , auch von zu Hause aus am Computer zu arbeiten .</output>
+</s>
+<s id="85">
+  <input>Sie hat <f id="1">unfortunately</f>  keine Arbeit gefunden .</input>
+  <output>Sie hat <f id="1">leider<alt>unglücklicher-</alt><alt>bedauerlicherweise</alt><alt>sich leider</alt><alt>jedoch leider</alt></f>  keine Arbeit gefunden .</output>
+</s>
+<s id="86">
+  <input>Sie wollen <f id="1">their identity</f>  behalten .</input>
+  <output>Sie wollen <f id="1">ihre Identität<alt>ihre Eigenschaften</alt><alt>ihrer Identität</alt><alt>seine Identität</alt><alt>die Identität</alt></f>  behalten .</output>
+</s>
+<s id="87">
+  <input><f id="1">Therefore</f>  setze ich meine Hoffnung auf die Vertiefung der europäischen Integration .</input>
+  <output><f id="1">Daher</f>  setze ich meine Hoffnung auf die Vertiefung der europäischen Integration .</output>
+</s>
+<s id="88">
+  <input>Welches Buch empfehlen Sie <f id="1">me</f>  ?</input>
+  <output>Welches Buch empfehlen Sie <f id="1">mich<alt>mir</alt><alt>möchte</alt><alt>mir bitte</alt><alt>mir ,</alt></f>  ?</output>
+</s>
+<s id="89">
+  <input>Aber gut , ich bin schon seit 2 Jahren in Deutschland und trotz der Schwierigkeiten , Arbeit zu finden , <f id="1">I like it very much</f>  .</input>
+  <output>Aber gut , ich bin schon seit 2 Jahren in Deutschland und trotz der Schwierigkeiten , Arbeit zu finden , <f id="1">gefällt es mir sehr<alt>mir gefällt es sehr</alt><alt>mir gefällt es sehr stark</alt><alt>gefällt es mir sehr stark</alt><alt>mir gefällt es vielmals</alt></f>  .</output>
+</s>
+<s id="90">
+  <input>Du meinst die Frage nicht <f id="1">seriously</f>  , oder ?</input>
+  <output>Du meinst die Frage nicht <f id="1">ernst<alt>ernsthaft</alt><alt>ernst nehmen</alt><alt>ernst nimmt</alt><alt>schwer</alt></f>  , oder ?</output>
+</s>
+<s id="91">
+  <input>Ich <f id="1">am interested in</f>  diese Geschichten .</input>
+  <output>Ich <f id="1">wüsste gern<alt>wüsste gern ,</alt><alt>bin auch daran interessiert</alt></f>  diese Geschichten .</output>
+</s>
+<s id="92">
+  <input>Das müssen Sie mir aber genauer <f id="1">explain</f>  .</input>
+  <output>Das müssen Sie mir aber genauer <f id="1">erklären<alt>erläutern</alt><alt>erläutert</alt><alt>erklärt</alt><alt>erläutert werden</alt></f>  .</output>
+</s>
+<s id="93">
+  <input>Die Kultur dieser Länder in der Entwicklung und in <f id="1">the</f>  Geschichte ist enorm .</input>
+  <output>Die Kultur dieser Länder in der Entwicklung und in <f id="1">der<alt>die</alt><alt>den</alt><alt>dem</alt><alt>das</alt></f>  Geschichte ist enorm .</output>
+</s>
+<s id="94">
+  <input><f id="1">The attack</f>  geschah durch Bomben .</input>
+  <output><f id="1">Der Anschlag<alt>Der Angriff</alt><alt>Den Angriff</alt><alt>Das Attentat</alt><alt>Das Angriff</alt></f>  geschah durch Bomben .</output>
+</s>
+<s id="95">
+  <input>Das Klima hier ist <f id="1">tropical</f>  und wir haben fast keinen Winter .</input>
+  <output>Das Klima hier ist <f id="1">tropischen<alt>tropische</alt><alt>tropischer</alt><alt>tropisch</alt><alt>die tropischen</alt></f>  und wir haben fast keinen Winter .</output>
+</s>
+<s id="96">
+  <input><f id="1">Either</f>  können uns besondere Ereignisse friedlich stimmen oder sie stimmen uns nervös .</input>
+  <output><f id="1">OOV</f>  können uns besondere Ereignisse friedlich stimmen oder sie stimmen uns nervös .</output>
+</s>
+<s id="97">
+  <input>Ich verdiene mein Geld <f id="1">as a musician</f>  .</input>
+  <output>Ich verdiene mein Geld <f id="1">als Musiker<alt>als Musikers</alt><alt>als ein Musikers</alt><alt>als eine Musikers</alt><alt>als ein Musiker</alt></f>  .</output>
+</s>
+<s id="98">
+  <input>Ich will ihn nicht <f id="1">hurt</f>  .</input>
+  <output>Ich will ihn nicht <f id="1">weh tun<alt>verletzt</alt><alt>weh</alt><alt>schaden</alt><alt>schmerzen</alt></f>  .</output>
+</s>
+<s id="99">
+  <input><f id="1">In the east</f>  ziehen im Laufe des Tages größere Wolkenfelder vorbei .</input>
+  <output><f id="1">Im Osten<alt>In den Osten</alt><alt>In im Osten</alt><alt>In dem Osten</alt><alt>In den Osten</alt></f>  ziehen im Laufe des Tages größere Wolkenfelder vorbei .</output>
+</s>
+<s id="100">
+  <input>Ich sehe ein Licht <f id="1">somewhere</f>  in der Ferne .</input>
+  <output>Ich sehe ein Licht <f id="1">irgendwo<alt>, irgendwo</alt><alt>sich irgendwo</alt><alt>doch irgendwo</alt><alt>es irgendwo</alt></f>  in der Ferne .</output>
+</s>
+<s id="101">
+  <input>Die meisten Eltern <f id="1">fear</f>  einen starken negativen Einfluss des Computers auf ihr Kind .</input>
+  <output>Die meisten Eltern <f id="1">befürchten<alt>Angst</alt><alt>fürchten</alt><alt>Angst vor</alt><alt>fürchte</alt></f>  einen starken negativen Einfluss des Computers auf ihr Kind .</output>
+</s>
+<s id="102">
+  <input>Wir sprechen <f id="1">not anymore</f>  mit ihm .</input>
+  <output>Wir sprechen <f id="1">, nicht mehr<alt>auch nicht mehr</alt><alt>, nicht länger</alt><alt>gar nicht mehr</alt><alt>die nicht mehr</alt></f>  mit ihm .</output>
+</s>
+<s id="103">
+  <input>Die Entwicklung können wir heute schon bei <f id="1">all decisions</f>  berücksichtigen .</input>
+  <output>Die Entwicklung können wir heute schon bei <f id="1">allen Entscheidungen<alt>alle Entscheidungen</alt><alt>allen Beschlüssen</alt><alt>aller Entscheidungen</alt><alt>sämtliche Entscheidungen</alt></f>  berücksichtigen .</output>
+</s>
+<s id="104">
+  <input>Der Nachbar <f id="1">from the first floor</f>  hat schon zum zehnten Mal sein Auto vor unserer Einfahrt geparkt .</input>
+  <output>Der Nachbar <f id="1">vom ersten Wort<alt>aus dem ersten Wort</alt><alt>aus der ersten Wort</alt><alt>von der ersten Wort</alt><alt>ab dem ersten Wort</alt></f>  hat schon zum zehnten Mal sein Auto vor unserer Einfahrt geparkt .</output>
+</s>
+<s id="105">
+  <input>Schon bald kam er <f id="1">to the realisation</f>  , dass er seine Meinung ändern müsste .</input>
+  <output>Schon bald kam er <f id="1">zu der Einsicht<alt>bei der Realisierung</alt><alt>, der Realisierung</alt><alt>zur Realisierung</alt><alt>für die Herbeiführung</alt></f>  , dass er seine Meinung ändern müsste .</output>
+</s>
+<s id="106">
+  <input><f id="1">Only</f>  in den Bayerischen Alpen halten sich dichte Wolken .</input>
+  <output><f id="1">Nur<alt>Vor nur</alt></f>  in den Bayerischen Alpen halten sich dichte Wolken .</output>
+</s>
+<s id="107">
+  <input>Meiner Meinung nach soll <f id="1">every foreigner</f>  den Ausgleich für sich finden und behalten .</input>
+  <output>Meiner Meinung nach soll <f id="1">jeder Ausländer<alt>jedes Ausländer</alt><alt>jeden Ausländer</alt><alt>jedem Ausländer</alt><alt>alle Ausländer</alt></f>  den Ausgleich für sich finden und behalten .</output>
+</s>
+<s id="108">
+  <input>Er hat den Studenten mit dem teuren Auto <f id="1">impressed</f>  .</input>
+  <output>Er hat den Studenten mit dem teuren Auto <f id="1">beeindruckt<alt>beeindrucken lassen</alt><alt>, beeindruckt</alt><alt>sehr beeindruckt</alt><alt>- beeindruckt</alt></f>  .</output>
+</s>
+<s id="109">
+  <input>Ich war gerade drei Jahre als die Mauer gebaut worden ist , und ich kann mich natürlich selbst nicht <f id="1">from</f>  diesen Tag erinneren .</input>
+  <output>Ich war gerade drei Jahre als die Mauer gebaut worden ist , und ich kann mich natürlich selbst nicht <f id="1">aus<alt>von</alt><alt>unter</alt><alt>an</alt><alt>durch</alt></f>  diesen Tag erinneren .</output>
+</s>
+<s id="110">
+  <input>Der Arzt <f id="1">heals</f>  den Kranken .</input>
+  <output>Der Arzt <f id="1">heilt</f>  den Kranken .</output>
+</s>
+<s id="111">
+  <input>In der <f id="1">former</f>  DDR gab es viele Stasi-Spitzel .</input>
+  <output>In der <f id="1">ehemaligen<alt>früheren</alt><alt>ehemalige</alt><alt>vormaligen</alt><alt>damaligen</alt></f>  DDR gab es viele Stasi-Spitzel .</output>
+</s>
+<s id="112">
+  <input>So bereiten wir die heutige Schülergeneration <f id="1">successfully</f>  auf das Berufsleben vor .</input>
+  <output>So bereiten wir die heutige Schülergeneration <f id="1">erfolgreich<alt>mit Erfolg</alt><alt>, erfolgreich</alt><alt>sich erfolgreich</alt><alt>erfolgreiche</alt></f>  auf das Berufsleben vor .</output>
+</s>
+<s id="113">
+  <input><f id="1">From the perspective</f>  der Polizie war die schöne Frau die Mörderin .</input>
+  <output><f id="1">Aus der Perspektive<alt>Aufgrund des Perspektive</alt><alt>Von der Perspektive</alt><alt>Aus der Sicht</alt><alt>Aus dem Blickwinkel</alt></f>  der Polizie war die schöne Frau die Mörderin .</output>
+</s>
+<s id="114">
+  <input>Ohne die Sprache kann man sich nicht äußern und man wird sozusagen ein <f id="1">outsider</f>  .</input>
+  <output>Ohne die Sprache kann man sich nicht äußern und man wird sozusagen ein <f id="1">Außenseiter<alt>Externen</alt></f>  .</output>
+</s>
+<s id="115">
+  <input>Mit modernen Technologien wie iPods ist es <f id="1">even</f>  möglich immer und überall jede beliebige Musik zu hören .</input>
+  <output>Mit modernen Technologien wie iPods ist es <f id="1">sogar<alt>auch</alt><alt>noch</alt><alt>gar</alt><alt>selbst</alt></f>  möglich immer und überall jede beliebige Musik zu hören .</output>
+</s>
+<s id="116">
+  <input>Er <f id="1">takes into account</f>  die Interessen unseres Vaters .</input>
+  <output>Er <f id="1">berücksichtigt<alt>wird dort auch auf</alt><alt>berücksichtigt dabei</alt><alt>Rechnung trägt</alt><alt>berücksichtigt ,</alt></f>  die Interessen unseres Vaters .</output>
+</s>
+<s id="117">
+  <input><f id="1">After</f>  eine 20 - stündigen Reise kamen wir gegen 14 Uhr todmüde im Hotel an .</input>
+  <output><f id="1">Nach<alt>Neben</alt><alt>Nach mehr als</alt><alt>Und</alt><alt>Nach mehr</alt></f>  eine 20 - stündigen Reise kamen wir gegen 14 Uhr todmüde im Hotel an .</output>
+</s>
+<s id="118">
+  <input>Du weißt , was du vom Leben <f id="1">can expect</f>  .</input>
+  <output>Du weißt , was du vom Leben <f id="1">erwarten können<alt>zu erwarten haben</alt><alt>zu erwarten hat</alt><alt>erwarten kann</alt><alt>erwarten dürfen</alt></f>  .</output>
+</s>
+<s id="119">
+  <input>Zuerst haben meine Mutter und meine Großmutter das <f id="1">dinner</f>  gekocht und danach hat die ganze Familie zusammen gegessen .</input>
+  <output>Zuerst haben meine Mutter und meine Großmutter das <f id="1">Abendessen<alt>Essen</alt><alt>Abendessen ,</alt><alt>Dinner</alt><alt>Abendessen ein</alt></f>  gekocht und danach hat die ganze Familie zusammen gegessen .</output>
+</s>
+<s id="120">
+  <input>Nach den Angaben dieser Dokumentation haben die Franzosen mit 83,8 Jahren die höchste <f id="1">life expectancy</f>  .</input>
+  <output>Nach den Angaben dieser Dokumentation haben die Franzosen mit 83,8 Jahren die höchste <f id="1">Lebenserwartung<alt>Lebenserwartung bei</alt><alt>die Lebenserwartung</alt><alt>Lebensdauer zu verlängern</alt><alt>Lebenserwartung auf</alt></f>  .</output>
+</s>
+<s id="121">
+  <input>Manche <f id="1">of her</f>  Geschichten habe ich im Laufe der Jahre bestimmt 30 - mal gehört .</input>
+  <output>Manche <f id="1">ihrer<alt>ihres</alt><alt>der von ihr</alt><alt>ihrer mit</alt><alt>ihre</alt></f>  Geschichten habe ich im Laufe der Jahre bestimmt 30 - mal gehört .</output>
+</s>
+<s id="122">
+  <input>Denn Computerfrust wirkt sich auf die <f id="1">work motivation</f>  negativ aus und sogar auf die Lebenszufriedenheit der Mitarbeiter , ermittelte die Sozialverhaltenswissenschaftlerin Marleen Brinks in ihrer Studie „ Aggression gegen Computer " .</input>
+  <output>Denn Computerfrust wirkt sich auf die <f id="1">Arbeit Motivation<alt>Arbeiten Motivation</alt><alt>Arbeit Motive</alt><alt>Arbeit motiviert</alt><alt>Arbeit Motivierung</alt></f>  negativ aus und sogar auf die Lebenszufriedenheit der Mitarbeiter , ermittelte die Sozialverhaltenswissenschaftlerin Marleen Brinks in ihrer Studie „ Aggression gegen Computer " .</output>
+</s>
+<s id="123">
+  <input>Es ist spannend , eine neue Stadt und <f id="1">new people</f>  kennen zu lernen .</input>
+  <output>Es ist spannend , eine neue Stadt und <f id="1">neue Menschen<alt>neue Leute</alt><alt>auch neue Leute</alt><alt>neue Mitstreiter</alt><alt>neue Personen</alt></f>  kennen zu lernen .</output>
+</s>
+<s id="124">
+  <input>Es gibt einen interessanten Film <f id="1">on TV</f>  .</input>
+  <output>Es gibt einen interessanten Film <f id="1">im Fernsehen<alt>im Fernsehen gezeigt</alt><alt>auch im Fernsehen</alt><alt>, im Fernsehen</alt><alt>direkt über das Fernsehen</alt></f>  .</output>
+</s>
+<s id="125">
+  <input><f id="1">Nevertheless</f>  hat sich die neue Bundesrepublik Deutschland unter amerikanischem Druck an der militärischen Einmischung auf dem Balkan beteiligt .</input>
+  <output><f id="1">OOV</f>  hat sich die neue Bundesrepublik Deutschland unter amerikanischem Druck an der militärischen Einmischung auf dem Balkan beteiligt .</output>
+</s>
+<s id="126">
+  <input>Ihr Gesicht ist ganz rot und <f id="1">burns</f>  wie Feuer .</input>
+  <output>Ihr Gesicht ist ganz rot und <f id="1">brennt<alt>brannte</alt><alt>Verbrennungen</alt><alt>verbrennt</alt><alt>bereits brennt</alt></f>  wie Feuer .</output>
+</s>
+<s id="127">
+  <input>Man konnte <f id="1">imagine</f>  , ein Gebäude zu konstruieren , das die Umwelt nicht zerstört .</input>
+  <output>Man konnte <f id="1">sich vorstellen<alt>mir vorstellen</alt><alt>sich nicht vorstellen</alt><alt>sich denken</alt><alt>vorstellen</alt></f>  , ein Gebäude zu konstruieren , das die Umwelt nicht zerstört .</output>
+</s>
+<s id="128">
+  <input>Der Täter wurde <f id="1">arrested</f>  .</input>
+  <output>Der Täter wurde <f id="1">verhaftet<alt>festgenommen</alt><alt>verhaftet wurden</alt><alt>inhaftiert</alt><alt>verhaftet worden</alt></f>  .</output>
+</s>
+<s id="129">
+  <input>Sie benimmt sich immer so <f id="1">childish</f>  .</input>
+  <output>Sie benimmt sich immer so <f id="1">kindisch<alt>infantil</alt><alt>kindischen</alt><alt>kindlichen</alt></f>  .</output>
+</s>
+<s id="130">
+  <input>Und wenn jemand mich fragt , <f id="1">tell</f>  ich gerne über meine weitere zweite Heimat .</input>
+  <output>Und wenn jemand mich fragt , <f id="1">sagen<alt>sage</alt><alt>erzählen</alt><alt>sagen ,</alt><alt>sag</alt></f>  ich gerne über meine weitere zweite Heimat .</output>
+</s>
+<s id="131">
+  <input>Wir haben <f id="1">in recent years</f>  einen enormen Verfall der Preise von elektronischen Geräten erfahren .</input>
+  <output>Wir haben <f id="1">in den letzten Jahren<alt>in den vergangenen Jahren</alt><alt>sich in den letzten Jahren</alt><alt>sich in den vergangenen Jahren</alt><alt>die in den letzten Jahren</alt></f>  einen enormen Verfall der Preise von elektronischen Geräten erfahren .</output>
+</s>
+<s id="132">
+  <input>Jugendliche und <f id="1">adults</f>  haben oft verschiedene Meinungen .</input>
+  <output>Jugendliche und <f id="1">Erwachsene<alt>Erwachsenen</alt><alt>Erwachsene ,</alt><alt>erwachsene Menschen</alt><alt>die Erwachsenen</alt></f>  haben oft verschiedene Meinungen .</output>
+</s>
+<s id="133">
+  <input><f id="1">Despite</f>  des günstigen Preises würde ich das nicht kaufen .</input>
+  <output><f id="1">Trotz<alt>Ungeachtet</alt><alt>Trotz der</alt><alt>Obwohl</alt><alt>Auch</alt></f>  des günstigen Preises würde ich das nicht kaufen .</output>
+</s>
+<s id="134">
+  <input>Darin steckt <f id="1">huge</f>  negatives Potenzial .</input>
+  <output>Darin steckt <f id="1">große<alt>riesige</alt><alt>enorme</alt><alt>riesigen</alt><alt>gewaltige</alt></f>  negatives Potenzial .</output>
+</s>
+<s id="135">
+  <input>Er hat ihr ein Buch <f id="1">given</f>  .</input>
+  <output>Er hat ihr ein Buch <f id="1">gegeben<alt>erteilt</alt><alt>erhalten</alt><alt>gewährt</alt><alt>verliehen</alt></f>  .</output>
+</s>
+<s id="136">
+  <input>Mit <f id="1">your</f>  Agentur kann ich hoffentlich einen Job finden und am Wochenende die Spanisch-Schule besuchen .</input>
+  <output>Mit <f id="1">Ihre<alt>Ihrer</alt><alt>Ihrem</alt><alt>Ihren</alt><alt>Ihr</alt></f>  Agentur kann ich hoffentlich einen Job finden und am Wochenende die Spanisch-Schule besuchen .</output>
+</s>
+<s id="137">
+  <input>Computer sind intelligente <f id="1">beings</f>  .</input>
+  <output>Computer sind intelligente <f id="1">Wesen<alt>Menschen</alt><alt>Lebewesen</alt><alt>Lebewesen vor</alt><alt>Menschen geworden</alt></f>  .</output>
+</s>
+<s id="138">
+  <input>Er ist aber viel junger <f id="1">than</f>  ich .</input>
+  <output>Er ist aber viel junger <f id="1">als<alt>, als</alt><alt>ist als</alt><alt>nicht</alt><alt>denn</alt></f>  ich .</output>
+</s>
+<s id="139">
+  <input>Die Natur eignet sich nicht für <f id="1">human</f>  Projektionen .</input>
+  <output>Die Natur eignet sich nicht für <f id="1">menschliche<alt>menschlichen</alt><alt>die menschliche</alt><alt>die</alt><alt>menschliches</alt></f>  Projektionen .</output>
+</s>
+<s id="140">
+  <input>Die Arbeiter führten <f id="1">the strike</f>  durch und legten die Arbeit nieder .</input>
+  <output>Die Arbeiter führten <f id="1">des Streiks<alt>der Streik</alt><alt>dem Streik</alt><alt>den Streik</alt></f>  durch und legten die Arbeit nieder .</output>
+</s>
+<s id="141">
+  <input>Sollte ich überhaupt wählen zwischen meinen Traditionen und denen <f id="1">of my host country</f>  ?</input>
+  <output>Sollte ich überhaupt wählen zwischen meinen Traditionen und denen <f id="1">meiner Aufnahmelands<alt>meiner Aufnahmestaats</alt><alt>meines Aufnahmelands</alt><alt>meines Aufnahmestaats</alt><alt>meiner Gastland</alt></f>  ?</output>
+</s>
+<s id="142">
+  <input>Man lernt , mit Stress <f id="1">to cope</f>  .</input>
+  <output>Man lernt , mit Stress <f id="1">umgehen zu können<alt>zu kämpfen</alt><alt>fertig zu werden</alt><alt>umgehen können</alt><alt>besser bewältigen zu</alt></f>  .</output>
+</s>
+<s id="143">
+  <input>Der Gesang kann Demenzkranken helfen , <f id="1">because</f>  er die Emotionen und die Erinnerung stärkt .</input>
+  <output>Der Gesang kann Demenzkranken helfen , <f id="1">weil<alt>da</alt><alt>denn</alt><alt>, weil</alt><alt>, da</alt></f>  er die Emotionen und die Erinnerung stärkt .</output>
+</s>
+<s id="144">
+  <input>Die westliche Industrie hat kaum <f id="1">opportunities</f>  auf dem Japanischen Markt .</input>
+  <output>Die westliche Industrie hat kaum <f id="1">Chancen<alt>Möglichkeiten</alt><alt>Gelegenheiten</alt><alt>Chancen ,</alt><alt>Möglichkeiten ,</alt></f>  auf dem Japanischen Markt .</output>
+</s>
+<s id="145">
+  <input>80 Prozent <f id="1">from all</f>  Einwohner nutzen in der Schweiz das Internet , bei den Deutschen sind es nur 59 Prozent .</input>
+  <output>80 Prozent <f id="1">aller<alt>aus allen</alt><alt>von allen</alt><alt>aus aller</alt><alt>aus sämtlichen</alt></f>  Einwohner nutzen in der Schweiz das Internet , bei den Deutschen sind es nur 59 Prozent .</output>
+</s>
+<s id="146">
+  <input>Der LKW <f id="1">transports</f>  Blumen nach Italien .</input>
+  <output>Der LKW <f id="1">Tiefseebehälterverkehr<alt>Transporte</alt><alt>fährt</alt><alt>werden über</alt><alt>befördert</alt></f>  Blumen nach Italien .</output>
+</s>
+<s id="147">
+  <input>Allerdings ist die Frage der sozialen Ungleichheit noch <f id="1">unsettled</f>  .</input>
+  <output>Allerdings ist die Frage der sozialen Ungleichheit noch <f id="1">verunsichert<alt>aus den Fugen</alt><alt>unruhigen</alt><alt>Unruhe stiften</alt><alt>atmosphärische Störungen</alt></f>  .</output>
+</s>
+<s id="148">
+  <input>Nach dem Tode des Vaters hatte er sich <f id="1">independent</f>  gemacht .</input>
+  <output>Nach dem Tode des Vaters hatte er sich <f id="1">unabhängig<alt>unabhängigen</alt><alt>unabhängige</alt><alt>unabhängiger</alt><alt>selbstständig</alt></f>  gemacht .</output>
+</s>
+<s id="149">
+  <input>Aber wie auch immer , sichtbar braucht die Welt <f id="1">such examples</f>  , um die Widerstände zu überwinden .</input>
+  <output>Aber wie auch immer , sichtbar braucht die Welt <f id="1">solche Beispiele<alt>solche Beispiel</alt><alt>solcher Beispiele</alt><alt>solchen Beispielen</alt><alt>diese Beispiele</alt></f>  , um die Widerstände zu überwinden .</output>
+</s>
+<s id="150">
+  <input>Du hast <f id="1">me</f>  gefragt , ob ich mir etwas aus Istanbul wünsche , vielleicht kannst du mir exotische Gewürze mitbringen .</input>
+  <output>Du hast <f id="1">mich<alt>mir</alt><alt>mir ,</alt><alt>mich ,</alt><alt>ich</alt></f>  gefragt , ob ich mir etwas aus Istanbul wünsche , vielleicht kannst du mir exotische Gewürze mitbringen .</output>
+</s>
+<s id="151">
+  <input>Er <f id="1">paints</f>  sehr realistisch .</input>
+  <output>Er <f id="1">zeichnet<alt>Farben</alt><alt>Malerfarben</alt><alt>beschreibt</alt><alt>liefert</alt></f>  sehr realistisch .</output>
+</s>
+<s id="152">
+  <input>Es wird <f id="1">claimed</f>  , dass die digitale Revolution den Menschen mehr Freiheit gebracht hat .</input>
+  <output>Es wird <f id="1">behauptet<alt>gefordert</alt><alt>behauptete</alt><alt>jedoch behauptet</alt><alt>zwar behauptet</alt></f>  , dass die digitale Revolution den Menschen mehr Freiheit gebracht hat .</output>
+</s>
+<s id="153">
+  <input>Bier gilt auch für kalorienbewusste Konsumenten als <f id="1">recommendable</f>  .</input>
+  <output>Bier gilt auch für kalorienbewusste Konsumenten als <f id="1">empfehlenswert</f>  .</output>
+</s>
+<s id="154">
+  <input>Es ist <f id="1">a good feeling</f>  , endlich eigene vier Wände zu haben .</input>
+  <output>Es ist <f id="1">ein gutes Gefühl<alt>weise</alt></f>  , endlich eigene vier Wände zu haben .</output>
+</s>
+<s id="155">
+  <input>Im Reaktor fand <f id="1">a meltdown</f>  statt .</input>
+  <output>Im Reaktor fand <f id="1">einen Zusammenbruch</f>  statt .</output>
+</s>
+<s id="156">
+  <input>Die Politik hat schwere Probleme <f id="1">to solve</f>  .</input>
+  <output>Die Politik hat schwere Probleme <f id="1">zu lösen<alt>lösen</alt><alt>zur Lösung</alt><alt>lösen zu können</alt><alt>lösen zu</alt></f>  .</output>
+</s>
+<s id="157">
+  <input>Traditionen haben mehrere interessante Aspekte , die <f id="1">from</f>  der einen Seite aus der Geschichte von eigenem Land entstanden sind .</input>
+  <output>Traditionen haben mehrere interessante Aspekte , die <f id="1">von<alt>aus</alt><alt>auf</alt><alt>sich von</alt><alt>an</alt></f>  der einen Seite aus der Geschichte von eigenem Land entstanden sind .</output>
+</s>
+<s id="158">
+  <input>Er <f id="1">denied</f>  , die Tat begangen zu haben</input>
+  <output>Er <f id="1">leugnete<alt>verweigert</alt><alt>verwehrt</alt><alt>geleugnet</alt><alt>verneint</alt></f>  , die Tat begangen zu haben</output>
+</s>
+<s id="159">
+  <input>Der Kellner <f id="1">carries</f>  die Suppe</input>
+  <output>Der Kellner <f id="1">birgt<alt>trägt</alt><alt>wird , birgt</alt><alt>bringt</alt><alt>birgt ,</alt></f>  die Suppe</output>
+</s>
+<s id="160">
+  <input>Meine Enkelin Bärbel , die mit ihrer Mutter und Schwester in Zehlendorf lebte , <f id="1">spent</f>  wie jedes Jahr ihre Ferien bei uns .</input>
+  <output>Meine Enkelin Bärbel , die mit ihrer Mutter und Schwester in Zehlendorf lebte , <f id="1">ausgegeben<alt>verbrachte</alt><alt>abgebrannten</alt><alt>verwendet</alt><alt>abgebrannte</alt></f>  wie jedes Jahr ihre Ferien bei uns .</output>
+</s>
+<s id="161">
+  <input>Ihr Vater <f id="1">follows her</f>  einige Jahre später .</input>
+  <output>Ihr Vater <f id="1">, folgt ihr<alt>, schließt sich ihr</alt><alt>, folgt ihrem</alt><alt>, folgt sie</alt><alt>, folgt ihren</alt></f>  einige Jahre später .</output>
+</s>
+<s id="162">
+  <input><f id="1">Abortion</f>  ist ein heikles politisches Thema .</input>
+  <output><f id="1">schwangerschaftsabbruch<alt>abtreibung</alt></f>  ist ein heikles politisches Thema .</output>
+</s>
+<s id="163">
+  <input>Zuden führen wir gemeinsam unser <f id="1">own</f>  Geschäft .</input>
+  <output>Zuden führen wir gemeinsam unser <f id="1">eigenes<alt>eigenen</alt><alt>eigene</alt><alt>eigener</alt><alt>selbst</alt></f>  Geschäft .</output>
+</s>
+<s id="164">
+  <input>Du wirst in <f id="1">your own room</f>  wohnen .</input>
+  <output>Du wirst in <f id="1">Ihrem eigenen Raum<alt>Ihren eigenen Raum</alt><alt>Ihrer eigenen Raum</alt><alt>Ihrem eigenen Platz</alt><alt>Ihrem eigenen Zimmer</alt></f>  wohnen .</output>
+</s>
+<s id="165">
+  <input>Es ist für mich sehr leicht , wenn ich mit <f id="1">the natives</f>  sprechen kann .</input>
+  <output>Es ist für mich sehr leicht , wenn ich mit <f id="1">den Eingeborenen<alt>die Bewohner</alt></f>  sprechen kann .</output>
+</s>
+<s id="166">
+  <input>Ein guter Verkäufer <f id="1">recommends</f>  dem Kunden ein passendes Gerät .</input>
+  <output>Ein guter Verkäufer <f id="1">empfiehlt<alt>empfohlen wird</alt><alt>wird empfohlen ,</alt><alt>empfiehlt ,</alt><alt>wird befürwortet ,</alt></f>  dem Kunden ein passendes Gerät .</output>
+</s>
+<s id="167">
+  <input><f id="1">above all</f>  finde ich es sehr schwer , wenn jemand wahnsinnig religiös ist .</input>
+  <output><f id="1">vor allem<alt>vor allen Dingen</alt><alt>insbesondere</alt><alt>vor allen</alt><alt>vor allem auch</alt></f>  finde ich es sehr schwer , wenn jemand wahnsinnig religiös ist .</output>
+</s>
+<s id="168">
+  <input>Die <f id="1">economic</f>  Bedingungen haben sich verändert .</input>
+  <output>Die <f id="1">wirtschaftlichen<alt>wirtschaftliche</alt><alt>wirtschaftlicher</alt><alt>ökonomischen</alt><alt>ökonomische</alt></f>  Bedingungen haben sich verändert .</output>
+</s>
+<s id="169">
+  <input>Der Affe <f id="1">climbs</f>  auf den Baum .</input>
+  <output>Der Affe <f id="1">Aufstiege</f>  auf den Baum .</output>
+</s>
+<s id="170">
+  <input>Wir haben zwei Katzen und <f id="1">some horses</f>  .</input>
+  <output>Wir haben zwei Katzen und <f id="1">ca. Pferde<alt>ca. Pferden</alt><alt>bestimmte Pferde</alt><alt>ein paar Pferde</alt><alt>auch einige Pferde</alt></f>  .</output>
+</s>
+<s id="171">
+  <input>Als Kind musste ich <f id="1">with my parents</f>  immer stundenlang durch den Wald latschen .</input>
+  <output>Als Kind musste ich <f id="1">mit meinen Eltern verständige</f>  immer stundenlang durch den Wald latschen .</output>
+</s>
+<s id="172">
+  <input>Sie diskutieren <f id="1">preferably</f>  in der Küche .</input>
+  <output>Sie diskutieren <f id="1">vorzugsweise<alt>und zwar vorzugsweise</alt><alt>möglichst</alt><alt>bevorzugt</alt><alt>zwar vorzugsweise</alt></f>  in der Küche .</output>
+</s>
+<s id="173">
+  <input>Ich habe Ihre Anzeige gelesen und ich bewerbe mich um eine Praktikumstelle als <f id="1">sales trainee</f>  .</input>
+  <output>Ich habe Ihre Anzeige gelesen und ich bewerbe mich um eine Praktikumstelle als <f id="1">Verkäufe von Auszubildenden<alt>Verkäufe Auszubildende</alt><alt>Verkauf von Auszubildenden</alt><alt>Verkäufe Auszubildenden</alt><alt>Verkauf Auszubildende</alt></f>  .</output>
+</s>
+<s id="174">
+  <input>Das <f id="1">annoyed</f>  die Nachbarn , die neben uns wohnten .</input>
+  <output>Das <f id="1">verärgert<alt>verärgert ,</alt><alt>ärgert</alt><alt>stört</alt><alt>irritiert</alt></f>  die Nachbarn , die neben uns wohnten .</output>
+</s>
+<s id="175">
+  <input><f id="1">During the day</f>  setzt sich dann die Sonne durch .</input>
+  <output><f id="1">Während der Tag<alt>In den Tag</alt><alt>Beim Tag</alt><alt>Während des Tages</alt><alt>Bei der Tag</alt></f>  setzt sich dann die Sonne durch .</output>
+</s>
+<s id="176">
+  <input>Er hat <f id="1">an account</f>  bei dieser Bank eröffnet .</input>
+  <output>Er hat <f id="1">ein Konto<alt>einen Erfahrungsbericht</alt><alt>eine Bilanz</alt><alt>eine Bilanz ,</alt><alt>ein Nachweis</alt></f>  bei dieser Bank eröffnet .</output>
+</s>
+<s id="177">
+  <input>Seine Tochter war <f id="1">yesterday</f>  hier .</input>
+  <output>Seine Tochter war <f id="1">gestern<alt>gestern auch</alt><alt>gestrigen</alt><alt>die gestern</alt><alt>gestrige</alt></f>  hier .</output>
+</s>
+<s id="178">
+  <input>Die Weltmeisterinnen im <f id="1">football</f>  geben viele Interviews .</input>
+  <output>Die Weltmeisterinnen im <f id="1">Fußball<alt>Profifußball</alt><alt>Fußballs</alt><alt>Fußball ,</alt><alt>den Fußball</alt></f>  geben viele Interviews .</output>
+</s>
+<s id="179">
+  <input>Dieses Gesetz <f id="1">aims at</f>  bessere Bedingungen für Asylanten ab .</input>
+  <output>Dieses Gesetz <f id="1">zielt auf<alt>soll</alt><alt>hat sich zum Ziel gesetzt ,</alt><alt>hat das Ziel ,</alt><alt>zielt darauf ab ,</alt></f>  bessere Bedingungen für Asylanten ab .</output>
+</s>
+<s id="180">
+  <input>Die möchten von <f id="1">the pressure</f>  befreit sein .</input>
+  <output>Die möchten von <f id="1">den Druck<alt>der Druck</alt><alt>dem Druck</alt><alt>dem Zwang</alt><alt>der Zwang</alt></f>  befreit sein .</output>
+</s>
+<s id="181">
+  <input>Oma Else erzähle sowieso gern <f id="1">stories</f>  aus dem alten Berlin .</input>
+  <output>Oma Else erzähle sowieso gern <f id="1">Geschichten<alt>berichtet , die</alt><alt>Erzählungen</alt><alt>Storys</alt><alt>Geschichten ,</alt></f>  aus dem alten Berlin .</output>
+</s>
+<s id="182">
+  <input>Er kommt eine Stunde <f id="1">too late</f>  und entschuldigt sich .</input>
+  <output>Er kommt eine Stunde <f id="1">zu spät<alt>zu spät kommen</alt><alt>zu spät ein</alt><alt>zu spät ,</alt><alt>zu spät dran</alt></f>  und entschuldigt sich .</output>
+</s>
+<s id="183">
+  <input>Für uns ist es <f id="1">important</f>  , dass du flexibel bist .</input>
+  <output>Für uns ist es <f id="1">wichtig<alt>wichtiger</alt><alt>von Bedeutung</alt><alt>bedeutsam</alt><alt>wichtige</alt></f>  , dass du flexibel bist .</output>
+</s>
+<s id="184">
+  <input>Den Feind aus dem Osten <f id="1">exists no more</f>  heutzutage .</input>
+  <output>Den Feind aus dem Osten <f id="1">bislang noch keine mehr<alt>besteht nicht mehr</alt><alt>bislang noch keine weitere</alt><alt>bislang noch keine stärker</alt><alt>bislang noch keine größere</alt></f>  heutzutage .</output>
+</s>
+<s id="185">
+  <input>Sie hat <f id="1">her religion</f>  verloren .</input>
+  <output>Sie hat <f id="1">ihrer Religion</f>  verloren .</output>
+</s>
+<s id="186">
+  <input>Aber <f id="1">your decision</f>  wird dein Leben für immer beeinflussen .</input>
+  <output>Aber <f id="1">ihre Entscheidung<alt>Ihre Entscheidung</alt><alt>Ihrer Entscheidung</alt><alt>Sie entschieden</alt><alt>auch Ihre Entscheidung</alt></f>  wird dein Leben für immer beeinflussen .</output>
+</s>
+<s id="187">
+  <input>Ich kann verstehen , dass man hier in Deutschland <f id="1">little time</f>  für die Familie hat .</input>
+  <output>Ich kann verstehen , dass man hier in Deutschland <f id="1">wenig Zeit<alt>nur wenig Zeit</alt><alt>nicht mehr viel Zeit</alt><alt>nicht viel Zeit</alt><alt>nur wenig Zeit ,</alt></f>  für die Familie hat .</output>
+</s>
+<s id="188">
+  <input>In Europa steht Holland <f id="1">at the top</f>  .</input>
+  <output>In Europa steht Holland <f id="1">an der Spitze<alt>an die Spitze</alt><alt>an oberster Stelle</alt><alt>an erster Stelle</alt><alt>ganz oben</alt></f>  .</output>
+</s>
+<s id="189">
+  <input>Die <f id="1">centralised</f>  Stromversorgung macht Strom zur Massenware .</input>
+  <output>Die <f id="1">zentralen<alt>zentrale</alt><alt>zentralisierte</alt><alt>zentralisierten</alt><alt>zentralisiert</alt></f>  Stromversorgung macht Strom zur Massenware .</output>
+</s>
+<s id="190">
+  <input>Der Chirurg hatte die Aufgabe , seinen Patienten über <f id="1">the risks</f>  zu informieren .</input>
+  <output>Der Chirurg hatte die Aufgabe , seinen Patienten über <f id="1">die Risiken<alt>die Gefahren</alt><alt>die Gefahr</alt><alt>den Gefahren</alt><alt>den Risiken</alt></f>  zu informieren .</output>
+</s>
+<s id="191">
+  <input>In <f id="1">a multicultural society</f>  leben Menschen verschiedener Herkunft .</input>
+  <output>In <f id="1">der multikulturellen Gesellschaft<alt>einer multikulturellen Gesellschaft</alt><alt>die multikulturelle Gesellschaft</alt><alt>die multikulturelle Gesellschaft in</alt><alt>eine multikulturelle Gemeinschaft</alt></f>  leben Menschen verschiedener Herkunft .</output>
+</s>
+<s id="192">
+  <input>Sie haben <f id="1">about</f>  Musik gesprochen .</input>
+  <output>Sie haben <f id="1">über<alt>um</alt><alt>etwa</alt><alt>darüber</alt><alt>zu</alt></f>  Musik gesprochen .</output>
+</s>
+<s id="193">
+  <input>Die Bedienung ist im Preis <f id="1">included</f>  .</input>
+  <output>Die Bedienung ist im Preis <f id="1">enthalten<alt>aufgenommen</alt><alt>eingeschlossen</alt><alt>inbegriffen</alt><alt>einbezogen</alt></f>  .</output>
+</s>
+<s id="194">
+  <input>Die Eltern <f id="1">bought</f>  Land und gründeten darauf die Forschungsstation .</input>
+  <output>Die Eltern <f id="1">kauften<alt>gekauft</alt><alt>kaufte</alt><alt>erwarben</alt><alt>kaufen</alt></f>  Land und gründeten darauf die Forschungsstation .</output>
+</s>
+<s id="195">
+  <input>Bei den Geburtenzahlen befinden sich die deutschen Frauen mit je 1,34 Kindern <f id="1">below</f>  der Mitte .</input>
+  <output>Bei den Geburtenzahlen befinden sich die deutschen Frauen mit je 1,34 Kindern <f id="1">unterhalb<alt>unter</alt><alt>, unterhalb</alt><alt>hinter</alt><alt>die unterhalb</alt></f>  der Mitte .</output>
+</s>
+<s id="196">
+  <input>Es besteht <f id="1">no doubt</f>  , dass das Interesse der Studenten zurückgegangen ist .</input>
+  <output>Es besteht <f id="1">kein Zweifel<alt>kein Zweifel daran</alt><alt>kein Zweifel darüber</alt><alt>keine Zweifel</alt><alt>keine Zweifel daran</alt></f>  , dass das Interesse der Studenten zurückgegangen ist .</output>
+</s>
+<s id="197">
+  <input>Nach über 24 Stunden fließt <f id="1">finally</f>  wieder Strom .</input>
+  <output>Nach über 24 Stunden fließt <f id="1">schließlich<alt>endlich</alt><alt>abschließend</alt><alt>letztlich</alt><alt>und schließlich</alt></f>  wieder Strom .</output>
+</s>
+<s id="198">
+  <input>Integration ist ein <f id="1">long</f>  Prozeß .</input>
+  <output>Integration ist ein <f id="1">lange<alt>langen</alt><alt>langer</alt><alt>lang</alt><alt>langes</alt></f>  Prozeß .</output>
+</s>
+<s id="199">
+  <input>Ich konnte nicht <f id="1">earlier</f>  kommen .</input>
+  <output>Ich konnte nicht <f id="1">früher<alt>zuvor</alt><alt>früheren</alt><alt>vorhin</alt><alt>schon früher</alt></f>  kommen .</output>
+</s>
+<s id="200">
+  <input>Wenn ich zum Beispiel Theodor Storm <f id="1">read</f>  , verstehe ich die deutsche Seele besser und lerne dabei Deutsch .</input>
+  <output>Wenn ich zum Beispiel Theodor Storm <f id="1">lesen<alt>gelesen</alt><alt>gelesen habe</alt><alt>lese</alt><alt>cease-fire</alt></f>  , verstehe ich die deutsche Seele besser und lerne dabei Deutsch .</output>
+</s>
+<s id="201">
+  <input>Ich war sehr glücklich als ich <f id="1">the news about the baby</f>  gehört habe .</input>
+  <output>Ich war sehr glücklich als ich <f id="1">die Nachrichten über das Kind<alt>die Nachricht vom Kind</alt><alt>die Nachricht vom Baby</alt><alt>der Nachrichten über das Kind</alt><alt>die Nachrichten über die Kind</alt></f>  gehört habe .</output>
+</s>
+<s id="202">
+  <input>Vielleicht <f id="1">could you</f>  die Situation des Vereins beschreiben ?</input>
+  <output>Vielleicht <f id="1">könnten Sie<alt>können Sie</alt><alt>könnten Sie sich</alt><alt>wollte sie auch</alt><alt>wollte sie</alt></f>  die Situation des Vereins beschreiben ?</output>
+</s>
+<s id="203">
+  <input>Es gibt gute <f id="1">reasons</f>  , seinem Land den Rücken zu kehren .</input>
+  <output>Es gibt gute <f id="1">Gründe<alt>Gründe dafür</alt><alt>Gründen</alt><alt>Gründe ,</alt><alt>Gründe vorliegen</alt></f>  , seinem Land den Rücken zu kehren .</output>
+</s>
+<s id="204">
+  <input>Ich <f id="1">believe</f>  , ich habe mir den Fuß verstaucht .</input>
+  <output>Ich <f id="1">glaube<alt>denke</alt><alt>meine</alt><alt>finde</alt><alt>glauben</alt></f>  , ich habe mir den Fuß verstaucht .</output>
+</s>
+<s id="205">
+  <input>Von ihr habe ich mehr gelernt als aus manchem <f id="1">history book</f>  .</input>
+  <output>Von ihr habe ich mehr gelernt als aus manchem <f id="1">Geschichtsbuch<alt>Geschichte korrekt</alt></f>  .</output>
+</s>
+<s id="206">
+  <input>Das Hundegebell war <f id="1">unbearable</f>  .</input>
+  <output>Das Hundegebell war <f id="1">unerträglich<alt>unerträgliche</alt><alt>unerträglichen</alt><alt>untragbar</alt><alt>Unerträgliche</alt></f>  .</output>
+</s>
+<s id="207">
+  <input>Es geht ihr <f id="1">according to circumstances</f>  ziemlich gut .</input>
+  <output>Es geht ihr <f id="1">je nach den Umständen<alt>, die je nach Lage der Dinge</alt><alt>entsprechend den jeweiligen Bedingungen</alt><alt>gemäß den jeweiligen Umständen</alt><alt>entsprechend den spezifischen Bedingungen</alt></f>  ziemlich gut .</output>
+</s>
+<s id="208">
+  <input>Vor allem <f id="1">in</f>  Süden und Osten halten sich aber noch Wolkenfelder .</input>
+  <output>Vor allem <f id="1">in<alt>im</alt><alt>bei</alt><alt>in den</alt><alt>von</alt></f>  Süden und Osten halten sich aber noch Wolkenfelder .</output>
+</s>
+<s id="209">
+  <input>Ich bin in der letzten Woche <f id="1">of the next month</f>  frei .</input>
+  <output>Ich bin in der letzten Woche <f id="1">des nächsten Monats<alt>den nächsten Monaten</alt></f>  frei .</output>
+</s>
+<s id="210">
+  <input>Wie soll ich eine Leistung <f id="1">assess</f>  ?</input>
+  <output>Wie soll ich eine Leistung <f id="1">bewerten<alt>beurteilen</alt><alt>einschätzen</alt><alt>prüfen</alt><alt>bewertet</alt></f>  ?</output>
+</s>
+<s id="211">
+  <input>Ich musste mich <f id="1">to</f>  die Gastfamilie anpassen , oder ich bekam kein Frühstück .</input>
+  <output>Ich musste mich <f id="1">auf<alt>zu</alt><alt>,</alt><alt>an</alt><alt>für</alt></f>  die Gastfamilie anpassen , oder ich bekam kein Frühstück .</output>
+</s>
+<s id="212">
+  <input><f id="1">We would like that</f>  du dich liebevoll um die zwei Kinder kümmerst und etwas im Haushalt hilfst .</input>
+  <output><f id="1">Wir möchten gefällt diese<alt>Wir möchten so</alt><alt>Wir möchten wie das</alt><alt>Wir möchten wie jenem</alt><alt>Wir möchten wie dieses auch</alt></f>  du dich liebevoll um die zwei Kinder kümmerst und etwas im Haushalt hilfst .</output>
+</s>
+<s id="213">
+  <input>Sie wurden zum Kauf <f id="1">seduced</f>  .</input>
+  <output>Sie wurden zum Kauf <f id="1">begeistert</f>  .</output>
+</s>
+<s id="214">
+  <input>Das tägliche Training strengt <f id="1">him</f>  sehr an .</input>
+  <output>Das tägliche Training strengt <f id="1">ihn<alt>ihm</alt><alt>er</alt><alt>er ihn</alt><alt>und ihn</alt></f>  sehr an .</output>
+</s>
+<s id="215">
+  <input>Sie bat um <f id="1">a written confirmation</f>  .</input>
+  <output>Sie bat um <f id="1">eine schriftliche Bestätigung<alt>eine schriftliche Bestätigung</alt><alt>ein schriftliche Bestätigung</alt><alt>einen schriftlichen Bestätigung</alt><alt>einen schriftliche Bestätigung</alt></f>  .</output>
+</s>
+<s id="216">
+  <input><f id="1">The other way around</f>  kann uns das Verschwinden einer Fernsehfigur so hart treffen wie der Tod eines Bekannten .</input>
+  <output><f id="1">Der umgekehrte Weg<alt>Den umgekehrten Fall</alt><alt>Die umgekehrten Fall</alt><alt>Die umgekehrte Weg</alt><alt>Der umgekehrten Fall</alt></f>  kann uns das Verschwinden einer Fernsehfigur so hart treffen wie der Tod eines Bekannten .</output>
+</s>
+<s id="217">
+  <input>Machen Sie gern Sudoku oder <f id="1">crossword puzzles</f>  in Zeitungen ?</input>
+  <output>Machen Sie gern Sudoku oder <f id="1">kreuzworträtsel</f>  in Zeitungen ?</output>
+</s>
+<s id="218">
+  <input><f id="1">Until now</f>  richteten sich die Arbeitszeiten nach Sonnenaufgang und Sonnenuntergang .</input>
+  <output><f id="1">Bislang sind</f>  richteten sich die Arbeitszeiten nach Sonnenaufgang und Sonnenuntergang .</output>
+</s>
+<s id="219">
+  <input>Recyclingsbemühungen mussen finanziell stärker <f id="1">supported</f>  werden .</input>
+  <output>Recyclingsbemühungen mussen finanziell stärker <f id="1">unterstützt<alt>gefördert</alt><alt>gestützt</alt><alt>unterstützt haben</alt><alt>unterstützten</alt></f>  werden .</output>
+</s>
+<s id="220">
+  <input><f id="1">Excitement</f>  wird aufgebaut , um danach wieder abgebaut zu werden .</input>
+  <output><f id="1">aufregung</f>  wird aufgebaut , um danach wieder abgebaut zu werden .</output>
+</s>
+<s id="221">
+  <input>Vor der Reise hatte er <f id="1">fear of</f>  dem Flug .</input>
+  <output>Vor der Reise hatte er <f id="1">Angst vor<alt>Furcht vor</alt><alt>der Angst vor</alt><alt>Angst</alt><alt>durch die Angst vor</alt></f>  dem Flug .</output>
+</s>
+<s id="222">
+  <input>Sie malt mit <f id="1">multiple colours</f>  .</input>
+  <output>Sie malt mit <f id="1">vielfältigen Farben<alt>mehrfachen Farben</alt><alt>Multiple Farben</alt><alt>mehrfachen Farbstoffe</alt><alt>mehrfache Farben</alt></f>  .</output>
+</s>
+<s id="223">
+  <input>Es bleibt <f id="1">however</f>  meist trocken .</input>
+  <output>Es bleibt <f id="1">aber<alt>jedoch</alt><alt>doch</alt><alt>allerdings</alt><alt>dennoch</alt></f>  meist trocken .</output>
+</s>
+<s id="224">
+  <input>Latein ist für mich <f id="1">a new course</f>  in der Schule .</input>
+  <output>Latein ist für mich <f id="1">ein neuer Kurs<alt>einen neuen Kurs</alt><alt>einen neuen Weg</alt><alt>neuen Kurs</alt></f>  in der Schule .</output>
+</s>
+<s id="225">
+  <input>In anderen europäischen <f id="1">countries</f>  sieht es ähnlich auch .</input>
+  <output>In anderen europäischen <f id="1">Ländern<alt>Länder</alt><alt>Staaten</alt><alt>Ländern ,</alt><alt>Länder ,</alt></f>  sieht es ähnlich auch .</output>
+</s>
+<s id="226">
+  <input>Ich <f id="1">am worried about</f>  meiner Zukunft in München .</input>
+  <output>Ich <f id="1">mache mir Sorgen wegen<alt>mache mir Sorgen über</alt><alt>habe Bedenken zu</alt><alt>befürchte , dass</alt><alt>mache mir Sorgen darüber , wenn</alt></f>  meiner Zukunft in München .</output>
+</s>
+<s id="227">
+  <input>Das Buch enthält 230 <f id="1">pages</f>  .</input>
+  <output>Das Buch enthält 230 <f id="1">Seiten<alt>Seiten umfasst</alt><alt>Seiten umfassenden</alt><alt>Seiten umfasste</alt><alt>Seiten umfassen</alt></f>  .</output>
+</s>
+<s id="228">
+  <input>Wir <f id="1">already have experience with</f>  einem Au-pair und freuen uns auf dich .</input>
+  <output>Wir <f id="1">wissen ja jetzt mit<alt>bereits Erfahrungen mit</alt><alt>haben schon erlebt mit</alt><alt>haben schon erlebt , mit</alt><alt>wissen ja jetzt zu</alt></f>  einem Au-pair und freuen uns auf dich .</output>
+</s>
+<s id="229">
+  <input>Ich bin immer <f id="1">tired</f>  , aber nachts kann ich trotzdem nicht schlafen .</input>
+  <output>Ich bin immer <f id="1">müde<alt>müde geworden</alt><alt>es leid</alt><alt>leid</alt><alt>überdrüssig</alt></f>  , aber nachts kann ich trotzdem nicht schlafen .</output>
+</s>
+<s id="230">
+  <input>Ich <f id="1">cried</f>  ziemlich viel .</input>
+  <output>Ich <f id="1">schrie<alt>rief</alt><alt>habe</alt></f>  ziemlich viel .</output>
+</s>
+<s id="231">
+  <input>Sie <f id="1">promises</f>  , dass sie kommt .</input>
+  <output>Sie <f id="1">verspricht<alt>Versprechen</alt><alt>Versprechungen</alt><alt>Zusagen</alt><alt>versprechen</alt></f>  , dass sie kommt .</output>
+</s>
+<s id="232">
+  <input>Meine Mutter hat <f id="1">everything possible</f>  versucht .</input>
+  <output>Meine Mutter hat <f id="1">alles<alt>alles Mögliche</alt><alt>alles Erdenkliche</alt><alt>sie alles</alt><alt>alles Menschenmögliche</alt></f>  versucht .</output>
+</s>
+<s id="233">
+  <input>Weil er Geld für Drogen haben muss , wird <f id="1">the addict</f>  oft zum Verbrecher .</input>
+  <output>Weil er Geld für Drogen haben muss , wird <f id="1">die Drogenabhängigen<alt>der Drogenabhängigen</alt><alt>den Drogenabhängigen</alt><alt>das Drogenabhängigen</alt><alt>dem Drogenabhängigen</alt></f>  oft zum Verbrecher .</output>
+</s>
+<s id="234">
+  <input>Ein freundlicher Passant <f id="1">shows</f>  den Touristen den Weg ins Zentrum .</input>
+  <output>Ein freundlicher Passant <f id="1">zeigt<alt>zeigt ,</alt><alt>zeigen</alt><alt>, zeigt</alt><alt>beweist</alt></f>  den Touristen den Weg ins Zentrum .</output>
+</s>
+<s id="235">
+  <input>Dazu wären sie <f id="1">under no circumstances</f>  bereit .</input>
+  <output>Dazu wären sie <f id="1">unter keinen Umständen<alt>auf keinen Fall</alt><alt>keinesfalls</alt><alt>in keinem Fall</alt><alt>unter gar keinen Umständen</alt></f>  bereit .</output>
+</s>
+<s id="236">
+  <input>In Deutschland werden die Frauen 82 Jahre , die Männer 76,7 Jahre alt und liegen damit <f id="1">just</f>  über dem EU-Durchschnitt .</input>
+  <output>In Deutschland werden die Frauen 82 Jahre , die Männer 76,7 Jahre alt und liegen damit <f id="1">nur<alt>gerade</alt><alt>lediglich</alt><alt>genau</alt><alt>einfach</alt></f>  über dem EU-Durchschnitt .</output>
+</s>
+<s id="237">
+  <input>Im Krieg wurden historische Gebäude <f id="1">destroyed</f>  .</input>
+  <output>Im Krieg wurden historische Gebäude <f id="1">zerstört<alt>vernichtet</alt><alt>zerstörte</alt><alt>zerstörten</alt><alt>zerstört worden</alt></f>  .</output>
+</s>
+<s id="238">
+  <input>Die Installation kann nicht <f id="1">closed</f>  werden – bitte führen Sie den Vorgang erneut durch .</input>
+  <output>Die Installation kann nicht <f id="1">geschlossen<alt>beendet</alt><alt>verschlossenen</alt><alt>verschlossen</alt><alt>abgeschlossen</alt></f>  werden – bitte führen Sie den Vorgang erneut durch .</output>
+</s>
+<s id="239">
+  <input>Für die Menschen wäre ein Maximum an <f id="1">happiness</f>  erstrebenswert .</input>
+  <output>Für die Menschen wäre ein Maximum an <f id="1">Glück<alt>Glücks</alt><alt>dem Glück</alt><alt>Glücklichkeit</alt><alt>Freude</alt></f>  erstrebenswert .</output>
+</s>
+<s id="240">
+  <input>Drei Firmen <f id="1">competed for</f>  den Auftrag .</input>
+  <output>Drei Firmen <f id="1">zur Ausschreibung</f>  den Auftrag .</output>
+</s>
+<s id="241">
+  <input>Einerseits hat mir diese erste Erfahrung mit meiner neuen Heimat geholfen , aber <f id="1">on the other hand</f>  habe ich starkes Heimweh gefühlt .</input>
+  <output>Einerseits hat mir diese erste Erfahrung mit meiner neuen Heimat geholfen , aber <f id="1">andererseits<alt>auf der anderen Seite</alt><alt>zum anderen</alt><alt>dagegen</alt><alt>anderseits</alt></f>  habe ich starkes Heimweh gefühlt .</output>
+</s>
+<s id="242">
+  <input>Jacek ist unglaublich schnell , <f id="1">while</f>  Julian lieber länger überlegt .</input>
+  <output>Jacek ist unglaublich schnell , <f id="1">während<alt>obwohl</alt><alt>während sich</alt><alt>wobei</alt><alt>auch wenn</alt></f>  Julian lieber länger überlegt .</output>
+</s>
+<s id="243">
+  <input>Der Patient möchte <f id="1">certainty</f>  über die Art seiner Krankheit erlangen .</input>
+  <output>Der Patient möchte <f id="1">Gewissheit<alt>Rechtsicherheit</alt><alt>Rechtssicherheit</alt><alt>Sicherheit</alt><alt>Gewißheit</alt></f>  über die Art seiner Krankheit erlangen .</output>
+</s>
+<s id="244">
+  <input>Meiner Meinung nach kann man <f id="1">such an arrangement</f>  nicht akzeptieren .</input>
+  <output>Meiner Meinung nach kann man <f id="1">eine solche Regelung<alt>mit einer solchen Vereinbarung</alt><alt>ein solches Prinzip</alt><alt>eine solche Verfahrensweise</alt><alt>eine solche Vereinbarung</alt></f>  nicht akzeptieren .</output>
+</s>
+<s id="245">
+  <input>Es gibt Geschichten mit Figuren , die in <f id="1">similar</f>  Situationen immer neue Abenteuer erleben .</input>
+  <output>Es gibt Geschichten mit Figuren , die in <f id="1">ähnlichen<alt>ähnliche</alt><alt>vergleichbaren</alt><alt>ähnlicher</alt><alt>ähnlich</alt></f>  Situationen immer neue Abenteuer erleben .</output>
+</s>
+<s id="246">
+  <input>Wir werden <f id="1">a civil war</f>  im ehemaligen Jugoslawien verhindern .</input>
+  <output>Wir werden <f id="1">ein Bürgerkrieg<alt>einen Bürgerkrieg</alt><alt>einem Bürgerkrieg</alt><alt>als Bürgerkrieg</alt><alt>einen Bürgerkrieg , der</alt></f>  im ehemaligen Jugoslawien verhindern .</output>
+</s>
+<s id="247">
+  <input>Wie immer , <f id="1">the constraints</f>  der Ausfuhr waren schmerzlich .</input>
+  <output>Wie immer , <f id="1">die Zwänge<alt>den Zwängen</alt><alt>der Einschränkungen</alt><alt>die Vorgaben</alt><alt>der Zwänge</alt></f>  der Ausfuhr waren schmerzlich .</output>
+</s>
+<s id="248">
+  <input>Da findet sich bestimmt <f id="1">a solution</f>  .</input>
+  <output>Da findet sich bestimmt <f id="1">eine Lösung<alt>einer Lösung</alt><alt>einen Ausweg</alt><alt>, eine Lösung</alt><alt>die Lösung</alt></f>  .</output>
+</s>
+<s id="249">
+  <input>Die Katze liegt <f id="1">comfortably</f>  auf dem Sofa .</input>
+  <output>Die Katze liegt <f id="1">bequem<alt>, die bequem</alt><alt>die bequem</alt><alt>in aller Ruhe</alt><alt>ohne Probleme</alt></f>  auf dem Sofa .</output>
+</s>
+<s id="250">
+  <input><f id="1">Once a week</f>  kommt eine Putzfrau .</input>
+  <output><f id="1">Wieder eine Woche<alt>Wieder pro Woche</alt><alt>Wieder einer Woche</alt><alt>Wieder in der Woche</alt><alt>Wieder wöchentlich</alt></f>  kommt eine Putzfrau .</output>
+</s>
+<s id="251">
+  <input>Jeder <f id="1">user</f>  legt zuerst ein persöhnliches Profil an .</input>
+  <output>Jeder <f id="1">Benutzer<alt>Nutzer</alt><alt>Anwender</alt><alt>Nutzer darüber</alt><alt>Benutzers</alt></f>  legt zuerst ein persöhnliches Profil an .</output>
+</s>
+<s id="252">
+  <input>Dagegen bringt ein Tiefdruckgebiet über südlichen Adria <f id="1">heavy</f>  Regengüsse .</input>
+  <output>Dagegen bringt ein Tiefdruckgebiet über südlichen Adria <f id="1">schwere<alt>durch starke</alt><alt>heftigen</alt><alt>heftige</alt><alt>schweren</alt></f>  Regengüsse .</output>
+</s>
+<s id="253">
+  <input>Kannst du mir sagen , wo genau , in <f id="1">which</f>  Stadt deine Familie wohnt ?</input>
+  <output>Kannst du mir sagen , wo genau , in <f id="1">die<alt>denen</alt><alt>welche</alt><alt>der</alt><alt>welcher</alt></f>  Stadt deine Familie wohnt ?</output>
+</s>
+<s id="254">
+  <input>Man hat praktische <f id="1">advantages</f>  im Alltag .</input>
+  <output>Man hat praktische <f id="1">Vorteile<alt>Vorzüge</alt><alt>Vorteilen</alt><alt>Vorteile ,</alt><alt>Nutzen</alt></f>  im Alltag .</output>
+</s>
+<s id="255">
+  <input>Depressionen können viele verschiedene <f id="1">causes</f>  haben .</input>
+  <output>Depressionen können viele verschiedene <f id="1">Ursachen<alt>Gründe</alt><alt>verursacht</alt><alt>Ursachen zu</alt><alt>Ursachen ,</alt></f>  haben .</output>
+</s>
+<s id="256">
+  <input>Er <f id="1">grew</f>  schnell im letzten Jahr .</input>
+  <output>Er <f id="1">wuchsen<alt>wuchs</alt><alt>nahm die</alt><alt>nahm</alt><alt>entwickelte</alt></f>  schnell im letzten Jahr .</output>
+</s>
+<s id="257">
+  <input>Meine Schwester <f id="1">stays</f>  seit einem Jahr in Luxemburg .</input>
+  <output>Meine Schwester <f id="1">Aufenthalte<alt>behält ,</alt><alt>bleibt ,</alt><alt>bleibt</alt><alt>einen Aufenthalt</alt></f>  seit einem Jahr in Luxemburg .</output>
+</s>
+<s id="258">
+  <input>Sie warteten <f id="1">the entire day</f>  .</input>
+  <output>Sie warteten <f id="1">den ganzen Tag</f>  .</output>
+</s>
+<s id="259">
+  <input>Koepcke <f id="1">survives</f>  als Einzige den Absturz .</input>
+  <output>Koepcke <f id="1">überlebt<alt>übersteht</alt><alt>durchhält</alt><alt>übersteht die</alt><alt>lebt</alt></f>  als Einzige den Absturz .</output>
+</s>
+<s id="260">
+  <input>Ich bin 34 Jahre alt , verheiratet , und habe <f id="1">a five year old son</f>  .</input>
+  <output>Ich bin 34 Jahre alt , verheiratet , und habe <f id="1">fünf Jahre alten Sohn<alt>von fünf Jahre alten Sohn</alt><alt>fünf Jahre alte Sohn</alt><alt>von fünf Jahre alte Sohn</alt><alt>fünf Jahr alter Sohn</alt></f>  .</output>
+</s>
+<s id="261">
+  <input>Die Luft hier ist noch <f id="1">clean</f>  .</input>
+  <output>Die Luft hier ist noch <f id="1">sauber<alt>saubere</alt><alt>sauberer</alt><alt>sauberen</alt><alt>sauberes</alt></f>  .</output>
+</s>
+<s id="262">
+  <input>Der Minister ist <f id="1">very impressed</f>  .</input>
+  <output>Der Minister ist <f id="1">sehr beeindruckt<alt>schwer beeindruckt</alt><alt>zutiefst beeindruckt</alt><alt>ziemlich beeindruckt</alt><alt>tief beeindruckt hat</alt></f>  .</output>
+</s>
+<s id="263">
+  <input>Man <f id="1">suspects</f>  , dass die Astrophysiker auf dem entfernten Planeten Wasserspuren entdeckt haben .</input>
+  <output>Man <f id="1">vermutet<alt>Verdächtigen</alt><alt>Verdächtige</alt><alt>verdächtigt</alt><alt>Tatverdächtigen</alt></f>  , dass die Astrophysiker auf dem entfernten Planeten Wasserspuren entdeckt haben .</output>
+</s>
+<s id="264">
+  <input>Selbst <f id="1">within</f>  der Europaïschen Gemeinschaft gibt es Vorbehalte gegen andere Mitgliedstaaten .</input>
+  <output>Selbst <f id="1">innerhalb<alt>in</alt><alt>im Rahmen</alt><alt>innerhalb von</alt><alt>die innerhalb</alt></f>  der Europaïschen Gemeinschaft gibt es Vorbehalte gegen andere Mitgliedstaaten .</output>
+</s>
+<s id="265">
+  <input>Er <f id="1">researches</f>  seit 1995 die Wahrnehmung von Musik .</input>
+  <output>Er <f id="1">Recherchen</f>  seit 1995 die Wahrnehmung von Musik .</output>
+</s>
+<s id="266">
+  <input>Er <f id="1">prefers</f>  Fotografien in schwarz-weiß .</input>
+  <output>Er <f id="1">bevorzugt<alt>bevorzugt ,</alt><alt>zieht es vor</alt><alt>zieht es</alt><alt>vorzieht</alt></f>  Fotografien in schwarz-weiß .</output>
+</s>
+<s id="267">
+  <input>Zum Beispiel <f id="1">it already starts with</f>  , dass meinen Schulabschluss nicht anerkannt wird .</input>
+  <output>Zum Beispiel <f id="1">es beginnt schon bei<alt>es beginnt schon bei der</alt></f>  , dass meinen Schulabschluss nicht anerkannt wird .</output>
+</s>
+<s id="268">
+  <input>Das ist etwas , wofür ich überhaupt kein Geld <f id="1">spend</f>  würde .</input>
+  <output>Das ist etwas , wofür ich überhaupt kein Geld <f id="1">ausgeben<alt>verbringen</alt><alt>aufwenden</alt><alt>ausgeben ,</alt><alt>auszugeben</alt></f>  würde .</output>
+</s>
+<s id="269">
+  <input>Ich kaufe Bücher nur , wenn sie nicht <f id="1">expensive</f>  sind .</input>
+  <output>Ich kaufe Bücher nur , wenn sie nicht <f id="1">teuer<alt>teurer</alt><alt>kostspielig</alt><alt>teure</alt><alt>teuren</alt></f>  sind .</output>
+</s>
+<s id="270">
+  <input>Jeder Schüler <f id="1">owns</f>  einen eigenen Computer .</input>
+  <output>Jeder Schüler <f id="1">besitzt<alt>Eigentümer</alt><alt>ist Eigentümerin von</alt><alt>Eigentümerin von</alt><alt>besitzen</alt></f>  einen eigenen Computer .</output>
+</s>
+<s id="271">
+  <input>Ein <f id="1">serious</f>  Ausnahmefehler ist aufgetreten .</input>
+  <output>Ein <f id="1">ernstes<alt>ernsthafte</alt><alt>ernste</alt><alt>schwerer</alt><alt>schwere</alt></f>  Ausnahmefehler ist aufgetreten .</output>
+</s>
+<s id="272">
+  <input>Was er jetzt sagt ist <f id="1">completely</f>  irrational .</input>
+  <output>Was er jetzt sagt ist <f id="1">völlig<alt>vollkommen</alt><alt>vollständig</alt><alt>komplett</alt><alt>ganz</alt></f>  irrational .</output>
+</s>
+<s id="273">
+  <input>Ich <f id="1">work</f>  in unserer Firma .</input>
+  <output>Ich <f id="1">Arbeit<alt>arbeiten</alt><alt>Arbeiten</alt><alt>Tätigkeit</alt><alt>funktionieren</alt></f>  in unserer Firma .</output>
+</s>
+<s id="274">
+  <input>Das Buch habe ich nur <f id="1">because of</f>  der Bilder gekauft .</input>
+  <output>Das Buch habe ich nur <f id="1">wegen<alt>aufgrund</alt><alt>aufgrund von</alt><alt>weil</alt><alt>, weil</alt></f>  der Bilder gekauft .</output>
+</s>
+<s id="275">
+  <input>Der Sohn <f id="1">takes after his father</f>  .</input>
+  <output>Der Sohn <f id="1">, dauert nach seinem Vater<alt>, wirft nach seinem Vater</alt><alt>, dass schlägt nach seinem Vater</alt><alt>, besitzt nach seinem Vater</alt><alt>, nimmt nach seinem Vater</alt></f>  .</output>
+</s>
+<s id="276">
+  <input>Deutsch ist eine der <f id="1">most spoken</f>  Sprachen in Europa .</input>
+  <output>Deutsch ist eine der <f id="1">am häufigsten gesprochen</f>  Sprachen in Europa .</output>
+</s>
+<s id="277">
+  <input>Die <f id="1">employees</f>  traten in den Ausstand .</input>
+  <output>Die <f id="1">Angestellten<alt>Beschäftigten</alt><alt>Arbeitnehmer</alt><alt>Mitarbeiter</alt><alt>Beschäftigte</alt></f>  traten in den Ausstand .</output>
+</s>
+<s id="278">
+  <input>In Detroit entsteht <f id="1">at the time</f>  ein riesiges Grasdach für eine Produktionshalle .</input>
+  <output>In Detroit entsteht <f id="1">zur Zeit<alt>damals</alt><alt>seinerzeit</alt><alt>zu der Zeit</alt><alt>zum Zeitpunkt</alt></f>  ein riesiges Grasdach für eine Produktionshalle .</output>
+</s>
+<s id="279">
+  <input>Der <f id="1">present</f>  Leistungsdruck verlangt den Sportlern viel ab .</input>
+  <output>Der <f id="1">derzeitige<alt>gegenwärtige</alt><alt>jetzige</alt><alt>anwesend</alt><alt>gegenwärtigen</alt></f>  Leistungsdruck verlangt den Sportlern viel ab .</output>
+</s>
+<s id="280">
+  <input>Ich fasse <f id="1">both possibilities</f>  noch mal zusammen .</input>
+  <output>Ich fasse <f id="1">beide Möglichkeiten</f>  noch mal zusammen .</output>
+</s>
+<s id="281">
+  <input>Ich bin <f id="1">as old as</f>  du .</input>
+  <output>Ich bin <f id="1">so alt wie<alt>so alt , wie</alt><alt>alt , wie</alt><alt>so alt ist wie</alt><alt>genauso alt wie</alt></f>  du .</output>
+</s>
+<s id="282">
+  <input>Seit Jahren diskutiert man <f id="1">meaningful</f>  Alternativen zum Straßenverkehr .</input>
+  <output>Seit Jahren diskutiert man <f id="1">sinnvolle<alt>sinnvollen</alt><alt>Bedeutungsvollem</alt><alt>eine sinnvolle</alt><alt>sinnvoller</alt></f>  Alternativen zum Straßenverkehr .</output>
+</s>
+<s id="283">
+  <input>Sie wurden <f id="1">violent</f>  .</input>
+  <output>Sie wurden <f id="1">gewalttätigen<alt>gewaltsame</alt><alt>gewalttätige</alt><alt>gewaltgeprägt</alt><alt>gewaltsamen</alt></f>  .</output>
+</s>
+<s id="284">
+  <input>Fleißigste EU-Bürger waren Eurostat zufolge die Österreicher mit einer <f id="1">weekly</f>  Arbeitszeit von 44,3 Stunden .</input>
+  <output>Fleißigste EU-Bürger waren Eurostat zufolge die Österreicher mit einer <f id="1">wöchentlichen<alt>wöchentliche</alt><alt>wöchentlicher</alt><alt>der wöchentlichen</alt><alt>den wöchentlichen</alt></f>  Arbeitszeit von 44,3 Stunden .</output>
+</s>
+<s id="285">
+  <input>Er <f id="1">tells about</f>  seinen chronischen Kopfschmerzen .</input>
+  <output>Er <f id="1">, erzählt über<alt>, sagt über</alt><alt>Auskunft über</alt><alt>Auskunft von über</alt><alt>, erzählt von</alt></f>  seinen chronischen Kopfschmerzen .</output>
+</s>
+<s id="286">
+  <input>Sehr geehrte Damen und Herren , <f id="1">your</f>  Anzeige in der Zeitung hat mich sehr erfreut ; so was habe ich schon lange gesucht .</input>
+  <output>Sehr geehrte Damen und Herren , <f id="1">Ihre<alt>Ihr</alt><alt>Ihren</alt><alt>Ihrer</alt><alt>Ihrem</alt></f>  Anzeige in der Zeitung hat mich sehr erfreut ; so was habe ich schon lange gesucht .</output>
+</s>
+<s id="287">
+  <input>Leider fehlt <f id="1">the manual</f>  für diese komplizierte Maschine .</input>
+  <output>Leider fehlt <f id="1">das Handbuch<alt>das manuelle</alt><alt>eine Umstellung</alt></f>  für diese komplizierte Maschine .</output>
+</s>
+<s id="288">
+  <input>In der Ausgabe der Sportzeitung wird heute über den neuen Dopingskandal <f id="1">extensively</f>  berichtet .</input>
+  <output>In der Ausgabe der Sportzeitung wird heute über den neuen Dopingskandal <f id="1">ausführlich<alt>ausgiebig</alt><alt>umfassend</alt><alt>die ausführlich</alt><alt>, ausgiebig</alt></f>  berichtet .</output>
+</s>
+<s id="289">
+  <input><f id="1">The work</f>  ist nicht immer angenehm .</input>
+  <output><f id="1">Die Arbeit<alt>Halbjahresbericht</alt></f>  ist nicht immer angenehm .</output>
+</s>
+<s id="290">
+  <input>Bei den Männern können <f id="1">the Swiss</f>  mit 78,5 Jahren auf ein langes Leben hoffen .</input>
+  <output>Bei den Männern können <f id="1">die Schweizer<alt>der Schweizerischen</alt><alt>den Schweizer</alt><alt>das Schweizer</alt><alt>den Schweizern</alt></f>  mit 78,5 Jahren auf ein langes Leben hoffen .</output>
+</s>
+<s id="291">
+  <input>Ich bin nervös und <f id="1">am afraid</f>  .</input>
+  <output>Ich bin nervös und <f id="1">fürchte<alt>befürchte</alt><alt>fürchte ,</alt><alt>habe Angst</alt><alt>so fürchte</alt></f>  .</output>
+</s>
+<s id="292">
+  <input>Kontakte zwischen den Organisationen sind <f id="1">especially</f>  intensiv und erfolgreich in den USA .</input>
+  <output>Kontakte zwischen den Organisationen sind <f id="1">besonders<alt>insbesondere</alt><alt>vor allem</alt><alt>ganz besonders</alt><alt>speziell</alt></f>  intensiv und erfolgreich in den USA .</output>
+</s>
+<s id="293">
+  <input><f id="1">Some</f>  Pflanzen sind resistent gegen Parasiten .</input>
+  <output><f id="1">Einige<alt>Manche</alt><alt>In bestimmten</alt><alt>Vor einigen</alt><alt>einiger</alt></f>  Pflanzen sind resistent gegen Parasiten .</output>
+</s>
+<s id="294">
+  <input>Wir sollen sofort <f id="1">make a decision</f>  .</input>
+  <output>Wir sollen sofort <f id="1">eine Entscheidung herbeizuführen<alt>eine Entscheidung treffen</alt><alt>entscheiden</alt><alt>eine Entscheidung fällen</alt><alt>eine Entscheidung treffen können</alt></f>  .</output>
+</s>
+<s id="295">
+  <input>Sie sind so intelligent , dass sie Büroarbeit erledigen und manchmal <f id="1">even</f>  reden .</input>
+  <output>Sie sind so intelligent , dass sie Büroarbeit erledigen und manchmal <f id="1">sogar<alt>selbst</alt><alt>auch</alt><alt>noch</alt><alt>sogar noch</alt></f>  reden .</output>
+</s>
+<s id="296">
+  <input>Im statistischen Amt der Europäischen Union Eurostat werden alle Daten des Lebens der Europäer von der Geburt <f id="1">until death</f>  erfasst .</input>
+  <output>Im statistischen Amt der Europäischen Union Eurostat werden alle Daten des Lebens der Europäer von der Geburt <f id="1">, bis Tod<alt>, bis Tode</alt><alt>, bis Todes</alt><alt>, solange Tod</alt><alt>, bis der Tod</alt></f>  erfasst .</output>
+</s>
+<s id="297">
+  <input>Welche <f id="1">attitude</f>  zeigt die Gesellschaft Ihnen gegenüber ?</input>
+  <output>Welche <f id="1">Haltung<alt>Einstellung</alt><alt>Verhalten</alt><alt>Haltung ,</alt><alt>Einstellungen</alt></f>  zeigt die Gesellschaft Ihnen gegenüber ?</output>
+</s>
+<s id="298">
+  <input>Ich setze mir selbständig Ziele und habe klare Vorstellungen von meiner <f id="1">future career</f>  .</input>
+  <output>Ich setze mir selbständig Ziele und habe klare Vorstellungen von meiner <f id="1">künftige Laufbahn<alt>zukünftige Laufbahn</alt><alt>künftige Karriere</alt><alt>zukünftige berufliche</alt></f>  .</output>
+</s>
+<s id="299">
+  <input>Filme und Musik werde immer häufiger <f id="1">downloaded</f>  .</input>
+  <output>Filme und Musik werde immer häufiger <f id="1">heruntergeladen<alt>downloaden</alt><alt>heruntergeladenen</alt><alt>heruntergeladenes</alt><alt>heruntergeladen hatte</alt></f>  .</output>
+</s>
+<s id="300">
+  <input>So liegen beispielsweise die Preise für <f id="1">studio apartments</f>  nicht unter 100.000 Euro .</input>
+  <output>So liegen beispielsweise die Preise für <f id="1">studio Wohnungen</f>  nicht unter 100.000 Euro .</output>
+</s>
+<s id="301">
+  <input>Drei von vier Büroarbeitern ärgern sich darüber , dass ihr Rechner nicht <f id="1">properly</f>  funktioniert .</input>
+  <output>Drei von vier Büroarbeitern ärgern sich darüber , dass ihr Rechner nicht <f id="1">ordnungsgemäß<alt>richtig</alt><alt>ordentlich</alt><alt>korrekt</alt><alt>einwandfrei</alt></f>  funktioniert .</output>
+</s>
+<s id="302">
+  <input>Durch die Gefängnisstrafe wurde er von seinen Kumpanen <f id="1">separated</f>  .</input>
+  <output>Durch die Gefängnisstrafe wurde er von seinen Kumpanen <f id="1">getrennt<alt>abgetrennt</alt><alt>trennte</alt><alt>trennen</alt><alt>voneinander getrennt</alt></f>  .</output>
+</s>
+<s id="303">
+  <input>Viele Menschen <f id="1">buy</f>  nur noch im Internet .</input>
+  <output>Viele Menschen <f id="1">kaufen<alt>kaufen ,</alt><alt>kauft</alt><alt>Kauf</alt><alt>erwerben</alt></f>  nur noch im Internet .</output>
+</s>
+<s id="304">
+  <input>Wir suchen für jeden Mitarbeiter die beste Möglichkeit , Sie sollen uns lediglich am Ende sagen , <f id="1">what is on your mind</f>  .</input>
+  <output>Wir suchen für jeden Mitarbeiter die beste Möglichkeit , Sie sollen uns lediglich am Ende sagen , <f id="1">was ist auf Ihren Kopf<alt>was ist auf den Kopf</alt><alt>was ist auf dem Herzen</alt><alt>was jetzt auf Ihren Kopf</alt><alt>was jetzt auf dem Herzen</alt></f>  .</output>
+</s>
+<s id="305">
+  <input>Das bedeutet , dass die Miete für <f id="1">a net surface</f>  um 70 / 80 m ² , € 750,00 / 800,00 pro Monat kostet .</input>
+  <output>Das bedeutet , dass die Miete für <f id="1">ein Netz Oberfläche<alt>netto Oberfläche</alt><alt>ein reines Oberfläche</alt><alt>ein Netz von Oberfläche</alt><alt>es netto Oberfläche</alt></f>  um 70 / 80 m ² , € 750,00 / 800,00 pro Monat kostet .</output>
+</s>
+<s id="306">
+  <input><f id="1">There is also</f>  eine zweite Küche und ein Bad .</input>
+  <output><f id="1">Es gibt auch<alt>Es besteht auch</alt><alt>Es steht auch</alt><alt>Es gibt außerdem</alt><alt>Es gibt ebenfalls</alt></f>  eine zweite Küche und ein Bad .</output>
+</s>
+<s id="307">
+  <input>In <f id="1">the constitution</f>  stehen die Rechte und Pflichten der Bürger .</input>
+  <output>In <f id="1">der Verfassung<alt>die Verfassung</alt><alt>das Grundgesetz</alt><alt>dieser Verfassung</alt><alt>einer Verfassungsänderung</alt></f>  stehen die Rechte und Pflichten der Bürger .</output>
+</s>
+<s id="308">
+  <input>Spätestens alle vier Jahre müssen die Winterreifen <f id="1">renewed</f>  werden .</input>
+  <output>Spätestens alle vier Jahre müssen die Winterreifen <f id="1">erneuert<alt>verlängert</alt><alt>erneuerte</alt><alt>erneuerten</alt><alt>erneute</alt></f>  werden .</output>
+</s>
+<s id="309">
+  <input>In Zukunft werden wir immer <f id="1">less</f>  Rohstoffe zur Verfürung haben .</input>
+  <output>In Zukunft werden wir immer <f id="1">weniger<alt>geringer</alt><alt>geringere</alt><alt>weniger ,</alt><alt>geringeren</alt></f>  Rohstoffe zur Verfürung haben .</output>
+</s>
+<s id="310">
+  <input>Er fand den neuen Sänger <f id="1">rather disappointing</f>  .</input>
+  <output>Er fand den neuen Sänger <f id="1">ziemlich enttäuschend<alt>eher enttäuschend</alt><alt>recht enttäuschend</alt><alt>etwas enttäuschend</alt><alt>sehr enttäuschend</alt></f>  .</output>
+</s>
+<s id="311">
+  <input>Die eigene Hochzeitsfeier ist <f id="1">hopefully</f>  wunderschön .</input>
+  <output>Die eigene Hochzeitsfeier ist <f id="1">hoffentlich<alt>hoffentlich auch</alt><alt>hoffentlich eine</alt><alt>hoffnungsvoll</alt><alt>es hoffentlich</alt></f>  wunderschön .</output>
+</s>
+<s id="312">
+  <input>Sie kochen <f id="1">today</f>  nicht selbst .</input>
+  <output>Sie kochen <f id="1">heute<alt>heutzutage</alt><alt>heutigen</alt><alt>heutige</alt><alt>, heute</alt></f>  nicht selbst .</output>
+</s>
+<s id="313">
+  <input>Otto weiß nicht , <f id="1">whether</f>  er kommt .</input>
+  <output>Otto weiß nicht , <f id="1">ob<alt>, ob</alt><alt>inwieweit</alt><alt>ob nun</alt><alt>egal ob</alt></f>  er kommt .</output>
+</s>
+<s id="314">
+  <input>Für <f id="1">people like you</f>  habe ich nur Mitleid übrig .</input>
+  <output>Für <f id="1">Menschen wie Sie<alt>Menschen wie du</alt><alt>von Menschen wie du</alt><alt>Leuten wie Ihnen</alt></f>  habe ich nur Mitleid übrig .</output>
+</s>
+<s id="315">
+  <input>Ich glaube , <f id="1">restrictive measures</f>  haben jetzt keine Wirkung mehr .</input>
+  <output>Ich glaube , <f id="1">restriktiven Maßnahmen<alt>restriktive Maßnahmen</alt><alt>restriktiver Maßnahmen</alt><alt>einschränkende Maßnahmen</alt><alt>einschränkenden Maßnahmen</alt></f>  haben jetzt keine Wirkung mehr .</output>
+</s>
+<s id="316">
+  <input>Kein Bürger zahlt gerne <f id="1">taxes</f>  .</input>
+  <output>Kein Bürger zahlt gerne <f id="1">Steuern<alt>die Steuern</alt><alt>Abgaben</alt><alt>von Steuern</alt><alt>Verbrauchssteuersätze</alt></f>  .</output>
+</s>
+<s id="317">
+  <input>Das Land hat <f id="1">lost the war</f>  .</input>
+  <output>Das Land hat <f id="1">den Krieg verloren<alt>den Krieg verloren haben</alt></f>  .</output>
+</s>
+<s id="318">
+  <input>Diese Geschichte ist <f id="1">not exactly</f>  aufregend .</input>
+  <output>Diese Geschichte ist <f id="1">nicht gerade<alt>nicht genau</alt><alt>nicht besonders</alt><alt>nicht ganz</alt><alt>nicht sehr</alt></f>  aufregend .</output>
+</s>
+<s id="319">
+  <input>Andreas und Michael werden nächste Woche nach Berlin <f id="1">move</f>  .</input>
+  <output>Andreas und Michael werden nächste Woche nach Berlin <f id="1">bewegen<alt>umziehen</alt><alt>verlegen</alt><alt>kommen</alt><alt>gehen</alt></f>  .</output>
+</s>
+<s id="320">
+  <input>Eine besonders niedrige Geburtenrate weist Polen mit 1,24 Kindern pro Frau auf , Spitzenreiter sind <f id="1">the Irish</f>  mit 1,86 .</input>
+  <output>Eine besonders niedrige Geburtenrate weist Polen mit 1,24 Kindern pro Frau auf , Spitzenreiter sind <f id="1">die irische<alt>der irischen</alt><alt>die Iren</alt><alt>das irische</alt><alt>der irische</alt></f>  mit 1,86 .</output>
+</s>
+<s id="321">
+  <input>Er ist damit <f id="1">really</f>  einverstanden .</input>
+  <output>Er ist damit <f id="1">wirklich<alt>eigentlich</alt><alt>tatsächlich</alt><alt>auch wirklich</alt><alt>nun wirklich</alt></f>  einverstanden .</output>
+</s>
+<s id="322">
+  <input>Sie <f id="1">wears</f>  gerne alte Jeans .</input>
+  <output>Sie <f id="1">trägt</f>  gerne alte Jeans .</output>
+</s>
+<s id="323">
+  <input><f id="1">According to</f>  Umfragen versuchen rund 75 Prozent der Menschen , sich mit Musik aufzumuntern .</input>
+  <output><f id="1">Laut<alt>Gemäß</alt><alt>Nach</alt><alt>Entsprechend</alt><alt>Aus dem</alt></f>  Umfragen versuchen rund 75 Prozent der Menschen , sich mit Musik aufzumuntern .</output>
+</s>
+<s id="324">
+  <input>Man soll möglichst einfache <f id="1">sentences</f>  schreiben .</input>
+  <output>Man soll möglichst einfache <f id="1">Sätze<alt>Urteile</alt><alt>Sätzen</alt><alt>Strafen</alt><alt>Verurteilungen</alt></f>  schreiben .</output>
+</s>
+<s id="325">
+  <input>Sie ist 1987 gestorben and hat <f id="1">the fall of the wall</f>  nicht mehr erlebt .</input>
+  <output>Sie ist 1987 gestorben and hat <f id="1">den Fall der Mauer<alt>dem Fall der Mauer</alt></f>  nicht mehr erlebt .</output>
+</s>
+<s id="326">
+  <input>Selbst wer <f id="1">in a depressed mood</f>  traurige Melodien hört , erlebt eine positive Emotionalität .</input>
+  <output>Selbst wer <f id="1">( der ) deprimiert Stimmung<alt>, auf einem angeschlagenen Stimmung</alt><alt>, auf einem deprimiert Stimmung</alt><alt>" in einer strukturschwachen Stimmung</alt><alt>, auf eine deprimiert Stimmung</alt></f>  traurige Melodien hört , erlebt eine positive Emotionalität .</output>
+</s>
+<s id="327">
+  <input>Wir haben uns bei den Nachbarn <f id="1">complained</f>  wegen der Musik .</input>
+  <output>Wir haben uns bei den Nachbarn <f id="1">beklagte sich<alt>beklagt</alt><alt>beschweren sich</alt><alt>moniert</alt><alt>beklagten</alt></f>  wegen der Musik .</output>
+</s>
+<s id="328">
+  <input>Die Zeitung <f id="1">reported</f>  , dass das Trinkwasser infiziert war .</input>
+  <output>Die Zeitung <f id="1">berichtet<alt>berichtete</alt><alt>berichteten</alt><alt>gemeldet</alt><alt>berichtet wurde</alt></f>  , dass das Trinkwasser infiziert war .</output>
+</s>
+<s id="329">
+  <input>Der Weltmeister im Boxen ist immer noch <f id="1">very</f>  bekannt .</input>
+  <output>Der Weltmeister im Boxen ist immer noch <f id="1">sehr<alt>äußerst</alt><alt>ganz</alt><alt>recht</alt><alt>überaus</alt></f>  bekannt .</output>
+</s>
+<s id="330">
+  <input>Wir sind <f id="1">often</f>  von Musik umgeben .</input>
+  <output>Wir sind <f id="1">oft<alt>häufig</alt><alt>oftmals</alt><alt>vielfach</alt><alt>meist</alt></f>  von Musik umgeben .</output>
+</s>
+<s id="331">
+  <input>Es ist wie ein Wiedersehen <f id="1">with old acquaintances</f>  .</input>
+  <output>Es ist wie ein Wiedersehen <f id="1">mit den alten Bekanntschaften<alt>mit den alten Bekannten</alt><alt>mit den alten Bekannte</alt><alt>um alte Bekannte</alt><alt>um alte Bekanntschaften</alt></f>  .</output>
+</s>
+<s id="332">
+  <input><f id="1">Nowadays</f>  kann man an fast allen Bahnhöfen Fahrkarten am Automaten kaufen .</input>
+  <output><f id="1">Heutzutage sehen</f>  kann man an fast allen Bahnhöfen Fahrkarten am Automaten kaufen .</output>
+</s>
+<s id="333">
+  <input>Um den Betrieb herum lag viel <f id="1">dirt</f>  .</input>
+  <output>Um den Betrieb herum lag viel <f id="1">Dreck<alt>Schmutz</alt><alt>Müll zugeschüttet</alt><alt>behindern</alt></f>  .</output>
+</s>
+<s id="334">
+  <input>In diesem Satz verstecken sich zwei uralte Fragen - <f id="1">from where</f>  komme ich und wo gehe ich hin ?</input>
+  <output>In diesem Satz verstecken sich zwei uralte Fragen - <f id="1">von wo<alt>woher</alt><alt>von wo aus</alt><alt>von denen aus</alt><alt>aus , an dem</alt></f>  komme ich und wo gehe ich hin ?</output>
+</s>
+<s id="335">
+  <input>Ich <f id="1">have</f>  eine Woche , um eine neue Wohnung zu finden .</input>
+  <output>Ich <f id="1">habe<alt>haben</alt><alt>sind</alt><alt>muss</alt><alt>müssen</alt></f>  eine Woche , um eine neue Wohnung zu finden .</output>
+</s>
+<s id="336">
+  <input>Aber die Einzelpersonen wohnen gern in einem <f id="1">apartment building</f>  .</input>
+  <output>Aber die Einzelpersonen wohnen gern in einem <f id="1">Apartments Gebäude<alt>Wohnung Gebäude</alt><alt>Apartments Gebäudes</alt><alt>Apartments Aufbau</alt><alt>Apartments aufzubauen</alt></f>  .</output>
+</s>
+<s id="337">
+  <input>Er beherrscht <f id="1">his native language</f>  immer noch am besten .</input>
+  <output>Er beherrscht <f id="1">seiner Muttersprache</f>  immer noch am besten .</output>
+</s>
+<s id="338">
+  <input>Die Liebe zu Russland bleibt ganz tief in meinem <f id="1">heart</f>  .</input>
+  <output>Die Liebe zu Russland bleibt ganz tief in meinem <f id="1">Herzen<alt>Herz</alt><alt>Mittelpunkt</alt><alt>Zentrum</alt><alt>Kern</alt></f>  .</output>
+</s>
+<s id="339">
+  <input>Aber ihr Traum von einer <f id="1">united</f>  Stadt ist in Erfüllung gegangen .</input>
+  <output>Aber ihr Traum von einer <f id="1">vereinten<alt>vereinigten</alt><alt>geeinten</alt><alt>vereinte</alt><alt>vereint</alt></f>  Stadt ist in Erfüllung gegangen .</output>
+</s>
+<s id="340">
+  <input>Man hört immer wieder , dass Embryos auch Geräusche <f id="1">outside</f>  des Körpers der Mutter hören .</input>
+  <output>Man hört immer wieder , dass Embryos auch Geräusche <f id="1">außerhalb<alt>, die außerhalb</alt><alt>, außerhalb</alt><alt>von außerhalb</alt><alt>die außerhalb</alt></f>  des Körpers der Mutter hören .</output>
+</s>
+<s id="341">
+  <input>Es gibt nichts , was ich in Innsbruck <f id="1">miss</f>  würde .</input>
+  <output>Es gibt nichts , was ich in Innsbruck <f id="1">verpassen<alt>vermissen</alt><alt>auslassen</alt><alt>, vermissen</alt><alt>versäumen</alt></f>  würde .</output>
+</s>
+<s id="342">
+  <input>Was ist <f id="1">the difference between</f>  den Formulierungen ?</input>
+  <output>Was ist <f id="1">der Unterschied zwischen<alt>die Differenz zwischen</alt><alt>den Unterschied zwischen</alt><alt>die Unterscheidung zwischen</alt><alt>der Differenz zwischen</alt></f>  den Formulierungen ?</output>
+</s>
+<s id="343">
+  <input>Das belegen Studien von Arbeitswissenschaftlern und <f id="1">behavioural scientists</f>  , die das Phänomen der Aggression gegen Computer untersucht haben .</input>
+  <output>Das belegen Studien von Arbeitswissenschaftlern und <f id="1">verhaltensbezogene Wissenschaftler<alt>verhaltensbezogenen Wissenschaftler</alt><alt>verhaltensmäßige Wissenschaftler</alt><alt>verhaltensbezogene Wissenschaftlern</alt><alt>Verhaltens- Wissenschaftler</alt></f>  , die das Phänomen der Aggression gegen Computer untersucht haben .</output>
+</s>
+<s id="344">
+  <input>Wenn die Wohnungen oder Häuser in der Stadt oder <f id="1">central</f>  sind , sind die Preise sehr hoch .</input>
+  <output>Wenn die Wohnungen oder Häuser in der Stadt oder <f id="1">zentrale<alt>zentralen</alt><alt>zentral</alt><alt>zentraler</alt><alt>von zentraler Bedeutung</alt></f>  sind , sind die Preise sehr hoch .</output>
+</s>
+<s id="345">
+  <input>Der Verkauf ihrer Wohnungen schockierte <f id="1">the tenants</f>  zutiefst .</input>
+  <output>Der Verkauf ihrer Wohnungen schockierte <f id="1">der Verfechter</f>  zutiefst .</output>
+</s>
+<s id="346">
+  <input>Ich lese <f id="1">the newspaper</f>  , um gut informiert zu sein .</input>
+  <output>Ich lese <f id="1">die Zeitung<alt>der Zeitung</alt><alt>der Tageszeitung</alt><alt>der Zeitschrift</alt><alt>die Tageszeitung „</alt></f>  , um gut informiert zu sein .</output>
+</s>
+<s id="347">
+  <input>Es war immer <f id="1">somebody</f>  da , den man anrufen und besuchen konnte .</input>
+  <output>Es war immer <f id="1">jemand<alt>jemanden</alt><alt>irgendjemand</alt><alt>jemandem</alt><alt>irgend jemand</alt></f>  da , den man anrufen und besuchen konnte .</output>
+</s>
+<s id="348">
+  <input>Er hat sich <f id="1">clearly</f>  geirrt .</input>
+  <output>Er hat sich <f id="1">offenbar<alt>eindeutig</alt><alt>deutlich</alt><alt>klar</alt><alt>offensichtlich</alt></f>  geirrt .</output>
+</s>
+<s id="349">
+  <input>Jetzt haben wir eine neue <f id="1">Technology</f>  .</input>
+  <output>Jetzt haben wir eine neue <f id="1">Technologie<alt>Technology</alt><alt>Hüttenwesen</alt><alt>Energie</alt><alt>Technologieinstituts</alt></f>  .</output>
+</s>
+<s id="350">
+  <input>Ich hoffe , dass das Praktikum bei Ihrer Firma mir die Möglichkeit gibt , eine gute Arbeit in <f id="1">the</f>  Zukunft zu bekommen .</input>
+  <output>Ich hoffe , dass das Praktikum bei Ihrer Firma mir die Möglichkeit gibt , eine gute Arbeit in <f id="1">der<alt>die</alt><alt>den</alt><alt>das</alt><alt>dem</alt></f>  Zukunft zu bekommen .</output>
+</s>
+<s id="351">
+  <input>Er <f id="1">confirmed</f>  meine Vermutungen .</input>
+  <output>Er <f id="1">bestätigt<alt>bestätigte</alt><alt>bestätigten</alt><alt>bekräftig</alt><alt>bestätigt ,</alt></f>  meine Vermutungen .</output>
+</s>
+<s id="352">
+  <input>In <f id="1">this company</f>  kann man viel Geld verdienen .</input>
+  <output>In <f id="1">dieses Unternehmen<alt>diesem Unternehmen</alt><alt>diesem Sender</alt><alt>dieser Betrieb</alt><alt>diese Firma</alt></f>  kann man viel Geld verdienen .</output>
+</s>
+<s id="353">
+  <input>Gewalttätige Fans <f id="1">represent</f>  nur einen kleinen Teil der Anhänger einer Mannschaft .</input>
+  <output>Gewalttätige Fans <f id="1">repräsentieren<alt>vertreten</alt><alt>vertrete</alt><alt>stellen</alt><alt>repräsentiere</alt></f>  nur einen kleinen Teil der Anhänger einer Mannschaft .</output>
+</s>
+<s id="354">
+  <input>Lesen Sie bitte <f id="1">the second paragraph</f>  .</input>
+  <output>Lesen Sie bitte <f id="1">den Punkt 2<alt>die zweite Ziffer</alt><alt>den zweiten Absatz</alt><alt>im zweiten Absatz</alt><alt>der zweite Absatz</alt></f>  .</output>
+</s>
+<s id="355">
+  <input>Gegen <f id="1">this view</f>  kämpfen renommierte Architekten an .</input>
+  <output>Gegen <f id="1">diese Auffassung<alt>diese Ansicht</alt><alt>diese Sichtweise</alt><alt>diesen Standpunkt</alt><alt>diese Meinung</alt></f>  kämpfen renommierte Architekten an .</output>
+</s>
+<s id="356">
+  <input><f id="1">The number of</f>  Jugendlichen die wegen Alkoholmissbrauchs in Krankenhäusern behandelt werden müssen , ist stark gestiegen .</input>
+  <output><f id="1">Die Zahl der<alt>Die Zahl</alt><alt>So viele</alt></f>  Jugendlichen die wegen Alkoholmissbrauchs in Krankenhäusern behandelt werden müssen , ist stark gestiegen .</output>
+</s>
+<s id="357">
+  <input>Drei Golfstaaten ziehen <f id="1">ambassadors</f>  aus Katar ab .</input>
+  <output>Drei Golfstaaten ziehen <f id="1">Botschafter<alt>Botschaftern</alt><alt>zu Botschaftern</alt><alt>wie Botschafter</alt><alt>Botschaften</alt></f>  aus Katar ab .</output>
+</s>
+<s id="358">
+  <input>Bevor ich Tipps zur Wohnungssuche gebe , möchte ich <f id="1">on</f>  die wesentlichen Besonderheiten des Immobilienmarktes in Berlin eingehen .</input>
+  <output>Bevor ich Tipps zur Wohnungssuche gebe , möchte ich <f id="1">auf<alt>über</alt><alt>für</alt><alt>an</alt><alt>am</alt></f>  die wesentlichen Besonderheiten des Immobilienmarktes in Berlin eingehen .</output>
+</s>
+<s id="359">
+  <input><f id="1">Also</f>  in West - und Südwesteuropa gibt es viel Sonnenschein .</input>
+  <output><f id="1">OOV</f>  in West - und Südwesteuropa gibt es viel Sonnenschein .</output>
+</s>
+<s id="360">
+  <input>Es gibt ganz wenig Wohnungsagentur , weil man gerne die Wohnungen selbst suchen möchte und wegen dem <f id="1">expensive</f>  Service .</input>
+  <output>Es gibt ganz wenig Wohnungsagentur , weil man gerne die Wohnungen selbst suchen möchte und wegen dem <f id="1">teuren<alt>teuer</alt><alt>teure</alt><alt>kostspieligen</alt><alt>kostspielige</alt></f>  Service .</output>
+</s>
+<s id="361">
+  <input>Wir <f id="1">need you</f>  ab Anfang des kommenden Jahres .</input>
+  <output>Wir <f id="1">brauchen Sie<alt>verlangen von Ihnen</alt><alt>brauchen Ihr</alt><alt>brauche Sie</alt><alt>Sie angewiesen</alt></f>  ab Anfang des kommenden Jahres .</output>
+</s>
+<s id="362">
+  <input>Der Markt reagiert auf <f id="1">supply and demand</f>  .</input>
+  <output>Der Markt reagiert auf <f id="1">Angebot und Nachfrage<alt>Nachfrage und Angebot</alt><alt>Angebots- und Nachfrageseite</alt><alt>von Angebot und Nachfrage</alt><alt>Angebot und der Nachfrage</alt></f>  .</output>
+</s>
+<s id="363">
+  <input>Im Gegensatz dazu <f id="1">prefer</f>  die Ausländer und die Menschen aus anderen Regionen Russlands die Miete .</input>
+  <output>Im Gegensatz dazu <f id="1">bevorzugen<alt>bevorzuge</alt><alt>lieber</alt><alt>vorziehen</alt><alt>bevorzugen ,</alt></f>  die Ausländer und die Menschen aus anderen Regionen Russlands die Miete .</output>
+</s>
+<s id="364">
+  <input>Etwa drei viertel werden sogar <f id="1">violent</f>  , sie werfen mit der Maus , schlagen den Bildschirm oder treten das Gehäuse .</input>
+  <output>Etwa drei viertel werden sogar <f id="1">gewalttätigen<alt>gewaltsamen</alt><alt>gewalttätige</alt><alt>gewaltsame</alt><alt>gewaltgeprägt</alt></f>  , sie werfen mit der Maus , schlagen den Bildschirm oder treten das Gehäuse .</output>
+</s>
+<s id="365">
+  <input>Die Unzufriedenheit <f id="1">of the people</f>  wächst mit ihrem Wohlstand .</input>
+  <output>Die Unzufriedenheit <f id="1">des Volkes<alt>der Menschen</alt><alt>der Bevölkerung</alt><alt>der Bürger</alt><alt>in der Bevölkerung</alt></f>  wächst mit ihrem Wohlstand .</output>
+</s>
+<s id="366">
+  <input>Wir <f id="1">are sure</f>  , dass das eine notwendige Maßnahme ist .</input>
+  <output>Wir <f id="1">sind sicher<alt>sind uns sicher</alt><alt>sind überzeugt</alt><alt>sind der festen Überzeugung</alt><alt>sind davon überzeugt</alt></f>  , dass das eine notwendige Maßnahme ist .</output>
+</s>
+<s id="367">
+  <input>Man kann nicht auf so einen großen Teil seiner Persönlichkeit verzichten , ohne <f id="1">his</f>  psychischen Gesundheit zu schaden .</input>
+  <output>Man kann nicht auf so einen großen Teil seiner Persönlichkeit verzichten , ohne <f id="1">seine<alt>seinen</alt><alt>seinem</alt><alt>seiner</alt><alt>seines</alt></f>  psychischen Gesundheit zu schaden .</output>
+</s>
+<s id="368">
+  <input>Ich glaube , dass wir <f id="1">in the future</f>  mit einer Eins-zu-eins-Lösung keinen Preis mehr gewinnen werden .</input>
+  <output>Ich glaube , dass wir <f id="1">in Zukunft<alt>in der Zukunft</alt><alt>künftig</alt><alt>zukünftig</alt><alt>in die Zukunft</alt></f>  mit einer Eins-zu-eins-Lösung keinen Preis mehr gewinnen werden .</output>
+</s>
+<s id="369">
+  <input>Ich bin mit <f id="1">the result</f>  nicht zufrieden .</input>
+  <output>Ich bin mit <f id="1">dem Ergebnis<alt>das Ergebnis</alt><alt>dem Resultat</alt><alt>das Resultat</alt><alt>der Folge</alt></f>  nicht zufrieden .</output>
+</s>
+<s id="370">
+  <input>Es war leider <f id="1">impossible</f>  , meinen alten Laptop upzugraden .</input>
+  <output>Es war leider <f id="1">unmöglich<alt>nicht möglich</alt><alt>unmöglich.In</alt><alt>unmögliche</alt><alt>gar unmöglich</alt></f>  , meinen alten Laptop upzugraden .</output>
+</s>
+<s id="371">
+  <input>Die Zukunft <f id="1">throws a shadow</f>  .</input>
+  <output>Die Zukunft <f id="1">wirft einen Schatten<alt>wirft ein Schatten</alt><alt>wirft ein Haar</alt><alt>leuchtet ein Schatten</alt><alt>sie leuchtet ein Schatten</alt></f>  .</output>
+</s>
+<s id="372">
+  <input>Eva spricht viel , ihre Freundin <f id="1">on the other hand</f>  ist eher still .</input>
+  <output>Eva spricht viel , ihre Freundin <f id="1">andererseits<alt>auf der anderen Seite</alt><alt>hingegen</alt><alt>dagegen</alt><alt>zum anderen</alt></f>  ist eher still .</output>
+</s>
+<s id="373">
+  <input>Am Abend sieht sie oft fern <f id="1">or</f>  Freunde kommen zu Besuch .</input>
+  <output>Am Abend sieht sie oft fern <f id="1">oder<alt>bzw.</alt><alt>und</alt><alt>, oder</alt><alt>noch</alt></f>  Freunde kommen zu Besuch .</output>
+</s>
+<s id="374">
+  <input>Die Entscheidung sollte man unbedingt <f id="1">to everybody</f>  selbst überlassen .</input>
+  <output>Die Entscheidung sollte man unbedingt <f id="1">jedem<alt>vor aller Welt</alt><alt>am Hut</alt><alt>, die jedem</alt><alt>zur allseitigen</alt></f>  selbst überlassen .</output>
+</s>
+<s id="375">
+  <input>Die Schüler in Luxemburg können immerhin 2,5 Fremdsprachen <f id="1">per</f>  Schüler vorweisen .</input>
+  <output>Die Schüler in Luxemburg können immerhin 2,5 Fremdsprachen <f id="1">pro<alt>je</alt><alt>per</alt><alt>werden pro</alt><alt>, pro</alt></f>  Schüler vorweisen .</output>
+</s>
+<s id="376">
+  <input>Wir müssen auch an <f id="1">future</f>  Generationen denken .</input>
+  <output>Wir müssen auch an <f id="1">künftige<alt>zukünftige</alt><alt>zukünftigen</alt><alt>künftigen</alt><alt>Zukunft</alt></f>  Generationen denken .</output>
+</s>
+<s id="377">
+  <input>Er ist <f id="1">on time</f>  in Rom .</input>
+  <output>Er ist <f id="1">rechtzeitig<alt>pünktlich</alt><alt>fristgerecht</alt><alt>in diesem Falle nicht</alt><alt>mit der zeitlichen</alt></f>  in Rom .</output>
+</s>
+<s id="378">
+  <input>Jede Revolution <f id="1">demands</f>  Opfer .</input>
+  <output>Jede Revolution <f id="1">Forderungen<alt>Anforderungen</alt><alt>fordert</alt><alt>erfordert</alt><alt>verlangt</alt></f>  Opfer .</output>
+</s>
+<s id="379">
+  <input>Das hat sie sehr <f id="1">surprised</f>  .</input>
+  <output>Das hat sie sehr <f id="1">überrascht<alt>erstaunt</alt><alt>verwundert</alt><alt>wundern</alt><alt>erstaunt darüber</alt></f>  .</output>
+</s>
+<s id="380">
+  <input>Mit <f id="1">coercive measures</f>  erreicht man sicherlich nicht viel .</input>
+  <output>Mit <f id="1">Zwangsmaßnahmen<alt>Zwangsmaßnahmen ,</alt><alt>verbindlichen Maßnahmen</alt></f>  erreicht man sicherlich nicht viel .</output>
+</s>
+<s id="381">
+  <input>Für <f id="1">singels</f>  empfehle ich , eine Wohnung zu mieten .</input>
+  <output>Für <f id="1">Singels</f>  empfehle ich , eine Wohnung zu mieten .</output>
+</s>
+<s id="382">
+  <input>Die Gefangenen führten <f id="1">a hunger strike</f>  durch .</input>
+  <output>Die Gefangenen führten <f id="1">einen Hungerstreik<alt>eines Hungerstreiks</alt><alt>einen Hungerstreik ,</alt><alt>im Hungerstreik</alt><alt>Hungerstreik</alt></f>  durch .</output>
+</s>
+<s id="383">
+  <input><f id="1">Out of fear</f>  vor dem Fliegen ist Ben aber nicht mitgekommen .</input>
+  <output><f id="1">Weg der Angst<alt>Weg von Angst</alt><alt>Weg der Furcht</alt><alt>Weg Angst</alt><alt>Weg für Angst</alt></f>  vor dem Fliegen ist Ben aber nicht mitgekommen .</output>
+</s>
+<s id="384">
+  <input>Nein , <f id="1">unfortunately</f>  wurde sie entlassen .</input>
+  <output>Nein , <f id="1">leider<alt>unglücklicherweise</alt><alt>unglücklicher-</alt><alt>bedauerlicherweise</alt><alt>leider auch</alt></f>  wurde sie entlassen .</output>
+</s>
+<s id="385">
+  <input>In Lettland wurden 10 <f id="1">in every</f>  100000 Bürgern Opfer von Gewalttaten , in Irland dagegen nur 0,3 von 100000 Menschen .</input>
+  <output>In Lettland wurden 10 <f id="1">in jeder<alt>in jedem</alt><alt>in allen</alt><alt>auf jede</alt><alt>an jedem</alt></f>  100000 Bürgern Opfer von Gewalttaten , in Irland dagegen nur 0,3 von 100000 Menschen .</output>
+</s>
+<s id="386">
+  <input>Angeblich war die Premiere der Operette schon seit drei Monaten <f id="1">sold out</f>  .</input>
+  <output>Angeblich war die Premiere der Operette schon seit drei Monaten <f id="1">ausverkauft<alt>Position abgerückt</alt><alt>Stich gelassen werden</alt><alt>Ausverkauf</alt></f>  .</output>
+</s>
+<s id="387">
+  <input>Tut mir leid , aber ich kann <f id="1">you</f>  nicht bald besuchen .</input>
+  <output>Tut mir leid , aber ich kann <f id="1">Ihnen<alt>Sie</alt><alt>sie</alt><alt>man</alt><alt>dir</alt></f>  nicht bald besuchen .</output>
+</s>
+<s id="388">
+  <input>Ich hoffe , <f id="1">you</f>  mit diesem Schreiben gedient zu haben .</input>
+  <output>Ich hoffe , <f id="1">Sie<alt>sie</alt><alt>Ihnen</alt><alt>man</alt><alt>Sie sich</alt></f>  mit diesem Schreiben gedient zu haben .</output>
+</s>
+<s id="389">
+  <input>Sie empfindet <f id="1">longing for</f>  tropischen Ländern .</input>
+  <output>Sie empfindet <f id="1">Sehnsucht nach<alt>Verlangen nach einer</alt><alt>Hoffnung auf</alt><alt>Streben nach</alt><alt>nach</alt></f>  tropischen Ländern .</output>
+</s>
+<s id="390">
+  <input>In der Stadt kann man verschiedene Möglichkeiten haben , um eine Wohnung zu finden : ein Haus oder besser gesagt ein Einfamilienhaus , eine Wohnung in einem Kondominium , auch in <f id="1">small</f>  Strukturen .</input>
+  <output>In der Stadt kann man verschiedene Möglichkeiten haben , um eine Wohnung zu finden : ein Haus oder besser gesagt ein Einfamilienhaus , eine Wohnung in einem Kondominium , auch in <f id="1">kleinen<alt>kleine</alt><alt>kleiner</alt><alt>kleineren</alt><alt>die kleinen</alt></f>  Strukturen .</output>
+</s>
+<s id="391">
+  <input>Das Baby schreit <f id="1">continuously</f>  .</input>
+  <output>Das Baby schreit <f id="1">kontinuierlich<alt>ständig</alt><alt>fortlaufend</alt><alt>durchgehend</alt><alt>laufend</alt></f>  .</output>
+</s>
+<s id="392">
+  <input>Sie <f id="1">lives together with</f>  ihrem Freund .</input>
+  <output>Sie <f id="1">zusammenleben mit<alt>, lebt zusammen mit</alt><alt>zusammenleben zu</alt><alt>, ihr Leben gemeinsam mit</alt><alt>, lebt gemeinsam mit</alt></f>  ihrem Freund .</output>
+</s>
+<s id="393">
+  <input>Die Stadt hat mich schon immer <f id="1">fascinated</f>  .</input>
+  <output>Die Stadt hat mich schon immer <f id="1">fasziniert<alt>fasziniert sind</alt><alt>begeistert</alt><alt>Faszination</alt><alt>interessiert</alt></f>  .</output>
+</s>
+<s id="394">
+  <input>Peter konnte diese Frage leider auch nicht <f id="1">answer</f>  .</input>
+  <output>Peter konnte diese Frage leider auch nicht <f id="1">beantworten<alt>Antwort</alt><alt>antworten</alt><alt>beantwortet</alt><alt>verantworten</alt></f>  .</output>
+</s>
+<s id="395">
+  <input>Die Karten für das Konzert waren <f id="1">very expensive</f>  .</input>
+  <output>Die Karten für das Konzert waren <f id="1">sehr teuer<alt>sehr teure</alt><alt>sehr aufwendig</alt><alt>sehr kostspielig</alt><alt>sehr teuren</alt></f>  .</output>
+</s>
+<s id="396">
+  <input>Ein Hoch <f id="1">in</f>  Deutschland sorgt in Mitteleuropa für ruhiges Wetter .</input>
+  <output>Ein Hoch <f id="1">in<alt>im</alt><alt>auf</alt><alt>bei</alt><alt>an</alt></f>  Deutschland sorgt in Mitteleuropa für ruhiges Wetter .</output>
+</s>
+<s id="397">
+  <input>Lange Zeit haben sich Menschen für diese Art von Krankheit <f id="1">shamed</f>  .</input>
+  <output>Lange Zeit haben sich Menschen für diese Art von Krankheit <f id="1">an den Pranger gestellt<alt>gerügt</alt><alt>angeprangert</alt></f>  .</output>
+</s>
+<s id="398">
+  <input>Paris erhält als erste europäische Stadt eine <f id="1">public</f>  Beleuchtung .</input>
+  <output>Paris erhält als erste europäische Stadt eine <f id="1">öffentliche<alt>öffentlichen</alt><alt>Öffentlichkeit</alt><alt>öffentlicher</alt><alt>die öffentliche</alt></f>  Beleuchtung .</output>
+</s>
+<s id="399">
+  <input>Sie wurde bald Rentnerin und DDR-Renter <f id="1">were allowed to</f>  4 Wochen im Jahr in den Westen zu reisen .</input>
+  <output>Sie wurde bald Rentnerin und DDR-Renter <f id="1">durften ,<alt>durften</alt><alt>war erlaubt ,</alt><alt>gestattet wird ,</alt><alt>konnten</alt></f>  4 Wochen im Jahr in den Westen zu reisen .</output>
+</s>
+<s id="400">
+  <input>Das wären bei 18 Millionen Bildschirmarbeitsplätzen hierzulande 900 Millionen <f id="1">to</f>  6,3 Milliarden Arbeitsstunden pro Jahr .</input>
+  <output>Das wären bei 18 Millionen Bildschirmarbeitsplätzen hierzulande 900 Millionen <f id="1">auf<alt>zu</alt><alt>,</alt><alt>für</alt><alt>an</alt></f>  6,3 Milliarden Arbeitsstunden pro Jahr .</output>
+</s>
+<s id="401">
+  <input>Wer in den Alpen klettern möchte , muss <f id="1">from now on</f>  einen Helm tragen .</input>
+  <output>Wer in den Alpen klettern möchte , muss <f id="1">von nun an<alt>von jetzt an</alt><alt>ab jetzt</alt><alt>fortan</alt><alt>von nun an nur</alt></f>  einen Helm tragen .</output>
+</s>
+<s id="402">
+  <input>Sie haben nach der Wende <f id="1">with great success</f>  ein Geschäft eröffnet .</input>
+  <output>Sie haben nach der Wende <f id="1">mit großem Erfolg<alt>sehr erfolgreich</alt><alt>das mit großem Erfolg</alt><alt>mit großem Erfolg zu</alt><alt>sehr erfolgreiche</alt></f>  ein Geschäft eröffnet .</output>
+</s>
+<s id="403">
+  <input>Wenn sie in ein Einkaufszentrum gehen , können sie nichts sagen <f id="1">except</f>  " ja " und " nein " .</input>
+  <output>Wenn sie in ein Einkaufszentrum gehen , können sie nichts sagen <f id="1">außer<alt>mit Ausnahme</alt><alt>, außer</alt><alt>ausgenommen</alt><alt>außer mit</alt></f>  " ja " und " nein " .</output>
+</s>
+<s id="404">
+  <input>Das Smartphone funktionierte bald als Fahrscheinautomat , Bankzentrale , Navigation und Kommunikationsmittel <f id="1">at the same time</f>  .</input>
+  <output>Das Smartphone funktionierte bald als Fahrscheinautomat , Bankzentrale , Navigation und Kommunikationsmittel <f id="1">gleichzeitig<alt>zugleich</alt><alt>zur gleichen Zeit</alt><alt>zur selben Zeit</alt><alt>gleichzeitig die</alt></f>  .</output>
+</s>
+<s id="405">
+  <input>Natürlich besuche ich dich gern <f id="1">in</f>  nächsten Monat .</input>
+  <output>Natürlich besuche ich dich gern <f id="1">in<alt>im</alt><alt>bei</alt><alt>an</alt><alt>auf</alt></f>  nächsten Monat .</output>
+</s>
+<s id="406">
+  <input>Eine Mentalität ist <f id="1">the way of thinking</f>  einer Gruppe oder Einzelperson .</input>
+  <output>Eine Mentalität ist <f id="1">die Denkweise</f>  einer Gruppe oder Einzelperson .</output>
+</s>
+<s id="407">
+  <input>Man sollte <f id="1">daily</f>  an die frische Luft gehen .</input>
+  <output>Man sollte <f id="1">täglich<alt>täglichen</alt><alt>tägliche</alt><alt>tägliches</alt><alt>Tageszeitung</alt></f>  an die frische Luft gehen .</output>
+</s>
+<s id="408">
+  <input>Damit gibt es keine Probleme , <f id="1">when</f>  man allein wohnt .</input>
+  <output>Damit gibt es keine Probleme , <f id="1">wenn<alt>wann</alt><alt>als</alt><alt>da</alt><alt>, wenn</alt></f>  man allein wohnt .</output>
+</s>
+<s id="409">
+  <input>Wir leben in einem Haus mit kleinem Garten <f id="1">near</f>  Bern .</input>
+  <output>Wir leben in einem Haus mit kleinem Garten <f id="1">in der Nähe von<alt>nahe</alt><alt>nahen</alt><alt>in der Nähe</alt><alt>Nähe von</alt></f>  Bern .</output>
+</s>
+<s id="410">
+  <input>Ihre Eltern werden sie heute noch <f id="1">call</f>  .</input>
+  <output>Ihre Eltern werden sie heute noch <f id="1">nennen<alt>bezeichnen</alt><alt>fordern</alt><alt>Forderung</alt><alt>appellieren</alt></f>  .</output>
+</s>
+<s id="411">
+  <input>Etwa 50 Prozent aller Deutschen meinen , dass nach wie vor <f id="1">big differences</f>  zwischen West und Ost bestehen .</input>
+  <output>Etwa 50 Prozent aller Deutschen meinen , dass nach wie vor <f id="1">große Unterschiede<alt>erhebliche Unterschiede</alt><alt>großen Unterschiede</alt><alt>erheblichen Unterschiede</alt><alt>große Unterschiede ,</alt></f>  zwischen West und Ost bestehen .</output>
+</s>
+<s id="412">
+  <input>Der Ursprung blieb in all den Jahren <f id="1">the same</f>  .</input>
+  <output>Der Ursprung blieb in all den Jahren <f id="1">dasselbe<alt>die gleichen</alt><alt>dieselbe</alt><alt>dieselben</alt><alt>die gleiche</alt></f>  .</output>
+</s>
+<s id="413">
+  <input>Die Sonne ist <f id="1">dangerous</f>  .</input>
+  <output>Die Sonne ist <f id="1">gefährlich<alt>gefährliche</alt><alt>gefährlicher</alt><alt>gefährlichen</alt><alt>riskant</alt></f>  .</output>
+</s>
+<s id="414">
+  <input>Ich habe mein Studium im Bereich Informatik im Jahr 2009 <f id="1">finished</f>  .</input>
+  <output>Ich habe mein Studium im Bereich Informatik im Jahr 2009 <f id="1">abgeschlossen<alt>beendet</alt><alt>fertig</alt><alt>fertiggestellt</alt><alt>beendeten</alt></f>  .</output>
+</s>
+<s id="415">
+  <input>Sie besucht <f id="1">every weekend</f>  ihre Eltern .</input>
+  <output>Sie besucht <f id="1">jedes Wochenende</f>  ihre Eltern .</output>
+</s>
+<s id="416">
+  <input>Die traditionelle Denkweise <f id="1">leads to</f>  hässlichen Menschen .</input>
+  <output>Die traditionelle Denkweise <f id="1">führt zu<alt>führt zur</alt><alt>führt zum</alt><alt>führt zu einer</alt><alt>führt nach</alt></f>  hässlichen Menschen .</output>
+</s>
+<s id="417">
+  <input>Deswegen habe ich meine Meinung geändert und ich habe angefangen , die Leute zu <f id="1">respect</f>  .</input>
+  <output>Deswegen habe ich meine Meinung geändert und ich habe angefangen , die Leute zu <f id="1">respektieren<alt>achten</alt><alt>Respekt</alt><alt>Achtung</alt><alt>beachten</alt></f>  .</output>
+</s>
+<s id="418">
+  <input>Sie hatte <f id="1">need for</f>  Ruhe .</input>
+  <output>Sie hatte <f id="1">Bedarf an<alt>Bedürfnis nach</alt><alt>Notwendigkeit</alt><alt>Notwendigkeit für</alt><alt>Notwendigkeit der</alt></f>  Ruhe .</output>
+</s>
+<s id="419">
+  <input>Die Eltern waren nett aber das Kind <f id="1">was</f>  böse .</input>
+  <output>Die Eltern waren nett aber das Kind <f id="1">war<alt>wurde</alt><alt>sei</alt><alt>ist</alt><alt>gab</alt></f>  böse .</output>
+</s>
+<s id="420">
+  <input>Sei nicht <f id="1">angry</f>  , wenn ich dich noch mal unterbreche .</input>
+  <output>Sei nicht <f id="1">wütend<alt>böse</alt><alt>verärgert</alt><alt>zornig</alt><alt>so erregt</alt></f>  , wenn ich dich noch mal unterbreche .</output>
+</s>
+<s id="421">
+  <input>Das dritte Kapitel zu lesen , war <f id="1">worth it</f>  .</input>
+  <output>Das dritte Kapitel zu lesen , war <f id="1">es wert<alt>sich gelohnt</alt><alt>auch gelohnt</alt><alt>es verdient</alt><alt>gelohnt</alt></f>  .</output>
+</s>
+<s id="422">
+  <input>Viele Europäer werden eine weitere Steuererhöhung <f id="1">reject</f>  .</input>
+  <output>Viele Europäer werden eine weitere Steuererhöhung <f id="1">ablehnen<alt>abzulehnen</alt><alt>zurückweisen</alt><alt>abgelehnt</alt><alt>Ablehnung</alt></f>  .</output>
+</s>
+<s id="423">
+  <input>Wir könnten <f id="1">for example</f>  wandern gehen .</input>
+  <output>Wir könnten <f id="1">beispielsweise<alt>zum Beispiel</alt><alt>z.B.</alt><alt>etwa</alt><alt>wie beispielsweise</alt></f>  wandern gehen .</output>
+</s>
+<s id="424">
+  <input><f id="1">The understanding of</f>  die Probleme von Demenzkranken nimmt immer mehr zu .</input>
+  <output><f id="1">Das Verständnis für<alt>Das Verständnis über</alt><alt>Als Verständnis für</alt><alt>Das Verständnis von</alt><alt>Das Verständnis der</alt></f>  die Probleme von Demenzkranken nimmt immer mehr zu .</output>
+</s>
+<s id="425">
+  <input><f id="1">The first generation</f>  der türkischen Gastarbeiter in Deutschland z.B. spricht kein Deutsch .</input>
+  <output><f id="1">Die erste Generation<alt>Die erste Generation</alt><alt>Die ersten Generation</alt><alt>Das erste Generation</alt><alt>Der ersten Generation</alt></f>  der türkischen Gastarbeiter in Deutschland z.B. spricht kein Deutsch .</output>
+</s>
+<s id="426">
+  <input>Ich kann gut nachvollziehen , wie es dir <f id="1">at the moment</f>  geht .</input>
+  <output>Ich kann gut nachvollziehen , wie es dir <f id="1">im Moment<alt>derzeit</alt><alt>im Augenblick</alt><alt>zur Zeit</alt><alt>momentan</alt></f>  geht .</output>
+</s>
+<s id="427">
+  <input>Seither has sich Deutschland an mehreren militärischen Interventionen <f id="1">participated</f>  .</input>
+  <output>Seither has sich Deutschland an mehreren militärischen Interventionen <f id="1">teilgenommen<alt>teilnahm</alt><alt>teilnahmen</alt><alt>beteiligt war</alt><alt>teilgenommen haben</alt></f>  .</output>
+</s>
+<s id="428">
+  <input>Wer heute operiert wird , <f id="1">experiences</f>  keine Tortur wie noch vor gut 200 Jahren .</input>
+  <output>Wer heute operiert wird , <f id="1">Erfahrungen<alt>Versöhnungserfahrungen</alt><alt>Erfahrungen ,</alt><alt>Erlebnisse</alt><alt>erfährt</alt></f>  keine Tortur wie noch vor gut 200 Jahren .</output>
+</s>
+<s id="429">
+  <input>Er ist der Sektor mit der umfangreichsten Menge an <f id="1">garbage</f>  .</input>
+  <output>Er ist der Sektor mit der umfangreichsten Menge an <f id="1">Abfälle</f>  .</output>
+</s>
+<s id="430">
+  <input>Der kleine Junge wünscht sich <f id="1">for Christmas</f>  einen Computer .</input>
+  <output>Der kleine Junge wünscht sich <f id="1">zu Weihnachten<alt>für Weihnachten</alt><alt>über Weihnachten</alt><alt>für die Weihnachtszeit da</alt><alt>für die kommenden Feiertage</alt></f>  einen Computer .</output>
+</s>
+<s id="431">
+  <input>Wer kommt für die Kosten auf , wenn <f id="1">suddenly</f>  bis zu 10 - mal mehr Rechner gekauft werden müssen ?</input>
+  <output>Wer kommt für die Kosten auf , wenn <f id="1">plötzlich<alt>auf einmal</alt><alt>plötzlich eine</alt><alt>plötzlich in</alt><alt>plötzlich ,</alt></f>  bis zu 10 - mal mehr Rechner gekauft werden müssen ?</output>
+</s>
+<s id="432">
+  <input>Die Band spielt <f id="1">in the background</f>  .</input>
+  <output>Die Band spielt <f id="1">im Hintergrund<alt>sich im Hintergrund</alt><alt>in den Hintergrund</alt><alt>im Hintergrund -</alt><alt>dahintersteht</alt></f>  .</output>
+</s>
+<s id="433">
+  <input>Ich muss ja noch <f id="1">my homework</f>  für die Uni fertig kriegen .</input>
+  <output>Ich muss ja noch <f id="1">meine Hausaufgaben<alt>mein Hausaufgaben</alt><alt>meiner Hausaufgaben</alt><alt>meinen Hausaufgaben</alt><alt>meinem Hausaufgaben</alt></f>  für die Uni fertig kriegen .</output>
+</s>
+<s id="434">
+  <input>Der Lehrer hat <f id="1">the behaviour</f>  der Schüler heftig kritisiert .</input>
+  <output>Der Lehrer hat <f id="1">das Verhalten<alt>dem Verhalten</alt><alt>sich das Verhalten</alt><alt>am Verhalten</alt><alt>die Verhaltensweisen</alt></f>  der Schüler heftig kritisiert .</output>
+</s>
+<s id="435">
+  <input>Gestern wurde <f id="1">a terrorist attack</f>  auf eine Fabrik verübt .</input>
+  <output>Gestern wurde <f id="1">ein Terroranschlag<alt>einem Terroranschlag</alt><alt>einen Terroranschlag</alt><alt>einem terroristischen Anschlag</alt><alt>ein Terrorangriff</alt></f>  auf eine Fabrik verübt .</output>
+</s>
+<s id="436">
+  <input><f id="1">In sum</f>  sind die oben genannten Besonderheiten und Tipps sehr wichtig für alle , die eine Wohnung in Berlin suchen .</input>
+  <output><f id="1">In Summe<alt>Im Summe</alt><alt>In Betrag</alt><alt>Im Betrag</alt><alt>In Höhe</alt></f>  sind die oben genannten Besonderheiten und Tipps sehr wichtig für alle , die eine Wohnung in Berlin suchen .</output>
+</s>
+<s id="437">
+  <input>Deswegen habe ich <f id="1">good</f>  Kontakt mit den Leuten .</input>
+  <output>Deswegen habe ich <f id="1">gute<alt>guten</alt><alt>gut</alt><alt>guter</alt><alt>gutes</alt></f>  Kontakt mit den Leuten .</output>
+</s>
+<s id="438">
+  <input>Der Nachwuchssportler <f id="1">received</f>  eine Chance .</input>
+  <output>Der Nachwuchssportler <f id="1">erhalten<alt>erhielt</alt><alt>erhielten</alt><alt>erhalten ,</alt><alt>bekommen</alt></f>  eine Chance .</output>
+</s>
+<s id="439">
+  <input>In <f id="1">following</f>  Bericht beschreibe ich die Möglichkeiten ein eigenes Zuhause zu bekommen .</input>
+  <output>In <f id="1">folgenden<alt>nach</alt><alt>folgende</alt><alt>darauffolgenden</alt><alt>infolge</alt></f>  Bericht beschreibe ich die Möglichkeiten ein eigenes Zuhause zu bekommen .</output>
+</s>
+<s id="440">
+  <input>Die Temperatur <f id="1">of our rivers</f>  steigt .</input>
+  <output>Die Temperatur <f id="1">unserer Flüsse</f>  steigt .</output>
+</s>
+<s id="441">
+  <input>Sie stellten zu hohe <f id="1">demands</f>  .</input>
+  <output>Sie stellten zu hohe <f id="1">Forderungen<alt>Anforderungen</alt><alt>Ansprüche</alt><alt>Forderungen gestellt</alt><alt>verlangt</alt></f>  .</output>
+</s>
+<s id="442">
+  <input>Sicherlich ist es für alle neuen Einwohner in Essen sehr wichtig zu wissen , welche Aspekte bei der Wohnungssuche in dieser großen Stadt <f id="1">considered</f>  werden müssen .</input>
+  <output>Sicherlich ist es für alle neuen Einwohner in Essen sehr wichtig zu wissen , welche Aspekte bei der Wohnungssuche in dieser großen Stadt <f id="1">betrachtet<alt>angesehen</alt><alt>berücksichtigt</alt><alt>geprüft</alt><alt>in Betracht gezogen</alt></f>  werden müssen .</output>
+</s>
+<s id="443">
+  <input>Viele andere Problemen <f id="1">take precedence</f>  .</input>
+  <output>Viele andere Problemen <f id="1">Vorrang haben<alt>höher stehen</alt><alt>haben Vorrang</alt><alt>Vorrang erhalten</alt><alt>hätten Vorrang</alt></f>  .</output>
+</s>
+<s id="444">
+  <input>Ich weiß nicht ob ich <f id="1">risk it</f>  soll .</input>
+  <output>Ich weiß nicht ob ich <f id="1">Risiko , das es<alt>Gefahr</alt></f>  soll .</output>
+</s>
+<s id="445">
+  <input>Er sagte , dass <f id="1">the pronunciation</f>  des Englischen schwierig sein kann .</input>
+  <output>Er sagte , dass <f id="1">die Aussprache<alt>der Aussprache</alt><alt>den Aussprache</alt><alt>das Aussprache</alt><alt>dem Aussprache</alt></f>  des Englischen schwierig sein kann .</output>
+</s>
+<s id="446">
+  <input>Er <f id="1">dreams about</f>  großen Tigern .</input>
+  <output>Er <f id="1">Illusion über<alt>Begeisterung über</alt><alt>Gedanken über</alt><alt>Gedanken , über</alt><alt>Traum an</alt></f>  großen Tigern .</output>
+</s>
+<s id="447">
+  <input>Zuerst <f id="1">congratulate</f>  ich dir zu deiner bestandenen Prüfung und wünsche dir einen schönen Urlaub in Istanbul .</input>
+  <output>Zuerst <f id="1">beglückwünsche<alt>gratulieren</alt><alt>beglückwünschen</alt><alt>gratuliere</alt><alt>gratulieren ,</alt></f>  ich dir zu deiner bestandenen Prüfung und wünsche dir einen schönen Urlaub in Istanbul .</output>
+</s>
+<s id="448">
+  <input>Wie viele <f id="1">languages</f>  sprichst du ?</input>
+  <output>Wie viele <f id="1">Sprachen<alt>Sprache</alt><alt>Sprachen ,</alt><alt>Fremdsprachen</alt><alt>Sprachen zu</alt></f>  sprichst du ?</output>
+</s>
+<s id="449">
+  <input>Wir können noch <f id="1">additional measures</f>  erwarten .</input>
+  <output>Wir können noch <f id="1">zusätzliche Maßnahmen<alt>zusätzlichen Maßnahmen</alt><alt>weitere Maßnahmen</alt><alt>Zusatzmaßnahmen</alt><alt>zusätzlicher Maßnahmen</alt></f>  erwarten .</output>
+</s>
+<s id="450">
+  <input>Ich würde <f id="1">tomorrow</f>  eine E-mail schreiben und dir sagen , ob ich komme oder nicht .</input>
+  <output>Ich würde <f id="1">morgen<alt>morgigen</alt><alt>es morgen</alt><alt>sich morgen</alt><alt>auch morgen</alt></f>  eine E-mail schreiben und dir sagen , ob ich komme oder nicht .</output>
+</s>
+<s id="451">
+  <input><f id="1">At the beginning</f>  arbeitete Anna ohne Anstrengung bis zum Abend .</input>
+  <output><f id="1">Anfang</f>  arbeitete Anna ohne Anstrengung bis zum Abend .</output>
+</s>
+<s id="452">
+  <input>Da ich selber Hunde hatte , <f id="1">disturbed</f>  mich das Hundegebell nicht .</input>
+  <output>Da ich selber Hunde hatte , <f id="1">beunruhigt<alt>gestörten</alt><alt>gestört</alt><alt>verwirrt</alt><alt>einer gestörten</alt></f>  mich das Hundegebell nicht .</output>
+</s>
+<s id="453">
+  <input>Ich erinnere mich noch daran , dass <f id="1">the boys</f>  zu den Mädchen gehen .</input>
+  <output>Ich erinnere mich noch daran , dass <f id="1">die Jungen<alt>den Jungen</alt><alt>der Jungen</alt><alt>Vetternwirtschaft</alt></f>  zu den Mädchen gehen .</output>
+</s>
+<s id="454">
+  <input>Ich habe Tom <f id="1">one month ago</f>  auf einer Party kennen gelernt .</input>
+  <output>Ich habe Tom <f id="1">vor einem Monat<alt>vor einem Monat ,</alt><alt>einem Monat</alt><alt>vor einem Monat brachte</alt><alt>vor einem Monat haben</alt></f>  auf einer Party kennen gelernt .</output>
+</s>
+<s id="455">
+  <input>Schauen Sie <f id="1">first</f>  Ihre Auswahl an und sprechen Sie dann direkt mit dem Verkäufer .</input>
+  <output>Schauen Sie <f id="1">erste<alt>ersten</alt><alt>erster</alt><alt>zunächst</alt><alt>zuerst</alt></f>  Ihre Auswahl an und sprechen Sie dann direkt mit dem Verkäufer .</output>
+</s>
+<s id="456">
+  <input>Carla fährt <f id="1">this summer</f>  mit ihren Freunden nach Griechenland .</input>
+  <output>Carla fährt <f id="1">in diesem Sommer<alt>diesen Sommer</alt><alt>im Sommer</alt><alt>diesem Sommer</alt><alt>dieses Sommers</alt></f>  mit ihren Freunden nach Griechenland .</output>
+</s>
+<s id="457">
+  <input>Ich sehe mir <f id="1">every new episode</f>  im Fernsehen an .</input>
+  <output>Ich sehe mir <f id="1">jedes neue Episode<alt>jede neue Episode</alt><alt>jede neue Episode</alt><alt>jeder neue Episode</alt><alt>jedes weitere Episode</alt></f>  im Fernsehen an .</output>
+</s>
+<s id="458">
+  <input>Ich <f id="1">recommend</f>  Ihnen , sich gesund zu ernähren .</input>
+  <output>Ich <f id="1">empfehle<alt>empfehlen</alt><alt>rate</alt><alt>empfehle ,</alt><alt>schlage</alt></f>  Ihnen , sich gesund zu ernähren .</output>
+</s>
+<s id="459">
+  <input>Die Qualität wird <f id="1">by the producers</f>  gewährleistet .</input>
+  <output>Die Qualität wird <f id="1">von den Herstellern<alt>die von den Herstellern</alt><alt>von den Erzeugern</alt><alt>der Produzenten</alt></f>  gewährleistet .</output>
+</s>
+<s id="460">
+  <input>Wir waren <f id="1">obligated</f>  , das Firmengeheimnis für uns zu behalten .</input>
+  <output>Wir waren <f id="1">verpflichtet<alt>dazu verpflichtet</alt></f>  , das Firmengeheimnis für uns zu behalten .</output>
+</s>
+<s id="461">
+  <input><f id="1">Soon after</f>  verlässt Juliane ihr Geburtsland Peru in Richtung Deutschland .</input>
+  <output><f id="1">Soon nach<alt>Soon nachdem</alt><alt>Soon , nachdem</alt><alt>Soon after</alt><alt>Soon nach der</alt></f>  verlässt Juliane ihr Geburtsland Peru in Richtung Deutschland .</output>
+</s>
+<s id="462">
+  <input>Ich bin seit 2 Jahren in der Schweiz und ich habe meine Ausbildung an der Universität <f id="1">in</f>  Handel , Wirtschaft und Soziologie abgeschlossen .</input>
+  <output>Ich bin seit 2 Jahren in der Schweiz und ich habe meine Ausbildung an der Universität <f id="1">in<alt>im</alt><alt>für</alt><alt>bei</alt><alt>, in</alt></f>  Handel , Wirtschaft und Soziologie abgeschlossen .</output>
+</s>
+<s id="463">
+  <input>In dieser Situation wäre es schon <f id="1">an improvement</f>  .</input>
+  <output>In dieser Situation wäre es schon <f id="1">eine Verbesserung<alt>eine Verbesserung dar</alt><alt>einer Verbesserung</alt><alt>ein Fortschritt</alt><alt>eine Entschärfung</alt></f>  .</output>
+</s>
+<s id="464">
+  <input>Leider muss man sich immer mehr an <f id="1">the idea</f>  gewöhnen , dass eine Sprache immer nützlicher wird , je mehr sie in der Welt benutzt wird .</input>
+  <output>Leider muss man sich immer mehr an <f id="1">den Gedanken<alt>die Idee</alt><alt>dem Gedanken</alt><alt>die Vorstellung</alt><alt>der Idee</alt></f>  gewöhnen , dass eine Sprache immer nützlicher wird , je mehr sie in der Welt benutzt wird .</output>
+</s>
+<s id="465">
+  <input><f id="1">Lately</f>  spricht sie immer über die Rückkehr .</input>
+  <output><f id="1">In letzter Zeit</f>  spricht sie immer über die Rückkehr .</output>
+</s>
+<s id="466">
+  <input>In einer Studie der amerikanischen Universität von Maryland geht man sogar davon aus , dass mindestens <f id="1">one third of the time</f>  , die Mitarbeiter vor dem Rechner verbringen , durch frustrierende Erlebnisse verloren geht .</input>
+  <output>In einer Studie der amerikanischen Universität von Maryland geht man sogar davon aus , dass mindestens <f id="1">ein Drittel der Zeit<alt>einem Drittel der Zeit</alt><alt>ein Drittel der Zeitpunkt</alt><alt>ein Drittel der Mal</alt><alt>ein Drittel des Zeit</alt></f>  , die Mitarbeiter vor dem Rechner verbringen , durch frustrierende Erlebnisse verloren geht .</output>
+</s>
+<s id="467">
+  <input>Fast alle Büroarbeiter haben den Kollegen Computer schon <f id="1">yelled at</f>  und verflucht .</input>
+  <output>Fast alle Büroarbeiter haben den Kollegen Computer schon <f id="1">angeschrien</f>  und verflucht .</output>
+</s>
+<s id="468">
+  <input>Wenn Sie nach Rom gehen , verhalten Sie sich bitte <f id="1">as the romans</f>  .</input>
+  <output>Wenn Sie nach Rom gehen , verhalten Sie sich bitte <f id="1">als römer<alt>wie der römer</alt><alt>wie die römer</alt><alt>da die römer</alt><alt>wie das römer</alt></f>  .</output>
+</s>
+<s id="469">
+  <input>Ich bin <f id="1">in my search for</f>  einem Zimmer in einem ruhig gelegenen Hotel auf ihre Adresse gestoßen .</input>
+  <output>Ich bin <f id="1">aus meiner Suche nach<alt>-meiner Suche nach</alt><alt>ich für Suche nach</alt><alt>ich Suche nach</alt><alt>bei meinen Suche nach</alt></f>  einem Zimmer in einem ruhig gelegenen Hotel auf ihre Adresse gestoßen .</output>
+</s>
+<s id="470">
+  <input>Der Gärtner <f id="1">sprayed</f>  Wasser auf die Blumen .</input>
+  <output>Der Gärtner <f id="1">versprüht<alt>besprüht</alt><alt>gesprüht</alt><alt>ausgebrachten</alt><alt>besprüht wird</alt></f>  Wasser auf die Blumen .</output>
+</s>
+<s id="471">
+  <input>Man muss über <f id="1">the errors</f>  sprechen .</input>
+  <output>Man muss über <f id="1">die Fehler<alt>die festgestellten Fehler</alt><alt>die Fehler begehen</alt><alt>der Fehler</alt><alt>den Fehlern</alt></f>  sprechen .</output>
+</s>
+<s id="472">
+  <input>Die <f id="1">most important</f>  Wörter im sind schon gesagt .</input>
+  <output>Die <f id="1">wichtigsten<alt>wichtigste</alt><alt>bedeutendsten</alt><alt>bedeutendste</alt><alt>wichtigster</alt></f>  Wörter im sind schon gesagt .</output>
+</s>
+<s id="473">
+  <input>Das klingt <f id="1">crazy</f>  , aber unter Belastung sind sie besonders motiviert .</input>
+  <output>Das klingt <f id="1">verrückt<alt>toll</alt><alt>hirnrissige</alt><alt>verrückte</alt><alt>unsinnig</alt></f>  , aber unter Belastung sind sie besonders motiviert .</output>
+</s>
+<s id="474">
+  <input>Meine Stärken sind Organisationstalent , Einsatzbereitschaft und Zuverlässigkeit sowie <f id="1">correct</f>  Umgangsformen und ein freundliches Auftreten .</input>
+  <output>Meine Stärken sind Organisationstalent , Einsatzbereitschaft und Zuverlässigkeit sowie <f id="1">korrekte<alt>korrekten</alt><alt>korrigieren</alt><alt>korrekt</alt><alt>richtig</alt></f>  Umgangsformen und ein freundliches Auftreten .</output>
+</s>
+<s id="475">
+  <input>Die Familie sieht <f id="1">no solution to the problem</f>  und macht die Stadt verantwortlich .</input>
+  <output>Die Familie sieht <f id="1">keine Lösung für das Problem<alt>keine Lösung für diese Problematik</alt><alt>keine Lösung des Problems ,</alt><alt>eine Lösung des Problems</alt><alt>nicht zu einer Lösung des Problems</alt></f>  und macht die Stadt verantwortlich .</output>
+</s>
+<s id="476">
+  <input>Das Buch wird <f id="1">often</f>  gelesen .</input>
+  <output>Das Buch wird <f id="1">oft<alt>häufig</alt><alt>oftmals</alt><alt>vielfach</alt><alt>oft auch</alt></f>  gelesen .</output>
+</s>
+<s id="477">
+  <input>Mobiles Lernen kann wunderbar in <f id="1">existing</f>  Konzepte eingefügt werden .</input>
+  <output>Mobiles Lernen kann wunderbar in <f id="1">bestehenden<alt>bestehende</alt><alt>vorhandenen</alt><alt>vorhandene</alt><alt>existierenden</alt></f>  Konzepte eingefügt werden .</output>
+</s>
+<s id="478">
+  <input>Ich habe einen universitären Studienabschluss als Portugiesisch - und <f id="1">Spanish teacher</f>  , spreche und schreibe Spanisch wie meine Zweitsprache .</input>
+  <output>Ich habe einen universitären Studienabschluss als Portugiesisch - und <f id="1">spanischen Lehrer<alt>spanische Lehrer</alt><alt>spanischen Lehrerin</alt><alt>spanischer Lehrer</alt><alt>spanischen Lehrmeister</alt></f>  , spreche und schreibe Spanisch wie meine Zweitsprache .</output>
+</s>
+<s id="479">
+  <input><f id="1">As soon as</f>  sie zu Boden fallen , werden sie zu Nährstoffen für Tiere und Pflanzen .</input>
+  <output><f id="1">Wie schnell wie<alt>Als schnell wie</alt><alt>Als bald wie</alt><alt>Wie bald wie</alt><alt>Als rasch wie</alt></f>  sie zu Boden fallen , werden sie zu Nährstoffen für Tiere und Pflanzen .</output>
+</s>
+<s id="480">
+  <input>Sie ist groß <f id="1">for her age</f>  .</input>
+  <output>Sie ist groß <f id="1">für Ihre Alter<alt>bringe ihr Alter</alt><alt>für Ihre Zeitalter</alt><alt>für Ihren Alter</alt><alt>auf ihr Alter</alt></f>  .</output>
+</s>
+<s id="481">
+  <input>Das Haus vor der Kirche <f id="1">belongs to</f>  dem Bürgermeister .</input>
+  <output>Das Haus vor der Kirche <f id="1">gehört<alt>gehört zu</alt><alt>angehört , von</alt><alt>angehört ,</alt><alt>hervorgegangen ist ,</alt></f>  dem Bürgermeister .</output>
+</s>
+<s id="482">
+  <input>Die moderne Medizin hat <f id="1">our relationship with</f>  Schmerz grundlegend verändert .</input>
+  <output>Die moderne Medizin hat <f id="1">unsere Beziehung zu<alt>unsere Beziehung mit</alt><alt>unser Verhältnis zu</alt><alt>unsere Beziehungen zu</alt><alt>die Beziehung zu</alt></f>  Schmerz grundlegend verändert .</output>
+</s>
+<s id="483">
+  <input>Die Geburtenrate liegt <f id="1">below</f>  der Sterberate .</input>
+  <output>Die Geburtenrate liegt <f id="1">unterhalb<alt>unter</alt><alt>, unterhalb</alt><alt>bei unter</alt><alt>unten</alt></f>  der Sterberate .</output>
+</s>
+<s id="484">
+  <input>Wenn ich <f id="1">summer holidays</f>  habe , fliege ich nach Südkorea .</input>
+  <output>Wenn ich <f id="1">Sommerferien<alt>Sommerpause</alt><alt>Sommerferien erfolgen</alt></f>  habe , fliege ich nach Südkorea .</output>
+</s>
+<s id="485">
+  <input>Wie informieren Sie sich über das Radio - und <f id="1">tv program</f>  ?</input>
+  <output>Wie informieren Sie sich über das Radio - und <f id="1">tv-programm</f>  ?</output>
+</s>
+<s id="486">
+  <input>Während ich <f id="1">the last four years</f>  meines Lebens im Ausland verbrachte , war ich sehr oft mit der Frage der Kulturmischung konfrontiert .</input>
+  <output>Während ich <f id="1">den letzten vier Jahren<alt>die letzten vier Jahre</alt><alt>der letzten vier Jahre</alt><alt>der vergangenen vier Jahre</alt><alt>den vergangenen vier Jahren</alt></f>  meines Lebens im Ausland verbrachte , war ich sehr oft mit der Frage der Kulturmischung konfrontiert .</output>
+</s>
+<s id="487">
+  <input><f id="1">Nowadays</f>  reist man mit dem Flugzeug .</input>
+  <output><f id="1">Heutzutage sehen</f>  reist man mit dem Flugzeug .</output>
+</s>
+<s id="488">
+  <input><f id="1">When</f>  wir hörten , dass eine Mauer gebaut wird , habe ich mir eins , zwei , drei die Bärbel geschnappt .</input>
+  <output><f id="1">Wenn<alt>Als</alt><alt>Bei</alt><alt>Wann</alt><alt>Während</alt></f>  wir hörten , dass eine Mauer gebaut wird , habe ich mir eins , zwei , drei die Bärbel geschnappt .</output>
+</s>
+<s id="489">
+  <input><f id="1">But that does not mean</f>  , dass ich die Traditionen meines Landes vergessen habe .</input>
+  <output><f id="1">Aber das bedeutet nicht<alt>Allerdings bedeutet das nicht</alt><alt>Aber das heißt nicht</alt><alt>Allerdings das bedeutet nicht</alt><alt>Allerdings bedeutet dies nicht</alt></f>  , dass ich die Traditionen meines Landes vergessen habe .</output>
+</s>
+<s id="490">
+  <input>Maria ist in der Schule und in 2 Wochen fliegt <f id="1">she</f>  mit ihrer Klasse nach Frankreich .</input>
+  <output>Maria ist in der Schule und in 2 Wochen fliegt <f id="1">sie<alt>ihr</alt><alt>von ihr</alt><alt>, die sie</alt><alt>sie sich</alt></f>  mit ihrer Klasse nach Frankreich .</output>
+</s>
+<s id="491">
+  <input>Lieber Jens , herzlichen Glückwunsch zu deinem <f id="1">new</f>  Bruder !</input>
+  <output>Lieber Jens , herzlichen Glückwunsch zu deinem <f id="1">neuen<alt>neue</alt><alt>neuer</alt><alt>neues</alt><alt>neu</alt></f>  Bruder !</output>
+</s>
+<s id="492">
+  <input>Das sind Gefühle , die beim Musikhören oft <f id="1">occur</f>  .</input>
+  <output>Das sind Gefühle , die beim Musikhören oft <f id="1">vorkommen<alt>auftreten</alt><alt>ereignen</alt><alt>vorkommt</alt><alt>geschehen</alt></f>  .</output>
+</s>
+<s id="493">
+  <input><f id="1">They affect</f>  Männer ebenso wie Frauen .</input>
+  <output><f id="1">Diese kleinen Unternehmen betreffen<alt>Das betreffen</alt><alt>Sie betreffen</alt><alt>Diese kleinen Unternehmen beeinflussen</alt><alt>Das beeinträchtigen</alt></f>  Männer ebenso wie Frauen .</output>
+</s>
+<s id="494">
+  <input>Eine Dokumentation ( 2006 ) enthüllt , dass die Deutschen in vielen Bereichen <f id="1">in the midfield</f>  liegen .</input>
+  <output>Eine Dokumentation ( 2006 ) enthüllt , dass die Deutschen in vielen Bereichen <f id="1">in der Zivilgesellschaft<alt>im Zivilgesellschaft</alt><alt>in die Zivilgesellschaft</alt><alt>in den Zivilgesellschaft</alt><alt>bei der Zivilgesellschaft</alt></f>  liegen .</output>
+</s>
+<s id="495">
+  <input><f id="1">Since</f>  Jahren ist er Vegetarier .</input>
+  <output><f id="1">Seit<alt>Da</alt><alt>Seit der</alt><alt>Seit dem</alt><alt>Obgleich</alt></f>  Jahren ist er Vegetarier .</output>
+</s>
+<s id="496">
+  <input>Wir <f id="1">have tried</f>  , gemeinsam mit Kollegen ein solches Konzept umzusetzen .</input>
+  <output>Wir <f id="1">haben versucht<alt>habe versucht</alt><alt>versuchten</alt><alt>wollten uns</alt><alt>waren bemüht</alt></f>  , gemeinsam mit Kollegen ein solches Konzept umzusetzen .</output>
+</s>
+<s id="497">
+  <input>Alle <f id="1">participants</f>  erhalten als Dank eine Urkunde .</input>
+  <output>Alle <f id="1">Teilnehmer<alt>Beteiligten</alt><alt>Teilnehmern</alt><alt>Teilnehmerinnen und Teilnehmer</alt><alt>die Teilnehmer</alt></f>  erhalten als Dank eine Urkunde .</output>
+</s>
+<s id="498">
+  <input>Die Mitglieder der Mannschaft sollten ihre <f id="1">medical</f>  Untersuchung nicht vergessen .</input>
+  <output>Die Mitglieder der Mannschaft sollten ihre <f id="1">medizinische<alt>medizinischen</alt><alt>ärztliche</alt><alt>medizinischer</alt><alt>ärztlichen</alt></f>  Untersuchung nicht vergessen .</output>
+</s>
+<s id="499">
+  <input>Sie wünschte sich jedoch , <f id="1">that</f>  die Kinder in Berlin aufwachsen .</input>
+  <output>Sie wünschte sich jedoch , <f id="1">dass<alt>daß</alt><alt>das</alt><alt>, dass</alt><alt>dass sich</alt></f>  die Kinder in Berlin aufwachsen .</output>
+</s>
+<s id="500">
+  <input>Freiwillig verlässt <f id="1">hardly anybody</f>  das Haus .</input>
+  <output>Freiwillig verlässt <f id="1">kaum einer</f>  das Haus .</output>
+</s>
+</sentencepairs>

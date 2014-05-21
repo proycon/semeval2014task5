@@ -1,0 +1,2022 @@
+<sentencepairs L1="unknown" L2="unknown">
+<s id="1">
+  <input>Cyber-bullies <f id="1">sont des vrais</f>  cowards</input>
+  <output>Cyber-bullies <f id="1">are the real thing</f>  cowards</output>
+</s>
+<s id="2">
+  <input>According to Christian Antoniette , the violence came from two <f id="1">groupes ethniques</f>  .</input>
+  <output>According to Christian Antoniette , the violence came from two <f id="1">ethnic groups<alt>ethnic groupings</alt><alt>ethnic groups ,</alt><alt>population groups</alt><alt>ethnic peoples</alt></f>  .</output>
+</s>
+<s id="3">
+  <input>People <f id="1">ont peur de</f>  many strange things .</input>
+  <output>People <f id="1">are afraid of<alt>are afraid to</alt><alt>who are scared of</alt><alt>are frightened of</alt><alt>are fearful of</alt></f>  many strange things .</output>
+</s>
+<s id="4">
+  <input>Think about <f id="1">ce qui se passerait</f>  if there was no electricity .</input>
+  <output>Think about <f id="1">what would happen<alt>what happens</alt><alt>of what would happen</alt><alt>what would happen in the</alt><alt>what would happen in</alt></f>  if there was no electricity .</output>
+</s>
+<s id="5">
+  <input>They were probably <f id="1">des cauchemars</f>  rather than dreams .</input>
+  <output>They were probably <f id="1">the nightmare</f>  rather than dreams .</output>
+</s>
+<s id="6">
+  <input><f id="1">La nourriture</f>  tastes worse now , you 've put too much salt in .</input>
+  <output><f id="1">Food</f>  tastes worse now , you 've put too much salt in .</output>
+</s>
+<s id="7">
+  <input>Officially , the ex-president assured <f id="1">n' avoir jamais voulu</f>  to flee his country .</input>
+  <output>Officially , the ex-president assured <f id="1">that we never wanted<alt>that we never wanted to</alt><alt>that we never liked to</alt><alt>that we never liked</alt><alt>he has never wanted</alt></f>  to flee his country .</output>
+</s>
+<s id="8">
+  <input>His father intended <f id="1">qu' il devrait étudier le droit</f>  , and gave him an education suitable to these views ; but the strong predilection of the son to the fine arts induced him to attach himself to painting alone .</input>
+  <output>His father intended <f id="1">that he should study law<alt>that it should study law</alt><alt>that it ought to study law</alt><alt>it should study law</alt><alt>that this should study law</alt></f>  , and gave him an education suitable to these views ; but the strong predilection of the son to the fine arts induced him to attach himself to painting alone .</output>
+</s>
+<s id="9">
+  <input>For example , in the marathon of 1908 , the little Italian , Dorando Pietri , <f id="1">s' est effondré cinq fois</f>  in the last part of the race , but came first – only to be disqualified because spectators helped him over the finishing line .</input>
+  <output>For example , in the marathon of 1908 , the little Italian , Dorando Pietri , <f id="1">collapsed five times<alt>has collapsed five times</alt><alt>was torn down five times</alt><alt>collapsed within five times</alt><alt>broke down five times</alt></f>  in the last part of the race , but came first – only to be disqualified because spectators helped him over the finishing line .</output>
+</s>
+<s id="10">
+  <input>It has been around <f id="1">depuis le début de</f>  our history</input>
+  <output>It has been around <f id="1">since the beginning of<alt>since the start of</alt><alt>since early</alt><alt>since the outbreak of</alt><alt>since the turn of</alt></f>  our history</output>
+</s>
+<s id="11">
+  <input>They are certain they can <f id="1">compter sur la discrétion</f>  of the financial institutions .</input>
+  <output>They are certain they can <f id="1">count on the discretion<alt>rely on the discretion</alt><alt>count on the discretion</alt><alt>rely on the discretion</alt><alt>count on the whims</alt></f>  of the financial institutions .</output>
+</s>
+<s id="12">
+  <input>It represents a large portion <f id="1">de mes honoraires</f>  , and I see no way that I 'll ever get to put it to proper use .</input>
+  <output>It represents a large portion <f id="1">of my fees<alt>of my fees</alt><alt>to my fees</alt><alt>of my fee</alt><alt>of my honorary</alt></f>  , and I see no way that I 'll ever get to put it to proper use .</output>
+</s>
+<s id="13">
+  <input>They were glad to see John and asked if he was doing <f id="1">quelque chose de particulier</f>  that day .</input>
+  <output>They were glad to see John and asked if he was doing <f id="1">something very special<alt>something rather special</alt></f>  that day .</output>
+</s>
+<s id="14">
+  <input>It was four o ' clock in the afternoon , but already the sun was falling behind <f id="1">les collines</f>  .</input>
+  <output>It was four o ' clock in the afternoon , but already the sun was falling behind <f id="1">the hills<alt>the hillside</alt><alt>hilly areas</alt></f>  .</output>
+</s>
+<s id="15">
+  <input>There was one further consideration , which we bore <f id="1">à l' esprit</f>  at all times when we were studying the various possibilities for economic development .</input>
+  <output>There was one further consideration , which we bore <f id="1">in mind<alt>to mind</alt><alt>to the spirit</alt><alt>with the spirit</alt><alt>the spirit</alt></f>  at all times when we were studying the various possibilities for economic development .</output>
+</s>
+<s id="16">
+  <input>The <f id="1">chose la plus excitante</f>  for me was going to the zoo .</input>
+  <output>The <f id="1">whole thing as exciting<alt>whole thing most exciting</alt><alt>thing as exciting</alt><alt>else the most exciting</alt><alt>foremost , the most exciting</alt></f>  for me was going to the zoo .</output>
+</s>
+<s id="17">
+  <input>They <f id="1">te tiennent compagnie</f>  , they bark if a stranger comes near your house , and they fetch your slippers .</input>
+  <output>They <f id="1">' hold company<alt>' held company</alt><alt>' keep company</alt><alt>' are company</alt><alt>' are holding company</alt></f>  , they bark if a stranger comes near your house , and they fetch your slippers .</output>
+</s>
+<s id="18">
+  <input>Both academic and <f id="1">les cours professionnels</f>  are available and facilities are broader than at voluntary or vocational schools .</input>
+  <output>Both academic and <f id="1">courses professionals<alt>prices professionals</alt><alt>courses professional</alt><alt>the courts professionals</alt><alt>the courses professionals</alt></f>  are available and facilities are broader than at voluntary or vocational schools .</output>
+</s>
+<s id="19">
+  <input>Porky then tries to drive the mouse off , but then he is suddenly startled by a <f id="1">message radio</f>  that killer Bluebeard is at large and Porky frantically bars and locks up his house .</input>
+  <output>Porky then tries to drive the mouse off , but then he is suddenly startled by a <f id="1">message radio<alt>signal radio</alt><alt>message radios</alt><alt>message Radio</alt><alt>message , radio</alt></f>  that killer Bluebeard is at large and Porky frantically bars and locks up his house .</output>
+</s>
+<s id="20">
+  <input>By <f id="1">accroître</f>  the relevance and extent of existing initiatives , we hope to enhance the resilience of all kinds of institutes , research groups , development projects and businesses .</input>
+  <output>By <f id="1">increase<alt>increasing</alt><alt>increased</alt><alt>enhance</alt><alt>enhancing</alt></f>  the relevance and extent of existing initiatives , we hope to enhance the resilience of all kinds of institutes , research groups , development projects and businesses .</output>
+</s>
+<s id="21">
+  <input>It was another ten miles to the cottage where she lived <f id="1">avec son mari</f>  Michael .</input>
+  <output>It was another ten miles to the cottage where she lived <f id="1">together with her husband<alt>together with her husband ,</alt></f>  Michael .</output>
+</s>
+<s id="22">
+  <input>Construction workers and maids are paid next to nothing and have to do everything their <f id="1">employeur</f>  says</input>
+  <output>Construction workers and maids are paid next to nothing and have to do everything their <f id="1">employer<alt>employers</alt><alt>employer ,</alt><alt>respondent</alt><alt>employer has</alt></f>  says</output>
+</s>
+<s id="23">
+  <input>It has always been supposed the poem was based on an actual <f id="1">promenade en train</f>  Larkin made in 1955 on Whitsun Saturday , a day which was popular for weddings at that time though since there was a rail strike on that weekend Larkin scholar John Osborne now thinks the journey an unlikely one to have taken place .</input>
+  <output>It has always been supposed the poem was based on an actual <f id="1">setting out currently<alt>setting out in the process</alt><alt>setting out now</alt><alt>setting out by train</alt><alt>setting out being</alt></f>  Larkin made in 1955 on Whitsun Saturday , a day which was popular for weddings at that time though since there was a rail strike on that weekend Larkin scholar John Osborne now thinks the journey an unlikely one to have taken place .</output>
+</s>
+<s id="24">
+  <input>In the R.B.A. ( Reproductive Biology Associates ) laboratories and in a handful of other research labs around the world , scientists have been pushing the technology of assisted reproduction even further , offering new hope to childless couples and <f id="1">une nouvelle chance</f>  to women who want to postpone childbearing .</input>
+  <output>In the R.B.A. ( Reproductive Biology Associates ) laboratories and in a handful of other research labs around the world , scientists have been pushing the technology of assisted reproduction even further , offering new hope to childless couples and <f id="1">another chance<alt>a new chance</alt><alt>a new opportunity</alt><alt>a fresh chance</alt><alt>another opportunity</alt></f>  to women who want to postpone childbearing .</output>
+</s>
+<s id="25">
+  <input>Bankruptcies , 25 % higher than last year , <f id="1">se dirigent vers</f>  a record 40,000 with the loss of 600,000 jobs .</input>
+  <output>Bankruptcies , 25 % higher than last year , <f id="1">are headed towards<alt>are destined for</alt><alt>is leaking into</alt><alt>is looming for</alt><alt>will come to</alt></f>  a record 40,000 with the loss of 600,000 jobs .</output>
+</s>
+<s id="26">
+  <input>Some countries <f id="1">ont légalisé</f>  drugs like marijuana .</input>
+  <output>Some countries <f id="1">have legalised<alt>who legalised</alt><alt>was legalised</alt><alt>has legalised</alt></f>  drugs like marijuana .</output>
+</s>
+<s id="27">
+  <input>The new law will make it <f id="1">illégal</f>  for anyone to smoke in a car that has a child in it .</input>
+  <output>The new law will make it <f id="1">illegal<alt>unlawful</alt><alt>illegally</alt><alt>in illegal</alt><alt>is illegal</alt></f>  for anyone to smoke in a car that has a child in it .</output>
+</s>
+<s id="28">
+  <input><f id="1">Les manifesteurs</f>  want to replace the government .</input>
+  <output><f id="1">The manifestors</f>  want to replace the government .</output>
+</s>
+<s id="29">
+  <input>She looks <f id="1">partout</f>  but she ca n't find John .</input>
+  <output>She looks <f id="1">everywhere<alt>anywhere</alt><alt>everywhere ,</alt><alt>all</alt><alt>up everywhere</alt></f>  but she ca n't find John .</output>
+</s>
+<s id="30">
+  <input>Why has Air France authorised <f id="1">les appareils électroniques</f>  at take-off ?</input>
+  <output>Why has Air France authorised <f id="1">electronic appliances<alt>electronic devices</alt><alt>electronic goods</alt></f>  at take-off ?</output>
+</s>
+<s id="31">
+  <input>Fourteen original fashion , textile , product and graphic designs by British art students are on display ; all winners of a competition set by some of France 's <f id="1">les plus célèbres</f>  companies .</input>
+  <output>Fourteen original fashion , textile , product and graphic designs by British art students are on display ; all winners of a competition set by some of France 's <f id="1">most famous<alt>the most famous</alt><alt>whose most famous</alt><alt>the most well-known</alt><alt>'s most illustrious</alt></f>  companies .</output>
+</s>
+<s id="32">
+  <input>Hiroshi Ishii , associate professor at the Massachusetts Institute of Technology ( M . I . T . ) Media Lab in Cambridge , Mass. , discovered his first personal digital assistant <f id="1">à l' âge de deux ans</f>  : an abacus .</input>
+  <output>Hiroshi Ishii , associate professor at the Massachusetts Institute of Technology ( M . I . T . ) Media Lab in Cambridge , Mass. , discovered his first personal digital assistant <f id="1">at the age of two years<alt>at the age of two years</alt><alt>to the age of two years</alt><alt>at the age of two years ago</alt><alt>at the age of two years old</alt></f>  : an abacus .</output>
+</s>
+<s id="33">
+  <input>Multiple signs <f id="1">semblent indiquer</f>  that Russia could support a retour to power of Julia Timochenko .</input>
+  <output>Multiple signs <f id="1">seem to indicate<alt>appear to indicate</alt><alt>may suggest</alt><alt>seem to suggest</alt><alt>suggest</alt></f>  that Russia could support a retour to power of Julia Timochenko .</output>
+</s>
+<s id="34">
+  <input>Across town on the same cold March evening a very different social event <f id="1">a lieu</f>  in the apartment of Linda Sliski , Wendy 's nominal room-mate .</input>
+  <output>Across town on the same cold March evening a very different social event <f id="1">takes place<alt>is taking place</alt><alt>occurs</alt><alt>is occurring</alt><alt>took place</alt></f>  in the apartment of Linda Sliski , Wendy 's nominal room-mate .</output>
+</s>
+<s id="35">
+  <input>" I want to use objects <f id="1">que l' on peut toucher</f>  to manipulate digital information , to join the richness of the physical world with digital technology " , he says .</input>
+  <output>" I want to use objects <f id="1">that one can touch<alt>that one can affect</alt><alt>that can be touched</alt><alt>that can be touch</alt><alt>that one can reach</alt></f>  to manipulate digital information , to join the richness of the physical world with digital technology " , he says .</output>
+</s>
+<s id="36">
+  <input>The picturesque <f id="1">vieilles cottages</f>  by the harbor have been pulled down , and a hideous luxury hotel has been built there instead .</input>
+  <output>The picturesque <f id="1">old cottages</f>  by the harbor have been pulled down , and a hideous luxury hotel has been built there instead .</output>
+</s>
+<s id="37">
+  <input>He told reporters : " The <f id="1">liberté</f>  to smoke in your car in front of a child does n't seem to me that important and protecting a child 's health does seem to me to be incredibly important . "</input>
+  <output>He told reporters : " The <f id="1">freedom<alt>free</alt><alt>liberty</alt><alt>Freedom</alt><alt>freedoms</alt></f>  to smoke in your car in front of a child does n't seem to me that important and protecting a child 's health does seem to me to be incredibly important . "</output>
+</s>
+<s id="38">
+  <input>Nobody should be discriminated against or <f id="1">être puni</f>  for who he is and whom he loves .</input>
+  <output>Nobody should be discriminated against or <f id="1">be punished<alt>be punished ,</alt><alt>be persecuted</alt><alt>to be punished</alt><alt>go unpunished</alt></f>  for who he is and whom he loves .</output>
+</s>
+<s id="39">
+  <input>You still need to make a declaration about your health in the <f id="1">formulaire de demande</f>  and the premium rates will be fixed on the basis of your disclosure .</input>
+  <output>You still need to make a declaration about your health in the <f id="1">application form with</f>  and the premium rates will be fixed on the basis of your disclosure .</output>
+</s>
+<s id="40">
+  <input>Britain will <f id="1">bientôt</f>  ban smoking in cars with children .</input>
+  <output>Britain will <f id="1">soon<alt>soon be</alt><alt>shortly</alt><alt>shortly be</alt><alt>soon to</alt></f>  ban smoking in cars with children .</output>
+</s>
+<s id="41">
+  <input>It was only last week that I told you not to breathe a word <f id="1">à ce sujet</f>  and yet I have heard from a colleague what you have said about it to him .</input>
+  <output>It was only last week that I told you not to breathe a word <f id="1">about this<alt>about it</alt><alt>on this subject</alt><alt>on this matter</alt><alt>on this</alt></f>  and yet I have heard from a colleague what you have said about it to him .</output>
+</s>
+<s id="42">
+  <input>One truck driver Juang Shao expressed <f id="1">sa frustration</f>  over the situation : “ I ’ ve missed my daughter ’ s birthday and the food in my truck has probably turned into soup , ” he said .</input>
+  <output>One truck driver Juang Shao expressed <f id="1">his frustration<alt>your frustration</alt></f>  over the situation : “ I ’ ve missed my daughter ’ s birthday and the food in my truck has probably turned into soup , ” he said .</output>
+</s>
+<s id="43">
+  <input>I was surprised when I saw that this is already the 24th CLIN , which means that computer linguists from the Netherlands and Flanders have been gathering to share their experience and <f id="1">de partager des points de vue</f>  about each other 's research for almost a quarter of a century .</input>
+  <output>I was surprised when I saw that this is already the 24th CLIN , which means that computer linguists from the Netherlands and Flanders have been gathering to share their experience and <f id="1">to share their views<alt>to share these views</alt><alt>to share these points of view</alt><alt>to share their points of view</alt><alt>in a partnership of views</alt></f>  about each other 's research for almost a quarter of a century .</output>
+</s>
+<s id="44">
+  <input>John quickly runs to the big green tree , he <f id="1">se cache de</f>  Mary .</input>
+  <output>John quickly runs to the big green tree , he <f id="1">, there is of<alt>, there lies for</alt><alt>, there lies from</alt><alt>, there lies in</alt><alt>, there is to</alt></f>  Mary .</output>
+</s>
+<s id="45">
+  <input>Some have reported feeling <f id="1">le mal du pays</f>  .</input>
+  <output>Some have reported feeling <f id="1">the evil of countries<alt>the evil of the country</alt><alt>the evil of country</alt><alt>evil of the country</alt><alt>the evil in the country</alt></f>  .</output>
+</s>
+<s id="46">
+  <input>Doctors have been trying for centuries <f id="1">d' améliorer</f>  on nature ’ s way of perpetuating the human species .</input>
+  <output>Doctors have been trying for centuries <f id="1">to improve<alt>of improving</alt><alt>improve</alt><alt>to improving</alt><alt>to enhance</alt></f>  on nature ’ s way of perpetuating the human species .</output>
+</s>
+<s id="47">
+  <input>Every new cardinal has to <f id="1">s' agenouiller devant</f>  the pope to receive his title .</input>
+  <output>Every new cardinal has to <f id="1">go cap in hand to</f>  the pope to receive his title .</output>
+</s>
+<s id="48">
+  <input>There are many complaints of local people taking advantage of the stranded motorists by charging them more than <f id="1">doubles prix</f>  for drinks and snacks .</input>
+  <output>There are many complaints of local people taking advantage of the stranded motorists by charging them more than <f id="1">double price<alt>double prices</alt><alt>double prize</alt><alt>dual price</alt><alt>dual prices</alt></f>  for drinks and snacks .</output>
+</s>
+<s id="49">
+  <input>Following the conclusion of the STEVIN programme , it is now essential that the efforts and results of all the partners across our language area are channelled and put to use , and that we facilitate <f id="1">conjoints</f>  research and development at a Flemish-Dutch level .</input>
+  <output>Following the conclusion of the STEVIN programme , it is now essential that the efforts and results of all the partners across our language area are channelled and put to use , and that we facilitate <f id="1">joint<alt>spouses</alt><alt>assisting</alt><alt>a joint</alt><alt>combined</alt></f>  research and development at a Flemish-Dutch level .</output>
+</s>
+<s id="50">
+  <input>The EU has is searching for <f id="1">des moyens financiers</f>  that would allow to avoid a breakdown of the Ukrainian economy .</input>
+  <output>The EU has is searching for <f id="1">the financial resources<alt>financial resources</alt><alt>financial means</alt><alt>the money</alt><alt>the financial means</alt></f>  that would allow to avoid a breakdown of the Ukrainian economy .</output>
+</s>
+<s id="51">
+  <input>Many countries sell diamonds to buy <f id="1">des armes</f>  and tanks .</input>
+  <output>Many countries sell diamonds to buy <f id="1">arms<alt>weapons</alt><alt>of weapons</alt><alt>Weapons</alt><alt>of arms</alt></f>  and tanks .</output>
+</s>
+<s id="52">
+  <input>Comparing YTD measures can be misleading if not much of the year has occurred , or the date is not clear ; YTD measures are <f id="1">plus sensibles</f>  to early changes than late changes .</input>
+  <output>Comparing YTD measures can be misleading if not much of the year has occurred , or the date is not clear ; YTD measures are <f id="1">most sensitive<alt>more sensitive</alt><alt>more susceptible</alt><alt>most susceptible</alt><alt>more subject</alt></f>  to early changes than late changes .</output>
+</s>
+<s id="53">
+  <input>On screen , <f id="1">les Italiens sont de retour</f>  and you won ’ t hear any complaints from me .</input>
+  <output>On screen , <f id="1">Italians are back<alt>Italians are return</alt><alt>Italians are of return</alt><alt>the Italians are back</alt><alt>the Italians are return</alt></f>  and you won ’ t hear any complaints from me .</output>
+</s>
+<s id="54">
+  <input>What is needed now is a strong , courageous leader who is ready to push through bold , inevitably painful , <f id="1">réformes structurelles</f>  .</input>
+  <output>What is needed now is a strong , courageous leader who is ready to push through bold , inevitably painful , <f id="1">structural reforms<alt>structural reform</alt><alt>structural changes</alt><alt>structural reforms that</alt><alt>structural change</alt></f>  .</output>
+</s>
+<s id="55">
+  <input>Everyone is born with <f id="1">le droit de</f>  freedom .</input>
+  <output>Everyone is born with <f id="1">the right to<alt>the right of</alt><alt>a right to</alt><alt>entitled to</alt><alt>the Law of</alt></f>  freedom .</output>
+</s>
+<s id="56">
+  <input>Today , there are several variants of health plans on offer , some <f id="1">exclusivement</f>  for women .</input>
+  <output>Today , there are several variants of health plans on offer , some <f id="1">exclusively<alt>solely</alt><alt>only</alt><alt>purely</alt><alt>exclusive</alt></f>  for women .</output>
+</s>
+<s id="57">
+  <input>She wore a long old dress and had <f id="1">un chapeau jaune</f>  pulled down low over her eyes .</input>
+  <output>She wore a long old dress and had <f id="1">a hat yellow<alt>a hat on yellow</alt><alt>a hat of yellow</alt><alt>a hat yellow patch</alt><alt>a hat yellow revolutions</alt></f>  pulled down low over her eyes .</output>
+</s>
+<s id="58">
+  <input>Almost every time we meet , he has some story to tell about his <f id="1">dernier</f>  accident .</input>
+  <output>Almost every time we meet , he has some story to tell about his <f id="1">last<alt>final</alt><alt>latest</alt><alt>latter</alt><alt>most recent</alt></f>  accident .</output>
+</s>
+<s id="59">
+  <input>Media Action , formerly known as Forth Action , is the social action <f id="1">équipe de diffusion</f>  attached to the two Radio Forth group stations , Max-Am and RFM .</input>
+  <output>Media Action , formerly known as Forth Action , is the social action <f id="1">team broadcasting<alt>team of dissemination</alt><alt>team dissemination</alt><alt>team dissemination</alt><alt>team of disseminating</alt></f>  attached to the two Radio Forth group stations , Max-Am and RFM .</output>
+</s>
+<s id="60">
+  <input>The original Olympic Games began around 800 BC in Ancient Greece and , continued until they <f id="1">ont été abolis</f>  by the Roman Emperor Theodosius in AD 393 .</input>
+  <output>The original Olympic Games began around 800 BC in Ancient Greece and , continued until they <f id="1">were abolished<alt>have been abolished</alt><alt>have been lifted</alt></f>  by the Roman Emperor Theodosius in AD 393 .</output>
+</s>
+<s id="61">
+  <input>I loved animals when I was <f id="1">un enfant</f>  .</input>
+  <output>I loved animals when I was <f id="1">a child<alt>a baby</alt><alt>one child</alt><alt>a child 's</alt><alt>an infant</alt></f>  .</output>
+</s>
+<s id="62">
+  <input>The <f id="1">chute</f>  of El Chapo does not mark the end of Mexican drug cartels .</input>
+  <output>The <f id="1">fall<alt>collapse</alt><alt>drop</alt><alt>downfall</alt><alt>decline</alt></f>  of El Chapo does not mark the end of Mexican drug cartels .</output>
+</s>
+<s id="63">
+  <input>They said it was full of <f id="1">magie noire</f>  and that someone was using it to try and change the results of an election .</input>
+  <output>They said it was full of <f id="1">black magic</f>  and that someone was using it to try and change the results of an election .</output>
+</s>
+<s id="64">
+  <input>Ksenija 's stepmother , Sofija Kondic , who taught at the Women 's College in Belgrade , became <f id="1">son tuteur légal</f>  .</input>
+  <output>Ksenija 's stepmother , Sofija Kondic , who taught at the Women 's College in Belgrade , became <f id="1">'s teacher to legal<alt>'s protector legal</alt><alt>'s teacher legal</alt><alt>'s guardian legal</alt><alt>'s teacher to lawful</alt></f>  .</output>
+</s>
+<s id="65">
+  <input>The British <f id="1">gouvernement</f>  said it looked at research that found children who sat in smoke-filled cars had health problems .</input>
+  <output>The British <f id="1">government<alt>Government</alt><alt>Government ,</alt><alt>government ,</alt><alt>government of</alt></f>  said it looked at research that found children who sat in smoke-filled cars had health problems .</output>
+</s>
+<s id="66">
+  <input>Their last initiative is a law in Arizona , authorising shopkeepers and service providers to refuse to serve gay couples <f id="1">au nom de la</f>  freedom of conscience .</input>
+  <output>Their last initiative is a law in Arizona , authorising shopkeepers and service providers to refuse to serve gay couples <f id="1">on behalf of the<alt>in the name of the</alt><alt>, on behalf of the</alt><alt>in the name of</alt><alt>speaking for the</alt></f>  freedom of conscience .</output>
+</s>
+<s id="67">
+  <input>She wondered if they had found <f id="1">ses bijoux</f>  and rather hoped that they had .</input>
+  <output>She wondered if they had found <f id="1">its jewellery<alt>his jewellery</alt><alt>her jewellery</alt><alt>their jewellery</alt><alt>the jewellery</alt></f>  and rather hoped that they had .</output>
+</s>
+<s id="68">
+  <input>It started over an argument <f id="1">sur</f>  how to fix mountaineering ropes on the slopes .</input>
+  <output>It started over an argument <f id="1">on<alt>about</alt><alt>over</alt><alt>in</alt><alt>to</alt></f>  how to fix mountaineering ropes on the slopes .</output>
+</s>
+<s id="69">
+  <input>In the first few years , these campaigns dealt with topics such as mental health , alcohol abuse , health and fitness , <f id="1">troubles de l' alimentation</f>  and HIV / AIDS .</input>
+  <output>In the first few years , these campaigns dealt with topics such as mental health , alcohol abuse , health and fitness , <f id="1">disruption of feeding</f>  and HIV / AIDS .</output>
+</s>
+<s id="70">
+  <input>In the pocket of her coat , she found <f id="1">le dépliant</f>  that the Salvation Army woman had thrust into her hand .</input>
+  <output>In the pocket of her coat , she found <f id="1">the leaflet<alt>a leaflet</alt><alt>on leaflet</alt><alt>it leaflet</alt><alt>this leaflet</alt></f>  that the Salvation Army woman had thrust into her hand .</output>
+</s>
+<s id="71">
+  <input>Many studies say passive smoking can almost be as harmful as <f id="1">en réalité</f>  smoking a cigarette .</input>
+  <output>Many studies say passive smoking can almost be as harmful as <f id="1">actually<alt>in reality</alt><alt>in fact</alt><alt>in actual fact</alt><alt>, in fact ,</alt></f>  smoking a cigarette .</output>
+</s>
+<s id="72">
+  <input>Ukraine <f id="1">n' a pas encore de</f>  prime minister .</input>
+  <output>Ukraine <f id="1">does not yet have a<alt>does not yet</alt><alt>still has no</alt><alt>does not as yet have a</alt><alt>does not yet have</alt></f>  prime minister .</output>
+</s>
+<s id="73">
+  <input>Rekanis were <f id="1">de force</f>  displaced from their villages in Nerwa Rekan in 1978 -1979 by the former Iraqi Baathist regime who at the time had signed an agreement with the Turkish government that entailed displacing the villages that lie within 15 k.m inside the Iraqi territories on the borders between Iraq and Turkey .</input>
+  <output>Rekanis were <f id="1">forcibly<alt>of strength</alt><alt>forcefully</alt><alt>of power</alt><alt>of force</alt></f>  displaced from their villages in Nerwa Rekan in 1978 -1979 by the former Iraqi Baathist regime who at the time had signed an agreement with the Turkish government that entailed displacing the villages that lie within 15 k.m inside the Iraqi territories on the borders between Iraq and Turkey .</output>
+</s>
+<s id="74">
+  <input>If I bound my daughter 's drawings into books I could give them a nice space on a bookshelf instead of just <f id="1">les ranger</f>  in a storage bin .</input>
+  <output>If I bound my daughter 's drawings into books I could give them a nice space on a bookshelf instead of just <f id="1">'s hang<alt>'s start counting</alt><alt>'s side</alt><alt>'s fall</alt><alt>'s support</alt></f>  in a storage bin .</output>
+</s>
+<s id="75">
+  <input>I wish you a pleasant and educational 24th CLIN Conference and look forward <f id="1">d' entendre</f>  your views in the very near future .</input>
+  <output>I wish you a pleasant and educational 24th CLIN Conference and look forward <f id="1">to hear<alt>to hearing</alt><alt>to listen to</alt><alt>to hearing from</alt><alt>heard</alt></f>  your views in the very near future .</output>
+</s>
+<s id="76">
+  <input>For really serious <f id="1">urgences</f>  , you should call 999 .</input>
+  <output>For really serious <f id="1">emergencies<alt>urgencies</alt><alt>urgent matters</alt><alt>emergencies to</alt><alt>casualty</alt></f>  , you should call 999 .</output>
+</s>
+<s id="77">
+  <input>The previous <f id="1">maire</f>  left the city after the fall of cental power .</input>
+  <output>The previous <f id="1">mayor<alt>Mayor</alt><alt>mayor ,</alt><alt>mayors</alt><alt>mayor for</alt></f>  left the city after the fall of cental power .</output>
+</s>
+<s id="78">
+  <input><f id="1">Avez -vous entendu</f>  anything ? I am listening hard but I ca n't hear anything .</input>
+  <output><f id="1">Have you heard</f>  anything ? I am listening hard but I ca n't hear anything .</output>
+</s>
+<s id="79">
+  <input>Science also serves the end user and almost every conceivable sector can benefit <f id="1">des progrès</f>  that is made .</input>
+  <output>Science also serves the end user and almost every conceivable sector can benefit <f id="1">progress<alt>the progress</alt><alt>of the progress</alt><alt>of progress</alt><alt>some progress</alt></f>  that is made .</output>
+</s>
+<s id="80">
+  <input>The only thing I do n't like about bath time is when I <f id="1">m' endors</f>  and the water goes cold .</input>
+  <output>The only thing I do n't like about bath time is when I <f id="1">m 'sleep</f>  and the water goes cold .</output>
+</s>
+<s id="81">
+  <input>When he had seen his wife off at the station , he <f id="1">rentrait chez lui</f>  as he did n't have to be at the airport till 9.30 .</input>
+  <output>When he had seen his wife off at the station , he <f id="1">going home</f>  as he did n't have to be at the airport till 9.30 .</output>
+</s>
+<s id="82">
+  <input>I can watch tropical fish in my aquarium <f id="1">pendant des heures</f>  .</input>
+  <output>I can watch tropical fish in my aquarium <f id="1">for hours<alt>for many hours</alt><alt>spend several hours</alt><alt>indefinitely</alt><alt>to spend several hours</alt></f>  .</output>
+</s>
+<s id="83">
+  <input>Following the war , the Allaire Works , like many other American marine engineering companies , <f id="1">éprouva des difficultés financières</f>  , and in 1869 it was wound up , whereupon its equipment was purchased by John Roach , who also hired its best employees for his own company , the Morgan Iron Works .</input>
+  <output>Following the war , the Allaire Works , like many other American marine engineering companies , <f id="1">in financial difficulty</f>  , and in 1869 it was wound up , whereupon its equipment was purchased by John Roach , who also hired its best employees for his own company , the Morgan Iron Works .</output>
+</s>
+<s id="84">
+  <input>My best friends and I all <f id="1">avons grandi</f>  together</input>
+  <output>My best friends and I all <f id="1">grew up<alt>have grown</alt><alt>have grown up</alt><alt>have been brought up</alt></f>  together</output>
+</s>
+<s id="85">
+  <input>Not everyone <f id="1">est d' accord avec</f>  the new law .</input>
+  <output>Not everyone <f id="1">agrees with<alt>is in agreement with</alt><alt>will agree with</alt><alt>agrees with much of</alt><alt>would agree with</alt></f>  the new law .</output>
+</s>
+<s id="86">
+  <input>They had helped themselves to her whisky too but there was a little left , so she <f id="1">se versa</f>  a drink .</input>
+  <output>They had helped themselves to her whisky too but there was a little left , so she <f id="1">is versa<alt>be versa</alt><alt>are versa</alt><alt>has versa</alt><alt>itself versa</alt></f>  a drink .</output>
+</s>
+<s id="87">
+  <input>The brave warrior and his big friend Obelix have been delighting millions of comic-reading children and adults <f id="1">des quatre coins du monde</f>  for more than 30 years .</input>
+  <output>The brave warrior and his big friend Obelix have been delighting millions of comic-reading children and adults <f id="1">from all parts of the world<alt>from all over the world</alt><alt>from every corner of the globe</alt><alt>from right around the world</alt><alt>every corner of the world</alt></f>  for more than 30 years .</output>
+</s>
+<s id="88">
+  <input>Japan <f id="1">a désespérément besoin de</f>  someone to lead it out of its decade-long economic crisis , but none of the likely candidates for prime minister inspires much confidence .</input>
+  <output>Japan <f id="1">is in desperate need of<alt>desperately in need of</alt><alt>desperately needs</alt></f>  someone to lead it out of its decade-long economic crisis , but none of the likely candidates for prime minister inspires much confidence .</output>
+</s>
+<s id="89">
+  <input>My philosophy on life is to always <f id="1">faire de ton mieux</f>  .</input>
+  <output>My philosophy on life is to always <f id="1">, being in a tone better<alt>, being in atmosphere is better</alt><alt>, being in European tune better</alt><alt>, being in dramatically better</alt><alt>, being in emphasis better</alt></f>  .</output>
+</s>
+<s id="90">
+  <input>Some of my favourite animals are <f id="1">en danger de</f>  dying out .</input>
+  <output>Some of my favourite animals are <f id="1">in danger of<alt>at risk of</alt><alt>in real danger of</alt><alt>at risk from</alt><alt>in danger of being</alt></f>  dying out .</output>
+</s>
+<s id="91">
+  <input>Disabled people might tell us <f id="1">quelque chose de différent</f>  .</input>
+  <output>Disabled people might tell us <f id="1">something different<alt>something different to the party</alt><alt>something else</alt><alt>a different solution</alt><alt>something different ,</alt></f>  .</output>
+</s>
+<s id="92">
+  <input>My brother thinks these are <f id="1">ennuyeux</f>  .</input>
+  <output>My brother thinks these are <f id="1">boring<alt>annoying</alt><alt>dull</alt><alt>tedious</alt><alt>too troublesome</alt></f>  .</output>
+</s>
+<s id="93">
+  <input>Sometimes I 'm speaking <f id="1">dans une autre langue</f>  in my dream .</input>
+  <output>Sometimes I 'm speaking <f id="1">in another language<alt>in a language other</alt><alt>in a language</alt></f>  in my dream .</output>
+</s>
+<s id="94">
+  <input>It would be like going back to living in <f id="1">des cavernes</f>  .</input>
+  <output>It would be like going back to living in <f id="1">the caves<alt>of caves</alt><alt>of the caves</alt><alt>some caves</alt><alt>' caves</alt></f>  .</output>
+</s>
+<s id="95">
+  <input>Since 1987 , the Comité Colbert has organized a yearly contest , and this year , more than a hundred candidates <f id="1">se sont inscrits</f>  .</input>
+  <output>Since 1987 , the Comité Colbert has organized a yearly contest , and this year , more than a hundred candidates <f id="1">have registered<alt>have enrolled</alt><alt>have signed in</alt><alt>have signed</alt><alt>was adopted</alt></f>  .</output>
+</s>
+<s id="96">
+  <input>Paul leaves <f id="1">pour</f>  three weeks .</input>
+  <output>Paul leaves <f id="1">for<alt>to</alt><alt>in</alt><alt>on</alt><alt>in order to</alt></f>  three weeks .</output>
+</s>
+<s id="97">
+  <input>It is also the new <f id="1">mascotte</f>  of the Ugly Animal Preservation Society ( UAPS ) .</input>
+  <output>It is also the new <f id="1">mascot<alt>la mascotte</alt></f>  of the Ugly Animal Preservation Society ( UAPS ) .</output>
+</s>
+<s id="98">
+  <input>Doctors <f id="1">sont parmis les</f>  most important people in society .</input>
+  <output>Doctors <f id="1">are among the</f>  most important people in society .</output>
+</s>
+<s id="99">
+  <input>Their name <f id="1">vient du</f>  fact that they look like a large blob of jelly .</input>
+  <output>Their name <f id="1">comes from the<alt>stems from the</alt><alt>originates from the</alt><alt>is due to the</alt><alt>arises from the</alt></f>  fact that they look like a large blob of jelly .</output>
+</s>
+<s id="100">
+  <input>My keys were in my house , along with the <f id="1">clés de rechange</f>  that I had lent to one of the musicians .</input>
+  <output>My keys were in my house , along with the <f id="1">key alternative<alt>key spare</alt><alt>keys to spare</alt><alt>keys to alternative</alt><alt>key of replacement</alt></f>  that I had lent to one of the musicians .</output>
+</s>
+<s id="101">
+  <input>I know giving blood is really important , but I ’ m not <f id="1">assez courageux</f>  .</input>
+  <output>I know giving blood is really important , but I ’ m not <f id="1">brave enough<alt>bold enough</alt><alt>still brave enough</alt><alt>courageous enough and willing</alt></f>  .</output>
+</s>
+<s id="102">
+  <input>There are many ways of cooking <f id="1">des œufs</f>  for breakfast .</input>
+  <output>There are many ways of cooking <f id="1">eggs<alt>egg</alt><alt>of eggs</alt><alt>eggshells</alt><alt>for eggs</alt></f>  for breakfast .</output>
+</s>
+<s id="103">
+  <input>A single <f id="1">larme</f>  rolling down someone ’ s face can be sadder than a thousand words .</input>
+  <output>A single <f id="1">tears</f>  rolling down someone ’ s face can be sadder than a thousand words .</output>
+</s>
+<s id="104">
+  <input>Britain 's leader David Cameron said the problem is <f id="1">particulièrement mauvais</f>  in cars because there is so little space , so the car fills with smoke very quickly .</input>
+  <output>Britain 's leader David Cameron said the problem is <f id="1">especially bad<alt>particularly bad</alt></f>  in cars because there is so little space , so the car fills with smoke very quickly .</output>
+</s>
+<s id="105">
+  <input>Women have often preferred younger men , and why not , when so many of these men were <f id="1">élevés</f>  by women my age , who encouraged them to cook , to clean , to care and to chat ?</input>
+  <output>Women have often preferred younger men , and why not , when so many of these men were <f id="1">high<alt>reared</alt><alt>bred</alt><alt>kept</alt><alt>brought up</alt></f>  by women my age , who encouraged them to cook , to clean , to care and to chat ?</output>
+</s>
+<s id="106">
+  <input><f id="1">Des arnaqueurs</f>  pretend to rent out a modern appartment in Monthey for 800 francs .</input>
+  <output><f id="1">Scammers</f>  pretend to rent out a modern appartment in Monthey for 800 francs .</output>
+</s>
+<s id="107">
+  <input>Two Travellers were on the road together , when <f id="1">un ours</f>  suddenly appeared on the scene .</input>
+  <output>Two Travellers were on the road together , when <f id="1">a bear</f>  suddenly appeared on the scene .</output>
+</s>
+<s id="108">
+  <input>When it reaches Brian he does not take a drag , but hands it on to Wendy , who <f id="1">s' appuie</f>  against his leg with her head on his raised knee .</input>
+  <output>When it reaches Brian he does not take a drag , but hands it on to Wendy , who <f id="1">is based<alt>builds</alt><alt>is leaning</alt><alt>relies</alt><alt>is supported</alt></f>  against his leg with her head on his raised knee .</output>
+</s>
+<s id="109">
+  <input>Yet , despite this recent economic weakness , Germany is still the world ’ s third-biggest economy , with plenty of world-class companies , a huge <f id="1">excédent commercial</f>  and a well-trained and determined labour force .</input>
+  <output>Yet , despite this recent economic weakness , Germany is still the world ’ s third-biggest economy , with plenty of world-class companies , a huge <f id="1">trade surplus<alt>surplus trade</alt><alt>balance of trade surplus</alt><alt>commercial surplus</alt><alt>trading surplus</alt></f>  and a well-trained and determined labour force .</output>
+</s>
+<s id="110">
+  <input>Google tries to <f id="1">reprendre la main sur</f>  their operating system , Android .</input>
+  <output>Google tries to <f id="1">take over the hands on<alt>use the hands on</alt><alt>take the hands on</alt><alt>resume the hands on</alt><alt>take over the hand on</alt></f>  their operating system , Android .</output>
+</s>
+<s id="111">
+  <input>Google wanted to <f id="1">empêcher</f>  the takeover of WhatsApp by Facebook .</input>
+  <output>Google wanted to <f id="1">prevent<alt>stop</alt><alt>preventing</alt><alt>prevented</alt><alt>avoid</alt></f>  the takeover of WhatsApp by Facebook .</output>
+</s>
+<s id="112">
+  <input>There is n't a bus until seven , and <f id="1">je ne voulais pas attendre</f>  much longer .</input>
+  <output>There is n't a bus until seven , and <f id="1">I did not want to wait<alt>I did not want to wait for</alt><alt>I did not wish to wait</alt><alt>I did not wish to wait for</alt><alt>I did not want to expect</alt></f>  much longer .</output>
+</s>
+<s id="113">
+  <input>Crossing borders , literally and figuratively , with the prime objective <f id="1">de créer</f>  undisputed added value for scientific endeavour , education , culture and the economy .</input>
+  <output>Crossing borders , literally and figuratively , with the prime objective <f id="1">to create<alt>of creating</alt><alt>create</alt><alt>to establish</alt><alt>to set up</alt></f>  undisputed added value for scientific endeavour , education , culture and the economy .</output>
+</s>
+<s id="114">
+  <input>Hermès , with its outdoor , horsy image , asked for a picnic hamper while Nina Ricci , the fashion house , requested an haute couture cocktail or <f id="1">robe du soir</f>  .</input>
+  <output>Hermès , with its outdoor , horsy image , asked for a picnic hamper while Nina Ricci , the fashion house , requested an haute couture cocktail or <f id="1">penitent at night<alt>dress at night</alt><alt>habit ' at night</alt><alt>penitent night</alt><alt>dress night</alt></f>  .</output>
+</s>
+<s id="115">
+  <input>This article gives two concrete illustrations of <f id="1">le théorème de la limite centrale</f>  , both involve the sum of independent and identically-distributed random variables and show how the probability distribution of the sum approaches the normal distribution as the number of terms in the sum increases .</input>
+  <output>This article gives two concrete illustrations of <f id="1">the theorem of the limit Central<alt>the theorem the limit Central</alt><alt>the theorem on the voting Central</alt><alt>the theorem with the limit Central</alt><alt>the theorem by limiting Central</alt></f>  , both involve the sum of independent and identically-distributed random variables and show how the probability distribution of the sum approaches the normal distribution as the number of terms in the sum increases .</output>
+</s>
+<s id="116">
+  <input>Khadher , <f id="1">né en</f>  Tunisia , said on Friday that he had decided at the last minute to enter the annual competition .</input>
+  <output>Khadher , <f id="1">born in<alt>was born in</alt><alt>who was born in</alt><alt>coming into being in</alt><alt>which was created in</alt></f>  Tunisia , said on Friday that he had decided at the last minute to enter the annual competition .</output>
+</s>
+<s id="117">
+  <input>Exams are <f id="1">stressants</f>  , but if you study , you ` ll do well in them .</input>
+  <output>Exams are <f id="1">stressful<alt>distressing</alt></f>  , but if you study , you ` ll do well in them .</output>
+</s>
+<s id="118">
+  <input>A program that saw <f id="1">la construction</f>  of the senior wing also included the music building , an athletic field house , and an addition to the faculty office wing .</input>
+  <output>A program that saw <f id="1">the construction<alt>the building</alt><alt>construction</alt><alt>building</alt><alt>the creation</alt></f>  of the senior wing also included the music building , an athletic field house , and an addition to the faculty office wing .</output>
+</s>
+<s id="119">
+  <input>Keegan passes to Smith , who runs straight at the <f id="1">défense centrale</f>  and shoots , and Gomez pushes it over the bar for a corner .</input>
+  <output>Keegan passes to Smith , who runs straight at the <f id="1">Defence Central<alt>advocacy Central</alt><alt>defence , Central</alt><alt>advocating Central</alt><alt>Defence , Central</alt></f>  and shoots , and Gomez pushes it over the bar for a corner .</output>
+</s>
+<s id="120">
+  <input>Today , <f id="1">il est courant de</f>  get through two , three , even more marriages .</input>
+  <output>Today , <f id="1">it is common to<alt>it is normal to</alt><alt>it is commonly</alt></f>  get through two , three , even more marriages .</output>
+</s>
+<s id="121">
+  <input>I 'm English so I thought Americans had the same culture <f id="1">que moi</f>  .</input>
+  <output>I 'm English so I thought Americans had the same culture <f id="1">than I do<alt>as I do</alt><alt>than me</alt><alt>than I</alt><alt>than I am</alt></f>  .</output>
+</s>
+<s id="122">
+  <input>Some people feel <f id="1">fatigués</f>  after lunch .</input>
+  <output>Some people feel <f id="1">tired<alt>very tired</alt><alt>weary</alt><alt>be tired</alt><alt>exhausted</alt></f>  after lunch .</output>
+</s>
+<s id="123">
+  <input>Following the recognition earlier this year of Cornish , a Celtic language spoken by about 300 enthusiasts in the extreme south-west of England , a far more widespread <f id="1">langue minoritaire</f>  has at last won recognition from the British government .</input>
+  <output>Following the recognition earlier this year of Cornish , a Celtic language spoken by about 300 enthusiasts in the extreme south-west of England , a far more widespread <f id="1">minority language<alt>a minority language</alt><alt>minority language that</alt><alt>of the minority languages</alt><alt>the minority languages</alt></f>  has at last won recognition from the British government .</output>
+</s>
+<s id="124">
+  <input>Can ’ t wait till it gets warm outside , so I can hang <f id="1">mon linge</f>  out in the sun .</input>
+  <output>Can ’ t wait till it gets warm outside , so I can hang <f id="1">my linen<alt>my laundry</alt><alt>I linen</alt><alt>I laundry</alt><alt>my own linen</alt></f>  out in the sun .</output>
+</s>
+<s id="125">
+  <input>American authorities have given 24 hours notice to three Venezuelan diplomats <f id="1">pour quitter le pays</f>  .</input>
+  <output>American authorities have given 24 hours notice to three Venezuelan diplomats <f id="1">in order to leave the country<alt>to leave the country</alt></f>  .</output>
+</s>
+<s id="126">
+  <input>A few minutes later , a young woman <f id="1">s' est assise</f>  in the seat next to him .</input>
+  <output>A few minutes later , a young woman <f id="1">has been sitting<alt>has been seated</alt><alt>has been sat</alt><alt>has been foundation</alt><alt>has been riding</alt></f>  in the seat next to him .</output>
+</s>
+<s id="127">
+  <input>In 1861 , Major General Nelson A. Miles , a commanding officer in the U.S. Army , was <f id="1">en train d' encourager des</f>  cyclists from the sidelines of a six-day race in New York City when it hit him : Why not arm America 's military with bikes , too ?</input>
+  <output>In 1861 , Major General Nelson A. Miles , a commanding officer in the U.S. Army , was <f id="1">in the process of both promoting<alt>in the process of promoting</alt><alt>in the process of attracting new</alt><alt>in the process of boost a</alt><alt>in the process of boosting</alt></f>  cyclists from the sidelines of a six-day race in New York City when it hit him : Why not arm America 's military with bikes , too ?</output>
+</s>
+<s id="128">
+  <input>The fighting is now intensifying , though most of the 200 or so people who die each day are children , blown up by landmines or killed by hunger or <f id="1">maladies évitables</f>  .</input>
+  <output>The fighting is now intensifying , though most of the 200 or so people who die each day are children , blown up by landmines or killed by hunger or <f id="1">preventable diseases<alt>preventable disease</alt><alt>preventable illness and disease</alt></f>  .</output>
+</s>
+<s id="129">
+  <input>I also like autobiographies because I think <f id="1">il est intéressant de</f>  read about people 's lives .</input>
+  <output>I also like autobiographies because I think <f id="1">it is interesting to<alt>it is interesting</alt><alt>it is worth</alt><alt>it is an interesting</alt><alt>it is attractive to</alt></f>  read about people 's lives .</output>
+</s>
+<s id="130">
+  <input>The firms are members of the Comité Colbert , an organisation that provides a common voice for 70 of the best-known names in <f id="1">la vente au détail</f>  .</input>
+  <output>The firms are members of the Comité Colbert , an organisation that provides a common voice for 70 of the best-known names in <f id="1">the retail side<alt>retailing</alt><alt>the retail</alt></f>  .</output>
+</s>
+<s id="131">
+  <input>They serve as examples when it comes to demonstrating how science and experimenting – however amateurish – and commercial interests can <f id="1">unir leurs forces</f>  , to serve the needs of the user through technological development .</input>
+  <output>They serve as examples when it comes to demonstrating how science and experimenting – however amateurish – and commercial interests can <f id="1">join forces<alt>unite together</alt><alt>combine their resources</alt><alt>combine their strength</alt><alt>combine forces</alt></f>  , to serve the needs of the user through technological development .</output>
+</s>
+<s id="132">
+  <input>When <f id="1">j' ai demarré</f>  the car , a puff of smoke came from the exhaust .</input>
+  <output>When <f id="1">I have Demarré</f>  the car , a puff of smoke came from the exhaust .</output>
+</s>
+<s id="133">
+  <input>The refreshment room is empty except for Myrtle , who is bending down to put coal <f id="1">dans le poêle</f>  .</input>
+  <output>The refreshment room is empty except for Myrtle , who is bending down to put coal <f id="1">in the kettle black<alt>into the kettle black</alt><alt>within the kettle black</alt><alt>at the kettle black</alt><alt>under the kettle black</alt></f>  .</output>
+</s>
+<s id="134">
+  <input>He liked its texture , its <f id="1">sensation lisse</f>  , the clear " clink " sound it made when the beads were removed .</input>
+  <output>He liked its texture , its <f id="1">feeling smoothly<alt>sensationalist smoothly</alt><alt>sensational smoothly</alt><alt>sensation smoothly</alt><alt>sensationalism smoothly</alt></f>  , the clear " clink " sound it made when the beads were removed .</output>
+</s>
+<s id="135">
+  <input>However , this is just not going to happen <f id="1">encore pendant un certain temps</f>  , for the simple reason that there are only 182 fully qualified BSL-English interpreters in Britain .</input>
+  <output>However , this is just not going to happen <f id="1">again during some time<alt>even further for some time</alt><alt>driven for some time</alt><alt>even further for a while</alt><alt>again during a certain time</alt></f>  , for the simple reason that there are only 182 fully qualified BSL-English interpreters in Britain .</output>
+</s>
+<s id="136">
+  <input>People are keeping themselves busy by <f id="1">jouer aux cartes</f>  or board games .</input>
+  <output>People are keeping themselves busy by <f id="1">playing at cards<alt>play for cards</alt><alt>play at cards</alt><alt>play the cards</alt><alt>playing the cards</alt></f>  or board games .</output>
+</s>
+<s id="137">
+  <input>British <f id="1">Langue des Signes</f>  is the preferred means of communication for about 70,000 people .</input>
+  <output>British <f id="1">ahom language of signs<alt>ahom language of the signs</alt><alt>ahom language of signes, var</alt><alt>ahom language of the signes, var</alt><alt>ahom language ' signs</alt></f>  is the preferred means of communication for about 70,000 people .</output>
+</s>
+<s id="138">
+  <input>Later , the borough <f id="1">annexait</f>  part of Robinson Township ( now Rosslyn Heights ) and these Neighborhoods include Rosslyn Heights , Cubbage Hill , Irishtown , Forsythe Hill , Library Hill , and Old Mansfield .</input>
+  <output>Later , the borough <f id="1">annexed</f>  part of Robinson Township ( now Rosslyn Heights ) and these Neighborhoods include Rosslyn Heights , Cubbage Hill , Irishtown , Forsythe Hill , Library Hill , and Old Mansfield .</output>
+</s>
+<s id="139">
+  <input>I know it was <f id="1">plus difficile</f>  to get divorced 50 years ago .</input>
+  <output>I know it was <f id="1">more difficult<alt>harder</alt><alt>most difficult</alt><alt>difficult</alt><alt>a more difficult</alt></f>  to get divorced 50 years ago .</output>
+</s>
+<s id="140">
+  <input>Dimitri Kitsikis ( born 2 June 1935 ) is a Greek Turkologist , Professor of International Relations and <f id="1">Géopolitique</f>  who has also published poetry in French and Greek .</input>
+  <output>Dimitri Kitsikis ( born 2 June 1935 ) is a Greek Turkologist , Professor of International Relations and <f id="1">geopolitics<alt>geopolitical</alt></f>  who has also published poetry in French and Greek .</output>
+</s>
+<s id="141">
+  <input>Google still has <f id="1">beaucoup de chemin à faire</f>  before it reaches its goal to be fuelled by renewable energy 100 per cent .</input>
+  <output>Google still has <f id="1">a long way to go<alt>a lot of work to be done</alt><alt>some way to go</alt></f>  before it reaches its goal to be fuelled by renewable energy 100 per cent .</output>
+</s>
+<s id="142">
+  <input>He said : " We will open an office at the base camp with a team of government officials , including the army and police <f id="1">personnel</f>  . "</input>
+  <output>He said : " We will open an office at the base camp with a team of government officials , including the army and police <f id="1">staff<alt>personnel</alt><alt>personal</alt><alt>staffing</alt><alt>staff ,</alt></f>  . "</output>
+</s>
+<s id="143">
+  <input>To this end , Ishii ’ s Tangible Media Group at M.I.T. is developing haptic interfaces : programs that allow you to reach out and <f id="1">de toucher une personne</f>  through a computer .</input>
+  <output>To this end , Ishii ’ s Tangible Media Group at M.I.T. is developing haptic interfaces : programs that allow you to reach out and <f id="1">that you get a person<alt>to touch a person</alt><alt>touch a person</alt><alt>to affect a person</alt><alt>to reach a person</alt></f>  through a computer .</output>
+</s>
+<s id="144">
+  <input>But we believe it is perhaps more important that people are able to <f id="1">s' exprimer</f>  and communicate , than that they do this in perfect Dutch – whatever that might be !</input>
+  <output>But we believe it is perhaps more important that people are able to <f id="1">speak<alt>express themselves</alt><alt>speak out</alt><alt>be expressed</alt><alt>express himself</alt></f>  and communicate , than that they do this in perfect Dutch – whatever that might be !</output>
+</s>
+<s id="145">
+  <input>He <f id="1">m' a téléphoné</f>  a few minutes ago to let me know that he had bought a new car but that he had n't passed not his driving test yet .</input>
+  <output>He <f id="1">phoned<alt>' phoned</alt><alt>I received a telephone call from</alt></f>  a few minutes ago to let me know that he had bought a new car but that he had n't passed not his driving test yet .</output>
+</s>
+<s id="146">
+  <input>After that there is ongeveer één trein <f id="1">toutes les deux heures</f>  , most of which do not call at Parson Street .</input>
+  <output>After that there is ongeveer één trein <f id="1">every two hours</f>  , most of which do not call at Parson Street .</output>
+</s>
+<s id="147">
+  <input>That evening , when I had recovered a bit from my sunburn , I went out to a <f id="1">restaurant de poisson</f>  .</input>
+  <output>That evening , when I had recovered a bit from my sunburn , I went out to a <f id="1">restaurant of fish<alt>restaurant fish</alt><alt>restaurant of fish</alt><alt>restaurant for fish</alt><alt>restaurant which fish</alt></f>  .</output>
+</s>
+<s id="148">
+  <input>When a divorce gets ugly , the kids really <f id="1">souffrent</f>  .</input>
+  <output>When a divorce gets ugly , the kids really <f id="1">suffer<alt>are suffering</alt><alt>suffering</alt><alt>are</alt><alt>have suffered</alt></f>  .</output>
+</s>
+<s id="149">
+  <input>I <f id="1">parlais à voix haute</f>  to him , two or three times a day .</input>
+  <output>I <f id="1">was talking to English<alt>was talking to loud</alt><alt>spoke to English</alt><alt>spoke to loud</alt><alt>was talking to oral</alt></f>  to him , two or three times a day .</output>
+</s>
+<s id="150">
+  <input>I <f id="1">me demande</f>  how many accidents I ’ ve had in my life .</input>
+  <output>I <f id="1">wonder<alt>ask myself</alt><alt>do wonder</alt><alt>am wondering</alt><alt>just wonder</alt></f>  how many accidents I ’ ve had in my life .</output>
+</s>
+<s id="151">
+  <input>No one really <f id="1">parlait</f>  about the weather there .</input>
+  <output>No one really <f id="1">spoke<alt>was speaking</alt><alt>talked</alt><alt>was talking</alt><alt>only talked</alt></f>  about the weather there .</output>
+</s>
+<s id="152">
+  <input>A new generation of Italian directors is emerging that recalls the golden age of neo-realism 50 years ago , and some film makers who <f id="1">se sont mis au premier plan</f>  then or soon after have staged remarkable comebacks .</input>
+  <output>A new generation of Italian directors is emerging that recalls the golden age of neo-realism 50 years ago , and some film makers who <f id="1">have set to leading<alt>have set to forefront</alt><alt>have set to prominent</alt><alt>have set to top</alt><alt>have set to foreground</alt></f>  then or soon after have staged remarkable comebacks .</output>
+</s>
+<s id="153">
+  <input>You can even <f id="1">aller en prison</f>  for having a tiny , tiny bit .</input>
+  <output>You can even <f id="1">go to prison<alt>to go to prison</alt><alt>sent to prison</alt><alt>prison</alt></f>  for having a tiny , tiny bit .</output>
+</s>
+<s id="154">
+  <input>Despite the fact that they manufacture and sell widely differing products , companies such as Champagne Bollinger , Chanel , Hermès , Hotel Ritz and Van Cleef &amp; Arpels together represent 47 per cent of the worldwide-trade in <f id="1">produits de luxe</f>  .</input>
+  <output>Despite the fact that they manufacture and sell widely differing products , companies such as Champagne Bollinger , Chanel , Hermès , Hotel Ritz and Van Cleef &amp; Arpels together represent 47 per cent of the worldwide-trade in <f id="1">luxury goods<alt>luxuries</alt><alt>drink products</alt><alt>luxury goods on</alt></f>  .</output>
+</s>
+<s id="155">
+  <input>Google 's Director of Energy and <f id="1">la durabilité</f>  ( DES ) said : " We 've invested over a billion dollars in 15 projects that have the capacity to produce two giga-watts of power . "</input>
+  <output>Google 's Director of Energy and <f id="1">sustainability<alt>the sustainability</alt><alt>durability</alt><alt>the durability</alt><alt>a sustainable</alt></f>  ( DES ) said : " We 've invested over a billion dollars in 15 projects that have the capacity to produce two giga-watts of power . "</output>
+</s>
+<s id="156">
+  <input>Other members of the family then <f id="1">possèdent</f>  fragments of the same scroll .</input>
+  <output>Other members of the family then <f id="1">possess<alt>have</alt><alt>with</alt><alt>own</alt><alt>hold</alt></f>  fragments of the same scroll .</output>
+</s>
+<s id="157">
+  <input>Many people are killed <f id="1">en raison de</f>  their colour or religion .</input>
+  <output>Many people are killed <f id="1">because of<alt>due to</alt><alt>as a result of</alt><alt>on account of</alt><alt>, due to</alt></f>  their colour or religion .</output>
+</s>
+<s id="158">
+  <input>Kids love birthdays because they get presents and get to eat <f id="1">du gâteau</f>  .</input>
+  <output>Kids love birthdays because they get presents and get to eat <f id="1">of the cake<alt>from the cake</alt><alt>cake</alt><alt>of the pie</alt><alt>out of the spoils</alt></f>  .</output>
+</s>
+<s id="159">
+  <input>We mapped out all our various personas and <f id="1">nous sommes interrogés sur</f>  every aspect of what we do .</input>
+  <output>We mapped out all our various personas and <f id="1">we are asked about<alt>we are asked for their opinion on</alt><alt>we are questioned regarding</alt><alt>we are being asked about</alt><alt>we are looked into</alt></f>  every aspect of what we do .</output>
+</s>
+<s id="160">
+  <input>She was passing the Hunter 's Arms when she remembered that Pascal Le Gros was forever telling Bill to <f id="1">saisir l' avenir</f>  and become a rainbow person .</input>
+  <output>She was passing the Hunter 's Arms when she remembered that Pascal Le Gros was forever telling Bill to <f id="1">seize the future</f>  and become a rainbow person .</output>
+</s>
+<s id="161">
+  <input>A few lawmakers said they were worried the government might make <f id="1">l' interdiction</f>  wider in the future , so no one could smoke in a car .</input>
+  <output>A few lawmakers said they were worried the government might make <f id="1">the ban<alt>a ban</alt><alt>the prohibition</alt><alt>the banning</alt><alt>banning</alt></f>  wider in the future , so no one could smoke in a car .</output>
+</s>
+<s id="162">
+  <input>Erythritol tetranitrate ( ETN ) is an explosive compound chemically <f id="1">similaire à</f>  PETN , that is however thought to be 1 / 3 more sensitive to friction and impact .</input>
+  <output>Erythritol tetranitrate ( ETN ) is an explosive compound chemically <f id="1">similar to<alt>identical with</alt><alt>like</alt><alt>is similar to</alt><alt>equivalent of</alt></f>  PETN , that is however thought to be 1 / 3 more sensitive to friction and impact .</output>
+</s>
+<s id="163">
+  <input>The Dutch Language Union envisages a vital and ongoing role as the ‘ link ’ that encourages and <f id="1">soutient</f>  structural cooperation between the Netherlands and Flanders .</input>
+  <output>The Dutch Language Union envisages a vital and ongoing role as the ‘ link ’ that encourages and <f id="1">supports<alt>support</alt><alt>endorses</alt><alt>is supporting</alt><alt>promotes</alt></f>  structural cooperation between the Netherlands and Flanders .</output>
+</s>
+<s id="164">
+  <input><f id="1">Des témoins</f>  told police that Heit appeared to have his head down when he began drifting into the oncoming lane .</input>
+  <output><f id="1">At witnesses<alt>There witnesses</alt><alt>Plans witnesses</alt><alt>People witnesses</alt><alt>Extraordinary witnesses</alt></f>  told police that Heit appeared to have his head down when he began drifting into the oncoming lane .</output>
+</s>
+<s id="165">
+  <input>Pochampally , a cluster of 80 villages , is the place where threads and colours find their way into the hands of skillful weavers and <f id="1">se jettent</f>  into the market as beautiful sarees and dress material is the most typical weaving village in Nalgonda District of Andhra Pradesh .</input>
+  <output>Pochampally , a cluster of 80 villages , is the place where threads and colours find their way into the hands of skillful weavers and <f id="1">are thrown<alt>launching themselves</alt><alt>throwing a</alt><alt>drain</alt><alt>are throwing themselves</alt></f>  into the market as beautiful sarees and dress material is the most typical weaving village in Nalgonda District of Andhra Pradesh .</output>
+</s>
+<s id="166">
+  <input>I see that you are becoming impatient with me , but I <f id="1">fais de mon mieux</f>  to do it properly .</input>
+  <output>I see that you are becoming impatient with me , but I <f id="1">am my best<alt>understand by my best</alt><alt>sentiments are my best</alt><alt>will my best</alt><alt>sentiments my best</alt></f>  to do it properly .</output>
+</s>
+<s id="167">
+  <input>When the plane had landed , we were taken <f id="1">directement à</f>  the hotel .</input>
+  <output>When the plane had landed , we were taken <f id="1">directly to<alt>directly in</alt><alt>directly at</alt><alt>straight to</alt><alt>straight into</alt></f>  the hotel .</output>
+</s>
+<s id="168">
+  <input>After patiently stalking its prey , the lion makes a <f id="1">rapide comme l' éclair</f>  charge for the kill .</input>
+  <output>After patiently stalking its prey , the lion makes a <f id="1">, rapid as the flash<alt>, rapid as flash</alt><alt>, fast as flash</alt><alt>, fast as the flash</alt><alt>, rapidly as the flash</alt></f>  charge for the kill .</output>
+</s>
+<s id="169">
+  <input><f id="1">Au moins</f>  150 people are reported to have been killed by huge explosions at an arms dump in Congo Brazzaville .</input>
+  <output><f id="1">At least<alt>On least</alt><alt>On less</alt><alt>In least</alt><alt>In less</alt></f>  150 people are reported to have been killed by huge explosions at an arms dump in Congo Brazzaville .</output>
+</s>
+<s id="170">
+  <input>I really do n't mind lending her a few 20 p pieces but what annoys me is that she knows how many she needs each week but never <f id="1">prend la peine</f>  to bring the right number home .</input>
+  <output>I really do n't mind lending her a few 20 p pieces but what annoys me is that she knows how many she needs each week but never <f id="1">cares<alt>takes the trouble</alt><alt>take the trouble</alt></f>  to bring the right number home .</output>
+</s>
+<s id="171">
+  <input>I think <f id="1">des romans</f>  are great for getting to know other worlds and cultures .</input>
+  <output>I think <f id="1">' novels<alt>for novels</alt><alt>in novels</alt><alt>in the novels</alt><alt>from novels</alt></f>  are great for getting to know other worlds and cultures .</output>
+</s>
+<s id="172">
+  <input>Maybe the stress of <f id="1">la vie moderne</f>  puts too much pressure on families .</input>
+  <output>Maybe the stress of <f id="1">modern life<alt>modern life itself</alt><alt>modern life is</alt><alt>our lives today</alt><alt>in modern times</alt></f>  puts too much pressure on families .</output>
+</s>
+<s id="173">
+  <input>Twenty-two other people <f id="1">ont été blessées</f>  in the explosion .</input>
+  <output>Twenty-two other people <f id="1">were injured<alt>were wounded</alt><alt>have been injured</alt><alt>have been hurt</alt><alt>were injured ,</alt></f>  in the explosion .</output>
+</s>
+<s id="174">
+  <input>The poetry is notable for its avoidance of the <f id="1">caractère artificiel</f>  almost universal in his days .</input>
+  <output>The poetry is notable for its avoidance of the <f id="1">artificial nature<alt>artificiality</alt><alt>artificial tenor</alt><alt>artificial</alt></f>  almost universal in his days .</output>
+</s>
+<s id="175">
+  <input>The dispute was <f id="1">résolu</f>  without anyone suffering serious injuries .</input>
+  <output>The dispute was <f id="1">resolved<alt>solved</alt><alt>settled</alt><alt>resolve</alt><alt>resolved ,</alt></f>  without anyone suffering serious injuries .</output>
+</s>
+<s id="176">
+  <input>Some lawmakers say it takes away the freedom for people to smoke in their <f id="1">propre</f>  car .</input>
+  <output>Some lawmakers say it takes away the freedom for people to smoke in their <f id="1">own<alt>clean</alt><alt>very own</alt><alt>proper</alt><alt>own individual</alt></f>  car .</output>
+</s>
+<s id="177">
+  <input>Von Gazen was promoted to Hauptmann ( Captain ) and received the Knight 's Cross of the Iron Cross on 18 September 1942 for his <f id="1">réalisations</f>  in summer of 1942 and the assault on Rostov .</input>
+  <output>Von Gazen was promoted to Hauptmann ( Captain ) and received the Knight 's Cross of the Iron Cross on 18 September 1942 for his <f id="1">achievements<alt>accomplishments</alt><alt>achievement</alt><alt>réalisations</alt><alt>performance</alt></f>  in summer of 1942 and the assault on Rostov .</output>
+</s>
+<s id="178">
+  <input>We <f id="1">reconnaissons</f>  variation in language and proficiency in other languages and we believe that Dutch should make its mark in a multilingual world .</input>
+  <output>We <f id="1">recognise<alt>acknowledge</alt><alt>recognize</alt><alt>agree</alt><alt>accept</alt></f>  variation in language and proficiency in other languages and we believe that Dutch should make its mark in a multilingual world .</output>
+</s>
+<s id="179">
+  <input>The former prime minister has earned the respect <f id="1">de la foule</f>  of Maidan .</input>
+  <output>The former prime minister has earned the respect <f id="1">of the crowd<alt>the abundance</alt><alt>of the umpteen</alt></f>  of Maidan .</output>
+</s>
+<s id="180">
+  <input>Ladies and gentlemen , Human Language Technology will always continue to play a <f id="1">rôle de premier plan</f>  in our policy .</input>
+  <output>Ladies and gentlemen , Human Language Technology will always continue to play a <f id="1">leading role<alt>prominent role</alt><alt>key role</alt><alt>leading part</alt><alt>major role</alt></f>  in our policy .</output>
+</s>
+<s id="181">
+  <input><f id="1">Techniquement</f>  , Mountain House is a state-formed community services district , which means it has some infrastructure , including water , and it collects property taxes .</input>
+  <output><f id="1">Technically</f>  , Mountain House is a state-formed community services district , which means it has some infrastructure , including water , and it collects property taxes .</output>
+</s>
+<s id="182">
+  <input>The world of war , he seems to be saying , took a <f id="1">grand pas en avant</f>  in that period—the kind of blind technological advance in destructiveness that we have become all too accustomed to .</input>
+  <output>The world of war , he seems to be saying , took a <f id="1">big step forward<alt>major step forward</alt><alt>great step forward</alt><alt>huge step forward</alt><alt>significant step forward</alt></f>  in that period—the kind of blind technological advance in destructiveness that we have become all too accustomed to .</output>
+</s>
+<s id="183">
+  <input>To the north and east , careless processing of nuclear fuel has been poisoning huge <f id="1">étendues de terres</f>  for generations , so it is normal that the population wants to migrate .</input>
+  <output>To the north and east , careless processing of nuclear fuel has been poisoning huge <f id="1">expanses of land<alt>tracts of land</alt><alt>swathes of land</alt><alt>stretches of land</alt><alt>areas of land</alt></f>  for generations , so it is normal that the population wants to migrate .</output>
+</s>
+<s id="184">
+  <input>A new generation of readers is falling under the powerful <f id="1">sortilège</f>  by Marcel Proust ’ s 3,000 - page masterpiece .</input>
+  <output>A new generation of readers is falling under the powerful <f id="1">spell</f>  by Marcel Proust ’ s 3,000 - page masterpiece .</output>
+</s>
+<s id="185">
+  <input>One evening in April 1992 , while Colin and Kim <f id="1">servaient des clients</f>  , the manager announced that there would be no live music in the restaurant that night as the regular band could not come .</input>
+  <output>One evening in April 1992 , while Colin and Kim <f id="1">was generally applied customers<alt>served customers</alt><alt>were used customers</alt><alt>was generally applied clients</alt><alt>served clients</alt></f>  , the manager announced that there would be no live music in the restaurant that night as the regular band could not come .</output>
+</s>
+<s id="186">
+  <input>Yesterday the police <f id="1">a attrapé un voleur</f>  in Fleet Street , but I have n't heard anything more about the event so far .</input>
+  <output>Yesterday the police <f id="1">has been out in a thief<alt>has been out a thief</alt><alt>has been out in a thief</alt><alt>has been out in an thief</alt><alt>has been out in a crook</alt></f>  in Fleet Street , but I have n't heard anything more about the event so far .</output>
+</s>
+<s id="187">
+  <input>I was <f id="1">toujours fatigué</f>  when I got up the next morning .</input>
+  <output>I was <f id="1">always tired<alt>always fatigued</alt><alt>still tired</alt><alt>still fatigued</alt><alt>always become quite tired</alt></f>  when I got up the next morning .</output>
+</s>
+<s id="188">
+  <input>The fruits of an unusual example of <f id="1">anglo-française</f>  co-operation can be seen at the Design Museum in London from September 25 to October 14 .</input>
+  <output>The fruits of an unusual example of <f id="1">an Anglo-French merger</f>  co-operation can be seen at the Design Museum in London from September 25 to October 14 .</output>
+</s>
+<s id="189">
+  <input>He asks <f id="1">si</f>  you come .</input>
+  <output>He asks <f id="1">if<alt>whether</alt><alt>so</alt><alt>when</alt><alt>though</alt></f>  you come .</output>
+</s>
+<s id="190">
+  <input>I wonder what remarkable event he <f id="1">fête</f>  now .</input>
+  <output>I wonder what remarkable event he <f id="1">festival<alt>celebration</alt><alt>is celebrating</alt><alt>celebrates</alt><alt>feast</alt></f>  now .</output>
+</s>
+<s id="191">
+  <input>Traffic accidents are <f id="1">les pires</f>  .</input>
+  <output>Traffic accidents are <f id="1">the worst<alt>the very worst</alt><alt>the worst possible</alt><alt>the worst of</alt><alt>the greatest</alt></f>  .</output>
+</s>
+<s id="192">
+  <input>Looking at animals <f id="1">dans leur habitat naturel</f>  is a real honour .</input>
+  <output>Looking at animals <f id="1">in their natural habitat<alt>in their natural habitats</alt></f>  is a real honour .</output>
+</s>
+<s id="193">
+  <input>The world ’ s leaders think using violence against another country is a good way to <f id="1">résoudre</f>  problems</input>
+  <output>The world ’ s leaders think using violence against another country is a good way to <f id="1">solve<alt>resolve</alt><alt>solving</alt><alt>resolving</alt><alt>address</alt></f>  problems</output>
+</s>
+<s id="194">
+  <input>I used to hear <f id="1">des bruits étranges</f>  at night when I was in bed .</input>
+  <output>I used to hear <f id="1">the sounds strange<alt>noises strange</alt><alt>the sounds of strange</alt><alt>the sounds odd</alt><alt>the sounds bizarre</alt></f>  at night when I was in bed .</output>
+</s>
+<s id="195">
+  <input>Every time you <f id="1">allumez</f>  the TV , there 's a story on violence .</input>
+  <output>Every time you <f id="1">put<alt>light</alt></f>  the TV , there 's a story on violence .</output>
+</s>
+<s id="196">
+  <input>The glamorous 29 - year-old died from head injuries after clinging to the door handle of her Porsche and <f id="1">être entraînée</f>  along the street as the carkjackers sped away .</input>
+  <output>The glamorous 29 - year-old died from head injuries after clinging to the door handle of her Porsche and <f id="1">get dragged</f>  along the street as the carkjackers sped away .</output>
+</s>
+<s id="197">
+  <input>More than 33,000 babies <f id="1">sont nés</f>  in the U.S. thanks to in-vitro fertilization , or IVF-nearly 7,000 in 1994 alone , the most recent year .</input>
+  <output>More than 33,000 babies <f id="1">were born<alt>are born</alt><alt>have been born</alt><alt>born</alt><alt>, who were born</alt></f>  in the U.S. thanks to in-vitro fertilization , or IVF-nearly 7,000 in 1994 alone , the most recent year .</output>
+</s>
+<s id="198">
+  <input>We really need to change our lifestyle so our children can have <f id="1">l' occasion de</f>  seeing animals in the wild .</input>
+  <output>We really need to change our lifestyle so our children can have <f id="1">the opportunity to<alt>an opportunity to</alt><alt>the opportunity of</alt><alt>the chance to</alt><alt>a chance to</alt></f>  seeing animals in the wild .</output>
+</s>
+<s id="199">
+  <input>If I see or hear an English word I write it down and look up <f id="1">le sens</f>  in a dictionary .</input>
+  <output>If I see or hear an English word I write it down and look up <f id="1">the meaning<alt>the sense</alt><alt>the direction</alt><alt>the lines</alt><alt>a sense</alt></f>  in a dictionary .</output>
+</s>
+<s id="200">
+  <input>The words in <f id="1">un beau poème</f>  or song can make us cry , hope and laugh .</input>
+  <output>The words in <f id="1">a beautiful poem</f>  or song can make us cry , hope and laugh .</output>
+</s>
+<s id="201">
+  <input>It <f id="1">menacerait</f>  jobs and would make it more difficult for those with less qualifications .</input>
+  <output>It <f id="1">would threaten<alt>would endanger</alt><alt>will threaten</alt><alt>jeopardize</alt><alt>would pose a threat to</alt></f>  jobs and would make it more difficult for those with less qualifications .</output>
+</s>
+<s id="202">
+  <input>He decided that if she was <f id="1">suffisamment adulte</f>  to shoot it , she had to be be grown up enough to clear it .</input>
+  <output>He decided that if she was <f id="1">sufficiently adult<alt>enough adult</alt><alt>sufficient adult</alt><alt>sufficiently mature</alt><alt>sufficiently adults</alt></f>  to shoot it , she had to be be grown up enough to clear it .</output>
+</s>
+<s id="203">
+  <input>Helicopters have been lifting tortoises to safety since Monday but the operation is very slow because the animals <f id="1">pèsent plus de</f>  250 kg .</input>
+  <output>Helicopters have been lifting tortoises to safety since Monday but the operation is very slow because the animals <f id="1">weigh over</f>  250 kg .</output>
+</s>
+<s id="204">
+  <input>Laurent Gbagbo , 67 years , <f id="1">est poursuivi pour</f>  crimes against humanity .</input>
+  <output>Laurent Gbagbo , 67 years , <f id="1">is being prosecuted for</f>  crimes against humanity .</output>
+</s>
+<s id="205">
+  <input>She wishes to <f id="1">en outre</f>  avoid provoking tensions between universities .</input>
+  <output>She wishes to <f id="1">furthermore<alt>also</alt><alt>in addition</alt><alt>moreover</alt><alt>further</alt></f>  avoid provoking tensions between universities .</output>
+</s>
+<s id="206">
+  <input>Arizona <f id="1">est connu pour</f>  its pro-gun and anti-immigrant views .</input>
+  <output>Arizona <f id="1">is notorious for<alt>is famous for</alt><alt>is famed for</alt><alt>is known for</alt><alt>is renowned for</alt></f>  its pro-gun and anti-immigrant views .</output>
+</s>
+<s id="207">
+  <input>She had never even given him <f id="1">du thé</f>  all day .</input>
+  <output>She had never even given him <f id="1">tea<alt>of tea</alt></f>  all day .</output>
+</s>
+<s id="208">
+  <input>In " Tomorrow " , Francesca Archibugi offers a <f id="1">étude émouvante</f>  of the impact of an earthquake in a small Umbrian town .</input>
+  <output>In " Tomorrow " , Francesca Archibugi offers a <f id="1">study moving<alt>study movingly</alt><alt>study touching</alt><alt>study emotional</alt><alt>survey moving</alt></f>  of the impact of an earthquake in a small Umbrian town .</output>
+</s>
+<s id="209">
+  <input>Thousands of billionaires live like <f id="1">des rois et des reines</f>  while billions go hungry .</input>
+  <output>Thousands of billionaires live like <f id="1">kings and queens</f>  while billions go hungry .</output>
+</s>
+<s id="210">
+  <input>The bad news is that the <f id="1">chaos</f>  will continue for another month .</input>
+  <output>The bad news is that the <f id="1">chaos<alt>mess</alt><alt>chaotic situation</alt><alt>chaotic</alt><alt>mayhem</alt></f>  will continue for another month .</output>
+</s>
+<s id="211">
+  <input>The World Cup kicks off , will be kicking off in exactly 10 days and as things stand today there are thousands of <f id="1">billets disponibles</f>  .</input>
+  <output>The World Cup kicks off , will be kicking off in exactly 10 days and as things stand today there are thousands of <f id="1">tickets available</f>  .</output>
+</s>
+<s id="212">
+  <input>If we wish to make our redefined role truly sustainable , then we need to put effort into <f id="1">l' établissement d'</f>  a place where language-related initiatives can be assessed as to their social relevance , aligned and potentially exchanged with other players in our language area .</input>
+  <output>If we wish to make our redefined role truly sustainable , then we need to put effort into <f id="1">the establishment of<alt>establishing</alt><alt>setting up</alt><alt>the setting up of</alt><alt>the creation of</alt></f>  a place where language-related initiatives can be assessed as to their social relevance , aligned and potentially exchanged with other players in our language area .</output>
+</s>
+<s id="213">
+  <input>When the old lady returned to her flat she saw at once that burglars had broken in during her absence , because the <f id="1">porte avant</f>  was open and everything in the flat was upside down .</input>
+  <output>When the old lady returned to her flat she saw at once that burglars had broken in during her absence , because the <f id="1">main focus<alt>backyard before</alt><alt>deals first</alt><alt>relates first</alt><alt>order before</alt></f>  was open and everything in the flat was upside down .</output>
+</s>
+<s id="214">
+  <input>Bankers get <f id="1">beaucoup trop de</f>  money .</input>
+  <output>Bankers get <f id="1">far too much<alt>too much</alt><alt>far too many</alt><alt>too many</alt><alt>far too</alt></f>  money .</output>
+</s>
+<s id="215">
+  <input>The church has laid in ruins since <f id="1">sa destruction</f>  , a potent reminder of the virtual razing of Dresden during World War II .</input>
+  <output>The church has laid in ruins since <f id="1">its destruction<alt>its destruction ,</alt><alt>its destruction is</alt><alt>this destruction</alt><alt>the brink of destruction</alt></f>  , a potent reminder of the virtual razing of Dresden during World War II .</output>
+</s>
+<s id="216">
+  <input>Police have not been able to confirm the origin of the explosion <f id="1">à ce stade</f>  .</input>
+  <output>Police have not been able to confirm the origin of the explosion <f id="1">at this stage<alt>at this point</alt><alt>at this time</alt><alt>at this juncture</alt><alt>at that stage</alt></f>  .</output>
+</s>
+<s id="217">
+  <input>We would like to make sure that it is a <f id="1">fiable</f>  ally .</input>
+  <output>We would like to make sure that it is a <f id="1">reliable<alt>trustworthy</alt><alt>dependable</alt><alt>trusted</alt><alt>a reliable</alt></f>  ally .</output>
+</s>
+<s id="218">
+  <input>Soldiers have desperately been <f id="1">combattre un incendie</f>  that started 13 days ago on the largest of the Galapagos islands .</input>
+  <output>Soldiers have desperately been <f id="1">combat a fire<alt>fight a fire</alt><alt>fighting a fire</alt><alt>fighting against a fire</alt><alt>fight a fire</alt></f>  that started 13 days ago on the largest of the Galapagos islands .</output>
+</s>
+<s id="219">
+  <input>He squatted precariously and <f id="1">soulevait la pierre</f>  in both hands and then he eased himself to his feet and scrambled back to Wexford .</input>
+  <output>He squatted precariously and <f id="1">were to raise the stone<alt>raised the stone</alt><alt>raised stone</alt><alt>were to raise the brick</alt><alt>were causing stone</alt></f>  in both hands and then he eased himself to his feet and scrambled back to Wexford .</output>
+</s>
+<s id="220">
+  <input>The building was in use for its original purpose until the early 1960 s , but by the time it was bought for conversion into dwellings in 1977 , it had stood empty for more than ten years and was decaying rapidly because the upper floors and roof covering of the mill had been <f id="1">détruits</f>  in a fire .</input>
+  <output>The building was in use for its original purpose until the early 1960 s , but by the time it was bought for conversion into dwellings in 1977 , it had stood empty for more than ten years and was decaying rapidly because the upper floors and roof covering of the mill had been <f id="1">destroyed<alt>being destroyed</alt><alt>burnt</alt><alt>were destroyed</alt><alt>damaged</alt></f>  in a fire .</output>
+</s>
+<s id="221">
+  <input>I 'm <f id="1">pas du tout</f>  surprised so many banks did badly in the credit crisis .</input>
+  <output>I 'm <f id="1">not at all<alt>not in any</alt><alt>not altogether</alt><alt>not in any way</alt><alt>cannot at all</alt></f>  surprised so many banks did badly in the credit crisis .</output>
+</s>
+<s id="222">
+  <input>Luciano Emmer , who is 84 , has just made his first film in ten years , while in " The Profession of Arms " , the 70 - year-old Ermanno Olmi has <f id="1">livré</f>  one of the most majestic pictures of his career .</input>
+  <output>Luciano Emmer , who is 84 , has just made his first film in ten years , while in " The Profession of Arms " , the 70 - year-old Ermanno Olmi has <f id="1">delivered<alt>given</alt><alt>delivered up</alt><alt>handed over</alt><alt>made</alt></f>  one of the most majestic pictures of his career .</output>
+</s>
+<s id="223">
+  <input>I 've lost count of <f id="1">le nombre de fois</f>  I ’ ve hit my thumb with a hammer .</input>
+  <output>I 've lost count of <f id="1">the number of times<alt>the number of occasions</alt><alt>about the number of times</alt></f>  I ’ ve hit my thumb with a hammer .</output>
+</s>
+<s id="224">
+  <input>The Internet can be <f id="1">un endroit effrayant</f>  these days , especially because of cyber-bullying .</input>
+  <output>The Internet can be <f id="1">a place frightening<alt>one place frightening</alt><alt>a place scary</alt><alt>one place scary</alt><alt>one location frightening</alt></f>  these days , especially because of cyber-bullying .</output>
+</s>
+<s id="225">
+  <input>Today , the Dow is <f id="1">encore plus élevé que</f>  it was , the economy is enjoying robust growth and the core rate of consumer-price inflation has fallen to a 33 - year low .</input>
+  <output>Today , the Dow is <f id="1">even greater increase that<alt>even bigger that</alt><alt>even bigger than</alt><alt>even greater increase as</alt><alt>even greater as</alt></f>  it was , the economy is enjoying robust growth and the core rate of consumer-price inflation has fallen to a 33 - year low .</output>
+</s>
+<s id="226">
+  <input>A government <f id="1">d' union nationale</f>  has to be appointed by tuesday .</input>
+  <output>A government <f id="1">of national unity<alt>of national unity ,</alt><alt>of national union</alt><alt>of National Unity</alt><alt>National Unity</alt></f>  has to be appointed by tuesday .</output>
+</s>
+<s id="227">
+  <input>Ann has failed her driving test three times because she 's so bad <f id="1">à faire marche arrière</f>  .</input>
+  <output>Ann has failed her driving test three times because she 's so bad <f id="1">to back down<alt>to pull back</alt><alt>to turn back</alt><alt>to backtrack</alt><alt>to sit back</alt></f>  .</output>
+</s>
+<s id="228">
+  <input>On July 18 1933 the body of Bernadette Soubirous , clothed in a new habit and outfitted with the wax mask and gloves made for her in Paris by the firm of Pierre Imans , was borne to the Hall of Novices <f id="1">sur un brancard blanc</f>  .</input>
+  <output>On July 18 1933 the body of Bernadette Soubirous , clothed in a new habit and outfitted with the wax mask and gloves made for her in Paris by the firm of Pierre Imans , was borne to the Hall of Novices <f id="1">on a white stretcher</f>  .</output>
+</s>
+<s id="229">
+  <input>She spoke about the trauma suffered by a woman after <f id="1">la perte de</f>  her husband .</input>
+  <output>She spoke about the trauma suffered by a woman after <f id="1">the loss of<alt>losing</alt><alt>loss of</alt><alt>a loss of</alt><alt>in the loss of</alt></f>  her husband .</output>
+</s>
+<s id="230">
+  <input>Tempers can get hot even in the <f id="1">conditions glaciales .</f>  on Mount Everest , the world 's highest mountain .</input>
+  <output>Tempers can get hot even in the <f id="1">freezing conditions .<alt>freezing conditions ,</alt><alt>freezing conditions and</alt><alt>freezing conditions ;</alt><alt>freezing conditions , and</alt></f>  on Mount Everest , the world 's highest mountain .</output>
+</s>
+<s id="231">
+  <input>For the CEO of Facebook , WhatsApp <f id="1">vaut plus que</f>  19 billion dollars .</input>
+  <output>For the CEO of Facebook , WhatsApp <f id="1">worth only<alt>is worth more than</alt><alt>counts for more than</alt><alt>now worth only</alt></f>  19 billion dollars .</output>
+</s>
+<s id="232">
+  <input>In France , the definitive Pléiade edition of La recherche , <f id="1">comme le connaissent</f>  its fans , appeared in 1989 .</input>
+  <output>In France , the definitive Pléiade edition of La recherche , <f id="1">, as the know<alt>, as know</alt><alt>, such as the know</alt><alt>, as are experiencing</alt><alt>, as are</alt></f>  its fans , appeared in 1989 .</output>
+</s>
+<s id="233">
+  <input>When I saw the doctor approaching with a big syringe I thought , " Yikes " , this <f id="1">va faire mal</f>  !</input>
+  <output>When I saw the doctor approaching with a big syringe I thought , " Yikes " , this <f id="1">is going to do evil<alt>is going to do badly</alt><alt>is going to do poorly</alt><alt>is going to do wrong</alt><alt>is going to be doing evil</alt></f>  !</output>
+</s>
+<s id="234">
+  <input>He has been the subject of numerous interviews in animation journals and publications and is considered part of an exclusive <f id="1">classe</f>  of premier animators in his field .</input>
+  <output>He has been the subject of numerous interviews in animation journals and publications and is considered part of an exclusive <f id="1">class<alt>classes</alt><alt>Class</alt><alt>classroom</alt><alt>group</alt></f>  of premier animators in his field .</output>
+</s>
+<s id="235">
+  <input>He was condemed <f id="1">à la prison à vie</f>  .</input>
+  <output>He was condemed <f id="1">to life imprisonment<alt>to life in prison</alt></f>  .</output>
+</s>
+<s id="236">
+  <input>It was <f id="1">mal imprimé</f>  on cheap stock , and the letters were smeared where her fingers had rubbed them .</input>
+  <output>It was <f id="1">poorly printed<alt>badly printed</alt><alt>evil printed</alt><alt>incorrectly printed</alt><alt>not printed</alt></f>  on cheap stock , and the letters were smeared where her fingers had rubbed them .</output>
+</s>
+<s id="237">
+  <input>We have successfully summarized this complex picture in three words : ‘ Language creates <f id="1">des possibilités</f>  ’ .</input>
+  <output>We have successfully summarized this complex picture in three words : ‘ Language creates <f id="1">opportunities<alt>the possibilities</alt><alt>the opportunities</alt><alt>of the possibilities</alt><alt>the possibility</alt></f>  ’ .</output>
+</s>
+<s id="238">
+  <input>Sure , I ’ d had a Smirnoff Ice or 3 by the time we hit the club , but I was still sober <f id="1">selon mes normes</f>  .</input>
+  <output>Sure , I ’ d had a Smirnoff Ice or 3 by the time we hit the club , but I was still sober <f id="1">according to my standards<alt>according to my standards</alt><alt>according to do my standards</alt><alt>and according to my standards</alt><alt>under my standards</alt></f>  .</output>
+</s>
+<s id="239">
+  <input>He had in fact invited the writer Tom Lanoye , because Tom had <f id="1">fait savoir</f>  that he was trying to combine language , innovation and entrepreneurship .</input>
+  <output>He had in fact invited the writer Tom Lanoye , because Tom had <f id="1">indicated<alt>made it known</alt><alt>stated</alt><alt>told</alt><alt>let it be known</alt></f>  that he was trying to combine language , innovation and entrepreneurship .</output>
+</s>
+<s id="240">
+  <input>Paris was committed to reduce its deficit <f id="1">en dessous du seuil</f>  of 3 % by 2015 .</input>
+  <output>Paris was committed to reduce its deficit <f id="1">below the limit<alt>under the threshold</alt><alt>below the threshold</alt><alt>, below</alt></f>  of 3 % by 2015 .</output>
+</s>
+<s id="241">
+  <input>In <f id="1">une fraction de seconde</f>  you could ruin your future</input>
+  <output>In <f id="1">a split second</f>  you could ruin your future</output>
+</s>
+<s id="242">
+  <input>Anyway she probably does n't realise that she <f id="1">me doit de l' argent</f>  .</input>
+  <output>Anyway she probably does n't realise that she <f id="1">me owed money by<alt>am owed money by</alt><alt>me are owed money by</alt><alt>I owed money by</alt><alt>would owed money by</alt></f>  .</output>
+</s>
+<s id="243">
+  <input>He added : " The presence of security officials at the base camp will give a <f id="1">psychologique</f>  feeling to climbers that they are safe . "</input>
+  <output>He added : " The presence of security officials at the base camp will give a <f id="1">psychological<alt>psychologically</alt><alt>psychological one</alt><alt>mental</alt><alt>psychology</alt></f>  feeling to climbers that they are safe . "</output>
+</s>
+<s id="244">
+  <input>From this meeting the Avignon Manifesto - a joint declaration of intent - was created and published for their members to individually <f id="1">ratifier</f>  .</input>
+  <output>From this meeting the Avignon Manifesto - a joint declaration of intent - was created and published for their members to individually <f id="1">ratify<alt>ratified</alt><alt>ratifying</alt><alt>ratification</alt><alt>to ratify</alt></f>  .</output>
+</s>
+<s id="245">
+  <input>I 've had good and bad <f id="1">voisins</f>  .</input>
+  <output>I 've had good and bad <f id="1">neighbours<alt>neighbouring</alt><alt>neighbour</alt><alt>neighbourhood</alt><alt>nearby</alt></f>  .</output>
+</s>
+<s id="246">
+  <input>The prophet Mohammed 's first wife was <f id="1">beaucoup plus âgée que lui</f>  ; various kings and princes through the ages have been happy to marry much older queens for their money and armies .</input>
+  <output>The prophet Mohammed 's first wife was <f id="1">, much more older than him<alt>, much more elderly than him</alt><alt>, much more elderly that he</alt><alt>, much more elderly to it by</alt><alt>, much more elderly upon him</alt></f>  ; various kings and princes through the ages have been happy to marry much older queens for their money and armies .</output>
+</s>
+<s id="247">
+  <input>Austria has strenghtened monitoring <f id="1">des comptes bancaires suspects</f>  .</input>
+  <output>Austria has strenghtened monitoring <f id="1">of bank accounts suspects<alt>of Auditors suspicious bank</alt><alt>of bank accounts suspected</alt><alt>bank accounts suspects</alt><alt>of bank accounts suspect</alt></f>  .</output>
+</s>
+<s id="248">
+  <input>Russia had promised <f id="1">de prêter</f>  them 15 billion dollars .</input>
+  <output>Russia had promised <f id="1">to pay<alt>to lend</alt><alt>to give</alt><alt>in to give</alt><alt>to be paid</alt></f>  them 15 billion dollars .</output>
+</s>
+<s id="249">
+  <input>His fascination for technology ( he had previously worked both with programming drums and databases in the US ) <f id="1">l' a rapidement emmené à</f>  the Internet , e-business and management consulting .</input>
+  <output>His fascination for technology ( he had previously worked both with programming drums and databases in the US ) <f id="1">, has quickly taken to<alt>Jöns has quickly taken to</alt><alt>, was quickly taken to</alt><alt>It has quickly taken to</alt><alt>'s quickly taken to</alt></f>  the Internet , e-business and management consulting .</output>
+</s>
+<s id="250">
+  <input>While Mrs Day attempted to <f id="1">arrêter le sang</f>  flowing from his battered face , he strode across the courtyard to where his comrade lay , now surrounded by interested bystanders .</input>
+  <output>While Mrs Day attempted to <f id="1">stop the blood<alt>stop the blood</alt><alt>stop blood</alt><alt>halt the blood</alt><alt>arrest the blood</alt></f>  flowing from his battered face , he strode across the courtyard to where his comrade lay , now surrounded by interested bystanders .</output>
+</s>
+<s id="251">
+  <input>Many of the greatest athletes in the world have taken part in the Olympic Games , but no one has <f id="1">égalé</f>  the achievements of the great Finnish athlete , Paavo Nurmi , who between 1920 and 1928 won nine gold and three silver medals .</input>
+  <output>Many of the greatest athletes in the world have taken part in the Olympic Games , but no one has <f id="1">matched<alt>low</alt></f>  the achievements of the great Finnish athlete , Paavo Nurmi , who between 1920 and 1928 won nine gold and three silver medals .</output>
+</s>
+<s id="252">
+  <input>At 5 am on Tuesday 4 April 1899 , PC John Charlton , popular village constable , loving husband and father of four young children , <f id="1">est décédé</f>  without regaining consciousness .</input>
+  <output>At 5 am on Tuesday 4 April 1899 , PC John Charlton , popular village constable , loving husband and father of four young children , <f id="1">died<alt>he died</alt><alt>has died</alt><alt>who died</alt><alt>is deceased</alt></f>  without regaining consciousness .</output>
+</s>
+<s id="253">
+  <input>Most electricity comes from burning <f id="1">du charbon</f>  .</input>
+  <output>Most electricity comes from burning <f id="1">coal<alt>of coal</alt><alt>Coal</alt><alt>coal supplies</alt><alt>the coal</alt></f>  .</output>
+</s>
+<s id="254">
+  <input>Includes PlayStation Vita system , 16 GB Memory Card for PlayStation Vita , <f id="1">bon</f>  for 10 games .</input>
+  <output>Includes PlayStation Vita system , 16 GB Memory Card for PlayStation Vita , <f id="1">good<alt>right</alt><alt>smooth</alt><alt>proper</alt><alt>sound</alt></f>  for 10 games .</output>
+</s>
+<s id="255">
+  <input>The eldest Jones girl has taken the exam three times and <f id="1">a échoué</f>  every time .</input>
+  <output>The eldest Jones girl has taken the exam three times and <f id="1">has failed<alt>failed</alt><alt>was unsuccessful</alt><alt>fell through</alt><alt>broke down</alt></f>  every time .</output>
+</s>
+<s id="256">
+  <input>He is walking very slowly because the bottle which he is carrying holds nitroglycerine , and this explodes if it <f id="1">est secouée</f>  .</input>
+  <output>He is walking very slowly because the bottle which he is carrying holds nitroglycerine , and this explodes if it <f id="1">is shaken<alt>has been haunted</alt></f>  .</output>
+</s>
+<s id="257">
+  <input>The burglars themselves were no longer there , but they probably had only just left because a cigarette <f id="1">brûlait encore</f>  on an ornamental table .</input>
+  <output>The burglars themselves were no longer there , but they probably had only just left because a cigarette <f id="1">was still burning</f>  on an ornamental table .</output>
+</s>
+<s id="258">
+  <input>Users must be 7 years old and users under 18 require <f id="1">le consentement de leurs parents</f>  .</input>
+  <output>Users must be 7 years old and users under 18 require <f id="1">the consent of their parents<alt>the consent of their parents</alt><alt>the consent of their relatives</alt><alt>the consent of parents</alt><alt>obtaining the consent of their parents</alt></f>  .</output>
+</s>
+<s id="259">
+  <input>My teacher always says it 's best to learn <f id="1">en faisant</f>  .</input>
+  <output>My teacher always says it 's best to learn <f id="1">by doing<alt>by making</alt><alt>by</alt><alt>through</alt><alt>making</alt></f>  .</output>
+</s>
+<s id="260">
+  <input><f id="1">Les chiffres</f>  from the Department of Health suggest that in total it will have spent more than £ 1 billion on drugs and vaccines for swine flu by the end of the pandemic , but Sir Liam Donaldson , the Chief Medical Officer for England , added that the full costs would not be calculated until a later date .</input>
+  <output><f id="1">The figures</f>  from the Department of Health suggest that in total it will have spent more than £ 1 billion on drugs and vaccines for swine flu by the end of the pandemic , but Sir Liam Donaldson , the Chief Medical Officer for England , added that the full costs would not be calculated until a later date .</output>
+</s>
+<s id="261">
+  <input>The nine-person team will be ready to deal with any alpine <f id="1">altercations</f>  before the climbing season begins in April .</input>
+  <output>The nine-person team will be ready to deal with any alpine <f id="1">wrangles</f>  before the climbing season begins in April .</output>
+</s>
+<s id="262">
+  <input><f id="1">En conséquence</f>  , the Netherlands has decided to suspend aid to Uganda .</input>
+  <output><f id="1">As a result<alt>As a consequence</alt><alt>as a result</alt></f>  , the Netherlands has decided to suspend aid to Uganda .</output>
+</s>
+<s id="263">
+  <input>A few steps from Col de la Madelaine , a restaurant manages to offer <f id="1">des plats traditionnels</f>  at a low price .</input>
+  <output>A few steps from Col de la Madelaine , a restaurant manages to offer <f id="1">' own dishes traditional<alt>' own flat traditional</alt><alt>' own meals traditional</alt><alt>' of dishes traditional</alt><alt>' main dishes traditional</alt></f>  at a low price .</output>
+</s>
+<s id="264">
+  <input>As China becomes wealthier , more people are buying cars , thus <f id="1">causant</f>  more traffic problems .</input>
+  <output>As China becomes wealthier , more people are buying cars , thus <f id="1">causing<alt>caused</alt><alt>resulting</alt><alt>have caused</alt><alt>leaving</alt></f>  more traffic problems .</output>
+</s>
+<s id="265">
+  <input>In the story of Giovanni Medici , head of the papal army , who died in 1526 of cannon wounds <f id="1">au bord</f>  of the river Po , Mr Olmi finds a portent for the destructive power of warfare today .</input>
+  <output>In the story of Giovanni Medici , head of the papal army , who died in 1526 of cannon wounds <f id="1">on the edge<alt>on the brink</alt><alt>to the brink</alt><alt>to the edge</alt><alt>on the verge</alt></f>  of the river Po , Mr Olmi finds a portent for the destructive power of warfare today .</output>
+</s>
+<s id="266">
+  <input>The water in that river <f id="1">est polluée</f>  today and dangerous to drink</input>
+  <output>The water in that river <f id="1">is polluted<alt>has been polluted</alt><alt>is contaminated</alt><alt>being polluted</alt></f>  today and dangerous to drink</output>
+</s>
+<s id="267">
+  <input>It has been developed as a tourist resort - and its <f id="1">atmosphère d' antan</f>  has been completely destroyed .</input>
+  <output>It has been developed as a tourist resort - and its <f id="1">atmosphere former<alt>atmosphere of erstwhile</alt><alt>atmosphere of former</alt><alt>atmosphere which</alt><alt>atmosphere of old</alt></f>  has been completely destroyed .</output>
+</s>
+<s id="268">
+  <input>A python is a <f id="1">serpent constricteur</f>  belonging to the Python ( genus ) , or , more generally , any snake in the family Pythonidae ( containing the Python genus ) .</input>
+  <output>A python is a <f id="1">snake boa constrictor<alt>snakes boa constrictor</alt><alt>house boa constrictor</alt></f>  belonging to the Python ( genus ) , or , more generally , any snake in the family Pythonidae ( containing the Python genus ) .</output>
+</s>
+<s id="269">
+  <input>The disease has been spreading rapidly through the <f id="1">campagne britannique</f>  since it was discovered on 19 February .</input>
+  <output>The disease has been spreading rapidly through the <f id="1">rural Britain<alt>rural Britain and</alt></f>  since it was discovered on 19 February .</output>
+</s>
+<s id="270">
+  <input>Since then they have sold more than 200 copies world wide and have appeared <f id="1">dans plus de</f>  200 languages .</input>
+  <output>Since then they have sold more than 200 copies world wide and have appeared <f id="1">in over<alt>in more than</alt><alt>in well over</alt><alt>, in over</alt><alt>across more than</alt></f>  200 languages .</output>
+</s>
+<s id="271">
+  <input>In the 1930 s her interest in the native vegetation of the Broken Hill region <f id="1">était encouragé davantage</f>  by the actions of Albert Morris , who was determined to control the city ’ s dust problem .</input>
+  <output>In the 1930 s her interest in the native vegetation of the Broken Hill region <f id="1">was further encouraged<alt>were further encouraged</alt><alt>is further encouraged</alt><alt>had further encouraged</alt><alt>was a further encouraged</alt></f>  by the actions of Albert Morris , who was determined to control the city ’ s dust problem .</output>
+</s>
+<s id="272">
+  <input>There are aliens <f id="1">quelque part</f>  , somewhere .</input>
+  <output>There are aliens <f id="1">somewhere<alt>anywhere</alt><alt>somewhere else</alt><alt>from somewhere</alt><alt>in one place</alt></f>  , somewhere .</output>
+</s>
+<s id="273">
+  <input>The man looked at <f id="1">son billet</f>  , then he looked at the seat .</input>
+  <output>The man looked at <f id="1">the ticket<alt>their ticket</alt><alt>our ticket</alt><alt>a ticket</alt></f>  , then he looked at the seat .</output>
+</s>
+<s id="274">
+  <input>When I see little children <f id="1">pleurer</f>  , I think it ’ s so cute .</input>
+  <output>When I see little children <f id="1">cry<alt>to cry</alt><alt>crying</alt><alt>mourn</alt><alt>and cry</alt></f>  , I think it ’ s so cute .</output>
+</s>
+<s id="275">
+  <input>I wonder whether they are travelling by air or <f id="1">en train</f>  .</input>
+  <output>I wonder whether they are travelling by air or <f id="1">in the process<alt>by train</alt><alt>currently</alt><alt>now</alt><alt>being</alt></f>  .</output>
+</s>
+<s id="276">
+  <input>Inspired by that childhood experience , Ishii has been <f id="1">en train d' inventer</f>  ways to make the wealth of digital information inside computers as tangible and pleasant to the touch as the abacus of his youth .</input>
+  <output>Inspired by that childhood experience , Ishii has been <f id="1">in the process of inventing<alt>being invented just now</alt></f>  ways to make the wealth of digital information inside computers as tangible and pleasant to the touch as the abacus of his youth .</output>
+</s>
+<s id="277">
+  <input>I sometimes have really nice dreams , but then my <f id="1">réveil</f>  goes off .</input>
+  <output>I sometimes have really nice dreams , but then my <f id="1">awakening<alt>reawakening</alt><alt>rude awakening</alt><alt>wake-up call</alt><alt>revival</alt></f>  goes off .</output>
+</s>
+<s id="278">
+  <input>My dog usually barks <f id="1">au facteur</f>  - but look at that , for once , he is being friendly to the poor man !</input>
+  <output>My dog usually barks <f id="1">to the factor</f>  - but look at that , for once , he is being friendly to the poor man !</output>
+</s>
+<s id="279">
+  <input><f id="1">Jamais , depuis</f>  1974 and Robert Bresson ’ s " Lancelot of the Lake " has a historical film made its point with such concentrated power .</input>
+  <output><f id="1">Never , since<alt>Never since</alt><alt>Never , ever since</alt><alt>Never , from</alt><alt>Never , for</alt></f>  1974 and Robert Bresson ’ s " Lancelot of the Lake " has a historical film made its point with such concentrated power .</output>
+</s>
+<s id="280">
+  <input>I <f id="1">ouvre les fenêtres</f>  and turn the music up and then just drive and drive .</input>
+  <output>I <f id="1">opens the drain<alt>opens the window</alt><alt>opens the windows</alt><alt>opens the windows</alt><alt>opens windows</alt></f>  and turn the music up and then just drive and drive .</output>
+</s>
+<s id="281">
+  <input>Grapes <f id="1">ne poussent pas</f>  in northern climates , unless one keeps them in a hot-house .</input>
+  <output>Grapes <f id="1">do not push</f>  in northern climates , unless one keeps them in a hot-house .</output>
+</s>
+<s id="282">
+  <input>A <f id="1">étymologie populaire</f>  explains the name Baku as derived from the Persian Badkube , meaning " city where the wind blows " , due to frequent winds blowing in Baku .</input>
+  <output>A <f id="1">etymology popular<alt>etymology People 's</alt><alt>etymology Popular</alt><alt>etymology People</alt><alt>etymology grass-roots</alt></f>  explains the name Baku as derived from the Persian Badkube , meaning " city where the wind blows " , due to frequent winds blowing in Baku .</output>
+</s>
+<s id="283">
+  <input>Recently the trend <f id="1">oscillait de nouveau vers</f>  in favour of large carcasses and the Longhorn , able to make meat from grass and hardy enough to live out without pampering , is ready for the challenge .</input>
+  <output>Recently the trend <f id="1">oscillated back to</f>  in favour of large carcasses and the Longhorn , able to make meat from grass and hardy enough to live out without pampering , is ready for the challenge .</output>
+</s>
+<s id="284">
+  <input>In principle , it also means that monolingual users of BSL should have access to <f id="1">services d' interprétation</f>  in medical consultations , job interviews , court cases and other public settings .</input>
+  <output>In principle , it also means that monolingual users of BSL should have access to <f id="1">interpretation services<alt>interpreting services</alt><alt>ensuring interpretation</alt><alt>interpreting services ,</alt><alt>interpreting service</alt></f>  in medical consultations , job interviews , court cases and other public settings .</output>
+</s>
+<s id="285">
+  <input>Today our children are already <f id="1">à moitié illettrés</f>  , they speak Russian poorly .</input>
+  <output>Today our children are already <f id="1">half illiterate<alt>being half illiterate</alt><alt>as half illiterate</alt><alt>halfway , illiterate</alt><alt>running half illiterate</alt></f>  , they speak Russian poorly .</output>
+</s>
+<s id="286">
+  <input>Many of us have <f id="1">notre propre</f>  website .</input>
+  <output>Many of us have <f id="1">our own<alt>our very own</alt><alt>its own</alt><alt>our home</alt><alt>our own ,</alt></f>  website .</output>
+</s>
+<s id="287">
+  <input>Over the past three decades , <f id="1">les problèmes se sont accumulés</f>  and things have been getting worse by the day .</input>
+  <output>Over the past three decades , <f id="1">the problems have accumulated<alt>the problems are accumulated</alt><alt>the problems have got accumulated</alt><alt>spheres matters have accumulated</alt><alt>the problems are are accumulated</alt></f>  and things have been getting worse by the day .</output>
+</s>
+<s id="288">
+  <input>He <f id="1">se hâta de répondre</f>  he was going to the theatre and went away at once , because he knew they were looking for someone to help them .</input>
+  <output>He <f id="1">hastened to reply</f>  he was going to the theatre and went away at once , because he knew they were looking for someone to help them .</output>
+</s>
+<s id="289">
+  <input>Tiger 's appearance this year , during which he would have travelled along the Bobby Jones Expressway , has already made it <f id="1">un Masters très particulier</f>  , one of the most unusual ever .</input>
+  <output>Tiger 's appearance this year , during which he would have travelled along the Bobby Jones Expressway , has already made it <f id="1">a very special Masters</f>  , one of the most unusual ever .</output>
+</s>
+<s id="290">
+  <input>Then he remembered something else ; his passport and tickets were in <f id="1">son manteau</f>  as well .</input>
+  <output>Then he remembered something else ; his passport and tickets were in <f id="1">his coat<alt>its coat</alt><alt>his mantle</alt><alt>its mantle</alt><alt>her coat</alt></f>  as well .</output>
+</s>
+<s id="291">
+  <input><f id="1">Selon les légendes populaires</f>  , Athelstaneford is where the original Scottish saltire - the white diagonal cross on a sky blue background - was first adopted .</input>
+  <output><f id="1">According to the legends popular<alt>According to the legend popular</alt><alt>According to the legends grassroots</alt><alt>According to the legends grass-roots</alt><alt>According to the legend grassroots</alt></f>  , Athelstaneford is where the original Scottish saltire - the white diagonal cross on a sky blue background - was first adopted .</output>
+</s>
+<s id="292">
+  <input>It was a telegram from her aunt Mary , saying she was coming to <f id="1">passer</f>  the weekend with them and was arriving that evening at 6.30 .</input>
+  <output>It was a telegram from her aunt Mary , saying she was coming to <f id="1">spend<alt>move</alt><alt>pass</alt><alt>switch</alt><alt>move on</alt></f>  the weekend with them and was arriving that evening at 6.30 .</output>
+</s>
+<s id="293">
+  <input>Oh , she borrows from her other neighbour , Mrs White ; but this takes longer because she always <f id="1">veut qu' elle reste</f>  and chat and she finds it quite hard to get away from her .</input>
+  <output>Oh , she borrows from her other neighbour , Mrs White ; but this takes longer because she always <f id="1">want it remains<alt>want it rest</alt><alt>want it is still</alt><alt>want it remain</alt><alt>want it is</alt></f>  and chat and she finds it quite hard to get away from her .</output>
+</s>
+<s id="294">
+  <input>At birth , our planet <f id="1">était recouverte d'</f>  an ocean of magma .</input>
+  <output>At birth , our planet <f id="1">was covered in<alt>was covered by</alt><alt>was re-covered by</alt><alt>is covered by</alt><alt>is covered in</alt></f>  an ocean of magma .</output>
+</s>
+<s id="295">
+  <input>Ladies and gentlemen , the Language Union is ambitious , but <f id="1">ne demande rien</f>  .</input>
+  <output>Ladies and gentlemen , the Language Union is ambitious , but <f id="1">not asking for anything<alt>demands nothing</alt><alt>is not asking for anything</alt><alt>am calling for nothing</alt></f>  .</output>
+</s>
+<s id="296">
+  <input>He asks <f id="1">ce que</f>  you want .</input>
+  <output>He asks <f id="1">what<alt>that</alt><alt>which</alt><alt>it that</alt><alt>of what</alt></f>  you want .</output>
+</s>
+<s id="297">
+  <input>The Comité Colbert ensured that the companies <f id="1">appliquent les mêmes règles</f>  , and that they are as one in the promotion of what the French call l ' Art de Vivre .</input>
+  <output>The Comité Colbert ensured that the companies <f id="1">are using the same rules<alt>applies the same rules</alt><alt>apply the new rules</alt><alt>apply the same rules</alt></f>  , and that they are as one in the promotion of what the French call l ' Art de Vivre .</output>
+</s>
+<s id="298">
+  <input>We <f id="1">mettons beaucoup d' énergie à</f>  selecting the best products .</input>
+  <output>We <f id="1">have a great deal of energy into<alt>have a great deal of power at</alt><alt>have a great deal of energy to</alt><alt>have a great deal energy to</alt><alt>have a great deal energy on</alt></f>  selecting the best products .</output>
+</s>
+<s id="299">
+  <input>I wo n't go out as it is raining and I <f id="1">n' ai pas de</f>  umbrella .</input>
+  <output>I wo n't go out as it is raining and I <f id="1">have no<alt>do not have a</alt><alt>have no great</alt><alt>do not have any</alt><alt>am in no</alt></f>  umbrella .</output>
+</s>
+<s id="300">
+  <input>The Tory analysis , based on figures for 2008 -09 , suggests that 6.8 million slots could have been made available to those without access to an NHS dentist had they not been used for excessive appointment-setting or needless splitting of <f id="1">des cures</f>  into separate sessions .</input>
+  <output>The Tory analysis , based on figures for 2008 -09 , suggests that 6.8 million slots could have been made available to those without access to an NHS dentist had they not been used for excessive appointment-setting or needless splitting of <f id="1">of cures<alt>the cures</alt><alt>of the cures</alt><alt>' cures</alt><alt>for cures</alt></f>  into separate sessions .</output>
+</s>
+<s id="301">
+  <input>They could not play <f id="1">dehors</f>  .</input>
+  <output>They could not play <f id="1">outside<alt>out</alt><alt>beyond</alt><alt>elsewhere</alt><alt>addition</alt></f>  .</output>
+</s>
+<s id="302">
+  <input>The anti-gay law will be <f id="1">un pas en arrière</f>  for all Ugandans .</input>
+  <output>The anti-gay law will be <f id="1">a step backwards<alt>a backward step</alt><alt>a step back</alt><alt>a retrograde step</alt><alt>one step back</alt></f>  for all Ugandans .</output>
+</s>
+<s id="303">
+  <input>How can you live <f id="1">près de</f>  your family members and feel apart from them ?</input>
+  <output>How can you live <f id="1">almost<alt>nearly</alt><alt>close to</alt><alt>near</alt><alt>around</alt></f>  your family members and feel apart from them ?</output>
+</s>
+<s id="304">
+  <input>As he spoke , the car began to <f id="1">ralentir</f>  .</input>
+  <output>As he spoke , the car began to <f id="1">slow down<alt>slow</alt><alt>wane</alt><alt>slowing down</alt><alt>slow it down</alt></f>  .</output>
+</s>
+<s id="305">
+  <input>Then <f id="1">soudainement</f>  , an idea came into her racing , terrified brain .</input>
+  <output>Then <f id="1">suddenly<alt>unexpectedly</alt><alt>, suddenly</alt><alt>suddenly to</alt><alt>suddenly ,</alt></f>  , an idea came into her racing , terrified brain .</output>
+</s>
+<s id="306">
+  <input>Jupiter is the fifth planet from the Sun and the largest planet within the solar system . It is two and a half times as <f id="1">gros</f>  as all of the other planets in our solar system combined</input>
+  <output>Jupiter is the fifth planet from the Sun and the largest planet within the solar system . It is two and a half times as <f id="1">big<alt>large</alt><alt>great</alt><alt>massive</alt><alt>heavy</alt></f>  as all of the other planets in our solar system combined</output>
+</s>
+<s id="307">
+  <input>They believe people should be able to smoke in their car because there are so many <f id="1">lieux publics</f>  where smoking is not allowed .</input>
+  <output>They believe people should be able to smoke in their car because there are so many <f id="1">public places<alt>public spaces</alt><alt>public buildings</alt><alt>public nature</alt></f>  where smoking is not allowed .</output>
+</s>
+<s id="308">
+  <input>We have to <f id="1">être prudents</f>  with what we put online .</input>
+  <output>We have to <f id="1">be careful<alt>be cautious</alt><alt>be prudent</alt><alt>be very cautious</alt><alt>be careful ,</alt></f>  with what we put online .</output>
+</s>
+<s id="309">
+  <input>Motorists in China are experiencing a traffic jam <f id="1">de l' enfer</f>  .</input>
+  <output>Motorists in China are experiencing a traffic jam <f id="1">of hell<alt>to hell</alt><alt>from hell</alt><alt>the hell</alt><alt>like hell</alt></f>  .</output>
+</s>
+<s id="310">
+  <input>Nonsense verse is a form of light , often rhythmical verse , often for children , depicting peculiar characters in amusing and <f id="1">fantastiques</f>  situations .</input>
+  <output>Nonsense verse is a form of light , often rhythmical verse , often for children , depicting peculiar characters in amusing and <f id="1">fantastic<alt>fantastic new</alt><alt>wonderful</alt><alt>of wonderful</alt><alt>superb</alt></f>  situations .</output>
+</s>
+<s id="311">
+  <input>About 9.7 % of families and 11.5 % of the population were below the <f id="1">seuil de la pauvreté</f>  , including 19.4 % of those under age 18 and 7.2 % of those age 65 or over .</input>
+  <output>About 9.7 % of families and 11.5 % of the population were below the <f id="1">poverty line<alt>threshold of poverty</alt><alt>edge of poverty</alt><alt>brink of poverty</alt><alt>edge of poverty ,</alt></f>  , including 19.4 % of those under age 18 and 7.2 % of those age 65 or over .</output>
+</s>
+<s id="312">
+  <input>When The Economist described America ’ s economy as a bubble in April 1998 and advised Alan Greenspan , the Federal Reserve ’ s chairman <f id="1">de hausser les taux d' intérêt</f>  to pop it , many people dismissed our warnings .</input>
+  <output>When The Economist described America ’ s economy as a bubble in April 1998 and advised Alan Greenspan , the Federal Reserve ’ s chairman <f id="1">shrug their interest rates<alt>aim of raising the interest rates</alt><alt>shrug their interest rate</alt><alt>shrug our interest rates</alt><alt>aim of raising the interest rate</alt></f>  to pop it , many people dismissed our warnings .</output>
+</s>
+<s id="313">
+  <input>Most people in the world just want to <f id="1">vivre heureux</f>  and be good neighbours .</input>
+  <output>Most people in the world just want to <f id="1">live happily</f>  and be good neighbours .</output>
+</s>
+<s id="314">
+  <input>One day I 'll buy her a big diamond <f id="1">en tant de</f>  surprise .</input>
+  <output>One day I 'll buy her a big diamond <f id="1">as a<alt>at times of</alt><alt>in times of</alt><alt>as</alt></f>  surprise .</output>
+</s>
+<s id="315">
+  <input>The first <f id="1">président élu démocratiquement</f>  shared a fate similar to his predecessor .</input>
+  <output>The first <f id="1">democratically elected president<alt>President elected democratically</alt><alt>democratically elected President</alt></f>  shared a fate similar to his predecessor .</output>
+</s>
+<s id="316">
+  <input>The lion hunts by night and <f id="1">passe la journée</f>  lying up in cover or under the shade of trees or rocks .</input>
+  <output>The lion hunts by night and <f id="1">crosses the day<alt>happening the day</alt><alt>get over the present day</alt><alt>going on the day</alt><alt>get over the day</alt></f>  lying up in cover or under the shade of trees or rocks .</output>
+</s>
+<s id="317">
+  <input>The status of sex symbol she <f id="1">surtout</f>  owes to Woody Allen , who revealed her talents .</input>
+  <output>The status of sex symbol she <f id="1">especially<alt>above all</alt><alt>particularly</alt><alt>mainly</alt><alt>primarily</alt></f>  owes to Woody Allen , who revealed her talents .</output>
+</s>
+<s id="318">
+  <input>I realise that what I ’ m saying may sound a little emotionally <f id="1">chargé</f>  , and even hollow or redundant in this day and age .</input>
+  <output>I realise that what I ’ m saying may sound a little emotionally <f id="1">charged<alt>responsible</alt><alt>charge</alt><alt>in charge</alt><alt>busy</alt></f>  , and even hollow or redundant in this day and age .</output>
+</s>
+<s id="319">
+  <input>For one , an exemption from medical tests does not mean you can <f id="1">balayer</f>  your health problems under the carpet .</input>
+  <output>For one , an exemption from medical tests does not mean you can <f id="1">sweep<alt>defeat</alt><alt>sweep away</alt><alt>wipe out</alt><alt>overcome</alt></f>  your health problems under the carpet .</output>
+</s>
+<s id="320">
+  <input>What difference does it make what colour your <f id="1">peau</f>  is ?</input>
+  <output>What difference does it make what colour your <f id="1">skin<alt>shoes</alt><alt>own skin</alt><alt>whittled</alt><alt>s skin</alt></f>  is ?</output>
+</s>
+<s id="321">
+  <input>In some cases , they have even been discriminated against , some education authorities <f id="1">interdisent son usage</f>  by children in school .</input>
+  <output>In some cases , they have even been discriminated against , some education authorities <f id="1">prohibit its use<alt>ban its use</alt><alt>prohibit its usage</alt><alt>forbid its use</alt><alt>prohibited its use</alt></f>  by children in school .</output>
+</s>
+<s id="322">
+  <input>Two teens of 12 and 17 years old , <f id="1">sont hospitalisés</f>  since a day or ten .</input>
+  <output>Two teens of 12 and 17 years old , <f id="1">are hospitalised<alt>are in hospital</alt><alt>are hospital</alt><alt>is hospitalised</alt><alt>are in hospitals</alt></f>  since a day or ten .</output>
+</s>
+<s id="323">
+  <input>I know she 's just being nice towards him at the moment , but she really needs to scare him off now , or he 'll just become even more <f id="1">étouffant</f>  and stalker-like .</input>
+  <output>I know she 's just being nice towards him at the moment , but she really needs to scare him off now , or he 'll just become even more <f id="1">stifling<alt>suffocating</alt><alt>asphyxiating</alt><alt>suppressing</alt><alt>emphasis on</alt></f>  and stalker-like .</output>
+</s>
+<s id="324">
+  <input>As health officials defend their drastic policy to contain the spread of <f id="1">la fièvre aphteuse</f>  , the debate about the future of intensive farming and cheap food production is becoming even more intense .</input>
+  <output>As health officials defend their drastic policy to contain the spread of <f id="1">foot-and-mouth disease<alt>FMD</alt><alt>foot and mouth disease</alt><alt>foot-and-mouth</alt><alt>foot and mouth</alt></f>  , the debate about the future of intensive farming and cheap food production is becoming even more intense .</output>
+</s>
+<s id="325">
+  <input>The tortoises can live <f id="1">ju qu' à</f>  200 years and it is therefore quite possible that some individuals have lived on the island since 1835 when Charles Darwin , famous for his theory of evolution , visited it .</input>
+  <output>The tortoises can live <f id="1">ju that to</f>  200 years and it is therefore quite possible that some individuals have lived on the island since 1835 when Charles Darwin , famous for his theory of evolution , visited it .</output>
+</s>
+<s id="326">
+  <input>However , Britain 's health minister said the <f id="1">santé</f>  of children was more important than the freedom to smoke .</input>
+  <output>However , Britain 's health minister said the <f id="1">health<alt>Health</alt><alt>welfare</alt><alt>santé</alt><alt>health care</alt></f>  of children was more important than the freedom to smoke .</output>
+</s>
+<s id="327">
+  <input>Scientists have discovered that , all over the world , <f id="1">des millions de grenouilles</f>  are dying .</input>
+  <output>Scientists have discovered that , all over the world , <f id="1">millions of frogs<alt>many millions of frogs</alt><alt>with millions of frogs</alt><alt>of the millions of frogs</alt><alt>there are millions of frogs</alt></f>  are dying .</output>
+</s>
+<s id="328">
+  <input>According to information in <f id="1">l' édition dominicale</f>  of the most read newspaper in Germany , 297 NSA agents are stationed in Germany to spy on 320 people .</input>
+  <output>According to information in <f id="1">publishing road on Sundays<alt>the publishing road on Sundays</alt><alt>'s edition road on Sundays</alt><alt>publishing services road on Sundays</alt><alt>edition road on Sundays</alt></f>  of the most read newspaper in Germany , 297 NSA agents are stationed in Germany to spy on 320 people .</output>
+</s>
+<s id="329">
+  <input>The planet was <f id="1">connue</f>  by astronomers of ancient times and was associated with the mythology and religious beliefs of many cultures .</input>
+  <output>The planet was <f id="1">known<alt>well known</alt><alt>seen</alt><alt>experienced</alt><alt>well-known</alt></f>  by astronomers of ancient times and was associated with the mythology and religious beliefs of many cultures .</output>
+</s>
+<s id="330">
+  <input>Police officers in <f id="1">Les Maldives</f>  have arrested a coconut .</input>
+  <output>Police officers in <f id="1">The Maldives<alt>the Maldives</alt><alt>The Maldives )</alt><alt>We Maldives</alt><alt>Τhe Maldives</alt></f>  have arrested a coconut .</output>
+</s>
+<s id="331">
+  <input>Over the past two years the debate <f id="1">naviguait</f>  between consolidating the remains as a war memorial and reconstructing the church .</input>
+  <output>Over the past two years the debate <f id="1">was sailing<alt>was bound</alt><alt>journey</alt></f>  between consolidating the remains as a war memorial and reconstructing the church .</output>
+</s>
+<s id="332">
+  <input>Put the verbs <f id="1">entre parenthèses</f>  into the present perfect or simple past tense .</input>
+  <output>Put the verbs <f id="1">incidentally<alt>in brackets</alt><alt>in parentheses</alt><alt>in passing</alt><alt>in brackets ,</alt></f>  into the present perfect or simple past tense .</output>
+</s>
+<s id="333">
+  <input>IVF , <f id="1">inducteurs d' ovulation</f>  and other techniques have , in short , revolutionized conception .</input>
+  <output>IVF , <f id="1">inducers of ovulation</f>  and other techniques have , in short , revolutionized conception .</output>
+</s>
+<s id="334">
+  <input>On Wednesday afternoon , Kate and his father <f id="1">vont à</f>  the swimming pool .</input>
+  <output>On Wednesday afternoon , Kate and his father <f id="1">go to<alt>run</alt><alt>goes to</alt><alt>go out to</alt><alt>are in</alt></f>  the swimming pool .</output>
+</s>
+<s id="335">
+  <input>The Japanese prime minister is visiting Washington on 15 June : the trip will mark another stage in his ritual <f id="1">qui permet de sauver la face</f>  exit .</input>
+  <output>The Japanese prime minister is visiting Washington on 15 June : the trip will mark another stage in his ritual <f id="1">which makes it possible to save face<alt>that makes it possible to save face</alt><alt>which makes it possible to face-saving</alt><alt>that makes it possible to face-saving</alt><alt>which allows a face-saving</alt></f>  exit .</output>
+</s>
+<s id="336">
+  <input>The Romaine River has its source on the <f id="1">frontière</f>  between the Atlantic and Saint Lawrence watersheds , and flows first through a series of lakes , including Long , Marc , Brûlé ( Burnt ) , Lavoie , Anderson , and Lozeau .</input>
+  <output>The Romaine River has its source on the <f id="1">border<alt>frontier</alt><alt>boundary</alt><alt>borders</alt><alt>dividing line</alt></f>  between the Atlantic and Saint Lawrence watersheds , and flows first through a series of lakes , including Long , Marc , Brûlé ( Burnt ) , Lavoie , Anderson , and Lozeau .</output>
+</s>
+<s id="337">
+  <input>She sees a small hand , and <f id="1">lor qu' elle s' approche</f>  , she also sees his head .</input>
+  <output>She sees a small hand , and <f id="1">lor, aisne state its approach<alt>lor, aisne if it were to approach</alt><alt>lor, aisne as ever approach</alt><alt>lor, aisne being that it will be approach</alt><alt>lor, aisne its approach</alt></f>  , she also sees his head .</output>
+</s>
+<s id="338">
+  <input>In the two weeks she was away , Aisha stopped eating and died , apparently overcome <f id="1">de chagrin</f>  at the loss of another mother .</input>
+  <output>In the two weeks she was away , Aisha stopped eating and died , apparently overcome <f id="1">of sorrow<alt>away</alt><alt>of sadness</alt><alt>vestiges</alt><alt>of insignificance</alt></f>  at the loss of another mother .</output>
+</s>
+<s id="339">
+  <input>Belcombe used to be an <f id="1">village préservé</f>  on the south coast of England , but you would n't recognise it now .</input>
+  <output>Belcombe used to be an <f id="1">village preserved<alt>village maintained</alt><alt>village safeguarded</alt><alt>village protected</alt><alt>village retained</alt></f>  on the south coast of England , but you would n't recognise it now .</output>
+</s>
+<s id="340">
+  <input>When it lifted up its fluffy head and looked at me , its eyes held the absolute <f id="1">stupéfaction</f>  of the newly born .</input>
+  <output>When it lifted up its fluffy head and looked at me , its eyes held the absolute <f id="1">amazement<alt>amazement to</alt><alt>astonishment</alt><alt>with amazement</alt><alt>surprise</alt></f>  of the newly born .</output>
+</s>
+<s id="341">
+  <input>Britain 's government wants to <f id="1">réduire les dommages</f>  cigarette smoke does to children .</input>
+  <output>Britain 's government wants to <f id="1">reduce the damage<alt>reduce harm</alt><alt>reduce the harm</alt><alt>harm reduction</alt><alt>reducing the damage</alt></f>  cigarette smoke does to children .</output>
+</s>
+<s id="342">
+  <input>So hot , <f id="1">en fait</f>  , that fights break out among climbers .</input>
+  <output>So hot , <f id="1">in fact<alt>actually</alt><alt>indeed</alt><alt>, in fact</alt><alt>in effect</alt></f>  , that fights break out among climbers .</output>
+</s>
+<s id="343">
+  <input>King Malik dismissed this comment with a wave of his short , heavily ringed fingers and a <f id="1">reniflement méprisant</f>  .</input>
+  <output>King Malik dismissed this comment with a wave of his short , heavily ringed fingers and a <f id="1">contemptuous sniff</f>  .</output>
+</s>
+<s id="344">
+  <input>It <f id="1">avait été volé</f>  from her car when it was parked outside her office in London .</input>
+  <output>It <f id="1">was stolen</f>  from her car when it was parked outside her office in London .</output>
+</s>
+<s id="345">
+  <input>In later years , I benefited greatly from this approach , even <f id="1">dans les temps troublés</f>  .</input>
+  <output>In later years , I benefited greatly from this approach , even <f id="1">in the troubled times<alt>in those troubled times</alt><alt>within the troubled times</alt><alt>in these troubled times</alt><alt>into the troubled times</alt></f>  .</output>
+</s>
+<s id="346">
+  <input>It is cool because the temperatures <f id="1">baissent</f>  after summer .</input>
+  <output>It is cool because the temperatures <f id="1">are falling<alt>are down</alt><alt>fall</alt><alt>drop</alt><alt>are decreasing</alt></f>  after summer .</output>
+</s>
+<s id="347">
+  <input>After countries around the world banned food imports from Europe , a <f id="1">abattage massif</f>  of farm animals has begun in Britain .</input>
+  <output>After countries around the world banned food imports from Europe , a <f id="1">mass cull<alt>mass killing</alt><alt>massive killing</alt><alt>mass culling</alt><alt>mass slaughter</alt></f>  of farm animals has begun in Britain .</output>
+</s>
+<s id="348">
+  <input>Russia <f id="1">refuse de reconnaître</f>  the new Ukrainian authorities .</input>
+  <output>Russia <f id="1">refuses to acknowledge<alt>refuses to recognise</alt><alt>is refusing to acknowledge</alt><alt>does not recognise</alt><alt>is refusing to recognise</alt></f>  the new Ukrainian authorities .</output>
+</s>
+<s id="349">
+  <input>Bitcoin distributors <f id="1">voient le jour</f>  everywhere in the world .</input>
+  <output>Bitcoin distributors <f id="1">are being set up<alt>are created</alt><alt>are started up</alt><alt>are beginning to appear</alt><alt>are born ,</alt></f>  everywhere in the world .</output>
+</s>
+<s id="350">
+  <input>I believe in the strength of scientific endeavour and development and I am committed to using this strength to enable the Language Union to move forward considerably , and <f id="1">ancrer</f>  the cultural and social relevance of the work of all of us in realising our common goals .</input>
+  <output>I believe in the strength of scientific endeavour and development and I am committed to using this strength to enable the Language Union to move forward considerably , and <f id="1">anchor<alt>enshrine</alt><alt>anchoring</alt><alt>embed</alt><alt>entrench</alt></f>  the cultural and social relevance of the work of all of us in realising our common goals .</output>
+</s>
+<s id="351">
+  <input>Fred : What do you do at weekends ? Frieda : It <f id="1">dépend du</f>  weather .</input>
+  <output>Fred : What do you do at weekends ? Frieda : It <f id="1">depends on the<alt>is dependent on the</alt><alt>depends on</alt><alt>depends upon the</alt><alt>is dependent on</alt></f>  weather .</output>
+</s>
+<s id="352">
+  <input>Perhaps <f id="1">vous devriez</f>  write to your government .</input>
+  <output>Perhaps <f id="1">you should<alt>you ought to</alt><alt>you must</alt><alt>you ought</alt><alt>you would</alt></f>  write to your government .</output>
+</s>
+<s id="353">
+  <input>This project represents one of the rare advances in strenghtening <f id="1">les liens</f>  between Brazil and the European Union .</input>
+  <output>This project represents one of the rare advances in strenghtening <f id="1">ties<alt>links</alt><alt>the links</alt><alt>the ties</alt><alt>the bonds</alt></f>  between Brazil and the European Union .</output>
+</s>
+<s id="354">
+  <input>People then buy <f id="1">les mêmes</f>  clothes and look like everyone else because they want to feel trendy .</input>
+  <output>People then buy <f id="1">the same<alt>similar</alt><alt>the very same</alt><alt>the same kind of</alt><alt>the same set of</alt></f>  clothes and look like everyone else because they want to feel trendy .</output>
+</s>
+<s id="355">
+  <input>When Daphne <f id="1">voyageait à Nairobi</f>  to prepare for a daughter 's wedding , she left Aisha , then six months old , in the care of an assistant .</input>
+  <output>When Daphne <f id="1">traveled to Nairobi</f>  to prepare for a daughter 's wedding , she left Aisha , then six months old , in the care of an assistant .</output>
+</s>
+<s id="356">
+  <input>The new ruling means that these authorities are required by law to provide better opportunities for deaf children to learn <f id="1">des compétences de communication</f>  .</input>
+  <output>The new ruling means that these authorities are required by law to provide better opportunities for deaf children to learn <f id="1">the competence of communication<alt>of the competences of communication</alt><alt>for the powers of communication</alt><alt>of the powers of communication</alt><alt>of competences of communication</alt></f>  .</output>
+</s>
+<s id="357">
+  <input>The young world of bitcoin is <f id="1">en crise</f>  .</input>
+  <output>The young world of bitcoin is <f id="1">in crisis<alt>crisis-torn</alt><alt>in a crisis</alt><alt>crisis</alt><alt>in crisis ,</alt></f>  .</output>
+</s>
+<s id="358">
+  <input>As of the census of 2010 , there were 527 people , 252 households , and 120 families residing in the village and the <f id="1">densité démographique</f>  was 2,509.5 inhabitants per square mile ( 968.9 / km 2 ) .</input>
+  <output>As of the census of 2010 , there were 527 people , 252 households , and 120 families residing in the village and the <f id="1">population density<alt>demographic density</alt><alt>population density and</alt></f>  was 2,509.5 inhabitants per square mile ( 968.9 / km 2 ) .</output>
+</s>
+<s id="359">
+  <input>I would urge you <f id="1">à saisir</f>  the opportunities that our redefined policy offers you .</input>
+  <output>I would urge you <f id="1">to take<alt>to take advantage of</alt><alt>to seize</alt><alt>to be seized</alt><alt>to grasp</alt></f>  the opportunities that our redefined policy offers you .</output>
+</s>
+<s id="360">
+  <input>Too many children do n't get enough exercise because they <f id="1">passent</f>  half the day playing games .</input>
+  <output>Too many children do n't get enough exercise because they <f id="1">spend<alt>go</alt><alt>pass</alt><alt>are</alt><alt>are spending</alt></f>  half the day playing games .</output>
+</s>
+<s id="361">
+  <input>Andrea <f id="1">sortait de l' autoroute</f>  onto the road to Brockbourne , the small village in which she lived</input>
+  <output>Andrea <f id="1">was emerging from the motorway<alt>was emerging from the autobahn</alt><alt>was emerging from a motorway</alt><alt>was emerging from the motorway ,</alt><alt>was emerging from the motorways</alt></f>  onto the road to Brockbourne , the small village in which she lived</output>
+</s>
+<s id="362">
+  <input>The chamber of commerce has taken position <f id="1">contre</f>  the law .</input>
+  <output>The chamber of commerce has taken position <f id="1">against<alt>from</alt><alt>on</alt><alt>with</alt><alt>opposed</alt></f>  the law .</output>
+</s>
+<s id="363">
+  <input>Many of the things that are <f id="1">difficile à traduire</f>  are cultural .</input>
+  <output>Many of the things that are <f id="1">difficult to translate</f>  are cultural .</output>
+</s>
+<s id="364">
+  <input>It was Aisha that revealed to Daphne another essential ingredient <f id="1">pour élever</f>  an orphan elephant .</input>
+  <output>It was Aisha that revealed to Daphne another essential ingredient <f id="1">to raise<alt>in order to raise</alt><alt>to bring up</alt><alt>in the task of raising</alt><alt>for bringing up</alt></f>  an orphan elephant .</output>
+</s>
+<s id="365">
+  <input>Up until now , Brazil has used american <f id="1">sous-marins</f>  cables to transport almost all of its communications with Europe .</input>
+  <output>Up until now , Brazil has used american <f id="1">submarines<alt>submarine</alt><alt>underwater</alt><alt>submarines which</alt><alt>submarines ,</alt></f>  cables to transport almost all of its communications with Europe .</output>
+</s>
+<s id="366">
+  <input>It may sound <f id="1">commode</f>  , but your reluctance to take out time for such a medical test , may cost you dearly in the long run : such plans may not necessarily be as customer-friendly as they sound .</input>
+  <output>It may sound <f id="1">convenient<alt>easy</alt><alt>handy</alt><alt>comfortable</alt><alt>convenient to do</alt></f>  , but your reluctance to take out time for such a medical test , may cost you dearly in the long run : such plans may not necessarily be as customer-friendly as they sound .</output>
+</s>
+<s id="367">
+  <input><f id="1">Toutes les pierres sauf une</f>  were furred at their perimeters and partly on their surfaces with green weed .</input>
+  <output><f id="1">All the stones except one<alt>All stones except one</alt><alt>All the stones but one</alt><alt>All stones but one</alt><alt>All the stones except for one</alt></f>  were furred at their perimeters and partly on their surfaces with green weed .</output>
+</s>
+<s id="368">
+  <input>Were he to win next Sunday , which is by no means <f id="1">hors de question</f>  , it would make this an extraordinary Masters ; perhaps even the most extraordinary of all .</input>
+  <output>Were he to win next Sunday , which is by no means <f id="1">out of the question<alt>out of order</alt><alt>no question</alt><alt>no thoughts</alt><alt>no way</alt></f>  , it would make this an extraordinary Masters ; perhaps even the most extraordinary of all .</output>
+</s>
+<s id="369">
+  <input>James and Co. <f id="1">organisent une vente</f>  at the moment . Shall we look in ?</input>
+  <output>James and Co. <f id="1">organise a sale<alt>are hosting a sale</alt><alt>are holding a sale</alt><alt>will be holding a sale</alt><alt>are organising a sale</alt></f>  at the moment . Shall we look in ?</output>
+</s>
+<s id="370">
+  <input>Exorcisms are not conducted unless psychological or medical possibilities are first <f id="1">exclues</f>  as explanations for extreme behaviour .</input>
+  <output>Exorcisms are not conducted unless psychological or medical possibilities are first <f id="1">excluded<alt>excluded from</alt><alt>being ruled out</alt><alt>left out</alt><alt>alienated ,</alt></f>  as explanations for extreme behaviour .</output>
+</s>
+<s id="371">
+  <input>Winter is my favourite <f id="1">saison</f>  .</input>
+  <output>Winter is my favourite <f id="1">season<alt>of season</alt><alt>seasons</alt><alt>seasonal</alt><alt>season is</alt></f>  .</output>
+</s>
+<s id="372">
+  <input>Though a little soft-centred in its closing stages , it shows movingly how new love and friendship <f id="1">peuvent se forger</f>  among strangers in adversity .</input>
+  <output>Though a little soft-centred in its closing stages , it shows movingly how new love and friendship <f id="1">have</f>  among strangers in adversity .</output>
+</s>
+<s id="373">
+  <input>Burden was pointing to the only one that looked bare , as if until very recently it had lain with its <f id="1">exposé</f>  area embedded in the river 's gravelly floor .</input>
+  <output>Burden was pointing to the only one that looked bare , as if until very recently it had lain with its <f id="1">exposé<alt>exposed</alt><alt>presentation</alt><alt>speech</alt><alt>statement</alt></f>  area embedded in the river 's gravelly floor .</output>
+</s>
+<s id="374">
+  <input>The H 1 N 1 virus emerged in Britain last April but , despite predictions that <f id="1">la grippe porcine</f>  could cause 65,000 deaths this winter , the illness has been much milder than feared and experts now suggest that there will not be a third wave of cases after peaks last summer and autumn .</input>
+  <output>The H 1 N 1 virus emerged in Britain last April but , despite predictions that <f id="1">swine flu<alt>swine influenza</alt><alt>swine influenza ,</alt></f>  could cause 65,000 deaths this winter , the illness has been much milder than feared and experts now suggest that there will not be a third wave of cases after peaks last summer and autumn .</output>
+</s>
+<s id="375">
+  <input>He did n't have to pack , for his wife <f id="1">l' avait déjà fait</f>  for him and his case was ready in the hall .</input>
+  <output>He did n't have to pack , for his wife <f id="1">had already done so</f>  for him and his case was ready in the hall .</output>
+</s>
+<s id="376">
+  <input>Successful women <f id="1">réalisateurs</f>  , too , are surfacing again in Italy .</input>
+  <output>Successful women <f id="1">filmmakers<alt>film-makers</alt><alt>directors</alt></f>  , too , are surfacing again in Italy .</output>
+</s>
+<s id="377">
+  <input>But this is a game of high stakes — the theme park so far has cost £ 250 million — and , judging by the <f id="1">montagne russe</f>  performance of the share price on the Paris Bourse , Euro Disney is by no means certain it has put its money on a winner .</input>
+  <output>But this is a game of high stakes — the theme park so far has cost £ 250 million — and , judging by the <f id="1">mountain Russian<alt>mountains Russian</alt><alt>hill Russian</alt><alt>mountainous Russian</alt><alt>mountain Russia</alt></f>  performance of the share price on the Paris Bourse , Euro Disney is by no means certain it has put its money on a winner .</output>
+</s>
+<s id="378">
+  <input>In rich countries , people <f id="1">ont de la chance</f>  to have good schools .</input>
+  <output>In rich countries , people <f id="1">are lucky<alt>are fortunate</alt><alt>are the lucky</alt></f>  to have good schools .</output>
+</s>
+<s id="379">
+  <input>The free-for-all happened at 7,470 m , 1,400 m below the <f id="1">sommet</f>  .</input>
+  <output>The free-for-all happened at 7,470 m , 1,400 m below the <f id="1">summit<alt>Summit</alt><alt>top</alt><alt>summit meeting</alt><alt>summit ,</alt></f>  .</output>
+</s>
+<s id="380">
+  <input>If the rich shared their wealth , millions of <f id="1">enfants affamés</f>  could eat</input>
+  <output>If the rich shared their wealth , millions of <f id="1">starving children<alt>hungry children</alt></f>  could eat</output>
+</s>
+<s id="381">
+  <input>The debt owed by all of us to Lernout &amp; Hauspie is that our language area continues to <f id="1">jouer un rôle de pionnier</f>  in the research and development of innovative technology .</input>
+  <output>The debt owed by all of us to Lernout &amp; Hauspie is that our language area continues to <f id="1">be a pioneer<alt>play a pioneering role</alt><alt>take over the helm</alt><alt>playing a pioneering role</alt><alt>fulfil a pioneering role</alt></f>  in the research and development of innovative technology .</output>
+</s>
+<s id="382">
+  <input>He thinks the blobfish will make people remember the <f id="1">plus laides</f>  animals .</input>
+  <output>He thinks the blobfish will make people remember the <f id="1">ugliest</f>  animals .</output>
+</s>
+<s id="383">
+  <input>Only Americans have so far <f id="1">résisté à leur charme</f>  and the latest film , appropriately called ' Asterix Conquers America ' , is hoping to do just that .</input>
+  <output>Only Americans have so far <f id="1">bow to their charm<alt>bow to their charms</alt><alt>bow to them charm</alt><alt>bow to their songs</alt><alt>bow to their spell</alt></f>  and the latest film , appropriately called ' Asterix Conquers America ' , is hoping to do just that .</output>
+</s>
+<s id="384">
+  <input>She felt <f id="1">instinctivement</f>  that there was something wrong</input>
+  <output>She felt <f id="1">instinctively<alt>on instinct</alt><alt>instinct</alt></f>  that there was something wrong</output>
+</s>
+<s id="385">
+  <input>More than 300 farms have been confirmed as having foot-and-mouth , including a farm in France which seems to have caught the disease from sheep imported from Britain before a <f id="1">interdiction avait été imposée</f>  on exports and the movement of animals .</input>
+  <output>More than 300 farms have been confirmed as having foot-and-mouth , including a farm in France which seems to have caught the disease from sheep imported from Britain before a <f id="1">ban was imposed<alt>ban had been imposed on</alt><alt>prohibition had been imposed on</alt><alt>ban was imposed on</alt><alt>ban was enforced</alt></f>  on exports and the movement of animals .</output>
+</s>
+<s id="386">
+  <input>I 'm a bit <f id="1">timide</f>  when I have to speak in English .</input>
+  <output>I 'm a bit <f id="1">timid<alt>shy</alt><alt>timid one</alt><alt>half-hearted</alt><alt>timid ,</alt></f>  when I have to speak in English .</output>
+</s>
+<s id="387">
+  <input>After a <f id="1">période de reprise</f>  he was transferred to the General staff of the Army on 1 July 1944 .</input>
+  <output>After a <f id="1">a time of recovery<alt>a period of recovery</alt><alt>a time of resumed</alt><alt>a time of resumption</alt><alt>during a recovery</alt></f>  he was transferred to the General staff of the Army on 1 July 1944 .</output>
+</s>
+<s id="388">
+  <input>The Russian Navy <f id="1">porte-avions</f>  Admiral Kuznetsov is the first STOBAR carrier .</input>
+  <output>The Russian Navy <f id="1">aircraft carrier<alt>carrier</alt><alt>aircraft carrier to</alt><alt>aircraft carriers</alt></f>  Admiral Kuznetsov is the first STOBAR carrier .</output>
+</s>
+<s id="389">
+  <input>In some countries , people think you 're strange if you 're single <f id="1">plus tard dans la vie</f>  .</input>
+  <output>In some countries , people think you 're strange if you 're single <f id="1">later in life<alt>until later in life</alt><alt>later on in life</alt><alt>later life</alt></f>  .</output>
+</s>
+<s id="390">
+  <input>The numbers are <f id="1">sans doute</f>  higher .</input>
+  <output>The numbers are <f id="1">probably<alt>no doubt</alt><alt>doubtless</alt><alt>perhaps</alt><alt>undoubtedly</alt></f>  higher .</output>
+</s>
+<s id="391">
+  <input>Unicef , the United Nations Children ’ s Fund , recently declared Angola the worst place in the world for children <f id="1">de grandir</f>  .</input>
+  <output>Unicef , the United Nations Children ’ s Fund , recently declared Angola the worst place in the world for children <f id="1">to grow up<alt>to grow</alt><alt>of growing up</alt><alt>growing up</alt><alt>can grow</alt></f>  .</output>
+</s>
+<s id="392">
+  <input>I can dance <f id="1">toute la nuit</f>  .</input>
+  <output>I can dance <f id="1">all night<alt>on all night</alt><alt>all night dealing</alt><alt>right through the night</alt></f>  .</output>
+</s>
+<s id="393">
+  <input>Many schoolchildren physically <f id="1">brutalisent</f>  others in class and then continue online .</input>
+  <output>Many schoolchildren physically <f id="1">brutalize</f>  others in class and then continue online .</output>
+</s>
+<s id="394">
+  <input>People say that death is <f id="1">la seule chose</f>  in life that is certain .</input>
+  <output>People say that death is <f id="1">the only thing<alt>the one thing</alt><alt>the only good thing</alt><alt>the only step</alt><alt>only one thing</alt></f>  in life that is certain .</output>
+</s>
+<s id="395">
+  <input>They must have luxury cars , over-priced <f id="1">bijoux</f>  , and expensive artwork .</input>
+  <output>They must have luxury cars , over-priced <f id="1">jewellery</f>  , and expensive artwork .</output>
+</s>
+<s id="396">
+  <input>The best thing about digital cameras is that they are so <f id="1">facile</f>  to use .</input>
+  <output>The best thing about digital cameras is that they are so <f id="1">easy<alt>easily</alt><alt>simple</alt><alt>easier</alt><alt>an easy</alt></f>  to use .</output>
+</s>
+<s id="397">
+  <input>Suddenly the train stops with a jerk and <f id="1">ta valise</f>  falls off the rack on to somebody 's toes .</input>
+  <output>Suddenly the train stops with a jerk and <f id="1">your suitcase<alt>your bag</alt></f>  falls off the rack on to somebody 's toes .</output>
+</s>
+<s id="398">
+  <input>I really enjoyed studying physics <f id="1">au début</f>  .</input>
+  <output>I really enjoyed studying physics <f id="1">at the beginning<alt>at the start</alt><alt>at the outset</alt><alt>in early</alt><alt>early</alt></f>  .</output>
+</s>
+<s id="399">
+  <input>Here it is smokily dim ; the few guests <f id="1">sont assis ou couchés</f>  silent on the floor , passing round a joint .</input>
+  <output>Here it is smokily dim ; the few guests <f id="1">sitting or folded<alt>sitting or blown down</alt><alt>sitting or uprooted</alt><alt>sitting or buried</alt><alt>are all sitting or folded</alt></f>  silent on the floor , passing round a joint .</output>
+</s>
+<s id="400">
+  <input>New laws will cut the chances of children <f id="1">tabagisme passif</f>  .</input>
+  <output>New laws will cut the chances of children <f id="1">passive smoking<alt>passive smoke</alt><alt>of passive smoking</alt><alt>passive smoking ,</alt><alt>passive nicotine poisoning</alt></f>  .</output>
+</s>
+<s id="401">
+  <input>Like other dynamic languages , Python is often used as a <f id="1">langage de script</f>  , but is also used in a wide range of non-scripting contexts .</input>
+  <output>Like other dynamic languages , Python is often used as a <f id="1">language of script<alt>language script</alt><alt>words as script</alt><alt>language which appeared in script</alt><alt>in hypocritical script</alt></f>  , but is also used in a wide range of non-scripting contexts .</output>
+</s>
+<s id="402">
+  <input>During this time , as a team we have <f id="1">regardé d' un oeil critique</f>  at our mission and vision .</input>
+  <output>During this time , as a team we have <f id="1">looked critically<alt>been watching critically</alt><alt>watched critically</alt><alt>been looking critically</alt><alt>looked up critically</alt></f>  at our mission and vision .</output>
+</s>
+<s id="403">
+  <input>When John looked in to see how they were getting on , Ann was <f id="1">en train de mélanger la peinture</f>  , and Peter was washing down the walls .</input>
+  <output>When John looked in to see how they were getting on , Ann was <f id="1">in the process of mix the paint<alt>currently mix the paint</alt><alt>starting to mix the paint</alt><alt>now mix the paint</alt><alt>about to mix the paint</alt></f>  , and Peter was washing down the walls .</output>
+</s>
+<s id="404">
+  <input>The NSA is <f id="1">au cœur de</f>  a major espionage controversy ever since the summer of 2013 .</input>
+  <output>The NSA is <f id="1">at the heart of<alt>in the heart of</alt><alt>at the core of</alt><alt>at the centre of</alt><alt>the heart of</alt></f>  a major espionage controversy ever since the summer of 2013 .</output>
+</s>
+<s id="405">
+  <input>Ten people <f id="1">ont perdu la vie</f>  in February .</input>
+  <output>Ten people <f id="1">lost their lives<alt>have lost their lives</alt><alt>were killed</alt><alt>died</alt><alt>have died</alt></f>  in February .</output>
+</s>
+<s id="406">
+  <input>From the reign of empress Catherine II until 1991 , <f id="1">la péninsule</f>  was part of Russia .</input>
+  <output>From the reign of empress Catherine II until 1991 , <f id="1">the peninsula<alt>the Peninsula</alt><alt>the peninsular</alt><alt>peninsula</alt><alt>Peninsula</alt></f>  was part of Russia .</output>
+</s>
+<s id="407">
+  <input>Drivers trapped in the traffic jam know they have <f id="1">être patients</f>  and sit for long hours in their cars .</input>
+  <output>Drivers trapped in the traffic jam know they have <f id="1">be patient<alt>being patient</alt><alt>be patient ,</alt><alt>their forbearance</alt><alt>we are patient</alt></f>  and sit for long hours in their cars .</output>
+</s>
+<s id="408">
+  <input>There are no showers for them to use and if they need to use a toilet , they have to lock their car and <f id="1">s' égarer</f>  to the nearest café .</input>
+  <output>There are no showers for them to use and if they need to use a toilet , they have to lock their car and <f id="1">go off course</f>  to the nearest café .</output>
+</s>
+<s id="409">
+  <input>I first <f id="1">me suis reveillé</f>  at eight twenty and had no time to have a shower .</input>
+  <output>I first <f id="1">I'm awake</f>  at eight twenty and had no time to have a shower .</output>
+</s>
+<s id="410">
+  <input>An official from Nepal 's <f id="1">ministère du tourisme</f>  told the Himalayan Times website that last year 's skirmish raised concerns about the safety and security of climbers on the mountain , especially given that law enforcement officers were days away .</input>
+  <output>An official from Nepal 's <f id="1">Ministry Tourism<alt>Ministry of tourism</alt><alt>Department Tourism</alt><alt>Ministry of tourism</alt><alt>Ministry tourism</alt></f>  told the Himalayan Times website that last year 's skirmish raised concerns about the safety and security of climbers on the mountain , especially given that law enforcement officers were days away .</output>
+</s>
+<s id="411">
+  <input>What can change <f id="1">la nature</f>  of a man ?</input>
+  <output>What can change <f id="1">the nature<alt>nature</alt><alt>the very nature</alt><alt>the type</alt><alt>the character</alt></f>  of a man ?</output>
+</s>
+<s id="412">
+  <input>Militias <f id="1">se sont formées</f>  this weekend to demand the secession of the region .</input>
+  <output>Militias <f id="1">have formed<alt>materialised</alt><alt>who are</alt></f>  this weekend to demand the secession of the region .</output>
+</s>
+<s id="413">
+  <input>A virtual hub that facilitates access to corpora and software , as well as to expertise and data that can be used to the benefit of education , <f id="1">l' alphabétisation</f>  , linguistic advice , language acquisition and much more .</input>
+  <output>A virtual hub that facilitates access to corpora and software , as well as to expertise and data that can be used to the benefit of education , <f id="1">literacy</f>  , linguistic advice , language acquisition and much more .</output>
+</s>
+<s id="414">
+  <input>I 'm just <f id="1">déguster</f>  the cocktail to see if there 's enough gin in it .</input>
+  <output>I 'm just <f id="1">sample<alt>enjoying</alt><alt>enjoy</alt><alt>be</alt></f>  the cocktail to see if there 's enough gin in it .</output>
+</s>
+<s id="415">
+  <input>The DES added Google 's innovative projects may transform energy and provide clean power to businesses and homes <f id="1">dans</f>  the world .</input>
+  <output>The DES added Google 's innovative projects may transform energy and provide clean power to businesses and homes <f id="1">in<alt>within</alt><alt>into</alt><alt>on</alt><alt>to</alt></f>  the world .</output>
+</s>
+<s id="416">
+  <input>I <f id="1">ai le droit</f>  to wear this uniform .</input>
+  <output>I <f id="1">am entitled<alt>have the right</alt><alt>have a right</alt></f>  to wear this uniform .</output>
+</s>
+<s id="417">
+  <input>Not only because it makes an important contribution in the <f id="1">concrétisation</f>  of our vision , but also because it embodies the essence of our reformulated mission : to extend the scope of what we do .</input>
+  <output>Not only because it makes an important contribution in the <f id="1">fulfilment<alt>realisation</alt><alt>implementation</alt><alt>achievement</alt><alt>completion</alt></f>  of our vision , but also because it embodies the essence of our reformulated mission : to extend the scope of what we do .</output>
+</s>
+<s id="418">
+  <input>I dream <f id="1">presque</f>  every night .</input>
+  <output>I dream <f id="1">almost<alt>nearly</alt><alt>virtually</alt><alt>practically</alt><alt>, almost</alt></f>  every night .</output>
+</s>
+<s id="419">
+  <input><f id="1">Juste avant</f>  it had enjoyed the black nowhere of the womb , and suddenly its world was full of colour , movement and noise .</input>
+  <output><f id="1">Just before<alt>Immediately before</alt><alt>Justus before</alt><alt>Just above</alt><alt>Immediately above</alt></f>  it had enjoyed the black nowhere of the womb , and suddenly its world was full of colour , movement and noise .</output>
+</s>
+<s id="420">
+  <input>Meanwhile , the economy teeters <f id="1">au bord de la récession</f>  , with the stock market reaching its lowest levels for nearly 17 years .</input>
+  <output>Meanwhile , the economy teeters <f id="1">on the brink of recession<alt>on the verge of recession</alt></f>  , with the stock market reaching its lowest levels for nearly 17 years .</output>
+</s>
+<s id="421">
+  <input>People on the island of Guraidhoo believe black magic can stop voters from voting , or make them vote <f id="1">voter en faveur de</f>  someone else .</input>
+  <output>People on the island of Guraidhoo believe black magic can stop voters from voting , or make them vote <f id="1">vote in favour of<alt>vote for</alt><alt>voting in favour of</alt><alt>to vote for</alt><alt>voting for</alt></f>  someone else .</output>
+</s>
+<s id="422">
+  <input>Germany has become Europe ’ s sick man . Last year , it managed no more than 0.6 % growth , the worst in the EU , after its economy had <f id="1">entré en récession</f>  in the final two quarters .</input>
+  <output>Germany has become Europe ’ s sick man . Last year , it managed no more than 0.6 % growth , the worst in the EU , after its economy had <f id="1">entered into recession<alt>come into recession</alt><alt>entered in recession</alt><alt>entered into recession</alt><alt>been in recession</alt></f>  in the final two quarters .</output>
+</s>
+<s id="423">
+  <input>The law has been <f id="1">en vigueur</f>  since last month .</input>
+  <output>The law has been <f id="1">in force<alt>into force</alt><alt>in place</alt><alt>in operation</alt><alt>existing</alt></f>  since last month .</output>
+</s>
+<s id="424">
+  <input>162 million people have seen the six <f id="1">dessins animés</f>  , set in Roman times , that have been made to date .</input>
+  <output>162 million people have seen the six <f id="1">animated films</f>  , set in Roman times , that have been made to date .</output>
+</s>
+<s id="425">
+  <input>An inherently funny word is a word which can be found amusing without <f id="1">aucun contexte spécifique</f>  , for reasons ranging from onomatopoeia to phonosemantics .</input>
+  <output>An inherently funny word is a word which can be found amusing without <f id="1">no specific context</f>  , for reasons ranging from onomatopoeia to phonosemantics .</output>
+</s>
+<s id="426">
+  <input>Around 400 traffic police have been assigned to patrol the jam to make sure tensions don ’ t rise <f id="1">trop</f>  far .</input>
+  <output>Around 400 traffic police have been assigned to patrol the jam to make sure tensions don ’ t rise <f id="1">too<alt>too much</alt><alt>all too</alt><alt>far too</alt><alt>is too</alt></f>  far .</output>
+</s>
+<s id="427">
+  <input>President Barack Obama asked the Pentagon <f id="1">de se préparer à</f>  the possibility of total withdrawal of american troops in Afghanistan .</input>
+  <output>President Barack Obama asked the Pentagon <f id="1">to prepare for<alt>to prepare himself for</alt><alt>to be prepared for</alt><alt>to prepare themselves for</alt><alt>to get ready to</alt></f>  the possibility of total withdrawal of american troops in Afghanistan .</output>
+</s>
+<s id="428">
+  <input>They hope that <f id="1">un jour</f>  they can erase painful memories in humans .</input>
+  <output>They hope that <f id="1">one day<alt>a day</alt><alt>one day ,</alt><alt>some day</alt><alt>, one day</alt></f>  they can erase painful memories in humans .</output>
+</s>
+<s id="429">
+  <input>The DES said : " There are lots of challenges in getting there , <f id="1">non le moindre étant</f>  of which is operating in many legal systems in different parts of the world . "</input>
+  <output>The DES said : " There are lots of challenges in getting there , <f id="1">not least being<alt>not the least being</alt><alt>not least is</alt><alt>not least are</alt><alt>not least of which is</alt></f>  of which is operating in many legal systems in different parts of the world . "</output>
+</s>
+<s id="430">
+  <input>It 's not much fun being stuck <f id="1">dans un embouteillage</f>  half the day .</input>
+  <output>It 's not much fun being stuck <f id="1">in a traffic jam</f>  half the day .</output>
+</s>
+<s id="431">
+  <input>The situation has been made worse by dozens of <f id="1">voitures qui tombent en panne</f>  or overheating .</input>
+  <output>The situation has been made worse by dozens of <f id="1">cars which breaks down<alt>cars that breaks down</alt><alt>cars , which breaks down</alt><alt>cars to breaks down</alt><alt>cars breaks down</alt></f>  or overheating .</output>
+</s>
+<s id="432">
+  <input>He gave me back the book , thanked me for lending it to him and said he had enjoyed it very much ; but I knew that he had n't read it because <f id="1">la plupart des pages</f>  were still uncut .</input>
+  <output>He gave me back the book , thanked me for lending it to him and said he had enjoyed it very much ; but I knew that he had n't read it because <f id="1">most of the pages<alt>most pages</alt><alt>most pages</alt><alt>the majority of pages</alt><alt>most of pages</alt></f>  were still uncut .</output>
+</s>
+<s id="433">
+  <input>Orange <f id="1">envisage un partenariat</f>  with Microsoft to develop Dailymotion .</input>
+  <output>Orange <f id="1">is considering a partnership<alt>envisages a partnership</alt><alt>is considering a partnership</alt><alt>envisages a partnership</alt><alt>is planning a partnership</alt></f>  with Microsoft to develop Dailymotion .</output>
+</s>
+<s id="434">
+  <input>One of the passengers is reading a newspaper ; another is doing a crossword puzzle ; another <f id="1">regarde par</f>  the window .</input>
+  <output>One of the passengers is reading a newspaper ; another is doing a crossword puzzle ; another <f id="1">' s business by<alt>a tendency to look by</alt><alt>a tendency to look through</alt><alt>a tendency to look in</alt><alt>affects by</alt></f>  the window .</output>
+</s>
+<s id="435">
+  <input>Thousands of drivers <f id="1">pris dans un embouteillage</f>  in their cars for ten days on the Beijing-Tibet Expressway just outside the Chinese capital .</input>
+  <output>Thousands of drivers <f id="1">stuck in a traffic jam<alt>caught up in a traffic jam</alt><alt>caught up in a traffic jam</alt><alt>who is stuck in a traffic jam</alt><alt>made in a traffic jam</alt></f>  in their cars for ten days on the Beijing-Tibet Expressway just outside the Chinese capital .</output>
+</s>
+<s id="436">
+  <input>I rushed to the departure gate and was only in time to <f id="1">attraper l' avion</f>  .</input>
+  <output>I rushed to the departure gate and was only in time to <f id="1">catch the plane<alt>catch the aircraft</alt><alt>catch the aeroplane</alt><alt>catch flying</alt><alt>catching the plane</alt></f>  .</output>
+</s>
+<s id="437">
+  <input>I <f id="1">doute vraiment</f>  they are green , like they are in science fiction movies .</input>
+  <output>I <f id="1">really doubt<alt>very much doubt</alt><alt>do doubt</alt><alt>do very much doubt</alt><alt>own grave misgivings</alt></f>  they are green , like they are in science fiction movies .</output>
+</s>
+<s id="438">
+  <input>I absolutely love <f id="1">prendre un bain</f>  .</input>
+  <output>I absolutely love <f id="1">to take a bath</f>  .</output>
+</s>
+<s id="439">
+  <input>The three of us were sitting there <f id="1">sanglotant</f>  and alone with our feelings when the door flung open .</input>
+  <output>The three of us were sitting there <f id="1">sobbing</f>  and alone with our feelings when the door flung open .</output>
+</s>
+<s id="440">
+  <input>In a statement , President François Hollande sent <f id="1">ses condoléances</f>  to the victims ' families .</input>
+  <output>In a statement , President François Hollande sent <f id="1">its condolences<alt>his condolences</alt><alt>to express his condolences</alt><alt>her condolences</alt><alt>express his condolences</alt></f>  to the victims ' families .</output>
+</s>
+<s id="441">
+  <input>It took individual effort to attain the colony when it almost failed , and individual effort to maintain the colony when it barely survived , and provided confidence that in the distant future the colony would restore <f id="1">le berceau de l' humanité</f>  .</input>
+  <output>It took individual effort to attain the colony when it almost failed , and individual effort to maintain the colony when it barely survived , and provided confidence that in the distant future the colony would restore <f id="1">the cradle of humanity<alt>the birthplace of humanity</alt><alt>the cradle of mankind</alt><alt>the cradle of humanity</alt><alt>the original home of humanity</alt></f>  .</output>
+</s>
+<s id="442">
+  <input>Whenever he goes to London , he stays with his sister , who is married <f id="1">à un Anglais</f>  .</input>
+  <output>Whenever he goes to London , he stays with his sister , who is married <f id="1">at a English<alt>at a Englishman</alt><alt>at an English</alt><alt>at an Englishman</alt><alt>at a Englishmen</alt></f>  .</output>
+</s>
+<s id="443">
+  <input>How does something <f id="1">si grand</f>  get off the ground ?</input>
+  <output>How does something <f id="1">so big ,<alt>so big</alt><alt>so fierce</alt><alt>such large</alt><alt>so much</alt></f>  get off the ground ?</output>
+</s>
+<s id="444">
+  <input>Her reliability had always <f id="1">été contestée</f>  by everyone and they were proven right by the mess she had made .</input>
+  <output>Her reliability had always <f id="1">been challenged<alt>been contested</alt><alt>contested</alt><alt>been accepted</alt><alt>not been accepted</alt></f>  by everyone and they were proven right by the mess she had made .</output>
+</s>
+<s id="445">
+  <input>He said the security officers could also <f id="1">faciliter</f>  medical help , rescues or anything else .</input>
+  <output>He said the security officers could also <f id="1">facilitate<alt>facilitating</alt><alt>help</alt><alt>easier</alt><alt>ease</alt></f>  medical help , rescues or anything else .</output>
+</s>
+<s id="446">
+  <input>That is , <f id="1">les nombres en virgule flottante</f>  cannot represent point coordinates with atomic accuracy at galactic distances , only close to the origin .</input>
+  <output>That is , <f id="1">the numbers in comma floating<alt>the numbers in comma a floating</alt><alt>the numbers in comma , a floating</alt><alt>the numbers in comma , floating</alt><alt>the numbers in single comma floating</alt></f>  cannot represent point coordinates with atomic accuracy at galactic distances , only close to the origin .</output>
+</s>
+<s id="447">
+  <input>George and Marie Winston drove through the empty country roads <f id="1">vers</f>  the house of their friends .</input>
+  <output>George and Marie Winston drove through the empty country roads <f id="1">towards<alt>to</alt><alt>into</alt><alt>toward</alt><alt>at</alt></f>  the house of their friends .</output>
+</s>
+<s id="448">
+  <input>When I got up to him I thought his eyes looked <f id="1">rouges et brillants</f>  as if he 'd been crying .</input>
+  <output>When I got up to him I thought his eyes looked <f id="1">red and brilliant<alt>red and shiny</alt><alt>red and have brilliant</alt><alt>red and glowing</alt><alt>red and bright</alt></f>  as if he 'd been crying .</output>
+</s>
+<s id="449">
+  <input>Eddie was determined that he was not going to <f id="1">passer encore deux heures</f>  in this house .</input>
+  <output>Eddie was determined that he was not going to <f id="1">spend another two hours<alt>waste another two hours</alt><alt>to waste another two hours</alt><alt>spend another two-hour</alt><alt>spend another couple of hours</alt></f>  in this house .</output>
+</s>
+<s id="450">
+  <input>Pulsars , the metronomes of the universe , <f id="1">naissent</f>  from the death of giant stars .</input>
+  <output>Pulsars , the metronomes of the universe , <f id="1">are born<alt>arise</alt><alt>originate</alt><alt>born</alt><alt>arises</alt></f>  from the death of giant stars .</output>
+</s>
+<s id="451">
+  <input>Dogs are a real <f id="1">membre de la famille</f>  if you have one as a pet .</input>
+  <output>Dogs are a real <f id="1">family member<alt>family members that</alt><alt>family members</alt><alt>family member to</alt><alt>family members ,</alt></f>  if you have one as a pet .</output>
+</s>
+<s id="452">
+  <input>Britain has refused to back an EU ban on these chemicals saying their impact on <f id="1">les abeilles</f>  is unclear .</input>
+  <output>Britain has refused to back an EU ban on these chemicals saying their impact on <f id="1">bees<alt>the bees</alt><alt>the bee</alt><alt>honey bees</alt><alt>bee families</alt></f>  is unclear .</output>
+</s>
+<s id="453">
+  <input>Angolans have been <f id="1">en guerre</f>  more or less continuously since 1961 , first against their colonial masters , the Portuguese , then against each other .</input>
+  <output>Angolans have been <f id="1">at war<alt>to war</alt><alt>warring</alt><alt>at war ,</alt><alt>a war</alt></f>  more or less continuously since 1961 , first against their colonial masters , the Portuguese , then against each other .</output>
+</s>
+<s id="454">
+  <input>In the West women <f id="1">ne portent habituellement pas de</f>  veils .</input>
+  <output>In the West women <f id="1">have not normally carried of<alt>have not normally carried to</alt><alt>have not normally carried in</alt><alt>have not normally carried for</alt><alt>have not normally carried from</alt></f>  veils .</output>
+</s>
+<s id="455">
+  <input>Remember , if you have a health problem , it may have severe repercussions on your <f id="1">couverture d' assurance</f>  .</input>
+  <output>Remember , if you have a health problem , it may have severe repercussions on your <f id="1">insurance cover<alt>insurance policy</alt><alt>insurance cover ,</alt><alt>insurance cover which</alt></f>  .</output>
+</s>
+<s id="456">
+  <input>On behalf of the Dutch Language Union , it ’ s my pleasure <f id="1">de vous accueillir</f>  to this CLIN Conference .</input>
+  <output>On behalf of the Dutch Language Union , it ’ s my pleasure <f id="1">to welcome you<alt>to have you</alt><alt>sitting with you</alt><alt>for us to welcome you</alt><alt>welcome you</alt></f>  to this CLIN Conference .</output>
+</s>
+<s id="457">
+  <input>The high water bills , which result in part from the costs to build the necessary infrastructure , have been offset by lower <f id="1">coûts de logement</f>  , Sensibaugh said .</input>
+  <output>The high water bills , which result in part from the costs to build the necessary infrastructure , have been offset by lower <f id="1">costs of housing<alt>costs housing</alt><alt>cost housing</alt><alt>cost of housing</alt><alt>costs of housing</alt></f>  , Sensibaugh said .</output>
+</s>
+<s id="458">
+  <input>A dangerous man had escaped from hospital , <f id="1">donc</f>  the police issued a warning on the radio .</input>
+  <output>A dangerous man had escaped from hospital , <f id="1">therefore<alt>so</alt><alt>thus</alt><alt>therefore ,</alt><alt>then</alt></f>  the police issued a warning on the radio .</output>
+</s>
+<s id="459">
+  <input>I liked it at first but then I quarrelled with my employer and he <f id="1">m' a licencié</f>  .</input>
+  <output>I liked it at first but then I quarrelled with my employer and he <f id="1">was dismissed<alt>me fired</alt><alt>me sacked</alt><alt>me have dismissed</alt><alt>me laid off</alt></f>  .</output>
+</s>
+<s id="460">
+  <input>But I know he wants to be home early tonight because he is expecting an important <f id="1">coup de téléphone</f>  .</input>
+  <output>But I know he wants to be home early tonight because he is expecting an important <f id="1">telephone call<alt>a phone</alt><alt>telephone conversation</alt><alt>telephone calls</alt></f>  .</output>
+</s>
+<s id="461">
+  <input>She seems , <f id="1">cependant</f>  , attached to this man .</input>
+  <output>She seems , <f id="1">however<alt>however ,</alt><alt>, however</alt><alt>nevertheless</alt><alt>but</alt></f>  , attached to this man .</output>
+</s>
+<s id="462">
+  <input>I usually take <f id="1">quelques</f>  photos every day and then put them online for my friends to see .</input>
+  <output>I usually take <f id="1">a few<alt>some</alt><alt>few</alt><alt>several</alt><alt>a couple</alt></f>  photos every day and then put them online for my friends to see .</output>
+</s>
+<s id="463">
+  <input>They began painting , but found the walls were too wet . While they waited for the walls to dry , Ann <f id="1">se souvenait</f>  she had a phone call to make .</input>
+  <output>They began painting , but found the walls were too wet . While they waited for the walls to dry , Ann <f id="1">was</f>  she had a phone call to make .</output>
+</s>
+<s id="464">
+  <input><f id="1">Ces dernières années</f>  , on-line corpora and analysis tools have become increasingly accessible , and corpus-based studies have become increasingly common .</input>
+  <output><f id="1">In recent years<alt>In the last few years</alt><alt>Over the past few years</alt><alt>Last year</alt><alt>In the last few years ,</alt></f>  , on-line corpora and analysis tools have become increasingly accessible , and corpus-based studies have become increasingly common .</output>
+</s>
+<s id="465">
+  <input>In percentage terms , Russia 's economy <f id="1">avait diminué</f>  by a larger amount in the 1990 s than the American economy during the Great Depression .</input>
+  <output>In percentage terms , Russia 's economy <f id="1">had fallen<alt>were reduced</alt></f>  by a larger amount in the 1990 s than the American economy during the Great Depression .</output>
+</s>
+<s id="466">
+  <input>With Everest becoming more and more <f id="1">encombré</f>  , Nepalese officials are attempting to nip any more trouble in the bud by deploying a team of security guards .</input>
+  <output>With Everest becoming more and more <f id="1">congested<alt>crowded</alt><alt>overloaded</alt><alt>overcrowded</alt><alt>obstructed</alt></f>  , Nepalese officials are attempting to nip any more trouble in the bud by deploying a team of security guards .</output>
+</s>
+<s id="467">
+  <input>It 's also likely that <f id="1">certains des</f>  aliens are much more intelligent than we are .</input>
+  <output>It 's also likely that <f id="1">some of the<alt>some of</alt><alt>some</alt><alt>a number of the</alt><alt>some of these</alt></f>  aliens are much more intelligent than we are .</output>
+</s>
+<s id="468">
+  <input>UAPS president Simon Watt said he did n't want to use a cute animal <f id="1">comme</f>  the society 's mascot .</input>
+  <output>UAPS president Simon Watt said he did n't want to use a cute animal <f id="1">as<alt>like</alt><alt>such as</alt><alt>, as</alt><alt>and</alt></f>  the society 's mascot .</output>
+</s>
+<s id="469">
+  <input>I often ask the passengers <f id="1">à côté de moi</f>  if I can have the dessert they do n't want .</input>
+  <output>I often ask the passengers <f id="1">next to me<alt>standing next to me</alt><alt>sitting beside me</alt><alt>beside me</alt></f>  if I can have the dessert they do n't want .</output>
+</s>
+<s id="470">
+  <input>The first successful artificial insemination took place in 1970 . And since 1978 , when the world ’ s first <f id="1">bébé éprouvette</f>  was born , researchers have assembled a battery of medicines and high-tech procedures that have utterly transformed the treatment of infertility .</input>
+  <output>The first successful artificial insemination took place in 1970 . And since 1978 , when the world ’ s first <f id="1">baby test tube<alt>baby out test tube</alt><alt>babies test tube</alt><alt>baby , test tube</alt><alt>baby were test tube</alt></f>  was born , researchers have assembled a battery of medicines and high-tech procedures that have utterly transformed the treatment of infertility .</output>
+</s>
+<s id="471">
+  <input>Their <f id="1">recherches</f>  has led to all of our modern technology .</input>
+  <output>Their <f id="1">research<alt>searches</alt><alt>investigations</alt><alt>investigation</alt><alt>search</alt></f>  has led to all of our modern technology .</output>
+</s>
+<s id="472">
+  <input>I have loved writing since I won an award in 5th grade for my short story , <f id="1">Voyage</f>  Through The Dark .</input>
+  <output>I have loved writing since I won an award in 5th grade for my short story , <f id="1">voyage<alt>travel</alt><alt>trip</alt><alt>journey</alt></f>  Through The Dark .</output>
+</s>
+<s id="473">
+  <input>Because I had n't slept very well , I <f id="1">somnolais</f>  in my chair .</input>
+  <output>Because I had n't slept very well , I <f id="1">napping</f>  in my chair .</output>
+</s>
+<s id="474">
+  <input>While it is not clear exactly when the estate vineyard started producing wine for <f id="1">buts commerciaux</f>  , rather than just family consumption , the millennium during which the estate of Château de Goulaine has been producing wine makes it the oldest known wine business still in existence .</input>
+  <output>While it is not clear exactly when the estate vineyard started producing wine for <f id="1">goals commercial<alt>goals trade</alt><alt>aims commercial</alt><alt>goals trading</alt><alt>aims trade</alt></f>  , rather than just family consumption , the millennium during which the estate of Château de Goulaine has been producing wine makes it the oldest known wine business still in existence .</output>
+</s>
+<s id="475">
+  <input>What should the end-user – the people and the communities in these three countries – <f id="1">attendre de nous</f>  ?</input>
+  <output>What should the end-user – the people and the communities in these three countries – <f id="1">expect from us<alt>expect</alt><alt>to expect us</alt><alt>expect of us</alt><alt>expect of us ,</alt></f>  ?</output>
+</s>
+<s id="476">
+  <input>It 's interesting to see how different cultures have <f id="1">différents types d'</f>  art .</input>
+  <output>It 's interesting to see how different cultures have <f id="1">different types of<alt>various types of</alt><alt>different kinds of</alt><alt>various kinds of</alt><alt>different forms of</alt></f>  art .</output>
+</s>
+<s id="477">
+  <input>I have been feeling much better ever since I <f id="1">ai cessé de fumer</f>  .</input>
+  <output>I have been feeling much better ever since I <f id="1">have lost smoking<alt>have lost on smoking</alt><alt>have been smoking</alt><alt>have lost to smoke</alt><alt>have lost up smoking</alt></f>  .</output>
+</s>
+<s id="478">
+  <input>Only rich people <f id="1">peuvent se permettre</f>  diamonds .</input>
+  <output>Only rich people <f id="1">can afford<alt>can now afford</alt><alt>can afford to run</alt><alt>could afford</alt><alt>can allow themselves</alt></f>  diamonds .</output>
+</s>
+<s id="479">
+  <input>Harpalus flavescens is a <f id="1">carabe</f>  in the Harpalinae subfamily that is common in Europe , Siberia , Central Asia and Northern Asia .</input>
+  <output>Harpalus flavescens is a <f id="1">ground beetle<alt>carabid beetle</alt></f>  in the Harpalinae subfamily that is common in Europe , Siberia , Central Asia and Northern Asia .</output>
+</s>
+<s id="480">
+  <input>The minimum wage demanded by the proposal would be <f id="1">le plus élevé au monde</f>  .</input>
+  <output>The minimum wage demanded by the proposal would be <f id="1">the largest in the world<alt>the highest in the world</alt></f>  .</output>
+</s>
+<s id="481">
+  <input>The old man <f id="1">fête fièrement</f>  the 96 years of the Red Army .</input>
+  <output>The old man <f id="1">festival proudly<alt>celebration proudly</alt><alt>is celebrating proudly</alt><alt>feast proudly</alt><alt>party proudly</alt></f>  the 96 years of the Red Army .</output>
+</s>
+<s id="482">
+  <input>For instance , many insurers advertise that their policies <f id="1">ne nécessitent pas</f>  you to submit a medical report .</input>
+  <output>For instance , many insurers advertise that their policies <f id="1">do not require<alt>may not need</alt><alt>do not call</alt><alt>do not need</alt><alt>require no</alt></f>  you to submit a medical report .</output>
+</s>
+<s id="483">
+  <input>When I <f id="1">regardais par la fenêtre</f>  , they were all standing about in the street with their hands in their pockets .</input>
+  <output>When I <f id="1">was watching through the window<alt>was looking through the window</alt><alt>was watching through a window</alt><alt>was watching of the window</alt><alt>looked in through the window</alt></f>  , they were all standing about in the street with their hands in their pockets .</output>
+</s>
+<s id="484">
+  <input>The departure lounge was very hot and I had been up since five o ' clock that morning , so I decided to close my eyes and <f id="1">prendre une courte sieste</f>  .</input>
+  <output>The departure lounge was very hot and I had been up since five o ' clock that morning , so I decided to close my eyes and <f id="1">take a short siesta<alt>make a short siesta</alt><alt>taking a short siesta</alt><alt>take a brief siesta</alt><alt>take an short siesta</alt></f>  .</output>
+</s>
+<s id="485">
+  <input>Danny worked hard on his land last week and has not yet finished the work of <f id="1">l' ensemencement</f>  and planting .</input>
+  <output>Danny worked hard on his land last week and has not yet finished the work of <f id="1">sowing of the seeds</f>  and planting .</output>
+</s>
+<s id="486">
+  <input>At the other end of the spectrum , a comic-strip version of the first volume has sold 12,000 copies <f id="1">en trois semaines seulement</f>  .</input>
+  <output>At the other end of the spectrum , a comic-strip version of the first volume has sold 12,000 copies <f id="1">in just three weeks</f>  .</output>
+</s>
+<s id="487">
+  <input>Why is the world so <f id="1">rempli de</f>  violence ?</input>
+  <output>Why is the world so <f id="1">full of<alt>filled with</alt><alt>brimming with</alt><alt>full of binder</alt><alt>is full of</alt></f>  violence ?</output>
+</s>
+<s id="488">
+  <input>He 's <f id="1">tout à fait</f>  unbelievable .</input>
+  <output>He 's <f id="1">quite<alt>absolutely</alt><alt>entirely</alt><alt>totally</alt><alt>completely</alt></f>  unbelievable .</output>
+</s>
+<s id="489">
+  <input>Harold Pinter 's screenplay , written in 1972 but never filmed , will be published in America <f id="1">pour la première fois</f>  .</input>
+  <output>Harold Pinter 's screenplay , written in 1972 but never filmed , will be published in America <f id="1">for the first time<alt>, for the first time</alt><alt>for the first time ever</alt><alt>for the first time ,</alt><alt>for the very first time</alt></f>  .</output>
+</s>
+<s id="490">
+  <input><f id="1">Un jour</f>  in 1987 , John Leaf , the manager of several successful musicians , was having a meeting with the headmaster when he heard Colin practising .</input>
+  <output><f id="1">A day<alt>one day</alt></f>  in 1987 , John Leaf , the manager of several successful musicians , was having a meeting with the headmaster when he heard Colin practising .</output>
+</s>
+<s id="491">
+  <input>Even the old village shop is n't there anymore – it has been <f id="1">changé en</f>  one of those awful cafés where everything seems to be made of plastic , and a big sign has been put outside saying " Ye Olde Tea Shoppe " .</input>
+  <output>Even the old village shop is n't there anymore – it has been <f id="1">changed in<alt>changed to</alt><alt>changed for</alt><alt>changed into</alt><alt>turned into</alt></f>  one of those awful cafés where everything seems to be made of plastic , and a big sign has been put outside saying " Ye Olde Tea Shoppe " .</output>
+</s>
+<s id="492">
+  <input>Probably they had heard the lift coming up and had <f id="1">pris l' escalier de secours</f>  .</input>
+  <output>Probably they had heard the lift coming up and had <f id="1">taken the stairway rescue<alt>taken the stairs rescue</alt><alt>taken the stairway relief</alt><alt>taken the stairs relief</alt><alt>taken the the stairway rescue</alt></f>  .</output>
+</s>
+<s id="493">
+  <input>The Genevan prison was the scene of confrontation between <f id="1">les détenus</f>  since Sunday .</input>
+  <output>The Genevan prison was the scene of confrontation between <f id="1">the detainees<alt>the prisoners</alt><alt>detainees</alt><alt>prisoners</alt><alt>the inmates</alt></f>  since Sunday .</output>
+</s>
+<s id="494">
+  <input>Keeping up with <f id="1">la mode</f>  is expensive these days .</input>
+  <output>Keeping up with <f id="1">the fashion<alt>fashion</alt><alt>the vogue</alt><alt>the flavour</alt><alt>our kind</alt></f>  is expensive these days .</output>
+</s>
+<s id="495">
+  <input>Nanni Moretti , who won the top prize at the Cannes film festival some years ago for " The Son 's Room " , is only one of several <f id="1">prometteurs</f>  young Italian directors .</input>
+  <output>Nanni Moretti , who won the top prize at the Cannes film festival some years ago for " The Son 's Room " , is only one of several <f id="1">promising<alt>a promising</alt><alt>promising ,</alt><alt>hopeful</alt><alt>encouraging</alt></f>  young Italian directors .</output>
+</s>
+<s id="496">
+  <input><f id="1">Récemment</f>  there have been three fatal small plane crashes in the Los Angeles area .</input>
+  <output><f id="1">Recently<alt>In recent times</alt></f>  there have been three fatal small plane crashes in the Los Angeles area .</output>
+</s>
+<s id="497">
+  <input>Google is investing $ 1 billion in <f id="1">l' énergie renouvelable</f>  , like solar energy and wind farms .</input>
+  <output>Google is investing $ 1 billion in <f id="1">renewable energy<alt>renewable energy sources</alt><alt>the renewable energy</alt><alt>renewable energy technologies</alt><alt>renewable energy instead</alt></f>  , like solar energy and wind farms .</output>
+</s>
+<s id="498">
+  <input>The jewellery , which in fact she did not really like had been given her by her aunt , who had died <f id="1">il y a quelques années</f>  .</input>
+  <output>The jewellery , which in fact she did not really like had been given her by her aunt , who had died <f id="1">a few years ago<alt>some years ago</alt><alt>a couple of years ago</alt><alt>several years ago</alt><alt>years ago</alt></f>  .</output>
+</s>
+<s id="499">
+  <input>I hate <f id="1">la vue du</f>  blood .</input>
+  <output>I hate <f id="1">the view of the</f>  blood .</output>
+</s>
+<s id="500">
+  <input>I have hypoglycemia , and I know that every time I do n't eat for a while and my blood sugar gets low I feel like <f id="1">je vais évanouir</f>  .</input>
+  <output>I have hypoglycemia , and I know that every time I do n't eat for a while and my blood sugar gets low I feel like <f id="1">I will overlooked<alt>I shall overlooked</alt><alt>I am going overlooked</alt><alt>I am going to overlooked</alt><alt>I will be overlooked</alt></f>  .</output>
+</s>
+<s id="501">
+  <input>Nintendo reveals its <f id="1">plan de relance</f></input>
+  <output>Nintendo reveals its <f id="1">recovery plan<alt>Recovery Plan</alt><alt>recovery plan of</alt><alt>revival plan</alt><alt>rescue plan</alt></f></output>
+</s>
+<s id="502">
+  <input>The Assembly and Senat will vote on <f id="1">la poursuite de</f>  operation Sangaris in Central Africa .</input>
+  <output>The Assembly and Senat will vote on <f id="1">the continuation of<alt>the continued</alt><alt>the continuing</alt><alt>the pursuit of</alt><alt>the further</alt></f>  operation Sangaris in Central Africa .</output>
+</s>
+<s id="503">
+  <input><f id="1">L' embouteillage</f>  started on August 14th when roadworks began .</input>
+  <output><f id="1">The bottling<alt>The traffic jam</alt><alt>The congestion</alt><alt>The traffic congestion</alt><alt>The traffic</alt></f>  started on August 14th when roadworks began .</output>
+</s>
+<s id="504">
+  <input>For these reasons , we saw the need for a textbook such as this one : presenting explicit discussions of the methodological issues and techniques used in corpus-based work , with a primary emphasis on the interesting investigations of <f id="1">l' usage du langage</f>  possible through this approach .</input>
+  <output>For these reasons , we saw the need for a textbook such as this one : presenting explicit discussions of the methodological issues and techniques used in corpus-based work , with a primary emphasis on the interesting investigations of <f id="1">the use of the language<alt>the use of language</alt><alt>the use of the language</alt><alt>the use of language</alt><alt>the use the language</alt></f>  possible through this approach .</output>
+</s>
+<s id="505">
+  <input>However , many aspects of corpus-based research <f id="1">demeurent mystérieux</f>  for readers , since research articles can rarely afford the space to discuss methodological considerations or analytical procedures in complete detail .</input>
+  <output>However , many aspects of corpus-based research <f id="1">remain mysterious<alt>still remain mysterious</alt><alt>remains mysterious</alt><alt>are still mysterious</alt><alt>remain mystery</alt></f>  for readers , since research articles can rarely afford the space to discuss methodological considerations or analytical procedures in complete detail .</output>
+</s>
+</sentencepairs>
