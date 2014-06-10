@@ -2,7 +2,9 @@ Language Pair	Evaluation Type	Team	Accuracy	Word Accuracy	Recall
 en-de	best	IUCL-run2	0.665	0.722	1.0
 en-de	best	CNRC-run1	0.657	0.717	1.0
 en-de	best	CNRC-run2	0.645	0.702	1.0
+en-de	best	colibrita-ep7os12-l1r1Flm	0.595	0.671	1.0
 en-de	best	colibrita-ep7os12-l1r1lm	0.593	0.646	0.9278557114228457
+en-de	best	colibrita-ep7os12-l1r1F	0.581	0.643	1.0
 en-de	best	colibrita-ep7os12-l1r1	0.581	0.642	0.9278557114228457
 en-de	best	colibrita-ep7os12-baseline	0.513	0.577	0.9278557114228457
 en-de	best	TeamZ-run1	0.218	0.293	0.8517034068136272
@@ -23,11 +25,13 @@ en-es	best	UEdin-run1	0.753	0.827	1.0
 en-es	best	UEdin-run3	0.745	0.82	1.0
 en-es	best	UNAL-run2	0.733	0.809	0.9939759036144579
 en-es	best	UNAL-run1	0.721	0.794	0.9939759036144579
+en-es	best	colibrita-ep7os12-l1r1Flm	0.641	0.746	1.0
 en-es	best	CNRC-run1	0.667	0.745	1.0
 en-es	best	CNRC-run2	0.651	0.735	1.0
 en-es	best	colibrita-ep7os12-l1r1lm	0.641	0.727	0.9538152610441767
 en-es	best	IUCL-run1	0.633	0.72	1.0
 en-es	best	IUCL-run2	0.633	0.72	1.0
+en-es	best	colibrita-ep7os12-l1r1F	0.608	0.715	1.0
 en-es	best	colibrita-ep7os12-l1r1	0.596	0.69	0.9538152610441767
 en-es	best	colibrita-ep7os12-baseline	0.544	0.651	0.9538152610441767
 en-es	best	Sensible-wtmxlingyu	0.239	0.351	0.8192771084337349
@@ -53,6 +57,8 @@ fr-en	best	CNRC-run1	0.556	0.694	1.0
 fr-en	best	CNRC-run2	0.533	0.686	1.0
 fr-en	best	IUCL-run1	0.545	0.682	1.0
 fr-en	best	IUCL-run2	0.545	0.682	1.0
+fr-en	best	colibrita-ep7os12-l1r1F	0.479	0.635	1.0
+fr-en	best	colibrita-ep7os12-l1r1Flm	0.469	0.629	1.0
 fr-en	best	colibrita-ep7os12-l1r1lm	0.461	0.556	0.802020202020202
 fr-en	best	colibrita-ep7os12-baseline	0.448	0.538	0.802020202020202
 fr-en	best	colibrita-ep7os12-l1r1	0.428	0.531	0.802020202020202
@@ -76,8 +82,10 @@ nl-en	best	IUCL-run1	0.544	0.679	1.0
 nl-en	best	IUCL-run2	0.544	0.679	1.0
 nl-en	best	CNRC-run1	0.45	0.61	1.0
 nl-en	best	CNRC-run2	0.444	0.609	1.0
-nl-en	best	colibrita-ep7os12-l1r1	0.326	0.389	0.6023391812865497
+nl-en	best	colibrita-ep7os12-l1r1Flm	0.327	0.527	1.0
+nl-en	best	colibrita-ep7os12-l1r1F	0.326	0.394	1.0
 nl-en	best	colibrita-ep7os12-l1r1lm	0.316	0.387	0.6023391812865497
+nl-en	best	colibrita-ep7os12-l1r1	0.324	0.386	0.6023391812865497
 nl-en	best	colibrita-ep7os12-baseline	0.304	0.365	0.6023391812865497
 nl-en	best	Sensible-wtmxlingyu	0.115	0.152	0.33528265107212474
 nl-en	best	Sensible-wtm	0.092	0.099	0.21442495126705652
