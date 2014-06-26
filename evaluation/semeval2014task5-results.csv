@@ -2,10 +2,12 @@ Language Pair	Evaluation Type	Team	Accuracy	Word Accuracy	Recall
 en-de	best	IUCL-run2	0.665	0.722	1.0
 en-de	best	CNRC-run1	0.657	0.717	1.0
 en-de	best	CNRC-run2	0.645	0.702	1.0
+en-de	best	colibrita-ep7os12-Flm	0.623	0.686	1.0
 en-de	best	colibrita-ep7os12-l1r1Flm	0.595	0.671	1.0
 en-de	best	colibrita-ep7os12-l1r1lm	0.593	0.646	0.9278557114228457
 en-de	best	colibrita-ep7os12-l1r1F	0.581	0.643	1.0
 en-de	best	colibrita-ep7os12-l1r1	0.581	0.642	0.9278557114228457
+en-de	best	colibrita-ep7os12-F	0.531	0.612	1.0
 en-de	best	colibrita-ep7os12-baseline	0.513	0.577	0.9278557114228457
 en-de	best	TeamZ-run1	0.218	0.293	0.8517034068136272
 en-de	best	IUCL-run1	0.198	0.252	1.0
@@ -60,6 +62,8 @@ fr-en	best	CNRC-run1	0.556	0.694	1.0
 fr-en	best	CNRC-run2	0.533	0.686	1.0
 fr-en	best	IUCL-run1	0.545	0.682	1.0
 fr-en	best	IUCL-run2	0.545	0.682	1.0
+fr-en	best	colibrita-ep7os12-Flm	0.543	0.673	1.0
+fr-en	best	colibrita-ep7os12-F	0.499	0.642	1.0
 fr-en	best	colibrita-ep7os12-l1r1F	0.479	0.635	1.0
 fr-en	best	colibrita-ep7os12-l1r1Flm	0.469	0.629	1.0
 fr-en	best	colibrita-ep7os12-l1r1lm	0.461	0.556	0.802020202020202
@@ -85,6 +89,8 @@ nl-en	best	IUCL-run1	0.544	0.679	1.0
 nl-en	best	IUCL-run2	0.544	0.679	1.0
 nl-en	best	CNRC-run1	0.45	0.61	1.0
 nl-en	best	CNRC-run2	0.444	0.609	1.0
+nl-en	best	colibrita-ep7os12-Flm	0.415	0.577	1.0
+nl-en	best	colibrita-ep7os12-F	0.405	0.568	1.0
 nl-en	best	colibrita-ep7os12-l1r1Flm	0.327	0.527	1.0
 nl-en	best	colibrita-ep7os12-l1r1F	0.326	0.394	1.0
 nl-en	best	colibrita-ep7os12-l1r1lm	0.316	0.387	0.6023391812865497
