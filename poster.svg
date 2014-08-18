@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="poster.svg"
+   sodipodi:docname="poster.pdf"
    inkscape:export-filename="/home/proycon/work/semeval2014task5-pub/poster.png"
    inkscape:export-xdpi="218"
    inkscape:export-ydpi="218">
@@ -85,9 +85,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
+     inkscape:zoom="0.24748737"
      inkscape:cx="905.49891"
-     inkscape:cy="3028.2457"
+     inkscape:cy="1988.1879"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -104,7 +104,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -128,8 +128,8 @@
        sodipodi:cy="485.6666"
        sodipodi:rx="141.92644"
        sodipodi:ry="131.31982"
-       d="m 602.05092,485.6666 c 0,72.52593 -63.54263,131.31982 -141.92644,131.31982 -78.38381,0 -141.92644,-58.79389 -141.92644,-131.31982 0,-72.52594 63.54263,-131.31983 141.92644,-131.31983 78.38381,0 141.92644,58.79389 141.92644,131.31983 z"
-       transform="matrix(4.0378599,0,0,4.0138796,-101.09954,-3179.0761)" />
+       d="m 602.05092,485.6666 a 141.92644,131.31982 0 1 1 -283.85288,0 141.92644,131.31982 0 1 1 283.85288,0 z"
+       transform="matrix(4.0378599,0,0,4.0138796,-76.855879,-3179.0761)" />
     <rect
        style="color:#000000;fill:#afdde9;stroke:#ffffff;stroke-width:6.43916416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect2985"
@@ -515,7 +515,7 @@
          y="-964.50098">ekelhaft</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:4.02213764;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.02213777, 193.06261184;stroke-dashoffset:0;marker-end:url(#Arrow1Lend)"
-       d="m 476.63453,-1054.9169 -1.33003,52.7711"
+       d="m 496.83758,-1054.9169 -1.33003,52.7711"
        id="path4116-8"
        inkscape:connector-curvature="0" />
     <text
@@ -715,26 +715,26 @@
        xml:space="preserve"
        style="font-size:57.45911026px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gillius ADF;-inkscape-font-specification:Gillius ADF"
        x="119.09383"
-       y="-391.77563"
+       y="-397.55563"
        id="text4083-0-4-1"
        sodipodi:linespacing="125%"
-       transform="scale(1.0115016,0.98862915)"><tspan
+       transform="scale(1.0115016,0.98862917)"><tspan
          sodipodi:role="line"
          id="tspan4085-3-1-0"
          x="119.09383"
-         y="-391.77563">I'm not sure if I stole his stuff or if I </tspan></text>
+         y="-397.55563">I'm not sure if I stole his stuff or if I </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:57.45911026px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2ca05a;fill-opacity:1;stroke:none;font-family:Gillius ADF;-inkscape-font-specification:Gillius ADF"
        x="998.26648"
-       y="-393.40033"
+       y="-399.18033"
        id="text4112-6-1-9"
        sodipodi:linespacing="125%"
-       transform="scale(1.0115016,0.98862915)"><tspan
+       transform="scale(1.0115016,0.98862917)"><tspan
          sodipodi:role="line"
          id="tspan4114-9-1-6"
          x="998.26648"
-         y="-393.40033">inherited it</tspan></text>
+         y="-399.18033">inherited it</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:80.51703644px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gillius ADF;-inkscape-font-specification:Gillius ADF"
