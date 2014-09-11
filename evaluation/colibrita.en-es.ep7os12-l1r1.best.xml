@@ -5,7 +5,7 @@
 </s>
 <s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="2">
   <input>En ocasiones puede <f id="1">give the impression</f>  que el proceso no es tan rápido como se quisiera .</input>
-  <output>En ocasiones puede <f confidence="0.571429" id="1">dar a entender<alt confidence="0.428571">dar la impresión</alt></f>  que el proceso no es tan rápido como se quisiera .</output>
+  <output>En ocasiones puede <f confidence="1.0" id="1">dar la sensación de</f>  que el proceso no es tan rápido como se quisiera .</output>
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="3">
   <input>A los niños les falta un espacio para hacer <f id="1">their homework</f>  .</input>
@@ -41,7 +41,7 @@
 </s>
 <s category="pp" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="11">
   <input>En este momento nieva <f id="1">in the north</f>  de Holanda .</input>
-  <output>En este momento nieva <f confidence="0.910256" id="1">en el norte<alt confidence="0.0512821">en el Norte</alt><alt confidence="0.0128205">el norte ,</alt><alt confidence="0.025641">del norte</alt></f>  de Holanda .</output>
+  <output>En este momento nieva <f confidence="0.591667" id="1">en el norte<alt confidence="0.00833333">en los del norte</alt><alt confidence="0.025">en la parte norte</alt><alt confidence="0.00833333">ubicado en el norte</alt><alt confidence="0.00833333">paro , pero el sur esta lleno</alt><alt confidence="0.00833333">en la porción norte</alt><alt confidence="0.00833333">, en la zona septentrional</alt><alt confidence="0.00833333">en la zona septentrional</alt><alt confidence="0.05">, en el norte</alt><alt confidence="0.2">del norte</alt><alt confidence="0.00833333">el norte ,</alt><alt confidence="0.00833333">el norte y en el sur</alt><alt confidence="0.00833333">, la del norte</alt><alt confidence="0.00833333">a la parte septentrional</alt><alt confidence="0.00833333">el norte ... ... los bosques caducifolios</alt><alt confidence="0.00833333">, en el Norte</alt><alt confidence="0.0333333">en el Norte</alt></f>  de Holanda .</output>
 </s>
 <s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="12">
   <input>A mí me parece que esta tarde no <f id="1">going to rain</f>  , pero quiza mañana sí .</input>
@@ -53,11 +53,11 @@
 </s>
 <s category="expr" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="14">
   <input><f id="1">Nowadays</f>  , la concentración de ácidos en la atmósfera es un problema .</input>
-  <output><f confidence="0.486486" id="1">Hoy<alt confidence="0.459459">Actualmente</alt><alt confidence="0.027027">Querida , los sistemas</alt><alt confidence="0.027027">ÚItimamente , el</alt></f>  , la concentración de ácidos en la atmósfera es un problema .</output>
+  <output><f confidence="0.373134" id="1">En la actualidad<alt confidence="0.0149254">– Hoy en día</alt><alt confidence="0.0298507">A día de hoy</alt><alt confidence="0.0149254">un principio antiguo</alt><alt confidence="0.253731">Actualmente</alt><alt confidence="0.0149254">principio antiguo</alt><alt confidence="0.0298507">En nuestros días</alt><alt confidence="0.268657">Hoy</alt></f>  , la concentración de ácidos en la atmósfera es un problema .</output>
 </s>
 <s category="v" id="15">
   <input>El embajador <f id="1">signed</f>  hoy el acuerdo .</input>
-  <output>El embajador <f confidence="0.409091" id="1">firmó<alt confidence="0.25">firmado</alt><alt confidence="0.0227273">suscrita</alt><alt confidence="0.0681818">firma</alt><alt confidence="0.0681818">firme</alt><alt confidence="0.0227273">firmastes</alt><alt confidence="0.0454545">firmada</alt><alt confidence="0.0909091">firmen</alt><alt confidence="0.0227273">firmar</alt></f>  hoy el acuerdo .</output>
+  <output>El embajador <f confidence="0.36" id="1">firmó<alt confidence="0.22">firmado</alt><alt confidence="0.02">suscrita</alt><alt confidence="0.02">, firmada</alt><alt confidence="0.06">firma</alt><alt confidence="0.06">firme</alt><alt confidence="0.02">firmastes</alt><alt confidence="0.04">firmada</alt><alt confidence="0.08">firmen</alt><alt confidence="0.08">ha firmado</alt><alt confidence="0.02">firmar</alt><alt confidence="0.02">se firmó</alt></f>  hoy el acuerdo .</output>
 </s>
 <s category="w" source="Dr. Guillermo Sanz Gallego, Ghent University" id="16">
   <input>Es una pequeña victoria para el gobierno español que <f id="1">has begun to</f>  luchar contra la enorme tasa de desempleo .</input>
@@ -81,11 +81,11 @@
 </s>
 <s category="pron" source="Prisma Grammatica Spaans - drs. E. Slager" id="21">
   <input><f id="1">She</f>  tiene la llave .</input>
-  <output><f confidence="0.644562" id="1">Ella<alt confidence="0.0172097">Me</alt><alt confidence="0.00137678">Ella tiene</alt><alt confidence="0.327903">No</alt><alt confidence="0.00504819">EIIa</alt><alt confidence="0.00390087">Se</alt></f>  tiene la llave .</output>
+  <output><f confidence="0.630811" id="1">Ella<alt confidence="0.0168426">Me</alt><alt confidence="0.320907">No</alt><alt confidence="0.00494049">EIIa</alt><alt confidence="0.0226813">¡ Ella</alt><alt confidence="0.00381765">Se</alt></f>  tiene la llave .</output>
 </s>
 <s category="a" source="Prisma Grammatica Spaans - drs. E. Slager" id="22">
   <input>Nos comimos dos pollos <f id="1">entire</f>  .</input>
-  <output>Nos comimos dos pollos <f confidence="0.41723" id="1">entero<alt confidence="0.0810811">enteras</alt><alt confidence="0.027027">totalidad</alt><alt confidence="0.0396959">conjunto</alt><alt confidence="0.356419">entera</alt><alt confidence="0.0304054">enteros</alt><alt confidence="0.0481419">todo</alt></f>  .</output>
+  <output>Nos comimos dos pollos <f confidence="0.415825" id="1">entero<alt confidence="0.003367">pleno del Wizengamot</alt><alt confidence="0.0808081">enteras</alt><alt confidence="0.026936">totalidad</alt><alt confidence="0.0395623">conjunto</alt><alt confidence="0.355219">entera</alt><alt confidence="0.030303">enteros</alt><alt confidence="0.0479798">todo</alt></f>  .</output>
 </s>
 <s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="23">
   <input>Mi jefe <f id="1">needs</f>  una moto que consuma menos gasolina .</input>
@@ -93,7 +93,7 @@
 </s>
 <s category="expr" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="24">
   <input>La educación sexual es un aspecto <f id="1">of great importance</f>  en nuestra sociedad moderna .</input>
-  <output>La educación sexual es un aspecto <f confidence="0.481481" id="1">de gran importancia<alt confidence="0.0740741">de enorme importancia</alt><alt confidence="0.222222">una gran importancia</alt><alt confidence="0.037037">muy importante</alt><alt confidence="0.037037">de gran transcendencia</alt><alt confidence="0.037037">de alta importancia</alt><alt confidence="0.037037">reviste gran importancia</alt><alt confidence="0.0740741">de suma importancia</alt></f>  en nuestra sociedad moderna .</output>
+  <output>La educación sexual es un aspecto <f confidence="0.419355" id="1">de gran importancia<alt confidence="0.0645161">de enorme importancia</alt><alt confidence="0.193548">una gran importancia</alt><alt confidence="0.0645161">muy importante</alt><alt confidence="0.0322581">de gran transcendencia</alt><alt confidence="0.0322581">tienen una gran importancia</alt><alt confidence="0.0322581">muy sentida</alt><alt confidence="0.0322581">de alta importancia</alt><alt confidence="0.0322581">reviste gran importancia</alt><alt confidence="0.0322581">, reviste gran importancia</alt><alt confidence="0.0645161">de suma importancia</alt></f>  en nuestra sociedad moderna .</output>
 </s>
 <s category="p" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="25">
   <input><f id="1">By means of</f>  juegos de ficción el niño asimila poco a poco ese mundo externo .</input>
@@ -153,7 +153,7 @@
 </s>
 <s category="a" source="Prisma Grammatica Spaans - drs. E. Slager" id="39">
   <input>Tengo <f id="1">too many</f>  problemas para ocuparme también de los tuyos .</input>
-  <output>Tengo <f confidence="1.0" id="1">a demasiados</f>  problemas para ocuparme también de los tuyos .</output>
+  <output>Tengo <f confidence="1.0" id="1">demasiados</f>  problemas para ocuparme también de los tuyos .</output>
 </s>
 <s category="n" source="Jaime Bayly - No se lo digas a nadie" id="40">
   <input>Cuando terminaron de cantar , Joaquín sopló <f id="1">the candles</f>  con fuerza .</input>
@@ -169,7 +169,7 @@
 </s>
 <s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="43">
   <input>Mañana la televisión italiana transmitirá dos <f id="1">football matches</f>  .</input>
-  <output>Mañana la televisión italiana transmitirá dos <f confidence="1.0" id="1">encuentros deportivos</f>  .</output>
+  <output>Mañana la televisión italiana transmitirá dos <f confidence="0.538462" id="1">partidos de fútbol<alt confidence="0.0769231">los campos de fútbol</alt><alt confidence="0.0384615">encuentros deportivos</alt><alt confidence="0.346154">los partidos de fútbol</alt></f>  .</output>
 </s>
 <s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="44">
   <input>El <f id="1">judge</f>  es la única persona que puede instituir una adopción .</input>
@@ -185,7 +185,7 @@
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="47">
   <input>El gobierno junto con los empresarios del sector <f id="1">are searching for</f>  la mejor manera .</input>
-  <output>El gobierno junto con los empresarios del sector <f confidence="1.0" id="1">Sales a buscar</f>  la mejor manera .</output>
+  <output>El gobierno junto con los empresarios del sector <f confidence="0.666667" id="1">Sales a buscar<alt confidence="0.333333">buscando la razón por</alt></f>  la mejor manera .</output>
 </s>
 <s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="48">
   <input>Sólo el 10 % de la población <f id="1">pays the fines</f>  .</input>
@@ -229,11 +229,11 @@
 </s>
 <s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="58">
   <input>El número de inmigrantes indocumentados <f id="1">approaches</f>  los 250000 .</input>
-  <output>El número de inmigrantes indocumentados <f confidence="0.833333" id="1">que los enfoques<alt confidence="0.166667">cuenta los enfoques</alt></f>  los 250000 .</output>
+  <output>El número de inmigrantes indocumentados <f confidence="1.0" id="1">se acerca</f>  los 250000 .</output>
 </s>
 <s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="59">
   <input>Los jóvenes <f id="1">consumers</f>  de drogas ilícitas presentan características comunes .</input>
-  <output>Los jóvenes <f confidence="0.9523" id="1">consumidores<alt confidence="0.0153322">consumidoras</alt><alt confidence="0.032368">consumidor</alt></f>  de drogas ilícitas presentan características comunes .</output>
+  <output>Los jóvenes <f confidence="1.0" id="1">consumidores</f>  de drogas ilícitas presentan características comunes .</output>
 </s>
 <s category="pp" source="Dr. Guillermo Sanz Gallego, Ghent University" id="60">
   <input>Y en España <f id="1">in the countryside</f>  también es muy normal .</input>
@@ -245,11 +245,11 @@
 </s>
 <s category="pp" source="Jaime Bayly - No se lo digas a nadie" id="62">
   <input>Joaquín se miró <f id="1">in the mirror</f>  .</input>
-  <output>Joaquín se miró <f confidence="1.0" id="1">en eI espejo .</f>  .</output>
+  <output>Joaquín se miró <f confidence="0.571429" id="1">en el espejo<alt confidence="0.285714">al espejo</alt><alt confidence="0.142857">en eI espejo .</alt></f>  .</output>
 </s>
 <s category="n" source="El País - 7-2-2014" id="63">
   <input>Sony eliminará 5000 <f id="1">jobs</f>  .</input>
-  <output>Sony eliminará 5000 <f confidence="0.375772" id="1">empleo<alt confidence="0.347743">trabajos</alt><alt confidence="0.265558">empleos</alt><alt confidence="0.0109264">puestos</alt></f>  .</output>
+  <output>Sony eliminará 5000 <f confidence="1.0" id="1">puestos de trabajo</f>  .</output>
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="64">
   <input>La Guerra Civil española <f id="1">ended</f>  provocando más de medio millón de víctimas .</input>
@@ -257,7 +257,7 @@
 </s>
 <s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="65">
   <input>Vino a vernos <f id="1">on sunday</f>  .</input>
-  <output>Vino a vernos <f confidence="0.5" id="1">domingo , apagó la mitad del centro<alt confidence="0.5">del encuentro del domingo , van al</alt></f>  .</output>
+  <output>Vino a vernos <f confidence="1.0" id="1">domingo , apagó la mitad del centro</f>  .</output>
 </s>
 <s category="a" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="66">
   <input>La velocidad <f id="1">average</f>  de los vehículos se situaba en 11 kilómetros por hora .</input>
@@ -265,7 +265,7 @@
 </s>
 <s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="67">
   <input>¡ Tienes que <f id="1">hurry up</f>  , la película está para comenzar !</input>
-  <output>¡ Tienes que <f confidence="0.666667" id="1">te apures , papá .<alt confidence="0.333333">date prisa</alt></f>  , la película está para comenzar !</output>
+  <output>¡ Tienes que <f confidence="1.0" id="1">date prisa</f>  , la película está para comenzar !</output>
 </s>
 <s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="68">
   <input>¿ Por qué no <f id="1">follow</f>  ustedes mi consejo ?</input>
@@ -289,11 +289,11 @@
 </s>
 <s category="w" source="Jorge Luis Borges. “El hombre en el umbral”, en El Aleph. Madrid: Alianza Editorial, 1971 (152)." id="73">
   <input>Su nombre <f id="1">has been lost</f>  o nunca se supo , pero andaba desnudo por estas calles , o cubierto de harapos , contándose los dedos con el pulgar y haciendo mofa de los árboles</input>
-  <output>Su nombre <f confidence="0.345679" id="1">ha perdido<alt confidence="0.00411523">perdido la pista</alt><alt confidence="0.0411523">lo que se ha perdido</alt><alt confidence="0.0123457">se haya perdido</alt><alt confidence="0.00411523">hemos perdido demasiado</alt><alt confidence="0.00411523">grandes momentos Bundy</alt><alt confidence="0.00411523">se ha malogrado</alt><alt confidence="0.00411523">un pendiente de diamantes igual que éste</alt><alt confidence="0.00411523">6 se ha perdido .</alt><alt confidence="0.00823045">desapareció . - ¿ Cómo hicieron con</alt><alt confidence="0.288066">se ha perdido</alt><alt confidence="0.00411523">estarán perdidos desde</alt><alt confidence="0.0123457">la inspiración ,</alt><alt confidence="0.00411523">los perdimos nosotros</alt><alt confidence="0.00823045">hayamos perdido</alt><alt confidence="0.00411523">perdió en la calle principal de tu</alt><alt confidence="0.00411523">Ghangzhou se ha perdido .</alt><alt confidence="0.00411523">tanto , se ha</alt><alt confidence="0.00411523">se ha destruido</alt><alt confidence="0.0452675">se han perdido</alt><alt confidence="0.00411523">ha estado sumido</alt><alt confidence="0.0329218">Se ha perdido</alt><alt confidence="0.00411523">ha sido bien</alt><alt confidence="0.0288066">hemos perdido demasiado para irnos</alt><alt confidence="0.00411523">se ha aprovechado al</alt><alt confidence="0.00411523">estaban perdidos .</alt><alt confidence="0.00411523">tanto , se ha olvidado tanto ...</alt><alt confidence="0.00411523">no ha sido bien</alt><alt confidence="0.00411523">ha vuelto a perder</alt><alt confidence="0.090535">que se ha perdido</alt><alt confidence="0.00411523">que se ha destruido</alt><alt confidence="0.00411523">ha desperdiciado la</alt></f>  o nunca se supo , pero andaba desnudo por estas calles , o cubierto de harapos , contándose los dedos con el pulgar y haciendo mofa de los árboles</output>
+  <output>Su nombre <f confidence="1.0" id="1">se han perdido</f>  o nunca se supo , pero andaba desnudo por estas calles , o cubierto de harapos , contándose los dedos con el pulgar y haciendo mofa de los árboles</output>
 </s>
 <s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="74">
   <input>Te trataremos como a <f id="1">everybody else</f>  .</input>
-  <output>Te trataremos como a <f confidence="0.986667" id="1">los demás<alt confidence="0.0133333">los demás .</alt></f>  .</output>
+  <output>Te trataremos como a <f confidence="0.544118" id="1">los demás<alt confidence="0.455882">todos los demás</alt></f>  .</output>
 </s>
 <s category="p" source="Jaime Bayly - No se lo digas a nadie" id="75">
   <input>Todos aplaudieron , <f id="1">except for</f>  Luis Felipe .</input>
@@ -309,11 +309,11 @@
 </s>
 <s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="78">
   <input>Deseaba <f id="1">overcome</f>  la tradicional división entre las dos Españas que había llevado a la Guerra Civil .</input>
-  <output>Deseaba <f confidence="0.82134" id="1">superar<alt confidence="0.0124069">superen</alt><alt confidence="0.00744417">superada</alt><alt confidence="0.0272953">supere</alt><alt confidence="0.00496278">superarse</alt><alt confidence="0.00248139">superarían</alt><alt confidence="0.0744417">vencer</alt><alt confidence="0.00496278">superemos</alt><alt confidence="0.0421836">superado</alt><alt confidence="0.00248139">aventajar</alt></f>  la tradicional división entre las dos Españas que había llevado a la Guerra Civil .</output>
+  <output>Deseaba <f confidence="0.625709" id="1">superar<alt confidence="0.0094518">superen</alt><alt confidence="0.0132325">fin de superar</alt><alt confidence="0.00567108">superada</alt><alt confidence="0.020794">supere</alt><alt confidence="0.00378072">superarse</alt><alt confidence="0.00189036">superarían</alt><alt confidence="0.0567108">vencer</alt><alt confidence="0.00189036">superación de</alt><alt confidence="0.00378072">se sobreponga a</alt><alt confidence="0.0775047">de superar</alt><alt confidence="0.00378072">superemos</alt><alt confidence="0.0321361">superado</alt><alt confidence="0.113422">a superar</alt><alt confidence="0.00189036">aventajar</alt><alt confidence="0.00189036">se superen</alt><alt confidence="0.026465">la superación de</alt></f>  la tradicional división entre las dos Españas que había llevado a la Guerra Civil .</output>
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="79">
   <input>Además tienen que seguir <f id="1">performing</f>  en su puesto de trabajo cada vez mejor y se les exige absoluta lealtad .</input>
-  <output>Además tienen que seguir <f confidence="0.9" id="1">espectáculo<alt confidence="0.1">escénicas</alt></f>  en su puesto de trabajo cada vez mejor y se les exige absoluta lealtad .</output>
+  <output>Además tienen que seguir <f confidence="0.295082" id="1">realizando<alt confidence="0.00273224">desempeñado perfectamente</alt><alt confidence="0.00273224">... molestarlo ahora .</alt><alt confidence="0.00273224">en el tablado ...</alt><alt confidence="0.00273224">No Vendrá " .</alt><alt confidence="0.00273224">... ... los deberes que debería estar</alt><alt confidence="0.00273224">protagonizando su primer baile como un matrimonio</alt><alt confidence="0.00546448">tocando estas canciones necesite ser frente a</alt><alt confidence="0.00273224">el " AARM " .</alt><alt confidence="0.00546448">alumnos iban</alt><alt confidence="0.00273224">acordando matrimonios</alt><alt confidence="0.00273224">100 horas de trabajo voluntario durante cada</alt><alt confidence="0.00546448">ejecutantes</alt><alt confidence="0.00819672">ellos llaman el Test de Thompson que</alt><alt confidence="0.00273224">del número de las focas .</alt><alt confidence="0.00273224">haciendo ese ritual me</alt><alt confidence="0.00546448">encontró Ying</alt><alt confidence="0.00273224">ingleses apenas se tatuaban con dragones azules</alt><alt confidence="0.00273224">ella arriba ?</alt><alt confidence="0.0218579">haciendo una colonoscopía pública .</alt><alt confidence="0.00273224">en Webster Hall</alt><alt confidence="0.00546448">babuinos actuando y ... " Dámela "</alt><alt confidence="0.136612">espectáculo</alt><alt confidence="0.00273224">en el desempeño de sus funciones</alt><alt confidence="0.00546448">amaestrados ...</alt><alt confidence="0.0382514">el ejercicio de</alt><alt confidence="0.00546448">no hay artistas negros</alt><alt confidence="0.00273224">en vivo por primera vez .</alt><alt confidence="0.00273224">algún problema por mi ?</alt><alt confidence="0.00546448">actuamos , es entretener y buscar la</alt><alt confidence="0.00273224">ellos llaman el Test de</alt><alt confidence="0.00273224">semana durante los últimos</alt><alt confidence="0.00819672">realizaban</alt><alt confidence="0.00546448">de hacer 17 exámenes rectales .</alt><alt confidence="0.00273224">haciendo Charyeok en un video y no</alt><alt confidence="0.00273224">, Veena , me dejó por un</alt><alt confidence="0.010929">realizar tareas</alt><alt confidence="0.00819672">amaestrados</alt><alt confidence="0.0928962">que realizan</alt><alt confidence="0.00273224">Profesor Warren está llevando a cabo una</alt><alt confidence="0.00273224">en el escenario , para afilar tus</alt><alt confidence="0.00273224">deseen realizar</alt><alt confidence="0.00273224">el empujón que necesita , un par</alt><alt confidence="0.00273224">Webster Hall</alt><alt confidence="0.00819672">va a oficiar la ceremonia .</alt><alt confidence="0.00273224">en esta cosa que no requirió caviar</alt><alt confidence="0.0491803">escénicas</alt><alt confidence="0.00546448">, lo que significa , que consciente</alt><alt confidence="0.00273224">obteniendo unos</alt><alt confidence="0.00273224">tienes alguien que celebre tu boda ,</alt><alt confidence="0.122951">del espectáculo</alt><alt confidence="0.00273224">su rendimiento es</alt><alt confidence="0.00273224">realizar 17 exámenes rectales .</alt><alt confidence="0.00546448">cuyo rendimiento</alt><alt confidence="0.00273224">escénicos</alt><alt confidence="0.00273224">sus tareas sin más atrasos .</alt><alt confidence="0.00273224">un delicado procedimiento de emergencia ... -</alt><alt confidence="0.00273224">el hotel con su futura esposa .</alt><alt confidence="0.00273224">que realizasen</alt><alt confidence="0.00273224">a cabo actividades</alt><alt confidence="0.00273224">Va a actuar esta noche ?</alt><alt confidence="0.00546448">los deberes que debería estar llevando a</alt><alt confidence="0.00273224">a Michael Scott de Scranton en una</alt><alt confidence="0.0163934">el desempeño de</alt><alt confidence="0.00546448">" inspirarte "</alt><alt confidence="0.00273224">mientras tocas ?</alt><alt confidence="0.00273224">a la realización , ... pero Paco</alt></f>  en su puesto de trabajo cada vez mejor y se les exige absoluta lealtad .</output>
 </s>
 <s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="80">
   <input>El toro que entra en la plaza se convierte <f id="1">almost</f>  en un animal sagrado .</input>
@@ -321,7 +321,7 @@
 </s>
 <s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="81">
   <input>Hoy unos 18000 de sus lagos <f id="1">are victims of</f>  la acidez .</input>
-  <output>Hoy unos 18000 de sus lagos <f confidence="0.879518" id="1">son víctimas de<alt confidence="0.0240964">somos víctimas de</alt><alt confidence="0.0722892">sean víctimas de</alt><alt confidence="0.0240964">es víctima de</alt></f>  la acidez .</output>
+  <output>Hoy unos 18000 de sus lagos <f confidence="0.534031" id="1">víctimas de<alt confidence="0.0052356">, las víctimas de</alt><alt confidence="0.0104712">son las víctimas de</alt><alt confidence="0.0314136">sean víctimas de</alt><alt confidence="0.0052356">, que son víctimas de</alt><alt confidence="0.0104712">somos víctimas de</alt><alt confidence="0.0104712">es víctima de</alt><alt confidence="0.0052356">, son víctimas de</alt><alt confidence="0.0052356">han sido también víctimas de</alt><alt confidence="0.382199">son víctimas de</alt></f>  la acidez .</output>
 </s>
 <s category="expr" id="82">
   <input>Pueden <f id="1">bring to an end</f>  todas estas iniciativas .</input>
@@ -329,7 +329,7 @@
 </s>
 <s category="adv" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="83">
   <input>Todavía no se ha pensado <f id="1">enough</f>  sobre las consecuencias .</input>
-  <output>Todavía no se ha pensado <f confidence="0.690058" id="1">suficiente<alt confidence="0.0350877">suficientes</alt><alt confidence="0.0350877">suficientemente</alt><alt confidence="0.0350877">basta</alt><alt confidence="0.204678">bastante</alt></f>  sobre las consecuencias .</output>
+  <output>Todavía no se ha pensado <f confidence="0.538462" id="1">lo suficiente<alt confidence="0.230769">suficiente</alt><alt confidence="0.230769">bastante</alt></f>  sobre las consecuencias .</output>
 </s>
 <s category="adv" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="84">
   <input>Los aldeanos <f id="1">no longer</f>  lavan la ropa en el río .</input>
@@ -345,11 +345,11 @@
 </s>
 <s category="adv" id="87">
   <input>Los controles antidopaje acababan de instaurarse <f id="1">one year ago</f>  .</input>
-  <output>Los controles antidopaje acababan de instaurarse <f confidence="0.960784" id="1">hace un año<alt confidence="0.0196078">año que murió</alt><alt confidence="0.0196078">un año aproximadamente</alt></f>  .</output>
+  <output>Los controles antidopaje acababan de instaurarse <f confidence="0.924528" id="1">hace un año<alt confidence="0.0188679">año que murió</alt><alt confidence="0.0188679">de hace un año</alt><alt confidence="0.0188679">un año más o menos</alt><alt confidence="0.0188679">un año aproximadamente</alt></f>  .</output>
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="88">
   <input>La banda terrorista ETA <f id="1">has become</f>  una organización debilitada .</input>
-  <output>La banda terrorista ETA <f confidence="0.74" id="1">ha vuelto<alt confidence="0.02">ha devenido</alt><alt confidence="0.02">es entretanto</alt><alt confidence="0.18">ha adquirido</alt><alt confidence="0.02">como escalar</alt><alt confidence="0.02">haya adquirido</alt></f>  una organización debilitada .</output>
+  <output>La banda terrorista ETA <f confidence="0.4447" id="1">ha convertido en<alt confidence="0.0426267">ha vuelto</alt><alt confidence="0.00115207">ha devenido</alt><alt confidence="0.0115207">se haya convertido en</alt><alt confidence="0.00230415">se ha trasformado en</alt><alt confidence="0.00115207">ha terminado por convertirse en</alt><alt confidence="0.00115207">como escalar</alt><alt confidence="0.00576037">ha llegado a ser</alt><alt confidence="0.031106">, se ha convertido en</alt><alt confidence="0.0103687">ha adquirido</alt><alt confidence="0.00115207">se retorne a</alt><alt confidence="0.00115207">es entretanto</alt><alt confidence="0.403226">se ha convertido en</alt><alt confidence="0.00230415">se ha vuelto</alt><alt confidence="0.00921659">se han convertido en</alt><alt confidence="0.0115207">ha pasado a ser</alt><alt confidence="0.0115207">haya convertido en</alt><alt confidence="0.00230415">haya pasado a ser</alt><alt confidence="0.00115207">haya adquirido</alt><alt confidence="0.00115207">ha ido adquiriendo</alt><alt confidence="0.00345622">, ha pasado a ser</alt></f>  una organización debilitada .</output>
 </s>
 <s category="adv" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="89">
   <input>El profesor no es <f id="1">as</f>  inteligente como usted cree .</input>
@@ -373,7 +373,7 @@
 </s>
 <s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="94">
   <input>Tienes que <f id="1">bring me</f>  el periódico .</input>
-  <output>Tienes que <f confidence="0.454545" id="1">, tráeme<alt confidence="0.0909091">tráeme</alt><alt confidence="0.0151515">me Ileven a</alt><alt confidence="0.0151515">me trajiste aqui</alt><alt confidence="0.0151515">encontréis en</alt><alt confidence="0.151515">y tráiganme</alt><alt confidence="0.030303">, tráigame</alt><alt confidence="0.0151515">novedad en el asesinato del</alt><alt confidence="0.0151515">alguien traerme</alt><alt confidence="0.0151515">Toni me traiga</alt><alt confidence="0.0454545">¡ dame el relámpago !</alt><alt confidence="0.0454545">te la dé a ti .</alt><alt confidence="0.0454545">me traiga un vaso de chartreuse .</alt><alt confidence="0.0454545">traerme un</alt></f>  el periódico .</output>
+  <output>Tienes que <f confidence="0.580882" id="1">tráeme<alt confidence="0.00735294">me Ileven a</alt><alt confidence="0.00735294">me trajiste aqui</alt><alt confidence="0.00735294">‡ eme inmediatamente</alt><alt confidence="0.0735294">y tráiganme</alt><alt confidence="0.0147059">, tráigame</alt><alt confidence="0.00735294">encontréis en</alt><alt confidence="0.00735294">alguien traerme</alt><alt confidence="0.00735294">Toni me traiga</alt><alt confidence="0.220588">, tráeme</alt><alt confidence="0.0220588">te la dé a ti .</alt><alt confidence="0.0220588">me traiga un vaso de chartreuse .</alt><alt confidence="0.0220588">traerme un</alt></f>  el periódico .</output>
 </s>
 <s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="95">
   <input><f id="1">The broadcast</f>  de la Televisión Española se hace via satélite .</input>
@@ -381,7 +381,7 @@
 </s>
 <s category="p" source="Dr. Guillermo Sanz Gallego, Ghent University" id="96">
   <input>Ahora además se marchan los inmigrantes <f id="1">due to</f>  la crisis .</input>
-  <output>Ahora además se marchan los inmigrantes <f confidence="0.666214" id="1">debido a<alt confidence="0.00881954">debidos a</alt><alt confidence="0.0196744">deben a</alt><alt confidence="0.0610583">gracias a</alt><alt confidence="0.0881954">causa de</alt><alt confidence="0.000678426">causadas porque</alt><alt confidence="0.00203528">debido a la</alt><alt confidence="0.0196744">debida a</alt><alt confidence="0.00339213">previsto que</alt><alt confidence="0.107191">debe a</alt><alt confidence="0.00814111">debió a</alt><alt confidence="0.00203528">deba a</alt><alt confidence="0.0128901">debidas a</alt></f>  la crisis .</output>
+  <output>Ahora además se marchan los inmigrantes <f confidence="1.0" id="1">a causa de</f>  la crisis .</output>
 </s>
 <s category="adv" source="Miguel Delibes. Los santos inocentes. Barcelona: Planeta, 1981 (134)" id="97">
   <input>Paco , el Bajo , se aproximó <f id="1">slowly</f>  al grupo .</input>
@@ -413,7 +413,7 @@
 </s>
 <s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="104">
   <input>La votación en favor <f id="1">implies</f>  la legalización del aborto .</input>
-  <output>La votación en favor <f confidence="0.83871" id="1">implica<alt confidence="0.0483871">entraña</alt><alt confidence="0.016129">conlleva</alt><alt confidence="0.0806452">supone</alt><alt confidence="0.016129">solo la pueden</alt></f>  la legalización del aborto .</output>
+  <output>La votación en favor <f confidence="1.0" id="1">implica</f>  la legalización del aborto .</output>
 </s>
 <s category="expr" source="Prisma Grammatica Spaans - drs. E. Slager" id="105">
   <input>Mañana <f id="1">please</f>  no vuelvas a despertarme a esta hora .</input>
@@ -421,7 +421,7 @@
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="106">
   <input>Según una reconocida psicóloga , Julia Vidal , se sigue esperando de las mujeres que realicen la mayoría de <f id="1">household chores</f>  .</input>
-  <output>Según una reconocida psicóloga , Julia Vidal , se sigue esperando de las mujeres que realicen la mayoría de <f confidence="1.0" id="1">tareas domésticas</f>  .</output>
+  <output>Según una reconocida psicóloga , Julia Vidal , se sigue esperando de las mujeres que realicen la mayoría de <f confidence="1.0" id="1">las tareas domésticas</f>  .</output>
 </s>
 <s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="107">
   <input>Señor Elías , <f id="1">fill</f>  este formulario , por favor .</input>
@@ -433,7 +433,7 @@
 </s>
 <s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="109">
   <input>Un estudio de la Comisión <f id="1">concludes</f>  que la lección de accidentes pasados no ha servido para consolidar los programas contra derramamientos de petróleo de gobiernos e industriales .</input>
-  <output>Un estudio de la Comisión <f confidence="1.0" id="1">concluye</f>  que la lección de accidentes pasados no ha servido para consolidar los programas contra derramamientos de petróleo de gobiernos e industriales .</output>
+  <output>Un estudio de la Comisión <f confidence="0.8" id="1">concluye<alt confidence="0.2">llega a la conclusión de</alt></f>  que la lección de accidentes pasados no ha servido para consolidar los programas contra derramamientos de petróleo de gobiernos e industriales .</output>
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="110">
   <input>Ahora dejan <f id="1">fall</f>  con fuerza precisamente a toda esa misma gente .</input>
@@ -461,7 +461,7 @@
 </s>
 <s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="116">
   <input>Luisa se pinta <f id="1">her lips</f>  .</input>
-  <output>Luisa se pinta <f confidence="1.0" id="1">sus labios</f>  .</output>
+  <output>Luisa se pinta <f confidence="0.689189" id="1">sus labios<alt confidence="0.027027">en sus labios palabras que no pronunciaba</alt><alt confidence="0.27027">en sus labios</alt><alt confidence="0.0135135">, sus labios</alt></f>  .</output>
 </s>
 <s category="n" id="117">
   <input>Dormir bien es <f id="1">a pleasure</f>  y una necesidad .</input>
@@ -473,11 +473,11 @@
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="119">
   <input>Su sueño <f id="1">has become reality</f>  , porque en septiembre de 2010 se le fotografió en estado de buena esperanza .</input>
-  <output>Su sueño <f confidence="0.714286" id="1">se ha hecho realidad<alt confidence="0.285714">se ha vuelto realidad</alt></f>  , porque en septiembre de 2010 se le fotografió en estado de buena esperanza .</output>
+  <output>Su sueño <f confidence="1.0" id="1">se ha hecho realidad</f>  , porque en septiembre de 2010 se le fotografió en estado de buena esperanza .</output>
 </s>
 <s category="v" source="Prisma Grammatica Spaans - drs. E. Slager" id="120">
   <input>Sus padres seguían <f id="1">sending him</f>  dinero cada mes .</input>
-  <output>Sus padres seguían <f confidence="0.266129" id="1">enviarle<alt confidence="0.016129">sugirió enviarlo a Níger</alt><alt confidence="0.00806452">lo manda lejos .</alt><alt confidence="0.00806452">enviaremos allí</alt><alt confidence="0.0564516">esos libros</alt><alt confidence="0.0241935">envía correo ...</alt><alt confidence="0.00806452">por devolvérmelo</alt><alt confidence="0.0241935">a Francey .</alt><alt confidence="0.016129">, mandándolo</alt><alt confidence="0.016129">le está enviando</alt><alt confidence="0.016129">a su cuarto , ¿ Para qué</alt><alt confidence="0.00806452">que se vaya solo ?</alt><alt confidence="0.00806452">de mandarle esas</alt><alt confidence="0.00806452">, mandándolo a través de una puerta</alt><alt confidence="0.0241935">le envía correo ...</alt><alt confidence="0.016129">de la modelo del mes .</alt><alt confidence="0.00806452">estoy llevando hasta ti momentaneamente .</alt><alt confidence="0.00806452">mandarle esas</alt><alt confidence="0.00806452">la hora de mandarlo al este .</alt><alt confidence="0.00806452">para la puerta del infierno .</alt><alt confidence="0.00806452">enviarâs de patrulla mañana .</alt><alt confidence="0.0241935">otro de esos mandados</alt><alt confidence="0.00806452">que Shiraito</alt><alt confidence="0.0241935">enviaban mensajes</alt><alt confidence="0.00806452">mandándole directamente a</alt><alt confidence="0.00806452">? ¡ Venga , piérdete , vamos</alt><alt confidence="0.0241935">estaba enviando</alt><alt confidence="0.016129">Lo envío de</alt><alt confidence="0.00806452">lo estés enviando</alt><alt confidence="0.016129">mandarlo a casa</alt><alt confidence="0.0645161">enviándole</alt><alt confidence="0.0322581">enviarlo al hospital</alt><alt confidence="0.016129">le está enviando órdenes .</alt><alt confidence="0.00806452">la expulsión no</alt><alt confidence="0.00806452">a la prisión estatal por veinte años</alt><alt confidence="0.00806452">de enviarle una</alt><alt confidence="0.00806452">todo este tiempo en Africa . Ahora</alt><alt confidence="0.016129">mandarlo a casa ?</alt><alt confidence="0.016129">libertad de mandarle un radiograma .</alt><alt confidence="0.00806452">a enviar pedazos suyos ...</alt><alt confidence="0.016129">lo envía</alt><alt confidence="0.00806452">estado mandando amenazas durante meses .</alt><alt confidence="0.00806452">mandar de vuelta con esa mujer ,</alt><alt confidence="0.00806452">expulsión no</alt><alt confidence="0.00806452">desviar de</alt><alt confidence="0.00806452">le envía órdenes .</alt><alt confidence="0.016129">Y hablamos de enviarle de vuelta como</alt><alt confidence="0.00806452">profundamente herida , por la gente ,</alt><alt confidence="0.0322581">a mandarlo</alt></f>  dinero cada mes .</output>
+  <output>Sus padres seguían <f confidence="1.0" id="1">enviarle</f>  dinero cada mes .</output>
 </s>
 <s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="121">
   <input>El água de <f id="1">the geysers</f>  de Islandia tiene una temperatura muy alta .</input>
@@ -505,7 +505,7 @@
 </s>
 <s category="comp" source="Dr. Guillermo Sanz Gallego, Ghent University" id="127">
   <input>Un 20 % de la población activa <f id="1">is unemployed</f>  .</input>
-  <output>Un 20 % de la población activa <f confidence="0.333333" id="1">es desempleado .<alt confidence="0.0833333">encuentra desempleado</alt><alt confidence="0.0833333">tiene empleo</alt><alt confidence="0.166667">está desempleada</alt><alt confidence="0.25">está desempleado</alt><alt confidence="0.0833333">Burgess aquí</alt></f>  .</output>
+  <output>Un 20 % de la población activa <f confidence="0.272727" id="1">está desempleado<alt confidence="0.0909091">encuentra desempleado</alt><alt confidence="0.0909091">se encuentra sin trabajo</alt><alt confidence="0.0909091">está en paro</alt><alt confidence="0.0909091">tiene empleo</alt><alt confidence="0.181818">está desempleada</alt><alt confidence="0.0909091">Burgess aquí</alt><alt confidence="0.0909091">no tiene empleo</alt></f>  .</output>
 </s>
 <s category="pron" source="Prisma Grammatica Spaans - drs. E. Slager" id="128">
   <input><f id="1">If</f>  lo lees bien , verás lo que dice .</input>
@@ -537,7 +537,7 @@
 </s>
 <s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="135">
   <input>En la lucha contra la droga se necesita <f id="1">in the first place</f>  la nueva ley .</input>
-  <output>En la lucha contra la droga se necesita <f confidence="0.703704" id="1">en primer lugar<alt confidence="0.037037">en primera instancia</alt><alt confidence="0.111111">un principio , a la policía .</alt><alt confidence="0.111111">el principio , no la tuya .</alt><alt confidence="0.037037">¿ qué hacías en</alt></f>  la nueva ley .</output>
+  <output>En la lucha contra la droga se necesita <f confidence="0.833333" id="1">en primer lugar<alt confidence="0.166667">¿ qué hacías en</alt></f>  la nueva ley .</output>
 </s>
 <s category="p" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="136">
   <input>El matrimonio no es una guerra , <f id="1">but</f>  el puro servicio militar .</input>
@@ -545,7 +545,7 @@
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="137">
   <input><f id="1">In that way</f>  podemos reconstruir qué capas de pintura y qué colores se encuentran bajo la superficie visible .</input>
-  <output><f confidence="0.5" id="1">De esta forma<alt confidence="0.25">De este modo</alt><alt confidence="0.25">De esa manera</alt></f>  podemos reconstruir qué capas de pintura y qué colores se encuentran bajo la superficie visible .</output>
+  <output><f confidence="0.4" id="1">De esta forma<alt confidence="0.2">De este modo</alt><alt confidence="0.2">De esa manera</alt><alt confidence="0.2">Con ello</alt></f>  podemos reconstruir qué capas de pintura y qué colores se encuentran bajo la superficie visible .</output>
 </s>
 <s category="p" source="Ramón J. Sender. Los cinco libros de Nancy. Barcelona: Ediciones Destino, 1984 (195)." id="138">
   <input>Usted no haría nada <f id="1">against</f>  Curro .</input>
@@ -577,7 +577,7 @@
 </s>
 <s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="145">
   <input>Durante los últimos quince años ha habido una notable afluencia de <f id="1">foreigners</f>  a nuestro país .</input>
-  <output>Durante los últimos quince años ha habido una notable afluencia de <f confidence="1.0" id="1">extranjeros</f>  a nuestro país .</output>
+  <output>Durante los últimos quince años ha habido una notable afluencia de <f confidence="0.714286" id="1">los extranjeros<alt confidence="0.285714">extranjeros</alt></f>  a nuestro país .</output>
 </s>
 <s category="a" source="Dr. Guillermo Sanz Gallego, Ghent University" id="146">
   <input>Latinoamérica es <f id="1">far more important</f>  para la empresa .</input>
@@ -585,11 +585,11 @@
 </s>
 <s category="v" source="youtube user Emmanuel Silva" id="147">
   <input><f id="1">I completely agree</f>  , las cosas no cambiarán si uno mismo no cambia primero .</input>
-  <output><f confidence="0.296512" id="1">Estoy totalmente de acuerdo<alt confidence="0.00581395">estoy absolutamente de acuerdo</alt><alt confidence="0.00581395">Coincido completamente</alt><alt confidence="0.156977">estoy completamente de acuerdo</alt><alt confidence="0.215116">Estoy completamente de acuerdo</alt><alt confidence="0.174419">estoy totalmente de acuerdo</alt><alt confidence="0.00581395">este punto estoy totalmente de acuerdo</alt><alt confidence="0.0116279">estoy plenamente de acuerdo</alt><alt confidence="0.0174419">Estoy absolutamente de acuerdo</alt><alt confidence="0.00581395">Estoy plenamente de acuerdo en</alt><alt confidence="0.00581395">estoy también absolutamente de acuerdo en</alt><alt confidence="0.00581395">– Estoy totalmente de acuerdo en</alt><alt confidence="0.00581395">esté totalmente de acuerdo</alt><alt confidence="0.0232558">Coincido totalmente</alt><alt confidence="0.00581395">yo estoy totalmente de acuerdo</alt><alt confidence="0.00581395">estoy absolutamente de acuerdo en</alt><alt confidence="0.00581395">Merlin , estoy completamente de acuerdo .</alt><alt confidence="0.0348837">Coincido plenamente</alt><alt confidence="0.00581395">punto estoy totalmente de acuerdo</alt><alt confidence="0.00581395">en este punto estoy totalmente de acuerdo</alt></f>  , las cosas no cambiarán si uno mismo no cambia primero .</output>
+  <output><f confidence="0.571429" id="1">Estoy completamente de acuerdo<alt confidence="0.142857">estoy plenamente de acuerdo</alt><alt confidence="0.285714">estoy totalmente de acuerdo</alt></f>  , las cosas no cambiarán si uno mismo no cambia primero .</output>
 </s>
 <s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="149">
   <input>El alcalde <f id="1">approves</f>  la manifestación</input>
-  <output>El alcalde <f confidence="0.80597" id="1">aprueba<alt confidence="0.19403">apruebe</alt></f>  la manifestación</output>
+  <output>El alcalde <f confidence="0.75" id="1">aprueba<alt confidence="0.180556">apruebe</alt><alt confidence="0.0277778">se aprueba</alt><alt confidence="0.0138889">, se aprueba</alt><alt confidence="0.0277778">, aprueba</alt></f>  la manifestación</output>
 </s>
 <s category="pp" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="150">
   <input>Después se fue a cenar <f id="1">with another</f>  .</input>
@@ -609,7 +609,7 @@
 </s>
 <s category="p" source="Prisma Grammatica Spaans - drs. E. Slager" id="154">
   <input>La muerte de su mujer , <f id="1">of which</f>  no sabíamos nada , nos ha afectado muchísimo .</input>
-  <output>La muerte de su mujer , <f confidence="0.625" id="1">del que<alt confidence="0.125">del cual</alt><alt confidence="0.25">los cuales</alt></f>  no sabíamos nada , nos ha afectado muchísimo .</output>
+  <output>La muerte de su mujer , <f confidence="0.28125" id="1">de los cuales<alt confidence="0.0625">los cuales</alt><alt confidence="0.125">de las que</alt><alt confidence="0.09375">de las cuales</alt><alt confidence="0.15625">del que</alt><alt confidence="0.03125">del cual</alt><alt confidence="0.25">de la que</alt></f>  no sabíamos nada , nos ha afectado muchísimo .</output>
 </s>
 <s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="155">
   <input>Pagamos <f id="1">the rent</f>  de la casa a principios del mes .</input>
@@ -629,11 +629,11 @@
 </s>
 <s category="pp" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="159">
   <input>El heroinómano es básicamente un masoquista , hay que expulsar la agresividad <f id="1">outwards</f>  .</input>
-  <output>El heroinómano es básicamente un masoquista , hay que expulsar la agresividad <f confidence="0.314286" id="1">hacia fuera<alt confidence="0.114286">rupias</alt><alt confidence="0.142857">al exterior</alt><alt confidence="0.0285714">propagan al</alt><alt confidence="0.257143">hacia el exterior</alt><alt confidence="0.0285714">expanden ,</alt><alt confidence="0.0285714">de ellos , la mujer que yo</alt><alt confidence="0.0285714">la mencionaremos ... si usted me dice</alt><alt confidence="0.0571429">vida espiritual</alt></f>  .</output>
+  <output>El heroinómano es básicamente un masoquista , hay que expulsar la agresividad <f confidence="0.4" id="1">hacia fuera<alt confidence="0.3">al exterior</alt><alt confidence="0.3">hacia el exterior</alt></f>  .</output>
 </s>
 <s category="expr" source="Prisma Grammatica Spaans - drs. E. Slager" id="160">
   <input>Los peces murieron <f id="1">one after the other</f>  .</input>
-  <output>Los peces murieron <f confidence="0.411765" id="1">, una tras otra<alt confidence="0.0294118">una después de otra</alt><alt confidence="0.0294118">unas detrás de otras</alt><alt confidence="0.0294118">uno tras</alt><alt confidence="0.176471">después de la otra .</alt><alt confidence="0.117647">uno detrás de otro</alt><alt confidence="0.0294118">de otra , Jimmy .</alt><alt confidence="0.0588235">una tras la otra</alt><alt confidence="0.117647">uno después del otro</alt></f>  .</output>
+  <output>Los peces murieron <f confidence="0.355556" id="1">uno tras otro<alt confidence="0.0111111">una después de otra</alt><alt confidence="0.0555556">una después de la otra</alt><alt confidence="0.0111111">unas detrás de otras</alt><alt confidence="0.244444">una tras otra</alt><alt confidence="0.0111111">unos tras otros</alt><alt confidence="0.0444444">uno detrás de otro</alt><alt confidence="0.155556">, una tras otra</alt><alt confidence="0.0444444">uno después del otro</alt><alt confidence="0.0222222">una tras la otra</alt><alt confidence="0.0444444">después del otro</alt></f>  .</output>
 </s>
 <s category="adv" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="161">
   <input>Dinamarca importa <f id="1">as much</f>  petróleo como Suecia .</input>
@@ -641,7 +641,7 @@
 </s>
 <s category="v" source="El País - 7-2-2014" id="162">
   <input>El 4 de junio de 2007 , Sochi <f id="1">won</f>  en su primera presentación como aspirante a ser sede olímpica .</input>
-  <output>El 4 de junio de 2007 , Sochi <f confidence="0.298507" id="1">ganó<alt confidence="0.0716418">ganaste</alt><alt confidence="0.283582">gané</alt><alt confidence="0.0208955">ganada</alt><alt confidence="0.208955">ganado</alt><alt confidence="0.0268657">ganamos</alt><alt confidence="0.00895522">won</alt><alt confidence="0.0447761">ganaron</alt><alt confidence="0.0328358">Gané</alt><alt confidence="0.00298507">pasta en una partida en la Riviera</alt></f>  en su primera presentación como aspirante a ser sede olímpica .</output>
+  <output>El 4 de junio de 2007 , Sochi <f confidence="0.299401" id="1">ganó<alt confidence="0.0718563">ganaste</alt><alt confidence="0.284431">gané</alt><alt confidence="0.0209581">ganada</alt><alt confidence="0.209581">ganado</alt><alt confidence="0.0269461">ganamos</alt><alt confidence="0.00898204">won</alt><alt confidence="0.0449102">ganaron</alt><alt confidence="0.0329341">Gané</alt></f>  en su primera presentación como aspirante a ser sede olímpica .</output>
 </s>
 <s category="a" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="163">
   <input>Si sabes moverte encontrarás préstamos <f id="1">at low interest</f>  .</input>
@@ -649,11 +649,11 @@
 </s>
 <s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="164">
   <input>Si lo haces en la ciudad , <f id="1">apparently</f>  se pone de moda inmediatamente , cuenta Yolanda riéndose .</input>
-  <output>Si lo haces en la ciudad , <f confidence="0.888889" id="1">aparentemente<alt confidence="0.111111">como se puede ver .</alt></f>  se pone de moda inmediatamente , cuenta Yolanda riéndose .</output>
+  <output>Si lo haces en la ciudad , <f confidence="0.615385" id="1">aparentemente<alt confidence="0.153846">que aparentemente</alt><alt confidence="0.230769">al parecer</alt></f>  se pone de moda inmediatamente , cuenta Yolanda riéndose .</output>
 </s>
 <s category="conj" source="Prisma Grammatica Spaans - drs. E. Slager" id="165">
   <input>Voy a ir <f id="1">because</f>  mis padres están de vacaciones .</input>
-  <output>Voy a ir <f confidence="0.97" id="1">porque<alt confidence="0.01">pues</alt><alt confidence="0.02">puesto</alt></f>  mis padres están de vacaciones .</output>
+  <output>Voy a ir <f confidence="0.79096" id="1">porque<alt confidence="0.0225989">ya</alt><alt confidence="0.169492">, porque</alt><alt confidence="0.0112994">, pues</alt><alt confidence="0.00564972">debido</alt></f>  mis padres están de vacaciones .</output>
 </s>
 <s category="comp" source="Ramón J. Sender. Los cinco libros de Nancy. Barcelona: Ediciones Destino, 1984 (195)." id="166">
   <input>Yo vi el diablo <f id="1">in his eyes</f>  y protesté</input>
@@ -661,7 +661,7 @@
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="167">
   <input>Las reacciones de <f id="1">the proponents</f>  de las corridas de toros son incomprensibles .</input>
-  <output>Las reacciones de <f confidence="0.714286" id="1">los defensores<alt confidence="0.142857">los promotores</alt><alt confidence="0.142857">los partidarios</alt></f>  de las corridas de toros son incomprensibles .</output>
+  <output>Las reacciones de <f confidence="0.625" id="1">los defensores<alt confidence="0.125">los que están a favor</alt><alt confidence="0.125">los promotores</alt><alt confidence="0.125">los partidarios</alt></f>  de las corridas de toros son incomprensibles .</output>
 </s>
 <s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="168">
   <input>Estas botas <f id="1">cost</f>  sólo 50 euros .</input>
@@ -669,7 +669,7 @@
 </s>
 <s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="169">
   <input>Emiten <f id="1">a documentary</f>  sobre el hambre en el mundo .</input>
-  <output>Emiten <f confidence="0.963964" id="1">un documental<alt confidence="0.00900901">un reportaje sobre la época .</alt><alt confidence="0.027027">documental</alt></f>  sobre el hambre en el mundo .</output>
+  <output>Emiten <f confidence="0.456432" id="1">documental<alt confidence="0.0746888">hacer un documental</alt><alt confidence="0.443983">un documental</alt><alt confidence="0.0165975">en un documental</alt><alt confidence="0.00829876">hacer un documental ... ...</alt></f>  sobre el hambre en el mundo .</output>
 </s>
 <s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="170">
   <input>Antes de la llegada de los españoles , los incas ya <f id="1">cultivated</f>  el maíz .</input>
@@ -681,11 +681,11 @@
 </s>
 <s category="expr" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="172">
   <input><f id="1">On one hand</f>  , las exportaciónes irían cayendo .</input>
-  <output><f confidence="0.757576" id="1">Por un lado<alt confidence="0.212121">Por una parte</alt><alt confidence="0.0151515">En una mano , tenemos ... te</alt><alt confidence="0.0151515">POr un lado</alt></f>  , las exportaciónes irían cayendo .</output>
+  <output><f confidence="0.769231" id="1">Por un lado<alt confidence="0.215385">Por una parte</alt><alt confidence="0.0153846">POr un lado</alt></f>  , las exportaciónes irían cayendo .</output>
 </s>
 <s category="v" source="El País - 7-2-2014" id="173">
   <input>Inmigrantes acusan a la Guardia Civil de dispararles y los agentes <f id="1">deny it</f>  .</input>
-  <output>Inmigrantes acusan a la Guardia Civil de dispararles y los agentes <f confidence="0.344037" id="1">lo niegues<alt confidence="0.00458716">volverte atrás .</alt><alt confidence="0.00917431">de negar .</alt><alt confidence="0.0137615">negarla</alt><alt confidence="0.0550459">, niégalo .</alt><alt confidence="0.00917431">lo nieguen</alt><alt confidence="0.0137615">nos negamos</alt><alt confidence="0.0366972">negarlo</alt><alt confidence="0.123853">lo niegue</alt><alt confidence="0.100917">lo negarías</alt><alt confidence="0.00458716">Io niegue .</alt><alt confidence="0.0183486">ha negado .</alt><alt confidence="0.0321101">lo negará</alt><alt confidence="0.0917431">en negarlo .</alt><alt confidence="0.0366972">que negarlo</alt><alt confidence="0.0366972">lo niegan</alt><alt confidence="0.0550459">puedes negar .</alt><alt confidence="0.0137615">, niéguenlo .</alt></f>  .</output>
+  <output>Inmigrantes acusan a la Guardia Civil de dispararles y los agentes <f confidence="0.536785" id="1">negarlo<alt confidence="0.0217984">negarla</alt><alt confidence="0.00544959">lo nieguen</alt><alt confidence="0.00817439">nos negamos</alt><alt confidence="0.0245232">niegas</alt><alt confidence="0.0599455">lo negarías</alt><alt confidence="0.0735695">lo niegue</alt><alt confidence="0.0190736">lo negará</alt><alt confidence="0.20436">lo niegues</alt><alt confidence="0.0217984">que negarlo</alt><alt confidence="0.0217984">lo niegan</alt><alt confidence="0.0027248">negárselo</alt></f>  .</output>
 </s>
 <s category="pp" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="174">
   <input>El plan de reformas que el Gobierno pretende desarrollar <f id="1">in the next years</f>  sólo se reflejará timidamente este curso .</input>
@@ -693,7 +693,7 @@
 </s>
 <s category="w" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="175">
   <input>Los meses <f id="1">that preceded</f>  la muerte del dictador fueron tiempos convulsos .</input>
-  <output>Los meses <f confidence="0.666667" id="1">anteriores a<alt confidence="0.333333">que precedió</alt></f>  la muerte del dictador fueron tiempos convulsos .</output>
+  <output>Los meses <f confidence="0.18" id="1">que precedió a<alt confidence="0.04">que le precedió</alt><alt confidence="0.06">que han precedido a</alt><alt confidence="0.04">que la precedieron</alt><alt confidence="0.12">que precedieron a</alt><alt confidence="0.08">que precedieron</alt><alt confidence="0.06">que le precedieron</alt><alt confidence="0.02">criaturas que</alt><alt confidence="0.02">electromagnético ... que precedió al terremoto .</alt><alt confidence="0.06">que le han precedido</alt><alt confidence="0.02">voces que</alt><alt confidence="0.04">anteriores a</alt><alt confidence="0.08">que ha precedido</alt><alt confidence="0.02">muy anteriores</alt><alt confidence="0.16">que precedió</alt></f>  la muerte del dictador fueron tiempos convulsos .</output>
 </s>
 <s category="v" source="Jaime Bayly - No se lo digas a nadie" id="176">
   <input>Luis Felipe <f id="1">stood up</f>  y prendió las luces del comedor .</input>
@@ -709,7 +709,7 @@
 </s>
 <s category="n" source="Prisma Grammatica Spaans - drs. E. Slager" id="179">
   <input>¿ Qué vas a hacer durante <f id="1">the weekends</f>  ?</input>
-  <output>¿ Qué vas a hacer durante <f confidence="1.0" id="1">¿ no ? Empezar el fin de</f>  ?</output>
+  <output>¿ Qué vas a hacer durante <f confidence="1.0" id="1">los fines</f>  ?</output>
 </s>
 <s category="v" source="Prisma Grammatica Spaans - drs. E. Slager" id="180">
   <input>La niña <f id="1">has hurt herself</f>  jugando en el jardín .</input>
@@ -717,7 +717,7 @@
 </s>
 <s category="a" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="181">
   <input>Si crees que has estado <f id="1">exposed</f>  , anda a consultar a un médico .</input>
-  <output>Si crees que has estado <f confidence="0.367089" id="1">expuesto<alt confidence="0.265823">expuestos</alt><alt confidence="0.0443038">expuso</alt><alt confidence="0.0379747">expusieron</alt><alt confidence="0.00632911">expone</alt><alt confidence="0.0759494">expuestas</alt><alt confidence="0.202532">expuesta</alt></f>  , anda a consultar a un médico .</output>
+  <output>Si crees que has estado <f confidence="0.425373" id="1">expuesto<alt confidence="0.291045">expuesta</alt><alt confidence="0.0671642">expuestas</alt><alt confidence="0.216418">expuestos</alt></f>  , anda a consultar a un médico .</output>
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="182">
   <input>Javier es <f id="1">a clown</f>  y se enamora de Natalia .</input>
@@ -725,7 +725,7 @@
 </s>
 <s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="183">
   <input>El mercado de Barcelona ha sido el que ha sufrido mayores <f id="1">lows</f>  de todas las bolsas .</input>
-  <output>El mercado de Barcelona ha sido el que ha sufrido mayores <f confidence="0.210526" id="1">mínimos históricos<alt confidence="0.105263">bajadas</alt><alt confidence="0.0526316">bajezas</alt><alt confidence="0.0526316">altea .</alt><alt confidence="0.0526316">y puntos bajos más bajos .</alt><alt confidence="0.0526316">alegriias</alt><alt confidence="0.0526316">ha rebajado aun más con estas mentiras</alt><alt confidence="0.0526316">bajadas maniaticas que mi cuerpo exige .</alt><alt confidence="0.157895">bajos ?</alt><alt confidence="0.157895">alegrías</alt><alt confidence="0.0526316">de maníaco que mi cuerpo pide .</alt></f>  de todas las bolsas .</output>
+  <output>El mercado de Barcelona ha sido el que ha sufrido mayores <f confidence="1.0" id="1">mínimos históricos</f>  de todas las bolsas .</output>
 </s>
 <s category="n" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="184">
   <input>La primera sesión de cine que se realizó ante el público fue un verdadero <f id="1">success</f>  .</input>
@@ -745,7 +745,7 @@
 </s>
 <s category="p" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="188">
   <input>Los monumentos históricos se deterioran <f id="1">because of</f>  la corrosión .</input>
-  <output>Los monumentos históricos se deterioran <f confidence="0.6334" id="1">debido a<alt confidence="0.0399202">por</alt><alt confidence="0.0685296">gracias a</alt><alt confidence="0.222222">causa de</alt><alt confidence="0.000665336">debido</alt><alt confidence="0.0352628">debe a</alt></f>  la corrosión .</output>
+  <output>Los monumentos históricos se deterioran <f confidence="0.458233" id="1">por<alt confidence="0.0781628">a causa de</alt><alt confidence="0.0590921">, debido a</alt><alt confidence="0.0018802">por culpa de</alt><alt confidence="0.0276659">gracias a</alt><alt confidence="0.0897126">causa de</alt><alt confidence="0.000268601">debido</alt><alt confidence="0.0150416">como consecuencia de</alt><alt confidence="0.255708">debido a</alt><alt confidence="0.0142358">debe a</alt></f>  la corrosión .</output>
 </s>
 <s category="expr" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="189">
   <input>Siempre <f id="1">is worth it to</f>  hablar con él</input>
@@ -773,7 +773,7 @@
 </s>
 <s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="195">
   <input>Una visión completa del capital de Rajoy no puede realizarse <f id="1">given that</f>  no se conoce el valor de las viviendas .</input>
-  <output>Una visión completa del capital de Rajoy no puede realizarse <f confidence="0.592105" id="1">dado que<alt confidence="0.223684">ya que</alt><alt confidence="0.0131579">cuanto que</alt><alt confidence="0.171053">puesto que</alt></f>  no se conoce el valor de las viviendas .</output>
+  <output>Una visión completa del capital de Rajoy no puede realizarse <f confidence="0.335821" id="1">dado que<alt confidence="0.00746269">cuanto que</alt><alt confidence="0.00746269">en la medida en que</alt><alt confidence="0.0970149">puesto que</alt><alt confidence="0.00746269">medida en que</alt><alt confidence="0.00746269">toda vez que</alt><alt confidence="0.0298507">en vista de que</alt><alt confidence="0.0447761">, habida cuenta de que</alt><alt confidence="0.0447761">habida cuenta de que</alt><alt confidence="0.276119">, dado que</alt><alt confidence="0.0149254">teniendo en cuenta que</alt><alt confidence="0.126866">ya que</alt></f>  no se conoce el valor de las viviendas .</output>
 </s>
 <s category="n" source="Prisma Grammatica Spaans - drs. E. Slager" id="196">
   <input>¿ Qué <f id="1">size</f>  tiene tu cuarto ?</input>
@@ -781,7 +781,7 @@
 </s>
 <s category="n" source="Jaime Bayly - No se lo digas a nadie" id="197">
   <input>Casualmente estoy necesitando <f id="1">a loan</f>  de alguna entidad bancaria para financiarme un lote en Las Lomas de Pachacamac .</input>
-  <output>Casualmente estoy necesitando <f confidence="0.821429" id="1">un préstamo<alt confidence="0.0178571">un tiburón de los préstamos ...</alt><alt confidence="0.0178571">préstamo</alt><alt confidence="0.107143">un crédito</alt><alt confidence="0.0178571">cada centavo de vuelta y , en</alt><alt confidence="0.0178571">hipoteca después de apenas un año .</alt></f>  de alguna entidad bancaria para financiarme un lote en Las Lomas de Pachacamac .</output>
+  <output>Casualmente estoy necesitando <f confidence="0.470588" id="1">préstamo<alt confidence="0.0196078">del Sr. Milano dos millones y medio</alt><alt confidence="0.45098">un préstamo</alt><alt confidence="0.0588235">un crédito</alt></f>  de alguna entidad bancaria para financiarme un lote en Las Lomas de Pachacamac .</output>
 </s>
 <s category="pron" source="Prisma Grammatica Spaans - drs. E. Slager" id="198">
   <input>El coche está aparcado <f id="1">there</f>  desde las nueve de la mañana .</input>
@@ -797,15 +797,15 @@
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="201">
   <input>España y <f id="1">France</f>  siempre han declarado que no se puede negociar sobre la independencia de El País Vasco .</input>
-  <output>España y <f confidence="0.875" id="1">Francia<alt confidence="0.125">France</alt></f>  siempre han declarado que no se puede negociar sobre la independencia de El País Vasco .</output>
+  <output>España y <f confidence="0.80397" id="1">Francia<alt confidence="0.08933">en Francia</alt><alt confidence="0.0322581">a Francia</alt><alt confidence="0.00496278">francés</alt><alt confidence="0.0111663">que Francia</alt><alt confidence="0.00124069">el de Francia</alt><alt confidence="0.00496278">franceses</alt><alt confidence="0.00124069">France</alt><alt confidence="0.00372208">francesas</alt><alt confidence="0.00248139">Francia .</alt><alt confidence="0.0384615">de Francia</alt><alt confidence="0.00248139">Air France</alt><alt confidence="0.00372208">Francia ,</alt></f>  siempre han declarado que no se puede negociar sobre la independencia de El País Vasco .</output>
 </s>
 <s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="202">
   <input><f id="1">I feel as if</f>  una parte de mí pertenece a ese mundo en ruinas .</input>
-  <output><f confidence="0.494382" id="1">Siento como si<alt confidence="0.00561798">, creo que mi madre ... va</alt><alt confidence="0.011236">que los conozco de toda la vida</alt><alt confidence="0.00561798">Tengo la impresión de tener dos cabezas</alt><alt confidence="0.011236">como si nos conociéramos de siempre .</alt><alt confidence="0.00561798">si me bloquearas ... ... de todas</alt><alt confidence="0.00561798">Tal vez soy yo . Es como</alt><alt confidence="0.00561798">tengo la impresión de que miento constantemente</alt><alt confidence="0.00561798">que es como si ya fuéramos amigas</alt><alt confidence="0.00561798">siento como si la Diosa de Riqueza</alt><alt confidence="0.00561798">si hubiéramos ...</alt><alt confidence="0.011236">me siento muerta .</alt><alt confidence="0.00561798">Tengo la impresión que la habitación</alt><alt confidence="0.00561798">Siento que ahora no</alt><alt confidence="0.00561798">siento como si un viento me atravesara</alt><alt confidence="0.00561798">Me tiento como</alt><alt confidence="0.0168539">Siento que ya</alt><alt confidence="0.00561798">Me siento encerrado , si es que</alt><alt confidence="0.0337079">Siento como</alt><alt confidence="0.00561798">siento como si tuviera manos de vendedor</alt><alt confidence="0.00561798">labios me parece que no hay nada</alt><alt confidence="0.011236">si hubiéramos .</alt><alt confidence="0.011236">hecho , siento que hoy fui perdonado</alt><alt confidence="0.00561798">Y siento como que</alt><alt confidence="0.00561798">Siento que me estoy poniendo roja .</alt><alt confidence="0.151685">Me siento como si</alt><alt confidence="0.011236">veces siento que nunca tendrás un hogar</alt><alt confidence="0.011236">Siento que hace siglos que no te</alt><alt confidence="0.00561798">Ya siento como mía esa otra hija</alt><alt confidence="0.00561798">, es como si ya</alt><alt confidence="0.00561798">imagino que estamos muertos .</alt><alt confidence="0.011236">de leer tu libro siento como si</alt><alt confidence="0.00561798">Y él a menudo me</alt><alt confidence="0.00561798">si resplandeciera . .</alt><alt confidence="0.00561798">que no tengo derecho a estar donde</alt><alt confidence="0.00561798">si hubiera vivido siempre aquí .</alt><alt confidence="0.00561798">como si se me fuera la vida</alt><alt confidence="0.0224719">en comunicar el mensaje .</alt><alt confidence="0.0224719">menudo siento como</alt><alt confidence="0.00561798">Pero siento que ya las conozco .</alt><alt confidence="0.0224719">Siento que no te entiendo y</alt></f>  una parte de mí pertenece a ese mundo en ruinas .</output>
+  <output><f confidence="1.0" id="1">Siento como si</f>  una parte de mí pertenece a ese mundo en ruinas .</output>
 </s>
 <s category="p" source="El País - 7-2-2014" id="203">
   <input><f id="1">Perhaps</f>  esta reforma no sea más que una estrategia de comunicación .</input>
-  <output><f confidence="0.5125" id="1">Quizá<alt confidence="0.025">Posiblemente</alt><alt confidence="0.0125">Quizas</alt><alt confidence="0.025">Talvez</alt><alt confidence="0.425">Quizás</alt></f>  esta reforma no sea más que una estrategia de comunicación .</output>
+  <output><f confidence="0.5" id="1">Quizá<alt confidence="0.0243902">Talvez</alt><alt confidence="0.414634">Quizás</alt><alt confidence="0.0243902">¿ Quizá</alt><alt confidence="0.0121951">Quizas</alt><alt confidence="0.0243902">Posiblemente</alt></f>  esta reforma no sea más que una estrategia de comunicación .</output>
 </s>
 <s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="204">
   <input>La confianza pública en la medicina depende de <f id="1">the honesty</f>  de los profesionales .</input>
@@ -821,7 +821,7 @@
 </s>
 <s category="pp" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="207">
   <input>Corrigieron las faltas <f id="1">in less than</f>  una hora .</input>
-  <output>Corrigieron las faltas <f confidence="0.976744" id="1">en menos de<alt confidence="0.00387597">de una década</alt><alt confidence="0.00387597">ir antes de una semana .</alt><alt confidence="0.00775194">no durará ni una generación .</alt><alt confidence="0.00387597">en menos</alt><alt confidence="0.00387597">podré irme en una hora .</alt></f>  una hora .</output>
+  <output>Corrigieron las faltas <f confidence="0.923077" id="1">en menos de<alt confidence="0.003663">de una década</alt><alt confidence="0.003663">aprender un idioma extranjero en menos de</alt><alt confidence="0.00732601">dentro de menos de</alt><alt confidence="0.003663">llamará en menos de</alt><alt confidence="0.0586081">, en menos de</alt></f>  una hora .</output>
 </s>
 <s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="208">
   <input>Mi hermana riega las plantas <f id="1">one time per</f>  semana .</input>
@@ -829,15 +829,15 @@
 </s>
 <s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="209">
   <input>En la batalla contra las bacterias la guerra está perdida si se emplea <f id="1">brute force</f>  .</input>
-  <output>En la batalla contra las bacterias la guerra está perdida si se emplea <f confidence="1.0" id="1">fuerza bruta</f>  .</output>
+  <output>En la batalla contra las bacterias la guerra está perdida si se emplea <f confidence="0.647059" id="1">fuerza bruta<alt confidence="0.0392157">con la fuerza bruta</alt><alt confidence="0.0588235">de la fuerza bruta</alt><alt confidence="0.215686">la fuerza bruta</alt><alt confidence="0.0196078">La fuerza bruta</alt><alt confidence="0.0196078">a la fuerza bruta</alt></f>  .</output>
 </s>
 <s category="comp" id="210">
   <input>Los niños <f id="1">have to be more careful</f>  .</input>
-  <output>Los niños <f confidence="1.0" id="1">más cuidado ,</f>  .</output>
+  <output>Los niños <f confidence="1.0" id="1">que tener más cuidado</f>  .</output>
 </s>
 <s category="pp" source="Prisma Grammatica Spaans - drs. E. Slager" id="211">
   <input>Cuando salen las invitaciones , siempre me envio una <f id="1">to myself</f>  .</input>
-  <output>Cuando salen las invitaciones , siempre me envio una <f confidence="0.766667" id="1">hablando sola<alt confidence="0.0333333">Io admito</alt><alt confidence="0.0333333">hacerme algo .</alt><alt confidence="0.133333">mis adentros</alt><alt confidence="0.0333333">... Conmigo .</alt></f>  .</output>
+  <output>Cuando salen las invitaciones , siempre me envio una <f confidence="0.596154" id="1">a mí mismo<alt confidence="0.0846154">para mí mismo</alt><alt confidence="0.184615">a mí misma</alt><alt confidence="0.00384615">de mis propias palabras</alt><alt confidence="0.00384615">en la espalda de vez en cuando</alt><alt confidence="0.0884615">hablando sola</alt><alt confidence="0.00384615">Io admito</alt><alt confidence="0.00384615">hacia mí mismo</alt><alt confidence="0.00769231">qué no ? "</alt><alt confidence="0.00384615">daño a mí misma</alt><alt confidence="0.00384615">digo a mi mismo , Sr. Kalfon</alt><alt confidence="0.0153846">mis adentros</alt></f>  .</output>
 </s>
 <s category="pp" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="212">
   <input>El incendio había destruido gran parte <f id="1">of the neighbourhood</f>  .</input>
@@ -849,7 +849,7 @@
 </s>
 <s category="pp" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="214">
   <input>Todos los veranos vienen muchos turistas <f id="1">to our village</f>  .</input>
-  <output>Todos los veranos vienen muchos turistas <f confidence="0.947368" id="1">a nuestra aldea<alt confidence="0.0526316">que nos ayudarían . ¿ En qué</alt></f>  .</output>
+  <output>Todos los veranos vienen muchos turistas <f confidence="1.0" id="1">a nuestra aldea</f>  .</output>
 </s>
 <s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="215">
   <input><f id="1">It upsets him that</f>  no haya nada que hacer .</input>
@@ -901,7 +901,7 @@
 </s>
 <s category="a" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="227">
   <input>Oímos un programa <f id="1">very strange</f>  en la radio .</input>
-  <output>Oímos un programa <f confidence="0.428571" id="1">muy extraño<alt confidence="0.047619">muy extraña</alt><alt confidence="0.380952">muy extrañas</alt><alt confidence="0.142857">extraño sucediendo en Mayflower .</alt></f>  en la radio .</output>
+  <output>Oímos un programa <f confidence="0.5" id="1">muy extraño<alt confidence="0.0555556">muy extraña</alt><alt confidence="0.444444">muy extrañas</alt></f>  en la radio .</output>
 </s>
 <s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="228">
   <input><f id="1">They treated him</f>  con respeto porque era muy rico .</input>
@@ -909,7 +909,7 @@
 </s>
 <s category="a" source="Dr. Guillermo Sanz Gallego, Ghent University" id="229">
   <input>En la actualidad se cuenta con la medicina <f id="1">most advanced</f>  .</input>
-  <output>En la actualidad se cuenta con la medicina <f confidence="0.34375" id="1">más avanzados<alt confidence="0.21875">más avanzado</alt><alt confidence="0.0625">mejores armas .</alt><alt confidence="0.125">más avanzadas</alt><alt confidence="0.25">más avanzada</alt></f>  .</output>
+  <output>En la actualidad se cuenta con la medicina <f confidence="0.323529" id="1">más avanzados<alt confidence="0.0294118">disposición las armas más avanzadas del mundo</alt><alt confidence="0.0294118">que está más avanzado</alt><alt confidence="0.235294">más avanzada</alt><alt confidence="0.117647">más avanzadas</alt><alt confidence="0.205882">más avanzado</alt><alt confidence="0.0588235">las más avanzadas</alt></f>  .</output>
 </s>
 <s category="n" source="El País - 7-2-2014" id="230">
   <input>Sus físicas le permitieron <f id="1">longevity</f>  extraordinaria .</input>
@@ -933,7 +933,7 @@
 </s>
 <s category="p" source="Prisma Grammatica Spaans - drs. E. Slager" id="235">
   <input>Lo hizo <f id="1">in</f>  sólo dos horas .</input>
-  <output>Lo hizo <f confidence="0.386897" id="1">en<alt confidence="0.106304">a</alt><alt confidence="0.100124">de</alt><alt confidence="0.0716934">por</alt><alt confidence="0.00370828">dentro</alt><alt confidence="0.331273">con</alt></f>  sólo dos horas .</output>
+  <output>Lo hizo <f confidence="0.374402" id="1">en<alt confidence="0.102871">a</alt><alt confidence="0.09689">de</alt><alt confidence="0.069378">por</alt><alt confidence="0.00358852">dentro</alt><alt confidence="0.0322967">, en</alt><alt confidence="0.320574">con</alt></f>  sólo dos horas .</output>
 </s>
 <s category="a" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="236">
   <input>Treinta días después de haber sufrido un atraco , un joven reconoce a su <f id="1">presumed</f>  atracador .</input>
@@ -945,7 +945,7 @@
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="238">
   <input>La nueva carretera de circunvalación de la ciudad de Málaga <f id="1">has been completed</f>  este jueves .</input>
-  <output>La nueva carretera de circunvalación de la ciudad de Málaga <f confidence="1.0" id="1">se haya completado</f>  este jueves .</output>
+  <output>La nueva carretera de circunvalación de la ciudad de Málaga <f confidence="0.115702" id="1">ha completado<alt confidence="0.00826446">Se ha llevado a cabo</alt><alt confidence="0.00826446">está cumplido</alt><alt confidence="0.0578512">haya concluido</alt><alt confidence="0.00826446">prototipo ha sido completado .</alt><alt confidence="0.00826446">a nivel están</alt><alt confidence="0.00826446">se hayan terminado</alt><alt confidence="0.00826446">haya llegado a su término</alt><alt confidence="0.00826446">Ha culminado</alt><alt confidence="0.0413223">se ha llevado a cabo</alt><alt confidence="0.0247934">se ha concluido</alt><alt confidence="0.00826446">ya se ha llevado a cabo</alt><alt confidence="0.00826446">haya sido culminado</alt><alt confidence="0.00826446">se complete</alt><alt confidence="0.00826446">ya ha finalizado</alt><alt confidence="0.0661157">finalizado</alt><alt confidence="0.0247934">finalizada</alt><alt confidence="0.00826446">se haya cerrado</alt><alt confidence="0.0247934">ha finalizado</alt><alt confidence="0.00826446">se completa</alt><alt confidence="0.00826446">se haya concluido</alt><alt confidence="0.0165289">se haya realizado</alt><alt confidence="0.00826446">completar un entrenamiento intensivo .</alt><alt confidence="0.0826446">ha concluido</alt><alt confidence="0.00826446">haya sido completada</alt><alt confidence="0.00826446">está concluido</alt><alt confidence="0.00826446">ha ejecutado</alt><alt confidence="0.00826446">se haya ultimado</alt><alt confidence="0.0495868">que se haya completado</alt><alt confidence="0.00826446">una vez concluido</alt><alt confidence="0.0330579">concluida</alt><alt confidence="0.00826446">ha agotado el</alt><alt confidence="0.00826446">aeropuerto está terminado</alt><alt confidence="0.0413223">ha sido completado</alt><alt confidence="0.0743802">se haya completado</alt><alt confidence="0.0991736">se ha completado</alt><alt confidence="0.0413223">ha sido completada</alt><alt confidence="0.0247934">haya finalizado</alt></f>  este jueves .</output>
 </s>
 <s category="n" source="Prisma Grammatica Spaans - drs. E. Slager" id="239">
   <input>Nunca había visto <f id="1">so many people</f>  en el hogar .</input>
@@ -957,11 +957,11 @@
 </s>
 <s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="241">
   <input>En primavera hay tantos <f id="1">birds</f>  en el castaño que me despiertan por la mañana .</input>
-  <output>En primavera hay tantos <f confidence="0.656442" id="1">pájaros<alt confidence="0.00613497">convirtieron en pajaros</alt><alt confidence="0.00613497">trinando</alt><alt confidence="0.0122699">convirtieron en pajaros ?</alt><alt confidence="0.312883">aves</alt><alt confidence="0.00613497">pajaros</alt></f>  en el castaño que me despiertan por la mañana .</output>
+  <output>En primavera hay tantos <f confidence="0.75" id="1">pájaros<alt confidence="0.25">pàjaros</alt></f>  en el castaño que me despiertan por la mañana .</output>
 </s>
 <s category="pp" source="Prisma Grammatica Spaans - drs. E. Slager" id="242">
   <input>Tienes que tener más confianza <f id="1">in yourself</f>  .</input>
-  <output>Tienes que tener más confianza <f confidence="0.882353" id="1">en ti mismo<alt confidence="0.117647">en ti misma</alt></f>  .</output>
+  <output>Tienes que tener más confianza <f confidence="1.0" id="1">en ti mismo</f>  .</output>
 </s>
 <s category="n" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="243">
   <input>Activar <f id="1">the circulatory system</f>  de esta manera es necesario para la prevención de resfriados y para la salud de las arterias .</input>
@@ -973,7 +973,7 @@
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="245">
   <input>La policía cree que los asesinatos de las dos mujeres pueden haber sido obra de <f id="1">a serial killer</f>  , pero recalca que aún es pronto para llegar a esta conclusión .</input>
-  <output>La policía cree que los asesinatos de las dos mujeres pueden haber sido obra de <f confidence="1.0" id="1">un asesino serial</f>  , pero recalca que aún es pronto para llegar a esta conclusión .</output>
+  <output>La policía cree que los asesinatos de las dos mujeres pueden haber sido obra de <f confidence="0.571429" id="1">un asesino en serie<alt confidence="0.428571">un asesino serial</alt></f>  , pero recalca que aún es pronto para llegar a esta conclusión .</output>
 </s>
 <s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="246">
   <input>No me gusta ese <f id="1">smell</f>  de azufre .</input>
@@ -981,7 +981,7 @@
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="247">
   <input>Se espera centralizar los paquetes disponibles <f id="1">increasing</f>  la presión a la Administración española .</input>
-  <output>Se espera centralizar los paquetes disponibles <f confidence="0.552586" id="1">aumentar<alt confidence="0.0189655">aumente</alt><alt confidence="0.00431034">aumenten</alt><alt confidence="0.0387931">aumenta</alt><alt confidence="0.00862069">incrementa</alt><alt confidence="0.000862069">incrementan</alt><alt confidence="0.00172414">aumento</alt><alt confidence="0.187931">incrementar</alt><alt confidence="0.00603448">aumentan</alt><alt confidence="0.0181034">elevar</alt><alt confidence="0.00172414">aumentaran la</alt><alt confidence="0.116379">aumentando</alt><alt confidence="0.000862069">en la que haya cada vez más</alt><alt confidence="0.000862069">a la vez aumente</alt><alt confidence="0.0405172">incrementando</alt><alt confidence="0.00172414">creciente</alt></f>  la presión a la Administración española .</output>
+  <output>Se espera centralizar los paquetes disponibles <f confidence="0.470286" id="1">aumentar<alt confidence="0.000733676">tiempo que incrementa</alt><alt confidence="0.000733676">al tiempo que incrementa</alt><alt confidence="0.000733676">efectos de aumentar</alt><alt confidence="0.159941">incrementar</alt><alt confidence="0.000733676">incrementan</alt><alt confidence="0.0990462">aumentando</alt><alt confidence="0.000733676">manera que aumenta</alt><alt confidence="0.0344828">incrementando</alt><alt confidence="0.131328">de aumentar</alt><alt confidence="0.000733676">" ... el incremento de</alt><alt confidence="0.000733676">todos , incrementar</alt><alt confidence="0.000733676">la medida en que aumenta</alt><alt confidence="0.00440205">aumento de</alt><alt confidence="0.00146735">creciente</alt><alt confidence="0.000733676">en aumento</alt><alt confidence="0.00513573">cada vez más</alt><alt confidence="0.0161409">aumente</alt><alt confidence="0.0330154">aumenta</alt><alt confidence="0.00146735">aumento</alt><alt confidence="0.000733676">de manera que aumenta</alt><alt confidence="0.000733676">... el incremento de</alt><alt confidence="0.000733676">de todos , incrementar</alt><alt confidence="0.000733676">el aumento de</alt><alt confidence="0.000733676">puesto que aumentaría</alt><alt confidence="0.000733676">la creciente</alt><alt confidence="0.0154072">elevar</alt><alt confidence="0.00513573">aumentan</alt><alt confidence="0.00366838">aumenten</alt><alt confidence="0.00733676">incrementa</alt><alt confidence="0.000733676">incremento de</alt></f>  la presión a la Administración española .</output>
 </s>
 <s category="v" source="Jaime Bayly - No se lo digas a nadie" id="248">
   <input>Joaquín <f id="1">left his room</f>  y bajó al comedor .</input>
@@ -989,7 +989,7 @@
 </s>
 <s category="adv" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="249">
   <input>No me vas a convencer , es inútil que lo repitas <f id="1">again</f>  , ya te he oído bien la primera vez .</input>
-  <output>No me vas a convencer , es inútil que lo repitas <f confidence="0.370835" id="1">vez<alt confidence="0.00414275">más ,</alt><alt confidence="0.000887732">again</alt><alt confidence="0.240634">más</alt><alt confidence="0.0321359">nuevamente</alt><alt confidence="0.00686512">otra</alt><alt confidence="0.344499">nuevo</alt></f>  , ya te he oído bien la primera vez .</output>
+  <output>No me vas a convencer , es inútil que lo repitas <f confidence="0.255703" id="1">vez<alt confidence="0.00061212">again</alt><alt confidence="0.165966">más</alt><alt confidence="0.220894">de nuevo</alt><alt confidence="0.0221587">nuevamente</alt><alt confidence="0.000489696">vez más</alt><alt confidence="0.00477454">otra</alt><alt confidence="0.0906346">una vez más</alt><alt confidence="0.237543">nuevo</alt><alt confidence="0.00122424">otra vez</alt></f>  , ya te he oído bien la primera vez .</output>
 </s>
 <s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="250">
   <input>El divorcio , por ejemplo , <f id="1">has made possible</f>  que el matrimonio no sea forzosamente para toda la vida .</input>
@@ -1001,11 +1001,11 @@
 </s>
 <s category="p" source="Dr. Guillermo Sanz Gallego, Ghent University" id="252">
   <input><f id="1">During</f>  el desfile se pidió silencio y se apeló al respeto hacia los militares .</input>
-  <output><f confidence="0.781513" id="1">Durante<alt confidence="0.218487">En</alt></f>  el desfile se pidió silencio y se apeló al respeto hacia los militares .</output>
+  <output><f confidence="0.762295" id="1">Durante<alt confidence="0.213115">En</alt><alt confidence="0.0204918">¿ Durante</alt><alt confidence="0.00102459">Quiero decirle incluso que , durante</alt><alt confidence="0.00204918">– Durante</alt><alt confidence="0.00102459">Trabajo durante</alt></f>  el desfile se pidió silencio y se apeló al respeto hacia los militares .</output>
 </s>
 <s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="253">
   <input>Ya caen hojas <f id="1">everywhere</f>  en nuestro jardín .</input>
-  <output>Ya caen hojas <f confidence="0.486111" id="1">partes<alt confidence="0.0694444">cámaras en todas partes .</alt><alt confidence="0.1875">busqué</alt><alt confidence="0.0416667">está en todas partes !</alt><alt confidence="0.0416667">brujas en todas partes .</alt><alt confidence="0.00694444">lugar en todos los lugares</alt><alt confidence="0.00694444">que en cualquier parte ,</alt><alt confidence="0.00694444">cámaras en todas partes</alt><alt confidence="0.145833">lados</alt><alt confidence="0.00694444">chino en cualquier lugar .</alt></f>  en nuestro jardín .</output>
+  <output>Ya caen hojas <f confidence="0.366492" id="1">partes<alt confidence="0.0052356">en todos los sitios</alt><alt confidence="0.0052356">gemelos tienen ojos</alt><alt confidence="0.141361">busqué</alt><alt confidence="0.21466">por todas partes</alt><alt confidence="0.0209424">en todos los lugares</alt><alt confidence="0.0104712">por doquier</alt><alt confidence="0.120419">en todas partes</alt><alt confidence="0.109948">lados</alt><alt confidence="0.0052356">Carris están</alt></f>  en nuestro jardín .</output>
 </s>
 <s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="254">
   <input>Si ellos no <f id="1">receive treatment</f>  , pueden seguir transmitiendo la infección a otras personas .</input>
@@ -1017,7 +1017,7 @@
 </s>
 <s category="w" source="Dr. Guillermo Sanz Gallego, Ghent University" id="256">
   <input>La empresa Nuevas Tecnologias y Energias Catala ( NT-K ) ha ganado el recurso interpuesto contra <f id="1">the sentence</f>  de 2010 de un tribunal municipal que dictaba que NT-K no continuara importando a España la tableta que fabricaba en China .</input>
-  <output>La empresa Nuevas Tecnologias y Energias Catala ( NT-K ) ha ganado el recurso interpuesto contra <f confidence="0.727273" id="1">la sentencia<alt confidence="0.0227273">la oración</alt><alt confidence="0.136364">la condena</alt><alt confidence="0.0909091">la frase</alt><alt confidence="0.0227273">aquella frase</alt></f>  de 2010 de un tribunal municipal que dictaba que NT-K no continuara importando a España la tableta que fabricaba en China .</output>
+  <output>La empresa Nuevas Tecnologias y Energias Catala ( NT-K ) ha ganado el recurso interpuesto contra <f confidence="1.0" id="1">la sentencia</f>  de 2010 de un tribunal municipal que dictaba que NT-K no continuara importando a España la tableta que fabricaba en China .</output>
 </s>
 <s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="257">
   <input>La elevación de la temperatura de las aguas fue reconocida por <f id="1">fishermen</f>  peruanos .</input>
@@ -1029,7 +1029,7 @@
 </s>
 <s category="comp" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="259">
   <input>Los vehículos circulan con absoluta normalidad <f id="1">thanks to</f>  la red de túneles que recorre toda la ciudad .</input>
-  <output>Los vehículos circulan con absoluta normalidad <f confidence="0.763889" id="1">gracias a<alt confidence="0.00245098">agradecimiento de</alt><alt confidence="0.00163399">merced a</alt><alt confidence="0.196895">agradecimiento a</alt><alt confidence="0.00163399">gratitud hacia</alt><alt confidence="0.000816993">agradecimiento con</alt><alt confidence="0.000816993">control de la nave ... ... gracias</alt><alt confidence="0.0122549">gracias a la</alt><alt confidence="0.0147059">gratitud a</alt><alt confidence="0.000816993">agradecimiento para</alt><alt confidence="0.00326797">agradecimientos a</alt><alt confidence="0.000816993">. Con la guerra</alt></f>  la red de túneles que recorre toda la ciudad .</output>
+  <output>Los vehículos circulan con absoluta normalidad <f confidence="0.603226" id="1">gracias a<alt confidence="0.00193548">agradecimiento de</alt><alt confidence="0.000645161">que han dado gracias a</alt><alt confidence="0.00193548">bien gracias a</alt><alt confidence="0.155484">agradecimiento a</alt><alt confidence="0.00129032">gratitud hacia</alt><alt confidence="0.000645161">agradecimiento con</alt><alt confidence="0.0116129">gratitud a</alt><alt confidence="0.00129032">gracias de todo corazón a</alt><alt confidence="0.215484">, gracias a</alt><alt confidence="0.000645161">agradecimiento para</alt><alt confidence="0.00258065">agradecimientos a</alt><alt confidence="0.00129032">un agradecimiento a</alt><alt confidence="0.000645161">gracias , precisamente , a</alt><alt confidence="0.00129032">merced a</alt></f>  la red de túneles que recorre toda la ciudad .</output>
 </s>
 <s category="n" id="260">
   <input>Este <f id="1">increase</f>  ha propiciado el saneamento financiero de las empresas .</input>
@@ -1037,7 +1037,7 @@
 </s>
 <s category="v" source="Prisma Grammatica Spaans - drs. E. Slager" id="261">
   <input>Sí , pero <f id="1">do n't worry</f>  , es sólo un niño .</input>
-  <output>Sí , pero <f confidence="0.804878" id="1">no te preocupes<alt confidence="0.195122">no se preocupe</alt></f>  , es sólo un niño .</output>
+  <output>Sí , pero <f confidence="0.785714" id="1">no te preocupes<alt confidence="0.190476">no se preocupe</alt><alt confidence="0.0238095">, no te preocupes</alt></f>  , es sólo un niño .</output>
 </s>
 <s category="v" id="262">
   <input>El niño <f id="1">does as if</f>  bebiera de una taza .</input>
@@ -1045,7 +1045,7 @@
 </s>
 <s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="263">
   <input><f id="1">It is a pity</f>  que ellos no vuelvan más pronto .</input>
-  <output><f confidence="0.452" id="1">Es una pena<alt confidence="0.004">Hay que lamentar</alt><alt confidence="0.004">Dios , no usaría esto ni aunque</alt><alt confidence="0.008">Que lástima ,</alt><alt confidence="0.004">Es lástima</alt><alt confidence="0.008">Pero es una pena</alt><alt confidence="0.02">Es de lamentar</alt><alt confidence="0.004">¡ Es una pena que ciertas</alt><alt confidence="0.004">Muchas gracias . Nos</alt><alt confidence="0.008">Creo que es lamentable</alt><alt confidence="0.412">Es una lástima</alt><alt confidence="0.064">Es lamentable</alt><alt confidence="0.004">Es un pena</alt><alt confidence="0.004">La lástima es</alt></f>  que ellos no vuelvan más pronto .</output>
+  <output><f confidence="0.471429" id="1">Es una pena<alt confidence="0.0047619">Hay que lamentar</alt><alt confidence="0.0047619">Es lástima</alt><alt confidence="0.00952381">Pero es una pena</alt><alt confidence="0.0190476">Es de lamentar</alt><alt confidence="0.00952381">Creo que es lamentable</alt><alt confidence="0.4">Es una lástima</alt><alt confidence="0.0714286">Es lamentable</alt><alt confidence="0.0047619">Es un pena</alt><alt confidence="0.0047619">La lástima es</alt></f>  que ellos no vuelvan más pronto .</output>
 </s>
 <s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="264">
   <input>El dentista me sacó dos <f id="1">molars</f>  .</input>
@@ -1145,7 +1145,7 @@
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="288">
   <input>La gente quiere <f id="1">relax</f>  durante las vacaciones .</input>
-  <output>La gente quiere <f confidence="0.75" id="1">relajarnos<alt confidence="0.25">relajarse</alt></f>  durante las vacaciones .</output>
+  <output>La gente quiere <f confidence="1.0" id="1">relajarse</f>  durante las vacaciones .</output>
 </s>
 <s category="a" source="UniLang Language Community" id="289">
   <input>Un cuervo <f id="1">thirsty</f>  encontró un cántaro con algo de agua .</input>
@@ -1157,7 +1157,7 @@
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="291">
   <input>Después de un accidente se rellenan los formularios necesarios para <f id="1">the insurance companies</f>  .</input>
-  <output>Después de un accidente se rellenan los formularios necesarios para <f confidence="0.75" id="1">compañías de seguros<alt confidence="0.0833333">con las aseguradoras .</alt><alt confidence="0.0833333">las entidades aseguradoras</alt><alt confidence="0.0833333">las compañías aseguradoras</alt></f>  .</output>
+  <output>Después de un accidente se rellenan los formularios necesarios para <f confidence="1.0" id="1">las compañías de seguros</f>  .</output>
 </s>
 <s category="pp" source="El País - 7-2-2014" id="292">
   <input>Los analistas opinan que la empresa no está <f id="1">in risk of</f>  sucumbir .</input>
@@ -1177,11 +1177,11 @@
 </s>
 <s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="296">
   <input>Yo no <f id="1">paid the bill</f>  , porque no tenía suficiente dinero .</input>
-  <output>Yo no <f confidence="1.0" id="1">pagó la</f>  , porque no tenía suficiente dinero .</output>
+  <output>Yo no <f confidence="0.322581" id="1">pagó la<alt confidence="0.225806">pagado .</alt><alt confidence="0.0645161">pagar la cuenta .</alt><alt confidence="0.0322581">cuenta sólo hace un par de semanas</alt><alt confidence="0.0322581">pagó la factura en</alt><alt confidence="0.0967742">pagó la factura en cash ?</alt><alt confidence="0.225806">pagado la factura .</alt></f>  , porque no tenía suficiente dinero .</output>
 </s>
 <s category="adv" source="Prisma Grammatica Spaans - drs. E. Slager" id="297">
   <input>Querer a dos mujeres <f id="1">at the same time</f>  era comun para él .</input>
-  <output>Querer a dos mujeres <f confidence="0.5" id="1">a la vez<alt confidence="0.454545">al mismo tiempo</alt><alt confidence="0.0454545">, al mismo tiempo</alt></f>  era comun para él .</output>
+  <output>Querer a dos mujeres <f confidence="0.538462" id="1">a la vez<alt confidence="0.461538">al mismo tiempo</alt></f>  era comun para él .</output>
 </s>
 <s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="298">
   <input><f id="1">The domino effect</f>  sobre la economía del país sería inmediato .</input>
@@ -1197,7 +1197,7 @@
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="301">
   <input>El gobierno <f id="1">hopes that</f>  las nuevas iniciativas se aprueben lo antes posible .</input>
-  <output>El gobierno <f confidence="0.944444" id="1">espera que<alt confidence="0.0555556">desea que</alt></f>  las nuevas iniciativas se aprueben lo antes posible .</output>
+  <output>El gobierno <f confidence="0.708333" id="1">espera que<alt confidence="0.0416667">desea que</alt><alt confidence="0.0833333">esperanzas de que</alt><alt confidence="0.166667">confía en que</alt></f>  las nuevas iniciativas se aprueben lo antes posible .</output>
 </s>
 <s category="v" source="El País - 7-2-2014" id="302">
   <input>En política interior , Alemania <f id="1">turns towards</f>  el centro .</input>
@@ -1229,7 +1229,7 @@
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="309">
   <input>Los huelguistas <f id="1">oppose</f>  la privatización de AENA .</input>
-  <output>Los huelguistas <f confidence="0.5" id="1">de la gente que se les opone<alt confidence="0.25">oponga</alt><alt confidence="0.25">oponen</alt></f>  la privatización de AENA .</output>
+  <output>Los huelguistas <f confidence="0.189448" id="1">oponerse a<alt confidence="0.00239808">bien , nos oponemos a</alt><alt confidence="0.0359712">opone a</alt><alt confidence="0.00479616">oponiendo a</alt><alt confidence="0.0143885">oponiéndose a</alt><alt confidence="0.122302">oponemos a</alt><alt confidence="0.00239808">nos opondríamos a</alt><alt confidence="0.100719">nos oponemos a</alt><alt confidence="0.127098">opongo a</alt><alt confidence="0.0191847">opongan a</alt><alt confidence="0.0119904">opongamos a</alt><alt confidence="0.00239808">, enfrentan a</alt><alt confidence="0.00239808">oponen</alt><alt confidence="0.00239808">opondrán a</alt><alt confidence="0.0191847">se opongan a</alt><alt confidence="0.00239808">se oponga</alt><alt confidence="0.00239808">se oponen</alt><alt confidence="0.0335731">se opone a</alt><alt confidence="0.00239808">oponerse también a</alt><alt confidence="0.0215827">oponga a</alt><alt confidence="0.0143885">se oponga a</alt><alt confidence="0.0143885">contrarios a</alt><alt confidence="0.00239808">en oponernos a que</alt><alt confidence="0.00239808">posiciones contra</alt><alt confidence="0.00239808">reaccionamos en contra de</alt><alt confidence="0.00239808">en contra de</alt><alt confidence="0.00239808">oponga</alt><alt confidence="0.00239808">de manifestarnos en contra de</alt><alt confidence="0.00479616">se opusieran a</alt><alt confidence="0.122302">se oponen a</alt><alt confidence="0.00719424">oponer a</alt><alt confidence="0.00239808">oponiéndonos a</alt><alt confidence="0.0551559">oponernos a</alt><alt confidence="0.0191847">oponerme a</alt><alt confidence="0.0119904">opondrá a</alt><alt confidence="0.00239808">a intervenir en contra de</alt><alt confidence="0.00239808">manifestarnos en contra de</alt><alt confidence="0.00959233">opondremos a</alt></f>  la privatización de AENA .</output>
 </s>
 <s category="a" source="Julio Cortázar. Rayuela. Buenos Aires: Editorial Sudamericana, 1973 (106-107)." id="310">
   <input>Yo estaba bastante <f id="1">drunk</f>  y vos apareciste en la esquina y nos quedamos mirándonos como idiotas .</input>
@@ -1237,7 +1237,7 @@
 </s>
 <s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="311">
   <input><f id="1">Do n't put</f>  los codos en la mesa .</input>
-  <output><f confidence="0.6" id="1">No pongas<alt confidence="0.2">No te pongas los zapatos .</alt><alt confidence="0.2">No me anotes los árboles .</alt></f>  los codos en la mesa .</output>
+  <output><f confidence="0.571429" id="1">No pongas<alt confidence="0.428571">No las ponga en</alt></f>  los codos en la mesa .</output>
 </s>
 <s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="312">
   <input>Aunque volcanes e <f id="1">fires</f>  también contaminen , el fenómeno de la lluvia ácida surge con la revolución industrial .</input>
@@ -1245,7 +1245,7 @@
 </s>
 <s category="adv" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="313">
   <input>Los niños tienes pocas ocasiones para jugar <f id="1">freely</f>  .</input>
-  <output>Los niños tienes pocas ocasiones para jugar <f confidence="0.746362" id="1">libremente<alt confidence="0.004158">Moscú . Donde podrá hablar con más</alt><alt confidence="0.226611">libertad</alt><alt confidence="0.002079">gratuitamente</alt><alt confidence="0.02079">libre</alt></f>  .</output>
+  <output>Los niños tienes pocas ocasiones para jugar <f confidence="1.0" id="1">libremente</f>  .</output>
 </s>
 <s category="expr" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="314">
   <input>No todo ha sido <f id="1">a breeze</f>  para el nuevo ariete del Barça .</input>
@@ -1257,7 +1257,7 @@
 </s>
 <s category="v" source="Jaime Bayly - No se lo digas a nadie" id="316">
   <input>También quiero <f id="1">thank</f>  a mi hermana Ximena y mi hermanito Fernando por ser tan buenos conmigo y por hacerme regalitos tan bonitos .</input>
-  <output>También quiero <f confidence="0.755357" id="1">agradecer<alt confidence="0.151786">felicitar</alt><alt confidence="0.00535714">agradecer a</alt><alt confidence="0.0875">agradecerle</alt></f>  a mi hermana Ximena y mi hermanito Fernando por ser tan buenos conmigo y por hacerme regalitos tan bonitos .</output>
+  <output>También quiero <f confidence="0.658309" id="1">dar las gracias<alt confidence="0.039823">expresar mi agradecimiento</alt><alt confidence="0.0417896">felicitar</alt><alt confidence="0.0280236">darle las gracias</alt><alt confidence="0.207965">agradecer</alt><alt confidence="0.0240905">agradecerle</alt></f>  a mi hermana Ximena y mi hermanito Fernando por ser tan buenos conmigo y por hacerme regalitos tan bonitos .</output>
 </s>
 <s category="pp" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="317">
   <input>Cada día mi abuelo viene <f id="1">on foot</f>  .</input>
@@ -1269,19 +1269,19 @@
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="319">
   <input>Los opositores <f id="1">dismissed</f>  el asunto .</input>
-  <output>Los opositores <f confidence="0.357143" id="1">desestimó<alt confidence="0.0714286">despedidos</alt><alt confidence="0.285714">en el verano de 1997 .</alt><alt confidence="0.142857">sobreseído</alt><alt confidence="0.142857">disuelve el tribunal .</alt></f>  el asunto .</output>
+  <output>Los opositores <f confidence="0.555556" id="1">desestimó<alt confidence="0.111111">despedidos</alt><alt confidence="0.111111">, aunque cuidadoso y detallado , y</alt><alt confidence="0.222222">sobreseído</alt></f>  el asunto .</output>
 </s>
 <s category="adv" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="320">
   <input>Se van a crear <f id="1">more than</f>  cuarenta nuevos titulos universitarios .</input>
-  <output>Se van a crear <f confidence="1.0" id="1">más de</f>  cuarenta nuevos titulos universitarios .</output>
+  <output>Se van a crear <f confidence="0.967742" id="1">más de<alt confidence="0.0322581">a más de</alt></f>  cuarenta nuevos titulos universitarios .</output>
 </s>
 <s category="n" source="El País - 7-2-2014" id="321">
   <input>Su medio siglo de trayectoria fue un experimento continuo donde primó <f id="1">the search for</f>  métodos de expresión .</input>
-  <output>Su medio siglo de trayectoria fue un experimento continuo donde primó <f confidence="1.0" id="1">la búsqueda de</f>  métodos de expresión .</output>
+  <output>Su medio siglo de trayectoria fue un experimento continuo donde primó <f confidence="0.387755" id="1">búsqueda de<alt confidence="0.00313972">busqueda de la</alt><alt confidence="0.0251177">de la búsqueda de</alt><alt confidence="0.00235479">uno a la búsqueda del buen Calavius</alt><alt confidence="0.000784929">a la obtención del</alt><alt confidence="0.000784929">tiempos , toma este peso sin grgavedad</alt><alt confidence="0.000784929">que encontremos buena</alt><alt confidence="0.000784929">comida ... ... y la búsqueda ,</alt><alt confidence="0.00156986">, pero la búsqueda de un hombre</alt><alt confidence="0.000784929">empezó a buscar un nuevo compinche .</alt><alt confidence="0.00235479">que la búsqueda de la</alt><alt confidence="0.000784929">perpetrador con ayuda del Sr.</alt><alt confidence="0.000784929">aras de esa</alt><alt confidence="0.00156986">la construcción de alternativas con nuevas representaciones</alt><alt confidence="0.000784929">que la búsqueda de la verdad ...</alt><alt confidence="0.000784929">para facilitar la búsqueda del animal guía</alt><alt confidence="0.000784929">... pero hasta ahora el querido superhéroe</alt><alt confidence="0.00235479">a la búsqueda del</alt><alt confidence="0.000784929">O ambos casos</alt><alt confidence="0.000784929">the search for</alt><alt confidence="0.00313972">a la búsqueda del buen Calavius .</alt><alt confidence="0.000784929">lo concerniente a la búsqueda de El</alt><alt confidence="0.00235479">a la búsqueda de un</alt><alt confidence="0.00235479">... ... comienza la búsqueda de polluelos</alt><alt confidence="0.000784929">, la búsqueda de la pequeña continuó</alt><alt confidence="0.000784929">los esfuerzos en favor de</alt><alt confidence="0.00156986">, en la búsqueda</alt><alt confidence="0.010989">, en la búsqueda de nuestro héroe</alt><alt confidence="0.000784929">frente de la operación de búsqueda de</alt><alt confidence="0.000784929">O la búsqueda de Dios ?</alt><alt confidence="0.00313972">, la búsqueda de la</alt><alt confidence="0.00784929">va la búsqueda de</alt><alt confidence="0.000784929">búsqueda del ladrón</alt><alt confidence="0.000784929">busqueda por una</alt><alt confidence="0.000784929">revolución es desear la felicidad .</alt><alt confidence="0.00156986">en la busqueda de</alt><alt confidence="0.0965463">en la búsqueda de</alt><alt confidence="0.00156986">en la busqueda de la verdad es</alt><alt confidence="0.000784929">del verdadero amor es dirigida por ...</alt><alt confidence="0.000784929">La búsqueda del pesquero de Gloucester Andrea</alt><alt confidence="0.00784929">, en la búsqueda de</alt><alt confidence="0.00156986">nos está cocinando la cena en mi</alt><alt confidence="0.372057">la búsqueda de</alt><alt confidence="0.0423862">la búsqueda del</alt><alt confidence="0.00156986">bien la búsqueda</alt></f>  métodos de expresión .</output>
 </s>
 <s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="322">
   <input>Los emigrantes españoles <f id="1">demand</f>  una enseñanza adecuada .</input>
-  <output>Los emigrantes españoles <f confidence="0.352941" id="1">exigir<alt confidence="0.226244">exijo</alt><alt confidence="0.0271493">reclamar</alt><alt confidence="0.0497738">exigimos</alt><alt confidence="0.0180995">exijan</alt><alt confidence="0.00452489">exigiéramos</alt><alt confidence="0.131222">exigen</alt><alt confidence="0.0226244">exija</alt><alt confidence="0.00452489">demandan</alt><alt confidence="0.0180995">exigiendo</alt><alt confidence="0.00452489">demandamos</alt><alt confidence="0.0180995">exijamos</alt><alt confidence="0.0135747">exigirle</alt><alt confidence="0.108597">pedir</alt></f>  una enseñanza adecuada .</output>
+  <output>Los emigrantes españoles <f confidence="0.351351" id="1">exigir<alt confidence="0.225225">exijo</alt><alt confidence="0.027027">reclamar</alt><alt confidence="0.0495495">exigimos</alt><alt confidence="0.0045045">exigencia de</alt><alt confidence="0.018018">exijan</alt><alt confidence="0.0045045">exigiéramos</alt><alt confidence="0.130631">exigen</alt><alt confidence="0.0225225">exija</alt><alt confidence="0.0045045">demandan</alt><alt confidence="0.018018">exigiendo</alt><alt confidence="0.0045045">demandamos</alt><alt confidence="0.018018">exijamos</alt><alt confidence="0.0135135">exigirle</alt><alt confidence="0.108108">pedir</alt></f>  una enseñanza adecuada .</output>
 </s>
 <s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="323">
   <input>Mi <f id="1">eldest son</f>  va a casarse dentro de poco .</input>
@@ -1297,7 +1297,7 @@
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="326">
   <input>La lista ha sido recopilada a partir del volumen de ventas y <f id="1">profits</f>  de las empresas .</input>
-  <output>La lista ha sido recopilada a partir del volumen de ventas y <f confidence="1.0" id="1">beneficios</f>  de las empresas .</output>
+  <output>La lista ha sido recopilada a partir del volumen de ventas y <f confidence="0.566667" id="1">los beneficios<alt confidence="0.166667">de los beneficios</alt><alt confidence="0.0333333">a unas ganancias</alt><alt confidence="0.0666667">las ganancias</alt><alt confidence="0.166667">beneficios</alt></f>  de las empresas .</output>
 </s>
 <s category="n" source="El País - 7-2-2014" id="327">
   <input>El político lidera <f id="1">the polls</f>  para las elecciones nacionales de 2017 .</input>
@@ -1305,15 +1305,15 @@
 </s>
 <s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="328">
   <input><f id="1">It is about</f>  un juego muy sencillo pero muy divertido .</input>
-  <output><f confidence="0.5" id="1">Se trata de<alt confidence="0.1">Trata de</alt><alt confidence="0.4">Es acerca de</alt></f>  un juego muy sencillo pero muy divertido .</output>
+  <output><f confidence="0.416667" id="1">Se trata de<alt confidence="0.0833333">Pretende crear</alt><alt confidence="0.0833333">Trata de</alt><alt confidence="0.333333">Es acerca de</alt><alt confidence="0.0833333">Se trata aquí de</alt></f>  un juego muy sencillo pero muy divertido .</output>
 </s>
 <s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="329">
   <input>Esta medida seguirá <f id="1">in force</f>  durante el verano .</input>
-  <output>Esta medida seguirá <f confidence="1.0" id="1">en vigor</f>  durante el verano .</output>
+  <output>Esta medida seguirá <f confidence="0.833333" id="1">en vigor<alt confidence="0.166667">vigente</alt></f>  durante el verano .</output>
 </s>
 <s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="330">
   <input>El futuro presidente del Gobierno será <f id="1">most likely</f>  el líder del PP , Mariano Rajoy .</input>
-  <output>El futuro presidente del Gobierno será <f confidence="0.428571" id="1">que corroe el juicio natural .<alt confidence="0.0714286">ocupado en el cerebro .</alt><alt confidence="0.142857">muy probablemente</alt><alt confidence="0.0714286">hecho , el más probable es el</alt><alt confidence="0.0714286">que sea el resultado de una enfermedad</alt><alt confidence="0.0714286">probable es el Guillain-Barre .</alt><alt confidence="0.0714286">probable es el</alt><alt confidence="0.0714286">más bien el riesgo</alt></f>  el líder del PP , Mariano Rajoy .</output>
+  <output>El futuro presidente del Gobierno será <f confidence="0.507812" id="1">más probable<alt confidence="0.0015625">causó tu ceguera .</alt><alt confidence="0.0015625">mitad-ardilla puede estar midiendo</alt><alt confidence="0.0296875">más probabilidades</alt><alt confidence="0.0015625">verán probablemente</alt><alt confidence="0.0015625">que usted sabe , probablemente .</alt><alt confidence="0.0015625">los que con más frecuencia</alt><alt confidence="0.0015625">que yo necesitaría dinero , y que</alt><alt confidence="0.0015625">Jack , seguramente .</alt><alt confidence="0.0046875">que tiene más posibilidades</alt><alt confidence="0.0015625">es que lo lleve y lo deposite</alt><alt confidence="0.0015625">nomadas Chitrali .</alt><alt confidence="0.090625">muy probablemente</alt><alt confidence="0.0015625">hecho , el más probable es el</alt><alt confidence="0.0015625">puede estar midiendo</alt><alt confidence="0.0015625">que sea el resultado de una enfermedad</alt><alt confidence="0.0015625">probable que más</alt><alt confidence="0.0015625">para señaIar eI sitio</alt><alt confidence="0.003125">valedictoriano ,</alt><alt confidence="0.0015625">, muy probablemente , que</alt><alt confidence="0.0015625">seguramente , y su madre una puta</alt><alt confidence="0.0015625">probablemente lo más importante de</alt><alt confidence="0.0015625">más bien el riesgo</alt><alt confidence="0.0015625">el linfoma es la opción más probable</alt><alt confidence="0.0015625">se extiende probablemente alrededor del perímetro del</alt><alt confidence="0.003125">con el , al parecer como rehén</alt><alt confidence="0.003125">le enseñaria Bumpy</alt><alt confidence="0.0015625">que la agresión fuera</alt><alt confidence="0.0046875">probable es que sea un varón blanco</alt><alt confidence="0.0015625">debido al estrés</alt><alt confidence="0.0015625">es probablemente un aislante de poliestireno del</alt><alt confidence="0.0015625">Vaako dirá</alt><alt confidence="0.0015625">tenía para triunfar .</alt><alt confidence="0.06875">muy probable</alt><alt confidence="0.0015625">más , probablemente su hijastro , que</alt><alt confidence="0.0015625">, o herirte tú mismo .</alt><alt confidence="0.0015625">probable ahora , es que fracase</alt><alt confidence="0.0015625">tenía para triunfar . Desde el día</alt><alt confidence="0.0015625">se parece a una nave científica .</alt><alt confidence="0.0015625">probablemente , un varón blanco .</alt><alt confidence="0.0015625">, y más por la forma en</alt><alt confidence="0.0046875">infección sea lo más probable .</alt><alt confidence="0.0015625">muerte fue probablemente un ... ¿ Estoy</alt><alt confidence="0.0015625">es probablemente uno de los mayores del</alt><alt confidence="0.0015625">explicación mas</alt><alt confidence="0.0015625">algunos tras nosotros .</alt><alt confidence="0.0015625">ubicación más</alt><alt confidence="0.0015625">probable es el Guillain-Barre .</alt><alt confidence="0.009375">que corroe el juicio natural .</alt><alt confidence="0.003125">... casi seguro en Florida ... ...</alt><alt confidence="0.0015625">de aterrizaje más probable además del campo</alt><alt confidence="0.003125">de combate Andoriana .</alt><alt confidence="0.0015625">más propicias</alt><alt confidence="0.00625">explicación mas probable en la que podemos</alt><alt confidence="0.0015625">el puente cuando quedó expuesto al espacio</alt><alt confidence="0.0015625">muerte fue probablemente</alt><alt confidence="0.0046875">mayores probabilidades</alt><alt confidence="0.0015625">dudas trabaja</alt><alt confidence="0.003125">la mejor plataforma</alt><alt confidence="0.003125">más susceptible</alt><alt confidence="0.0046875">mayor probabilidad</alt><alt confidence="0.0015625">los Redlegs .</alt><alt confidence="0.0015625">más posible es que no esté relacionada</alt><alt confidence="0.003125">se comunicaría con Uds. en caso de</alt><alt confidence="0.003125">probablemente indica ,</alt><alt confidence="0.0015625">son la causa más probable ... ...</alt><alt confidence="0.0015625">penetrar este nivel en cualquier momento .</alt><alt confidence="0.0015625">se debe ... ... a la hiperlipoproteinemia</alt><alt confidence="0.0078125">Vaako te</alt><alt confidence="0.0015625">ocupado en el cerebro .</alt><alt confidence="0.0015625">o ahorcada .</alt><alt confidence="0.0015625">el control quizás crea que le falta</alt><alt confidence="0.0015625">ocultándose .</alt><alt confidence="0.003125">persona probablemente</alt><alt confidence="0.0015625">puedes no creer en lo que digo</alt><alt confidence="0.0015625">lo estudiaste</alt><alt confidence="0.01875">lo más probable es que sea</alt><alt confidence="0.0015625">he creado muchos enemigos ,</alt><alt confidence="0.0015625">es que esto fuera una nave de</alt><alt confidence="0.003125">que más probabilidades tienen</alt><alt confidence="0.0015625">está Sweets .</alt><alt confidence="0.0046875">cerebro es más probable .</alt><alt confidence="0.0046875">conexión más apropiada a aquella noche .</alt><alt confidence="0.0015625">que me tome .</alt><alt confidence="0.0015625">extrañaría ...</alt><alt confidence="0.0015625">probablemente , algo que viste en esta</alt><alt confidence="0.0015625">probable es el</alt><alt confidence="0.0015625">tenga , seguro que acarrea una vieja</alt><alt confidence="0.0015625">tienes linfoma , pero son buenas noticias</alt><alt confidence="0.0015625">nodriza goa</alt><alt confidence="0.003125">le digamos .</alt><alt confidence="0.0015625">con gran probabilidad</alt><alt confidence="0.0046875">con más probabilidades</alt><alt confidence="0.0015625">frecuentado por --</alt><alt confidence="0.0015625">se ha debido al agotamiento por mucho</alt><alt confidence="0.003125">probables de</alt><alt confidence="0.003125">síndrome Guillain-Barré .</alt><alt confidence="0.0015625">cual probablemente es resultado de la enfermedad</alt><alt confidence="0.0046875">le enseñaría Bumpy</alt><alt confidence="0.003125">fueron eliminados por que descubrieron la infraestructura</alt><alt confidence="0.0046875">es el escenario más probable .</alt><alt confidence="0.0015625">una furgoneta , de</alt><alt confidence="0.0015625">es posible que me convierta ... ...</alt><alt confidence="0.0109375">toda probabilidad</alt><alt confidence="0.0015625">es muerte por</alt><alt confidence="0.025">más probables</alt><alt confidence="0.0015625">que más probabilidades</alt><alt confidence="0.0046875">una infección sea lo más probable .</alt><alt confidence="0.003125">el linfoma es</alt><alt confidence="0.0015625">estas mujeres de sus coches .</alt><alt confidence="0.0015625">un importante riesgo de</alt><alt confidence="0.003125">con mayor probabilidad</alt><alt confidence="0.0046875">... casi seguro</alt></f>  el líder del PP , Mariano Rajoy .</output>
 </s>
 <s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="331">
   <input><f id="1">The conflict of interest</f>  sobre las aguas siempre va a existir .</input>
@@ -1325,15 +1325,15 @@
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="333">
   <input>Entonces , <f id="1">the work</f>  del pintor fue abandonada en casa de Goya por los seguidores de Napoleón .</input>
-  <output>Entonces , <f confidence="0.689655" id="1">el trabajo<alt confidence="0.0344828">al trabajo</alt><alt confidence="0.241379">la labor</alt><alt confidence="0.0344828">los trabajos</alt></f>  del pintor fue abandonada en casa de Goya por los seguidores de Napoleón .</output>
+  <output>Entonces , <f confidence="0.666667" id="1">el trabajo<alt confidence="0.0333333">al trabajo</alt><alt confidence="0.233333">la labor</alt><alt confidence="0.0333333">a la labor</alt><alt confidence="0.0333333">los trabajos</alt></f>  del pintor fue abandonada en casa de Goya por los seguidores de Napoleón .</output>
 </s>
 <s category="a" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="334">
   <input>Todo indica que <f id="1">the worst</f>  que puede llegar a ocurrir es que las economías crezcan por debajo de lo previsto .</input>
-  <output>Todo indica que <f confidence="1.0" id="1">lo peor</f>  que puede llegar a ocurrir es que las economías crezcan por debajo de lo previsto .</output>
+  <output>Todo indica que <f confidence="0.888889" id="1">lo peor<alt confidence="0.111111">es el peor</alt></f>  que puede llegar a ocurrir es que las economías crezcan por debajo de lo previsto .</output>
 </s>
 <s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="336">
   <input>Eso <f id="1">explains why</f>  no me hayan contestado .</input>
-  <output>Eso <f confidence="1.0" id="1">explica</f>  no me hayan contestado .</output>
+  <output>Eso <f confidence="1.0" id="1">explica por qué</f>  no me hayan contestado .</output>
 </s>
 <s category="w" source="Dr. Guillermo Sanz Gallego, Ghent University" id="337">
   <input>Ayer informaron en la radio de que no haría <f id="1">good weather</f>  este fin de semana .</input>
@@ -1369,7 +1369,7 @@
 </s>
 <s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="345">
   <input>Los nuevos programas han sido presentados por <f id="1">the political parties</f>  de nuestro país .</input>
-  <output>Los nuevos programas han sido presentados por <f confidence="0.923077" id="1">los partidos políticos<alt confidence="0.0769231">los partidos políticos de</alt></f>  de nuestro país .</output>
+  <output>Los nuevos programas han sido presentados por <f confidence="1.0" id="1">los partidos políticos</f>  de nuestro país .</output>
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="346">
   <input>No sólo ha subido su <f id="1">debt</f>  , sino que también ha bajado el valor de su casa .</input>
@@ -1377,7 +1377,7 @@
 </s>
 <s category="v" id="347">
   <input>Planteaste el debate y ya no quieres <f id="1">shut up</f>  .</input>
-  <output>Planteaste el debate y ya no quieres <f confidence="0.664639" id="1">, cállate<alt confidence="0.00086881">callarse ya</alt><alt confidence="0.0573414">te callas</alt><alt confidence="0.00173762">deberia callarme</alt><alt confidence="0.00173762">que calla . ¿ Bien ?</alt><alt confidence="0.0225891">, cállate .</alt><alt confidence="0.0816681">te calles</alt><alt confidence="0.00086881">y escuchas</alt><alt confidence="0.00086881">cállense</alt><alt confidence="0.00608167">más cállate .</alt><alt confidence="0.00260643">cállese</alt><alt confidence="0.00086881">Callese demonio</alt><alt confidence="0.00173762">, caIIate</alt><alt confidence="0.0417029">cállate</alt><alt confidence="0.00086881">DJ Tiesto</alt><alt confidence="0.0695048">te callaras</alt><alt confidence="0.00173762">puedes callar</alt><alt confidence="0.00781929">que calla .</alt><alt confidence="0.0295395">y escucha .</alt><alt confidence="0.00521286">, Mose .</alt></f>  .</output>
+  <output>Planteaste el debate y ya no quieres <f confidence="0.522418" id="1">cállate<alt confidence="0.00320256">y escuchas , puedo darte las coordenadas</alt><alt confidence="0.00040032">callarse ya</alt><alt confidence="0.306245">, cállate</alt><alt confidence="0.0264211">te callas</alt><alt confidence="0.000800641">deberia callarme</alt><alt confidence="0.0376301">te calles</alt><alt confidence="0.00040032">y escuchas</alt><alt confidence="0.030024">cállense</alt><alt confidence="0.000800641">pueden callar tambien</alt><alt confidence="0.000800641">porque nadie quiere mirarlo</alt><alt confidence="0.00040032">Callese demonio</alt><alt confidence="0.000800641">, caIIate</alt><alt confidence="0.00040032">DJ Tiesto</alt><alt confidence="0.0320256">te callaras</alt><alt confidence="0.000800641">puedes callar</alt><alt confidence="0.00040032">Todos las necesitamos</alt><alt confidence="0.0336269">callaras</alt><alt confidence="0.0020016">glandular de ... - Cállate y bebe</alt><alt confidence="0.00040032">ya el tema</alt></f>  .</output>
 </s>
 <s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="348">
   <input>The <f id="1">watch</f>  que acabo de comprar es para mi sobrina .</input>
@@ -1389,7 +1389,7 @@
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="350">
   <input>La empresa ya fue <f id="1">owner</f>  de Endemol y de otras empresas de comunicaciones , pero se acabaron vendiendo .</input>
-  <output>La empresa ya fue <f confidence="0.686047" id="1">dueño<alt confidence="0.182817">propietario</alt><alt confidence="0.0142119">titular</alt><alt confidence="0.00645995">dueno</alt><alt confidence="0.0284238">propietaria</alt><alt confidence="0.0794574">dueña</alt><alt confidence="0.00129199">Dueño de cinema ?</alt><alt confidence="0.00129199">armador</alt></f>  de Endemol y de otras empresas de comunicaciones , pero se acabaron vendiendo .</output>
+  <output>La empresa ya fue <f confidence="0.519062" id="1">dueño<alt confidence="0.138319">propietario</alt><alt confidence="0.00488759">dueno</alt><alt confidence="0.0107527">titular</alt><alt confidence="0.000488759">calle y un dueño de una casa</alt><alt confidence="0.000977517">armador</alt><alt confidence="0.0215054">propietaria</alt><alt confidence="0.000488759">antiguo propietario</alt><alt confidence="0.243402">el dueño</alt><alt confidence="0.0601173">dueña</alt></f>  de Endemol y de otras empresas de comunicaciones , pero se acabaron vendiendo .</output>
 </s>
 <s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="351">
   <input>Le <f id="1">appreciate</f>  mucho por su valor y su paciencia .</input>
@@ -1397,11 +1397,11 @@
 </s>
 <s category="v" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="352">
   <input>En nuestra biblioteca el silencio <f id="1">shines</f>  por su ausencia .</input>
-  <output>En nuestra biblioteca el silencio <f confidence="1.0" id="1">brilla</f>  por su ausencia .</output>
+  <output>En nuestra biblioteca el silencio <f confidence="0.857143" id="1">brilla<alt confidence="0.142857">Dios brilla</alt></f>  por su ausencia .</output>
 </s>
 <s category="pp" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="353">
   <input>La pelota sólo puede botar una vez <f id="1">on the floor</f>  .</input>
-  <output>La pelota sólo puede botar una vez <f confidence="0.564121" id="1">en el suelo<alt confidence="0.000700771">tiré al suelo</alt><alt confidence="0.00210231">el suelo sangrando .</alt><alt confidence="0.00140154">chicas al piso</alt><alt confidence="0.0147162">el piso</alt><alt confidence="0.000700771">piso en pijama</alt><alt confidence="0.000700771">suelo , senorita</alt><alt confidence="0.398739">en el piso</alt><alt confidence="0.00210231">en el hemiciclo</alt><alt confidence="0.000700771">piso del cuarto</alt><alt confidence="0.0119131">en el suelo .</alt><alt confidence="0.000700771">el suelo .</alt><alt confidence="0.00140154">suelo , cariño</alt></f>  .</output>
+  <output>La pelota sólo puede botar una vez <f confidence="1.0" id="1">en el piso</f>  .</output>
 </s>
 <s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="354">
   <input>No todas las lluvias benefician y algunas <f id="1">contaminate</f>  el ambiente .</input>
@@ -1413,7 +1413,7 @@
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="356">
   <input>El edificio de las placas de titanio onduladas de Frank Gehry <f id="1">acquired</f>  el estatus de icono al poco de su inauguración .</input>
-  <output>El edificio de las placas de titanio onduladas de Frank Gehry <f confidence="0.464286" id="1">adquirido<alt confidence="0.142857">adquirió</alt><alt confidence="0.107143">adquirir</alt><alt confidence="0.214286">adquirí</alt><alt confidence="0.0357143">Adquirió</alt><alt confidence="0.0357143">detecté el</alt></f>  el estatus de icono al poco de su inauguración .</output>
+  <output>El edificio de las placas de titanio onduladas de Frank Gehry <f confidence="0.419355" id="1">adquirido<alt confidence="0.129032">adquirió</alt><alt confidence="0.0967742">adquirir</alt><alt confidence="0.129032">ha adquirido</alt><alt confidence="0.193548">adquirí</alt><alt confidence="0.0322581">Adquirió</alt></f>  el estatus de icono al poco de su inauguración .</output>
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="357">
   <input>Jesús Guerra acabó siendo condenado a pagar <f id="1">a fine</f>  de 3587 euros .</input>
@@ -1449,7 +1449,7 @@
 </s>
 <s category="a" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="365">
   <input>No creo que las necesidades afectivas de las personas estén necesariamente <f id="1">linked</f>  al matrimonio .</input>
-  <output>No creo que las necesidades afectivas de las personas estén necesariamente <f confidence="0.17233" id="1">vinculado<alt confidence="0.00728155">conectada</alt><alt confidence="0.0145631">asociado</alt><alt confidence="0.00242718">vincule</alt><alt confidence="0.038835">ligadas</alt><alt confidence="0.121359">ligado</alt><alt confidence="0.00485437">enlazados</alt><alt confidence="0.0946602">ligada</alt><alt confidence="0.0194175">asociada</alt><alt confidence="0.00242718">relacionado</alt><alt confidence="0.114078">vinculados</alt><alt confidence="0.0291262">unido</alt><alt confidence="0.0242718">asociadas</alt><alt confidence="0.00728155">unidas</alt><alt confidence="0.00485437">enlazado</alt><alt confidence="0.0194175">unida</alt><alt confidence="0.0412621">asociados</alt><alt confidence="0.109223">vinculadas</alt><alt confidence="0.0606796">ligados</alt><alt confidence="0.106796">vinculada</alt><alt confidence="0.00485437">vincula</alt></f>  al matrimonio .</output>
+  <output>No creo que las necesidades afectivas de las personas estén necesariamente <f confidence="0.666667" id="1">vinculado<alt confidence="0.333333">ligados</alt></f>  al matrimonio .</output>
 </s>
 <s category="adv" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="366">
   <input>El 14 de Julio de 1789 la Bastilla fue asaltada <f id="1">by the population of</f>  París .</input>
@@ -1457,7 +1457,7 @@
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="367">
   <input>La policía seguirá vigilando y multando <f id="1">to ensure</f>  que el tráfico fluya con seguridad .</input>
-  <output>La policía seguirá vigilando y multando <f confidence="0.296173" id="1">para garantizar<alt confidence="0.00303249">que asegure</alt><alt confidence="0.000144404">de velar</alt><alt confidence="0.00447653">que garanticemos</alt><alt confidence="0.0235379">por garantizar</alt><alt confidence="0.000144404">asegurarnos</alt><alt confidence="0.00216606">procurar</alt><alt confidence="0.00361011">para asegurarse</alt><alt confidence="0.122888">de garantizar</alt><alt confidence="0.0574729">asegurarse de</alt><alt confidence="0.00606498">que asegurar</alt><alt confidence="0.000433213">de asegurarse</alt><alt confidence="0.0166065">que garanticen</alt><alt confidence="0.000144404">que asegurarnos</alt><alt confidence="0.0033213">asegurar</alt><alt confidence="0.0111191">para lograr</alt><alt confidence="0.00101083">el garantizar</alt><alt confidence="0.00563177">que aseguren</alt><alt confidence="0.0034657">para asegurarnos</alt><alt confidence="0.000288809">de asegurarnos</alt><alt confidence="0.000144404">asegurarse</alt><alt confidence="0.0398556">de asegurar</alt><alt confidence="0.0197834">que garantice</alt><alt confidence="0.0698917">velar por</alt><alt confidence="0.0775451">asegurarnos de</alt><alt confidence="0.114657">para asegurar</alt><alt confidence="0.00938628">a asegurar</alt><alt confidence="0.00375451">en asegurar</alt><alt confidence="0.0356679">a garantizar</alt><alt confidence="0.000866426">que garantizase</alt><alt confidence="0.0161733">que garantizar</alt><alt confidence="0.00490975">garantizar</alt><alt confidence="0.0251264">para conseguir</alt><alt confidence="0.00967509">por asegurar</alt><alt confidence="0.0108303">en garantizar</alt></f>  que el tráfico fluya con seguridad .</output>
+  <output>La policía seguirá vigilando y multando <f confidence="0.328284" id="1">garantizar<alt confidence="0.00140751">que asegure</alt><alt confidence="0.000469169">la de garantizar</alt><alt confidence="6.70241e-05">de velar</alt><alt confidence="0.00127346">con vistas a garantizar</alt><alt confidence="0.00918231">que garantice</alt><alt confidence="0.0109249">por garantizar</alt><alt confidence="0.00274799">asegurarnos</alt><alt confidence="0.00864611">procurar</alt><alt confidence="0.000737265">que se asegure</alt><alt confidence="0.00227882">que se garantice</alt><alt confidence="0.000737265">para que garanticen</alt><alt confidence="0.0570375">de garantizar</alt><alt confidence="0.0266756">asegurarse de</alt><alt confidence="0.00281501">que asegurar</alt><alt confidence="0.00080429">el de velar por</alt><alt confidence="0.00254692">que velar por</alt><alt confidence="0.000201072">de asegurarse</alt><alt confidence="0.000402145">a que aseguren</alt><alt confidence="0.000536193">a que garanticen</alt><alt confidence="0.00770777">que garanticen</alt><alt confidence="0.000469169">con objeto de asegurar</alt><alt confidence="0.00107239">para que garantice</alt><alt confidence="6.70241e-05">que asegurarnos</alt><alt confidence="0.000536193">a que vele por</alt><alt confidence="0.000268097">que se asegurase de</alt><alt confidence="0.120912">asegurar</alt><alt confidence="0.00516086">para lograr</alt><alt confidence="0.000938338">el de garantizar</alt><alt confidence="0.00261394">que aseguren</alt><alt confidence="0.00160858">para asegurarnos</alt><alt confidence="0.000134048">de asegurarnos</alt><alt confidence="0.00268097">asegurarse</alt><alt confidence="0.0184987">de asegurar</alt><alt confidence="0.00174263">a velar por</alt><alt confidence="0.0124665">a fin de garantizar</alt><alt confidence="0.0016756">para asegurarse</alt><alt confidence="0.00247989">con el fin de asegurar</alt><alt confidence="0.00207775">que garanticemos</alt><alt confidence="0.0324397">velar por</alt><alt confidence="0.035992">asegurarnos de</alt><alt confidence="0.0132038">, para garantizar</alt><alt confidence="0.0532172">para asegurar</alt><alt confidence="0.00435657">a asegurar</alt><alt confidence="0.00174263">en asegurar</alt><alt confidence="0.000335121">la de asegurar</alt><alt confidence="0.000469169">el garantizar</alt><alt confidence="6.70241e-05">a que se asegure</alt><alt confidence="0.016555">a garantizar</alt><alt confidence="0.000402145">que garantizase</alt><alt confidence="0.0107239">para velar por</alt><alt confidence="0.000536193">en velar por</alt><alt confidence="0.0075067">que garantizar</alt><alt confidence="0.00180965">que vele por</alt><alt confidence="0.00857909">con el fin de garantizar</alt><alt confidence="0.000134048">a fin garantizar</alt><alt confidence="0.0116622">para conseguir</alt><alt confidence="6.70241e-05">el de asegurar</alt><alt confidence="0.00449062">por asegurar</alt><alt confidence="0.000737265">a fin de velar por</alt><alt confidence="0.000134048">que se garantizase</alt><alt confidence="0.00080429">la de velar por</alt><alt confidence="0.137466">para garantizar</alt><alt confidence="0.00281501">a fin de asegurar</alt><alt confidence="0.00107239">a que garantice</alt><alt confidence="0.000670241">que velen por</alt><alt confidence="0.0060992">de velar por</alt><alt confidence="0.00502681">en garantizar</alt></f>  que el tráfico fluya con seguridad .</output>
 </s>
 <s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="368">
   <input>La Televisión Española inaugura mañana una iniciativa con los ojos puestos en la competencia con las <f id="1">channels</f>  privadas .</input>
@@ -1469,7 +1469,7 @@
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="370">
   <input>El periódico 20 Minutos quería un tipo de debate en <f id="1">social networks</f>  .</input>
-  <output>El periódico 20 Minutos quería un tipo de debate en <f confidence="0.857143" id="1">redes sociales<alt confidence="0.0714286">estructuras sociales</alt><alt confidence="0.0714286">relaciones sociales</alt></f>  .</output>
+  <output>El periódico 20 Minutos quería un tipo de debate en <f confidence="1.0" id="1">las redes sociales</f>  .</output>
 </s>
 <s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="371">
   <input>Allan Thornton <f id="1">belongs to</f>  un grupo llamado Greenpeace .</input>
@@ -1489,7 +1489,7 @@
 </s>
 <s category="v" source="Juan Goytisolo. La resaca. Barcelona: Ediciones Destino, 1981 (153)." id="375">
   <input>Alguien <f id="1">knocked on</f>  la puerta del bar , y todos cesaron de discutir .</input>
-  <output>Alguien <f confidence="0.333333" id="1">llamaron a la puerta<alt confidence="0.333333">golpearon a</alt><alt confidence="0.333333">llamaron a la puerta de una casa</alt></f>  la puerta del bar , y todos cesaron de discutir .</output>
+  <output>Alguien <f confidence="1.0" id="1">tocó a mi puerta hace unos minutos</f>  la puerta del bar , y todos cesaron de discutir .</output>
 </s>
 <s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="376">
   <input>Al cabo de los siglos , <f id="1">the surname</f>  Vargas resultaría uno de los más multiplicados .</input>
@@ -1521,7 +1521,7 @@
 </s>
 <s category="w" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="383">
   <input>Voy <f id="1">to the pharmacy</f>  por aspirinas .</input>
-  <output>Voy <f confidence="0.8" id="1">la farmacia<alt confidence="0.2">a la farmacia</alt></f>  por aspirinas .</output>
+  <output>Voy <f confidence="0.8" id="1">a la farmacia<alt confidence="0.2">la farmacia</alt></f>  por aspirinas .</output>
 </s>
 <s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="384">
   <input>Lo ideal sería poder <f id="1">swop</f>  las compras por productos españoles .</input>
@@ -1557,7 +1557,7 @@
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="392">
   <input>Hoy han vuelto a participar <f id="1">thousands of people</f>  en los encierros de Pamplona .</input>
-  <output>Hoy han vuelto a participar <f confidence="0.906667" id="1">miles de personas<alt confidence="0.0133333">debieron haber muerto</alt><alt confidence="0.0133333">miles las personas</alt><alt confidence="0.0666667">cientos de personas</alt></f>  en los encierros de Pamplona .</output>
+  <output>Hoy han vuelto a participar <f confidence="0.647619" id="1">miles de personas<alt confidence="0.00952381">debieron haber muerto</alt><alt confidence="0.00952381">de cientos de miles de personas</alt><alt confidence="0.00952381">miles las personas</alt><alt confidence="0.2">a miles de personas</alt><alt confidence="0.0380952">Hay miles de personas</alt><alt confidence="0.00952381">pasa con los miles que podrían morir</alt><alt confidence="0.00952381">, miles de personas recordarán el día</alt><alt confidence="0.0190476">que miles de personas</alt><alt confidence="0.047619">cientos de personas</alt></f>  en los encierros de Pamplona .</output>
 </s>
 <s category="p" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="393">
   <input>A esa mujer la admiran <f id="1">even</f>  sus enemigos .</input>
@@ -1573,11 +1573,11 @@
 </s>
 <s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="396">
   <input>Es mejor que <f id="1">bring it</f>  a la policía , ellos te dirán qué tienes que hacer .</input>
-  <output>Es mejor que <f confidence="1.0" id="1">lo traigo a casa .</f>  a la policía , ellos te dirán qué tienes que hacer .</output>
+  <output>Es mejor que <f confidence="0.172414" id="1">me provocaste , Woodcock .<alt confidence="0.0344828">, y la traéis</alt><alt confidence="0.0344828">llevarlo también</alt><alt confidence="0.0344828">traer respaldo</alt><alt confidence="0.103448">pensé en traerlo</alt><alt confidence="0.0689655">pudiste traerlo</alt><alt confidence="0.0344828">John traerá</alt><alt confidence="0.0344828">pueden traerlo .</alt><alt confidence="0.0689655">reportar esto .</alt><alt confidence="0.0689655">para reasegurarte de que tu secreto está</alt><alt confidence="0.0344828">a señalar la cuestión</alt><alt confidence="0.0344828">lo acercan</alt><alt confidence="0.137931">no lo traje</alt><alt confidence="0.103448">lo traigo a casa .</alt><alt confidence="0.0344828">llevársela de</alt></f>  a la policía , ellos te dirán qué tienes que hacer .</output>
 </s>
 <s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="397">
   <input>El éxito muchas veces no se <f id="1">achieve</f>  porque no se tiene una formación adecuada .</input>
-  <output>El éxito muchas veces no se <f confidence="0.5" id="1">conseguir<alt confidence="0.166667">alcanzar</alt><alt confidence="0.333333">lograr</alt></f>  porque no se tiene una formación adecuada .</output>
+  <output>El éxito muchas veces no se <f confidence="0.36" id="1">logren<alt confidence="0.04">pueda conseguir todo</alt><alt confidence="0.28">alcancen</alt><alt confidence="0.32">consigan</alt></f>  porque no se tiene una formación adecuada .</output>
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="398">
   <input>Lo que sí se conoce es que Mariano Rajoy como <f id="1">opposition leader</f>  y líder del PP gana 30000 euros más que el Presidente del Gobierno .</input>
@@ -1601,7 +1601,7 @@
 </s>
 <s category="expr" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="403">
   <input>Pero <f id="1">one thing is clear</f>  , que se puede dejar de ser un heroinómano .</input>
-  <output>Pero <f confidence="0.571429" id="1">una cosa está clara<alt confidence="0.142857">hay una cosa clara</alt><alt confidence="0.142857">hay algo muy claro</alt><alt confidence="0.142857">una cosa es segura</alt></f>  , que se puede dejar de ser un heroinómano .</output>
+  <output>Pero <f confidence="0.428571" id="1">una cosa está clara<alt confidence="0.142857">una cosa es segura</alt><alt confidence="0.142857">hay algo muy claro</alt><alt confidence="0.142857">insisto claramente</alt><alt confidence="0.142857">una cosa está para mí claramente determinada</alt></f>  , que se puede dejar de ser un heroinómano .</output>
 </s>
 <s category="adv" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="404">
   <input>No te prometo <f id="1">anything</f>  .</input>
@@ -1621,7 +1621,7 @@
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="408">
   <input>A las autoridades les resulta difícil <f id="1">to do something</f>  al respecto porque no es realista tener un agente en cada balcón .</input>
-  <output>A las autoridades les resulta difícil <f confidence="0.482072" id="1">que hacer algo<alt confidence="0.0119522">que hagamos algo</alt><alt confidence="0.119522">para hacer algo</alt><alt confidence="0.195219">de hacer algo</alt><alt confidence="0.0478088">que haga algo</alt><alt confidence="0.0119522">que hagan algo</alt><alt confidence="0.0916335">a hacer algo</alt><alt confidence="0.00398406">quise hacer algo</alt><alt confidence="0.0318725">hacer algo</alt><alt confidence="0.00398406">será hacer algo</alt></f>  al respecto porque no es realista tener un agente en cada balcón .</output>
+  <output>A las autoridades les resulta difícil <f confidence="0.605769" id="1">hacer algo<alt confidence="0.19391">que hacer algo</alt><alt confidence="0.00480769">que hagamos algo</alt><alt confidence="0.0480769">para hacer algo</alt><alt confidence="0.0785256">de hacer algo</alt><alt confidence="0.00160256">a que hagan algo</alt><alt confidence="0.0192308">que haga algo</alt><alt confidence="0.00480769">que hagan algo</alt><alt confidence="0.00160256">y debe hacer algo</alt><alt confidence="0.036859">a hacer algo</alt><alt confidence="0.00160256">quise hacer algo</alt><alt confidence="0.00160256">será hacer algo</alt><alt confidence="0.00160256">para que cambie algo</alt></f>  al respecto porque no es realista tener un agente en cada balcón .</output>
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="409">
   <input>Es aquí donde se logra más del 45 % de <f id="1">the sales</f>  .</input>
@@ -1629,7 +1629,7 @@
 </s>
 <s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="410">
   <input>Frente a esta situación , es necesario realizar <f id="1">a great effort</f>  para crear nuevos empleos .</input>
-  <output>Frente a esta situación , es necesario realizar <f confidence="0.9" id="1">un gran esfuerzo<alt confidence="0.05">gran esfuerzo ,</alt><alt confidence="0.05">un especial esfuerzo</alt></f>  para crear nuevos empleos .</output>
+  <output>Frente a esta situación , es necesario realizar <f confidence="1.0" id="1">un gran esfuerzo</f>  para crear nuevos empleos .</output>
 </s>
 <s category="p" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="411">
   <input>Mañana estos cuadros serán vendidos públicamente <f id="1">by</f>  el museo .</input>
@@ -1637,11 +1637,11 @@
 </s>
 <s category="p" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="412">
   <input>Es así como la oferta de Turismo Rural manifiesta , <f id="1">both</f>  en Argentina como en Europa y América , una constante tasa de crecimiento .</input>
-  <output>Es así como la oferta de Turismo Rural manifiesta , <f confidence="0.959693" id="1">tanto<alt confidence="0.0273512">tanto en</alt><alt confidence="0.00527831">ambos</alt><alt confidence="0.00767754">ambas</alt></f>  en Argentina como en Europa y América , una constante tasa de crecimiento .</output>
+  <output>Es así como la oferta de Turismo Rural manifiesta , <f confidence="0.983284" id="1">tanto<alt confidence="0.00245821">las dos</alt><alt confidence="0.00540806">ambos</alt><alt confidence="0.000983284">los dos</alt><alt confidence="0.00786627">ambas</alt></f>  en Argentina como en Europa y América , una constante tasa de crecimiento .</output>
 </s>
 <s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="413">
   <input>Te recomiendo <f id="1">that you go</f>  a la policía .</input>
-  <output>Te recomiendo <f confidence="0.411765" id="1">Pidió que fueras<alt confidence="0.176471">que te manden a la cárcel .</alt><alt confidence="0.0588235">mencionó que va a ver a una</alt><alt confidence="0.117647">que uno va a</alt><alt confidence="0.176471">que regresas</alt><alt confidence="0.0588235">de que vayas a Siberia ! -</alt></f>  a la policía .</output>
+  <output>Te recomiendo <f confidence="0.777778" id="1">Pidió que fueras<alt confidence="0.111111">que acudas</alt><alt confidence="0.111111">que usted se dirige</alt></f>  a la policía .</output>
 </s>
 <s category="n" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="414">
   <input>Nuestros tíos <f id="1">are very conservative</f>  .</input>
@@ -1649,11 +1649,11 @@
 </s>
 <s category="v" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="415">
   <input><f id="1">I like</f>  los libros que te hacen ver la realidad desde otro punto de vista .</input>
-  <output><f confidence="0.992138" id="1">Me<alt confidence="0.00550314">Me gusta</alt><alt confidence="0.00235849">Me gustan</alt></f>  los libros que te hacen ver la realidad desde otro punto de vista .</output>
+  <output><f confidence="0.583333" id="1">Me gusta<alt confidence="0.166667">Me</alt><alt confidence="0.25">Me gustan</alt></f>  los libros que te hacen ver la realidad desde otro punto de vista .</output>
 </s>
 <s category="v" source="youtube user Jomir Algamsar" id="416">
   <input>¡ Eso <f id="1">makes no sense</f>  , es un pensamiento sin profundidad y hueco !</input>
-  <output>¡ Eso <f confidence="1.0" id="1">no tiene sentido</f>  , es un pensamiento sin profundidad y hueco !</output>
+  <output>¡ Eso <f confidence="0.833333" id="1">no tiene sentido<alt confidence="0.166667">no tiene ningún sentido</alt></f>  , es un pensamiento sin profundidad y hueco !</output>
 </s>
 <s category="q" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="417">
   <input>Mauricio teme que <f id="1">hurt him</f>  los otros futbolistas .</input>
@@ -1717,15 +1717,15 @@
 </s>
 <s category="n" source="El País - 7-2-2014" id="432">
   <input>Casi siempre ha habido <f id="1">threats</f>  , protestas y cinismos políticos o sociales .</input>
-  <output>Casi siempre ha habido <f confidence="0.919192" id="1">amenazas<alt confidence="0.0639731">amenaza</alt><alt confidence="0.016835">amenazas ,</alt></f>  , protestas y cinismos políticos o sociales .</output>
+  <output>Casi siempre ha habido <f confidence="1.0" id="1">unas amenazas</f>  , protestas y cinismos políticos o sociales .</output>
 </s>
 <s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="433">
   <input>Surge también con el empleo de <f id="1">fossil fuels</f>  .</input>
-  <output>Surge también con el empleo de <f confidence="0.785714" id="1">combustibles fósiles<alt confidence="0.0238095">los fósiles</alt><alt confidence="0.047619">origen fósil</alt><alt confidence="0.0238095">hidrocarburos fósiles</alt><alt confidence="0.0714286">carburantes fósiles</alt><alt confidence="0.047619">energías fósiles</alt></f>  .</output>
+  <output>Surge también con el empleo de <f confidence="0.521277" id="1">los combustibles fósiles<alt confidence="0.0106383">esos combustibles fósiles</alt><alt confidence="0.0106383">las energías fósiles</alt><alt confidence="0.0106383">los fósiles</alt><alt confidence="0.351064">combustibles fósiles</alt><alt confidence="0.0212766">origen fósil</alt><alt confidence="0.0106383">hidrocarburos fósiles</alt><alt confidence="0.0319149">carburantes fósiles</alt><alt confidence="0.0106383">los carburantes fósiles</alt><alt confidence="0.0212766">energías fósiles</alt></f>  .</output>
 </s>
 <s category="expr" source="Prisma Grammatica Spaans - drs. E. Slager" id="434">
   <input>No sé <f id="1">what to do</f>  con este problema .</input>
-  <output>No sé <f confidence="1.0" id="1">lo que hacer</f>  con este problema .</output>
+  <output>No sé <f confidence="0.976852" id="1">qué hacer<alt confidence="0.0231481">lo que hacer</alt></f>  con este problema .</output>
 </s>
 <s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="435">
   <input>Hoy el hombre quiere <f id="1">hide</f>  sus actitudes machistas .</input>
@@ -1745,15 +1745,15 @@
 </s>
 <s category="p" source="Dr. Guillermo Sanz Gallego, Ghent University" id="439">
   <input>La semana pasada perdió la vida un joven británico de 24 años <f id="1">after</f>  una caída del balcón de la habitación de su hotel .</input>
-  <output>La semana pasada perdió la vida un joven británico de 24 años <f confidence="0.980431" id="1">tras<alt confidence="0.0195695">después</alt></f>  una caída del balcón de la habitación de su hotel .</output>
+  <output>La semana pasada perdió la vida un joven británico de 24 años <f confidence="0.56745" id="1">después de<alt confidence="0.00371287">al cabo de</alt><alt confidence="0.00556931">cabo de</alt><alt confidence="0.310025">tras</alt><alt confidence="0.00123762">posterior a</alt><alt confidence="0.105198">, después de</alt><alt confidence="0.000618812">siguiente de</alt><alt confidence="0.00618812">después</alt></f>  una caída del balcón de la habitación de su hotel .</output>
 </s>
 <s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="440">
   <input>De los drogadictos que deciden <f id="1">quit</f>  de la droga son pocos que logran superar el síndrome de adición .</input>
-  <output>De los drogadictos que deciden <f confidence="0.75" id="1">dejar de moverte ?<alt confidence="0.0833333">Dimito</alt><alt confidence="0.166667">dejeis de fingir .</alt></f>  de la droga son pocos que logran superar el síndrome de adición .</output>
+  <output>De los drogadictos que deciden <f confidence="1.0" id="1">Dimito</f>  de la droga son pocos que logran superar el síndrome de adición .</output>
 </s>
 <s category="comp" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="441">
   <input>Queremos <f id="1">greater participation of</f>  las mujeres en la vida política .</input>
-  <output>Queremos <f confidence="1.0" id="1">mayor participación de</f>  las mujeres en la vida política .</output>
+  <output>Queremos <f confidence="0.571429" id="1">mayor participación de<alt confidence="0.428571">una mayor participación de</alt></f>  las mujeres en la vida política .</output>
 </s>
 <s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="442">
   <input><f id="1">Family reunion</f>  es uno de los objeticos principales de la nueva política .</input>
@@ -1773,7 +1773,7 @@
 </s>
 <s category="v" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="446">
   <input>El tráfico en el centro de Madrid <f id="1">has worsened</f>  a pesar del aumento de multas .</input>
-  <output>El tráfico en el centro de Madrid <f confidence="0.6625" id="1">ha empeorado<alt confidence="0.0125">haya empeorado</alt><alt confidence="0.0125">se ha degradado</alt><alt confidence="0.0125">se haya visto agravada</alt><alt confidence="0.0125">haya visto agravada</alt><alt confidence="0.0125">se ha visto agravado</alt><alt confidence="0.0125">ha venido a agravar</alt><alt confidence="0.0125">se agudiza</alt><alt confidence="0.0125">ha seguido deteriorándose</alt><alt confidence="0.0875">ha agravado</alt><alt confidence="0.0125">se ha empeorado</alt><alt confidence="0.0125">han sufrido un retroceso</alt><alt confidence="0.0125">de Su Majestad ... ... ha empeorado</alt><alt confidence="0.0125">han empeorado</alt><alt confidence="0.025">se ha deteriorado</alt><alt confidence="0.075">se ha agravado</alt></f>  a pesar del aumento de multas .</output>
+  <output>El tráfico en el centro de Madrid <f confidence="1.0" id="1">ha empeorado</f>  a pesar del aumento de multas .</output>
 </s>
 <s source="Prisma Grammatica Spaans - drs. E. Slager" id="447">
   <input>Fue el día <f id="1">in which</f>  estallaba la guerra .</input>
@@ -1789,11 +1789,11 @@
 </s>
 <s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="450">
   <input>Generalmente requiere la participación de dos <f id="1">players</f>  o equipos que a su vez golpean por turnos una pelota contra un muro .</input>
-  <output>Generalmente requiere la participación de dos <f confidence="0.642857" id="1">jugadores<alt confidence="0.0714286">protagonistas</alt><alt confidence="0.0714286">interlocutores</alt><alt confidence="0.0714286">agentes</alt><alt confidence="0.0714286">operadores</alt><alt confidence="0.0714286">actores</alt></f>  o equipos que a su vez golpean por turnos una pelota contra un muro .</output>
+  <output>Generalmente requiere la participación de dos <f confidence="0.72807" id="1">jugadores<alt confidence="0.105263">mejores jugadores</alt><alt confidence="0.00877193">protagonistas</alt><alt confidence="0.0175439">interlocutores</alt><alt confidence="0.0350877">agentes</alt><alt confidence="0.0263158">jugadoras</alt><alt confidence="0.0789474">actores</alt></f>  o equipos que a su vez golpean por turnos una pelota contra un muro .</output>
 </s>
 <s category="pp" source="La Señal - Ángel Gutiérrez y David Zurdo" id="451">
   <input>Las palabras de Gloria resonaban <f id="1">in his mind</f>  .</input>
-  <output>Las palabras de Gloria resonaban <f confidence="0.923077" id="1">en su mente<alt confidence="0.0512821">a su mente .</alt><alt confidence="0.025641">más le dolía .</alt></f>  .</output>
+  <output>Las palabras de Gloria resonaban <f confidence="0.972973" id="1">en su mente<alt confidence="0.027027">, en su mente</alt></f>  .</output>
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="452">
   <input>Goya <f id="1">kept</f>  el cuadro escondido por diez años .</input>
@@ -1801,7 +1801,7 @@
 </s>
 <s category="n" source="Juan José Millás. Tonto, muerto, bastardo e invisible. Madrid: Alfaguara, 1995 (149)." id="453">
   <input>Después , dejándome guiar por mi <f id="1">sense of direction</f>  , comencé a alejarme de la zona turística donde estaban enclavados los hoteles .</input>
-  <output>Después , dejándome guiar por mi <f confidence="1.0" id="1">de la orientación</f>  , comencé a alejarme de la zona turística donde estaban enclavados los hoteles .</output>
+  <output>Después , dejándome guiar por mi <f confidence="0.428571" id="1">sentido de la orientación<alt confidence="0.142857">sentido de dirección</alt><alt confidence="0.285714">de la orientación</alt><alt confidence="0.142857">sentido de la dirección</alt></f>  , comencé a alejarme de la zona turística donde estaban enclavados los hoteles .</output>
 </s>
 <s category="a" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="454">
   <input>He tomado <f id="1">all kinds of</f>  drogas .</input>
@@ -1833,7 +1833,7 @@
 </s>
 <s category="a" source="Prisma Grammatica Spaans - drs. E. Slager" id="461">
   <input>Vinieron muchos compañeros <f id="1">of mine</f>  .</input>
-  <output>Vinieron muchos compañeros <f confidence="0.772573" id="1">amigo mío<alt confidence="0.000678887">hijita mía .</alt><alt confidence="0.000678887">cercano mio</alt><alt confidence="0.000678887">habitación solitaria .</alt><alt confidence="0.00271555">informante mía .</alt><alt confidence="0.00203666">hábito mío</alt><alt confidence="0.00203666">corazón mío</alt><alt confidence="0.000678887">no rateros</alt><alt confidence="0.00271555">amigos comunes</alt><alt confidence="0.000678887">con amigo</alt><alt confidence="0.00135777">Ken Paine . Un conocido mio .</alt><alt confidence="0.21317">amiga mía</alt></f>  .</output>
+  <output>Vinieron muchos compañeros <f confidence="0.776262" id="1">amigo mío<alt confidence="0.000682128">cercano mio</alt><alt confidence="0.00204638">hábito mío</alt><alt confidence="0.00204638">corazón mío</alt><alt confidence="0.000682128">no rateros</alt><alt confidence="0.00272851">amigos comunes</alt><alt confidence="0.000682128">con amigo</alt><alt confidence="0.000682128">hoy tus latidos</alt><alt confidence="0.214188">amiga mía</alt></f>  .</output>
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="462">
   <input>Con este juego creció <f id="1">the team</f>  de Pep Guardiola hasta convertirse en el mejor del mundo</input>
@@ -1841,7 +1841,7 @@
 </s>
 <s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="463">
   <input>El Consejo de Ministros examinó ayer el plan de acción para <f id="1">equal opportunities</f>  de la mujer .</input>
-  <output>El Consejo de Ministros examinó ayer el plan de acción para <f confidence="0.83871" id="1">la igualdad de oportunidades<alt confidence="0.16129">la Igualdad de Oportunidades</alt></f>  de la mujer .</output>
+  <output>El Consejo de Ministros examinó ayer el plan de acción para <f confidence="1.0" id="1">la igualdad de oportunidades</f>  de la mujer .</output>
 </s>
 <s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="464">
   <input>Hay wifi en los trenes de larga y media distancia , <f id="1">as well as</f>  en los trenes de cercanías .</input>
@@ -1857,7 +1857,7 @@
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="467">
   <input>Con esta adquisición Telefónica espera <f id="1">to attain</f>  un mínimo de 2.700 millones de euros en efectos de sinergia .</input>
-  <output>Con esta adquisición Telefónica espera <f confidence="0.3" id="1">para lograr<alt confidence="0.1">por obtener</alt><alt confidence="0.1">de alcanzar</alt><alt confidence="0.2">de lograr</alt><alt confidence="0.2">para alcanzar</alt><alt confidence="0.1">a satisfacer un</alt></f>  un mínimo de 2.700 millones de euros en efectos de sinergia .</output>
+  <output>Con esta adquisición Telefónica espera <f confidence="0.526316" id="1">alcanzar<alt confidence="0.0526316">por obtener</alt><alt confidence="0.0526316">de alcanzar</alt><alt confidence="0.105263">de lograr</alt><alt confidence="0.105263">para alcanzar</alt><alt confidence="0.157895">para lograr</alt></f>  un mínimo de 2.700 millones de euros en efectos de sinergia .</output>
 </s>
 <s category="v" source="Dr. Guillermo Sanz Gallego, Ghent University" id="468">
   <input>Es <f id="1">to prevent</f>  que la plaza vuelva a ser ocupada por los indignados del movimiento 15 - M .</input>
@@ -1881,7 +1881,7 @@
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="473">
   <input>Siguiendo <f id="1">the orders</f>  del Gobierno , la policía madrileña lleva tres días cerrando el paso a la Puerta del Sol .</input>
-  <output>Siguiendo <f confidence="0.754386" id="1">las órdenes<alt confidence="0.0175439">Y las del Coronel Yoshioko . -</alt><alt confidence="0.0175439">por órdenes del</alt><alt confidence="0.210526">los pedidos</alt></f>  del Gobierno , la policía madrileña lleva tres días cerrando el paso a la Puerta del Sol .</output>
+  <output>Siguiendo <f confidence="0.632353" id="1">las órdenes<alt confidence="0.161765">a los pedidos</alt><alt confidence="0.0147059">las indicaciones recibidas</alt><alt confidence="0.0147059">de las indicaciones recibidas</alt><alt confidence="0.176471">los pedidos</alt></f>  del Gobierno , la policía madrileña lleva tres días cerrando el paso a la Puerta del Sol .</output>
 </s>
 <s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="474">
   <input>En 1990 sus padres <f id="1">died</f>  en un accidente aéreo .</input>
@@ -1889,15 +1889,15 @@
 </s>
 <s category="comp" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="475">
   <input>Me ha dicho que la cena es <f id="1">at nine o ' clock</f>  .</input>
-  <output>Me ha dicho que la cena es <f confidence="0.8" id="1">a las nueve en punto<alt confidence="0.2">los tengo en posición nueve .</alt></f>  .</output>
+  <output>Me ha dicho que la cena es <f confidence="0.8" id="1">a las nueve en punto<alt confidence="0.2">a las 9.00 horas</alt></f>  .</output>
 </s>
 <s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="476">
   <input>Los economistas prevén <f id="1">however</f>  que ahora sea menor .</input>
-  <output>Los economistas prevén <f confidence="0.8" id="1">embargo<alt confidence="0.2">obstante</alt></f>  que ahora sea menor .</output>
+  <output>Los economistas prevén <f confidence="0.354328" id="1">embargo<alt confidence="0.240758">Sin embargo</alt><alt confidence="0.136041">obstante</alt><alt confidence="0.102775">No obstante</alt><alt confidence="0.00530703">cualquier caso</alt><alt confidence="0.0331625">no obstante</alt><alt confidence="0.113001">sin embargo</alt><alt confidence="0.00548825">en cambio</alt><alt confidence="0.000543647">empero</alt><alt confidence="0.00271824">por el contrario</alt><alt confidence="0.00587657">por muy</alt></f>  que ahora sea menor .</output>
 </s>
 <s category="expr" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="477">
   <input>Fue un público que deseaba ir <f id="1">as far as possible</f>  en el camino iniciado .</input>
-  <output>Fue un público que deseaba ir <f confidence="0.647059" id="1">medida de lo posible<alt confidence="0.0588235">tanto como sea posible</alt><alt confidence="0.0588235">dentro de lo posible</alt><alt confidence="0.0588235">lo máximo posible</alt><alt confidence="0.0588235">en lo posible</alt><alt confidence="0.117647">lo más lejos posible</alt></f>  en el camino iniciado .</output>
+  <output>Fue un público que deseaba ir <f confidence="0.75" id="1">lo más lejos posible<alt confidence="0.25">al extremo de lo admisible</alt></f>  en el camino iniciado .</output>
 </s>
 <s category="adv" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="478">
   <input>El insomnio afecta <f id="1">at least</f>  a un tercio de la población adulta en algún momento de su vida .</input>
@@ -1921,7 +1921,7 @@
 </s>
 <s category="expr" source="Prisma Grammatica Spaans - drs. E. Slager" id="483">
   <input>Este problema <f id="1">has nothing to do with</f>  el clima político actual .</input>
-  <output>Este problema <f confidence="0.941176" id="1">tiene nada que ver con<alt confidence="0.0313725">nada tiene que ver con</alt><alt confidence="0.00392157">no tiene nada</alt><alt confidence="0.0156863">no guarda relación alguna con</alt><alt confidence="0.00392157">tiene nada que</alt><alt confidence="0.00392157">no tenía relación alguna con</alt></f>  el clima político actual .</output>
+  <output>Este problema <f confidence="1.0" id="1">no tiene nada que</f>  el clima político actual .</output>
 </s>
 <s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="484">
   <input>Ya no <f id="1">watch TV</f>  todos los días .</input>
@@ -1937,11 +1937,11 @@
 </s>
 <s category="v" source="Prisma Grammatica Spaans - drs. E. Slager" id="487">
   <input>Meses <f id="1">after finishing</f>  su novena sinfonía , el compositor murió .</input>
-  <output>Meses <f confidence="0.75" id="1">después de terminar<alt confidence="0.25">terminar este lugar</alt></f>  su novena sinfonía , el compositor murió .</output>
+  <output>Meses <f confidence="1.0" id="1">después de terminar</f>  su novena sinfonía , el compositor murió .</output>
 </s>
 <s category="n" source="Vertalen uit het Spaans - Tekst en Uitleg - Stella Lin, Miel Slager" id="488">
   <input>El problema es una cuestión de <f id="1">public health</f>  .</input>
-  <output>El problema es una cuestión de <f confidence="0.927184" id="1">salud pública<alt confidence="0.0485437">sanidad pública</alt><alt confidence="0.0145631">salud público</alt><alt confidence="0.00970874">salud públicos</alt></f>  .</output>
+  <output>El problema es una cuestión de <f confidence="0.496104" id="1">salud pública<alt confidence="0.0155844">la sanidad pública</alt><alt confidence="0.00779221">salud público</alt><alt confidence="0.0103896">vista de la salud pública</alt><alt confidence="0.00519481">la salud de la población</alt><alt confidence="0.425974">la salud pública</alt><alt confidence="0.0025974">la public health</alt><alt confidence="0.0025974">la saluda pública</alt><alt confidence="0.025974">sanidad pública</alt><alt confidence="0.0025974">la salud del público</alt><alt confidence="0.00519481">salud públicos</alt></f>  .</output>
 </s>
 <s category="adv" source="Dr. Guillermo Sanz Gallego, Ghent University" id="489">
   <input>La empresa había informado <f id="1">beforehand</f>  a los medios de comunicación .</input>
@@ -1949,7 +1949,7 @@
 </s>
 <s category="v" source="Prisma Grammatica Spaans - drs. E. Slager" id="490">
   <input><f id="1">There were</f>  mucha más gente que el otro día .</input>
-  <output><f confidence="1.0" id="1">No había</f>  mucha más gente que el otro día .</output>
+  <output><f confidence="0.847826" id="1">Había<alt confidence="0.0869565">Hubo</alt><alt confidence="0.0652174">No había</alt></f>  mucha más gente que el otro día .</output>
 </s>
 <s category="adv" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="491">
   <input>Te lo repito <f id="1">more than once</f>  .</input>
@@ -1965,15 +1965,15 @@
 </s>
 <s category="v" source="Basisgrammatica Spaans - Werkgroep Hispagram" id="494">
   <input>Antes de comprar esta cama , <f id="1">we slept</f>  en una de un metro veinte de ancho .</input>
-  <output>Antes de comprar esta cama , <f confidence="1.0" id="1">poco antes en</f>  en una de un metro veinte de ancho .</output>
+  <output>Antes de comprar esta cama , <f confidence="0.857143" id="1">dormíamos<alt confidence="0.142857">que dormimos juntos</alt></f>  en una de un metro veinte de ancho .</output>
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="495">
   <input>Durante el verano hay que lamentar demasiadas <f id="1">fatalities</f>  en las carreteras españolas .</input>
-  <output>Durante el verano hay que lamentar demasiadas <f confidence="0.7" id="1">muertes<alt confidence="0.2">muertos</alt><alt confidence="0.0333333">fatalidades</alt><alt confidence="0.0666667">fallecidos en las</alt></f>  en las carreteras españolas .</output>
+  <output>Durante el verano hay que lamentar demasiadas <f confidence="0.403846" id="1">muertes<alt confidence="0.0192308">, los accidentes</alt><alt confidence="0.115385">muertos</alt><alt confidence="0.0192308">seis fatalidades</alt><alt confidence="0.0192308">a muertos</alt><alt confidence="0.0192308">las víctimas mortales</alt><alt confidence="0.0192308">víctimas registrado</alt><alt confidence="0.0192308">número de fallecidos</alt><alt confidence="0.173077">víctimas mortales</alt><alt confidence="0.0192308">el número de fallecidos</alt><alt confidence="0.0192308">fatalidades</alt><alt confidence="0.153846">accidentes mortales</alt></f>  en las carreteras españolas .</output>
 </s>
 <s category="n" source="Y, ahora, La Gramática - Estudios Hispánicos - Nivel Elemental - 4" id="496">
   <input>Creo que es importante cuidarse y <f id="1">the only way</f>  es hacerlo todos los días .</input>
-  <output>Creo que es importante cuidarse y <f confidence="0.555556" id="1">la única<alt confidence="0.333333">la única forma</alt><alt confidence="0.111111">la única manera</alt></f>  es hacerlo todos los días .</output>
+  <output>Creo que es importante cuidarse y <f confidence="0.6" id="1">la única forma<alt confidence="0.2">sólo así</alt><alt confidence="0.2">la única manera</alt></f>  es hacerlo todos los días .</output>
 </s>
 <s category="a" source="Dr. Guillermo Sanz Gallego, Ghent University" id="497">
   <input>La siesta <f id="1">daily</f>  hacía que los músculos se relajaran y que el corazón se fortaleciera .</input>
@@ -1981,7 +1981,7 @@
 </s>
 <s category="v" id="498">
   <input><f id="1">He left</f>  a la calle .</input>
-  <output><f confidence="0.339623" id="1">Se fue<alt confidence="0.0188679">Se fué a acampar ayer .</alt><alt confidence="0.0377358">Dejó</alt><alt confidence="0.0188679">Os dejó</alt><alt confidence="0.0754717">Él dejó</alt><alt confidence="0.150943">Me dejó</alt><alt confidence="0.0566038">El dejó</alt><alt confidence="0.0188679">El dejo</alt><alt confidence="0.0188679">Le dejó</alt><alt confidence="0.0188679">Quería ligarse</alt><alt confidence="0.0188679">Ha salido a dar una clase .</alt><alt confidence="0.0188679">Se marchó</alt><alt confidence="0.0188679">Ha ido a Shinjuku .</alt><alt confidence="0.188679">Nos dejó</alt></f>  a la calle .</output>
+  <output><f confidence="0.427083" id="1">Dejó<alt confidence="0.0104167">Lo dejó de repente</alt><alt confidence="0.0208333">¡ Nos abandonó diciendo que se iba</alt><alt confidence="0.0416667">Él dejó</alt><alt confidence="0.0833333">Me dejó</alt><alt confidence="0.0104167">¡ Nos abandonó</alt><alt confidence="0.03125">El dejó</alt><alt confidence="0.0104167">El dejo</alt><alt confidence="0.0104167">Os dejó</alt><alt confidence="0.0104167">Le dejó</alt><alt confidence="0.0104167">Bueno , aunque deja</alt><alt confidence="0.1875">Se fue</alt><alt confidence="0.0104167">Quería ligarse</alt><alt confidence="0.0104167">Se marchó</alt><alt confidence="0.104167">Nos dejó</alt><alt confidence="0.0208333">Él ha ido</alt></f>  a la calle .</output>
 </s>
 <s category="n" source="¡A usted la palabra! - A.J.L. Coenen / M.d.C. Lahuerta" id="499">
   <input>Se han definido cuatro <f id="1">goals</f>  para el programa .</input>
@@ -1989,6 +1989,6 @@
 </s>
 <s category="n" source="Dr. Guillermo Sanz Gallego, Ghent University" id="500">
   <input><f id="1">The meaning of</f>  las figuras peculiares del panfleto antibélico de Picasso sigue siendo enigmático</input>
-  <output><f confidence="0.666667" id="1">El significado de<alt confidence="0.333333">El sentido de</alt></f>  las figuras peculiares del panfleto antibélico de Picasso sigue siendo enigmático</output>
+  <output><f confidence="0.317073" id="1">El significado de<alt confidence="0.0243902">Es significado de</alt><alt confidence="0.227642">significado de la</alt><alt confidence="0.0487805">El significado del</alt><alt confidence="0.00813008">El significa de</alt><alt confidence="0.0243902">Se cuestionará la existencia de la Sección</alt><alt confidence="0.0325203">significado de la felicidad</alt><alt confidence="0.0162602">del amor El significado del amor</alt><alt confidence="0.0569106">¿ El significado</alt><alt confidence="0.0813008">El sentido de</alt><alt confidence="0.162602">significado de</alt></f>  las figuras peculiares del panfleto antibélico de Picasso sigue siendo enigmático</output>
 </s>
 </sentencepairs>

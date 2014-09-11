@@ -37,7 +37,7 @@
 </s>
 <s category="n" source="Listenaminute.com" id="10">
   <input>It has been around <f id="1">depuis le début de</f>  our history</input>
-  <output>It has been around <f confidence="0.0" id="1">since the beginning of<alt confidence="-7.8451650611185695">from the beginning of</alt><alt confidence="-1.5834569038277007">since the start of</alt></f>  our history</output>
+  <output>It has been around <f confidence="0.0" id="1">since the beginning of<alt confidence="-7.8451650611185695">from the beginning of</alt><alt confidence="-12.845820815441064">from the very beginning of</alt><alt confidence="-1.5834569038277007">since the start of</alt></f>  our history</output>
 </s>
 <s category="v" source="translated from: Le Monde " id="11">
   <input>They are certain they can <f id="1">compter sur la discrétion</f>  of the financial institutions .</input>
@@ -57,7 +57,7 @@
 </s>
 <s source="www.newportminster.org" id="15">
   <input>There was one further consideration , which we bore <f id="1">à l' esprit</f>  at all times when we were studying the various possibilities for economic development .</input>
-  <output>There was one further consideration , which we bore <f confidence="0.0" id="1">in mind<alt confidence="-10.870890936527253">on our minds</alt></f>  at all times when we were studying the various possibilities for economic development .</output>
+  <output>There was one further consideration , which we bore <f confidence="0.0" id="1">in mind<alt confidence="-11.787177768402954">on our minds</alt></f>  at all times when we were studying the various possibilities for economic development .</output>
 </s>
 <s category="n" source="Listenaminute.com" id="16">
   <input>The <f id="1">chose la plus excitante</f>  for me was going to the zoo .</input>
@@ -77,7 +77,7 @@
 </s>
 <s source="Clin2014 speech" id="20">
   <input>By <f id="1">accroître</f>  the relevance and extent of existing initiatives , we hope to enhance the resilience of all kinds of institutes , research groups , development projects and businesses .</input>
-  <output>By <f confidence="-1.093201717736563" id="1">increasing<alt confidence="-8.578549493024038">increased</alt><alt confidence="-4.505953480414242">enhancing</alt><alt confidence="-7.25091679269355">improve</alt><alt confidence="-1.7577239219218654">increase</alt><alt confidence="-7.688586589646811">enhance</alt><alt confidence="-8.615467137697086">boost</alt><alt confidence="-13.802073125629754">greater</alt></f>  the relevance and extent of existing initiatives , we hope to enhance the resilience of all kinds of institutes , research groups , development projects and businesses .</output>
+  <output>By <f confidence="-1.0932021942719623" id="1">increasing<alt confidence="-22.670620781658496">a larger share on</alt><alt confidence="-22.914527864096637">larger share on</alt><alt confidence="-8.578549494254638">increased</alt><alt confidence="-4.505953023787672">enhancing</alt><alt confidence="-21.903948825476075">addition , increase</alt><alt confidence="-15.497366389045705">further raising</alt><alt confidence="-19.939474107167168">help upgrade</alt><alt confidence="-7.250917492416758">improve</alt><alt confidence="-1.7577239219218654">increase</alt><alt confidence="-11.368102202836067">step up</alt><alt confidence="-7.688586886766833">enhance</alt><alt confidence="-8.615468110590124">boost</alt><alt confidence="-13.802073377784236">greater</alt></f>  the relevance and extent of existing initiatives , we hope to enhance the resilience of all kinds of institutes , research groups , development projects and businesses .</output>
 </s>
 <s category="pp" source="University of Victoria - English Language Centre (CC-BY-NO-SA)" id="21">
   <input>It was another ten miles to the cottage where she lived <f id="1">avec son mari</f>  Michael .</input>
@@ -93,11 +93,11 @@
 </s>
 <s source="Time Magazine" id="24">
   <input>In the R.B.A. ( Reproductive Biology Associates ) laboratories and in a handful of other research labs around the world , scientists have been pushing the technology of assisted reproduction even further , offering new hope to childless couples and <f id="1">une nouvelle chance</f>  to women who want to postpone childbearing .</input>
-  <output>In the R.B.A. ( Reproductive Biology Associates ) laboratories and in a handful of other research labs around the world , scientists have been pushing the technology of assisted reproduction even further , offering new hope to childless couples and <f confidence="0.0" id="1">a new opportunity<alt confidence="-3.4773641159049267">a fresh chance</alt></f>  to women who want to postpone childbearing .</output>
+  <output>In the R.B.A. ( Reproductive Biology Associates ) laboratories and in a handful of other research labs around the world , scientists have been pushing the technology of assisted reproduction even further , offering new hope to childless couples and <f confidence="-0.23865603713363726" id="1">another chance<alt confidence="-4.9814404126809055">a fresh chance</alt><alt confidence="-1.504075396778274">a new opportunity</alt></f>  to women who want to postpone childbearing .</output>
 </s>
 <s source="The Economist" id="25">
   <input>Bankruptcies , 25 % higher than last year , <f id="1">se dirigent vers</f>  a record 40,000 with the loss of 600,000 jobs .</input>
-  <output>Bankruptcies , 25 % higher than last year , <f confidence="0.0" id="1">are moving towards<alt confidence="-7.225441991144621">proceeding down</alt><alt confidence="-25.652642735046342">'re walking into a trap .</alt><alt confidence="-26.65137869894609">two hostiles are headed your way .</alt><alt confidence="-3.079434903720667">are moving into</alt></f>  a record 40,000 with the loss of 600,000 jobs .</output>
+  <output>Bankruptcies , 25 % higher than last year , <f confidence="0.0" id="1">are moving towards<alt confidence="-3.0794331037204867">are moving into</alt><alt confidence="-26.65137689894591">two hostiles are headed your way .</alt><alt confidence="-7.22544019114444">proceeding down</alt></f>  a record 40,000 with the loss of 600,000 jobs .</output>
 </s>
 <s category="v" source="Listenaminute.com" id="26">
   <input>Some countries <f id="1">ont légalisé</f>  drugs like marijuana .</input>
@@ -125,11 +125,11 @@
 </s>
 <s category="v" source="translated from: Le Monde " id="33">
   <input>Multiple signs <f id="1">semblent indiquer</f>  that Russia could support a retour to power of Julia Timochenko .</input>
-  <output>Multiple signs <f confidence="1.0" id="1">information indicates</f>  that Russia could support a retour to power of Julia Timochenko .</output>
+  <output>Multiple signs <f confidence="1.0" id="1">seem to indicate</f>  that Russia could support a retour to power of Julia Timochenko .</output>
 </s>
 <s source="Alison Lurie, The War between the Tates, p. 280" id="34">
   <input>Across town on the same cold March evening a very different social event <f id="1">a lieu</f>  in the apartment of Linda Sliski , Wendy 's nominal room-mate .</input>
-  <output>Across town on the same cold March evening a very different social event <f confidence="0.0" id="1">takes place<alt confidence="-19.67534396676856">Trial 's</alt><alt confidence="-10.155708852175955">is held</alt><alt confidence="-38.236998410712935">that opened in Paris last month .</alt><alt confidence="-8.783669419143497">is occurring</alt><alt confidence="-34.28137273292976">' on in your living room .</alt><alt confidence="-3.6014794327146467">occurs</alt></f>  in the apartment of Linda Sliski , Wendy 's nominal room-mate .</output>
+  <output>Across town on the same cold March evening a very different social event <f confidence="1.0" id="1">takes place</f>  in the apartment of Linda Sliski , Wendy 's nominal room-mate .</output>
 </s>
 <s source="The Economist" id="35">
   <input>" I want to use objects <f id="1">que l' on peut toucher</f>  to manipulate digital information , to join the richness of the physical world with digital technology " , he says .</input>
@@ -157,7 +157,7 @@
 </s>
 <s source="Bernard De Clerck" id="41">
   <input>It was only last week that I told you not to breathe a word <f id="1">à ce sujet</f>  and yet I have heard from a colleague what you have said about it to him .</input>
-  <output>It was only last week that I told you not to breathe a word <f confidence="1.0" id="1">on this</f>  and yet I have heard from a colleague what you have said about it to him .</output>
+  <output>It was only last week that I told you not to breathe a word <f confidence="1.0" id="1">about that</f>  and yet I have heard from a colleague what you have said about it to him .</output>
 </s>
 <s category="n" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="42">
   <input>One truck driver Juang Shao expressed <f id="1">sa frustration</f>  over the situation : “ I ’ ve missed my daughter ’ s birthday and the food in my truck has probably turned into soup , ” he said .</input>
@@ -177,7 +177,7 @@
 </s>
 <s source="Time Magazine" id="46">
   <input>Doctors have been trying for centuries <f id="1">d' améliorer</f>  on nature ’ s way of perpetuating the human species .</input>
-  <output>Doctors have been trying for centuries <f confidence="0.0" id="1">to improve<alt confidence="-12.182980365442045">improving</alt><alt confidence="-10.499392555484873">improved</alt><alt confidence="-22.584958489139165">that improve on</alt><alt confidence="-2.2555361238740987">improve</alt></f>  on nature ’ s way of perpetuating the human species .</output>
+  <output>Doctors have been trying for centuries <f confidence="-0.3794903504498016" id="1">to improve<alt confidence="-12.562469392815306">improving</alt><alt confidence="-11.572028763418079">improved</alt><alt confidence="-7.515219918086094">we can improve</alt><alt confidence="-2.0884810601900767">improve</alt></f>  on nature ’ s way of perpetuating the human species .</output>
 </s>
 <s category="v" source="translated from: Le Monde " id="47">
   <input>Every new cardinal has to <f id="1">s' agenouiller devant</f>  the pope to receive his title .</input>
@@ -193,11 +193,11 @@
 </s>
 <s category="n" source="translated from: Le Monde " id="50">
   <input>The EU has is searching for <f id="1">des moyens financiers</f>  that would allow to avoid a breakdown of the Ukrainian economy .</input>
-  <output>The EU has is searching for <f confidence="-1.0986122886681096" id="1">the financial resources<alt confidence="-8.812693032494652">, financial resources</alt><alt confidence="-8.550362840730799">financial means</alt><alt confidence="-6.971005575415292">the financial means</alt><alt confidence="-2.8707282884551852">financial resources</alt><alt confidence="-11.54224555824854">by financial resources</alt></f>  that would allow to avoid a breakdown of the Ukrainian economy .</output>
+  <output>The EU has is searching for <f confidence="-1.3862932611193954" id="1">the financial resources<alt confidence="-14.612115553007445">of finances</alt><alt confidence="-9.243510021290744">financial means</alt><alt confidence="-9.100374004945937">, financial resources</alt><alt confidence="-7.258686547866579">the financial means</alt><alt confidence="-1.7721159997870757">financial resources</alt><alt confidence="-11.829926530699826">by financial resources</alt></f>  that would allow to avoid a breakdown of the Ukrainian economy .</output>
 </s>
 <s category="n" source="Listenaminute.com" id="51">
   <input>Many countries sell diamonds to buy <f id="1">des armes</f>  and tanks .</input>
-  <output>Many countries sell diamonds to buy <f confidence="1.0" id="1">weapons</f>  and tanks .</output>
+  <output>Many countries sell diamonds to buy <f confidence="0.0" id="1">weapons<alt confidence="-0.6228144043421976">arms</alt></f>  and tanks .</output>
 </s>
 <s source="Wikipedia" id="52">
   <input>Comparing YTD measures can be misleading if not much of the year has occurred , or the date is not clear ; YTD measures are <f id="1">plus sensibles</f>  to early changes than late changes .</input>
@@ -217,7 +217,7 @@
 </s>
 <s source="Bernard De Clerck" id="56">
   <input>Today , there are several variants of health plans on offer , some <f id="1">exclusivement</f>  for women .</input>
-  <output>Today , there are several variants of health plans on offer , some <f confidence="-1.609440806555561" id="1">only<alt confidence="-6.126531103374608">purely</alt><alt confidence="-3.6220499372836663">solely</alt><alt confidence="-7.8566808780323125">entirely</alt><alt confidence="-2.4450531707113754">exclusively</alt></f>  for women .</output>
+  <output>Today , there are several variants of health plans on offer , some <f confidence="-1.6094346889101117" id="1">only<alt confidence="-14.244052983596069">up exclusively</alt><alt confidence="-11.13427203387479">, exclusively</alt><alt confidence="-2.4450531707113754">exclusively</alt><alt confidence="-6.126530894551072">purely</alt><alt confidence="-8.097179900124182">is exclusively</alt><alt confidence="-14.18804414394099">absolutely exclusively</alt><alt confidence="-7.856680669208776">entirely</alt><alt confidence="-3.6220537731930897">solely</alt></f>  for women .</output>
 </s>
 <s category="n" source="University of Victoria - English Language Centre (CC-BY-NO-SA)" id="57">
   <input>She wore a long old dress and had <f id="1">un chapeau jaune</f>  pulled down low over her eyes .</input>
@@ -245,7 +245,7 @@
 </s>
 <s category="n" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="63">
   <input>They said it was full of <f id="1">magie noire</f>  and that someone was using it to try and change the results of an election .</input>
-  <output>They said it was full of <f confidence="0.0" id="1">black magic<alt confidence="-35.553676042617205">magics , and ... got addicted .</alt></f>  and that someone was using it to try and change the results of an election .</output>
+  <output>They said it was full of <f confidence="1.0" id="1">black magic</f>  and that someone was using it to try and change the results of an election .</output>
 </s>
 <s source="Wikipedia" id="64">
   <input>Ksenija 's stepmother , Sofija Kondic , who taught at the Women 's College in Belgrade , became <f id="1">son tuteur légal</f>  .</input>
@@ -261,7 +261,7 @@
 </s>
 <s source="Bernard De Clerck" id="67">
   <input>She wondered if they had found <f id="1">ses bijoux</f>  and rather hoped that they had .</input>
-  <output>She wondered if they had found <f confidence="1.0" id="1">her money and</f>  and rather hoped that they had .</output>
+  <output>She wondered if they had found <f confidence="1.0" id="1">pancake</f>  and rather hoped that they had .</output>
 </s>
 <s category="p" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="68">
   <input>It started over an argument <f id="1">sur</f>  how to fix mountaineering ropes on the slopes .</input>
@@ -309,7 +309,7 @@
 </s>
 <s source="Clin2014 speech" id="79">
   <input>Science also serves the end user and almost every conceivable sector can benefit <f id="1">des progrès</f>  that is made .</input>
-  <output>Science also serves the end user and almost every conceivable sector can benefit <f confidence="0.0" id="1">the progress<alt confidence="-10.579010616336602">some progress</alt><alt confidence="-13.824136852975021">for advances</alt><alt confidence="-7.0461206543458275">of progress</alt><alt confidence="-12.459823294572493">strides</alt><alt confidence="-12.2713788479453">headway</alt><alt confidence="-3.0588731667456472">progress</alt><alt confidence="-26.40869336414321">the fact that progress will be made</alt></f>  that is made .</output>
+  <output>Science also serves the end user and almost every conceivable sector can benefit <f confidence="-0.28483853057637587" id="1">the progress<alt confidence="-11.165603771959226">of the advances</alt><alt confidence="-8.651745214016003">at the progress</alt><alt confidence="-8.519265292972818">on the progress</alt><alt confidence="-8.357254440155474">advances</alt><alt confidence="-14.108975145369282">for advances</alt><alt confidence="-7.330958866740118">of progress</alt><alt confidence="-3.417397449474826">of the progress</alt><alt confidence="-10.863847508730444">some progress</alt><alt confidence="-8.62329528321945">with the progress</alt><alt confidence="-2.2450971417527796">progress</alt></f>  that is made .</output>
 </s>
 <s category="v" source="Listenaminute.com" id="80">
   <input>The only thing I do n't like about bath time is when I <f id="1">m' endors</f>  and the water goes cold .</input>
@@ -345,11 +345,11 @@
 </s>
 <s source="The Economist" id="88">
   <input>Japan <f id="1">a désespérément besoin de</f>  someone to lead it out of its decade-long economic crisis , but none of the likely candidates for prime minister inspires much confidence .</input>
-  <output>Japan <f confidence="0.0" id="1">desperately needs<alt confidence="-16.957650044327984">desperately needs a stop to get</alt><alt confidence="-11.404268409289623">special care ...</alt><alt confidence="-7.266888170548623">is in desperate need of</alt><alt confidence="-18.788412409290185">desperately need you .</alt><alt confidence="-9.08958875783612">needs a stop to get</alt></f>  someone to lead it out of its decade-long economic crisis , but none of the likely candidates for prime minister inspires much confidence .</output>
+  <output>Japan <f confidence="1.0" id="1">desperately needs</f>  someone to lead it out of its decade-long economic crisis , but none of the likely candidates for prime minister inspires much confidence .</output>
 </s>
 <s category="v" source="Listenaminute.com" id="89">
   <input>My philosophy on life is to always <f id="1">faire de ton mieux</f>  .</input>
-  <output>My philosophy on life is to always <f confidence="1.0" id="1">the most of it .</f>  .</output>
+  <output>My philosophy on life is to always <f confidence="-0.6931471805599453" id="1">do your best<alt confidence="-9.947649072277216">the most of it .</alt><alt confidence="-7.39939403769786">do your best .</alt></f>  .</output>
 </s>
 <s source="Listenaminute.com" id="90">
   <input>Some of my favourite animals are <f id="1">en danger de</f>  dying out .</input>
@@ -357,7 +357,7 @@
 </s>
 <s category="adv" source="Listenaminute.com" id="91">
   <input>Disabled people might tell us <f id="1">quelque chose de différent</f>  .</input>
-  <output>Disabled people might tell us <f confidence="0.0" id="1">something different<alt confidence="-7.423498319140027">to do something different</alt><alt confidence="-13.490978023629294">try something different</alt><alt confidence="-8.468419409094825">something a little different</alt><alt confidence="-29.63648088443251">else that 's different .</alt><alt confidence="-13.897367713930072">different , something</alt></f>  .</output>
+  <output>Disabled people might tell us <f confidence="1.0" id="1">something different</f>  .</output>
 </s>
 <s category="a" source="Listenaminute.com" id="92">
   <input>My brother thinks these are <f id="1">ennuyeux</f>  .</input>
@@ -365,7 +365,7 @@
 </s>
 <s category="pp" source="Listenaminute.com" id="93">
   <input>Sometimes I 'm speaking <f id="1">dans une autre langue</f>  in my dream .</input>
-  <output>Sometimes I 'm speaking <f confidence="1.0" id="1">'s nice to bomb in another language</f>  in my dream .</output>
+  <output>Sometimes I 'm speaking <f confidence="-1.2527642542101127" id="1">in a language<alt confidence="-19.023302530708644">pray in a</alt><alt confidence="-24.239478177408795">the phone in a foreign language .</alt><alt confidence="-6.803872579069969">into something else</alt><alt confidence="-10.384017745981277">in a language other</alt><alt confidence="-2.2088622811783836">in another language</alt><alt confidence="-32.052238706155336">'s nice to bomb in another language</alt></f>  in my dream .</output>
 </s>
 <s category="n" source="Listenaminute.com" id="94">
   <input>It would be like going back to living in <f id="1">des cavernes</f>  .</input>
@@ -385,7 +385,7 @@
 </s>
 <s category="v" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="99">
   <input>Their name <f id="1">vient du</f>  fact that they look like a large blob of jelly .</input>
-  <output>Their name <f confidence="1.0" id="1">From the fact that I was ...</f>  fact that they look like a large blob of jelly .</output>
+  <output>Their name <f confidence="0.0" id="1">stems from the<alt confidence="-1.3723388655822402">arises from the</alt></f>  fact that they look like a large blob of jelly .</output>
 </s>
 <s source="Bernard De Clerck" id="100">
   <input>My keys were in my house , along with the <f id="1">clés de rechange</f>  that I had lent to one of the musicians .</input>
@@ -397,7 +397,7 @@
 </s>
 <s category="n" source="Listenaminute.com" id="102">
   <input>There are many ways of cooking <f id="1">des œufs</f>  for breakfast .</input>
-  <output>There are many ways of cooking <f confidence="0.0" id="1">eggs<alt confidence="-10.51451108961782">farm-fresh eggs</alt><alt confidence="-10.571593417469096">want eggs</alt><alt confidence="-8.351625768387201">some eggs</alt></f>  for breakfast .</output>
+  <output>There are many ways of cooking <f confidence="0.0" id="1">eggs<alt confidence="-12.84988712801417">farm-fresh eggs</alt><alt confidence="-12.906969455865447">want eggs</alt><alt confidence="-10.687001806783552">some eggs</alt></f>  for breakfast .</output>
 </s>
 <s category="n" source="Listenaminute.com" id="103">
   <input>A single <f id="1">larme</f>  rolling down someone ’ s face can be sadder than a thousand words .</input>
@@ -473,7 +473,7 @@
 </s>
 <s category="p" source="Listenaminute.com" id="121">
   <input>I 'm English so I thought Americans had the same culture <f id="1">que moi</f>  .</input>
-  <output>I 'm English so I thought Americans had the same culture <f confidence="-1.1728774396757586" id="1">than me<alt confidence="-6.567068070250107">than myself</alt><alt confidence="-18.805979251731717">else straight</alt><alt confidence="-13.76441218078871">than me .</alt><alt confidence="-1.5679211406279396">as me</alt></f>  .</output>
+  <output>I 'm English so I thought Americans had the same culture <f confidence="-1.1728774396757586" id="1">than me<alt confidence="-11.884170979277844">than i do</alt><alt confidence="-6.135728542264764">better than me</alt><alt confidence="-4.960211488690804">as I do</alt><alt confidence="-6.567070844249389">than myself</alt><alt confidence="-9.656950877928569">as i am</alt><alt confidence="-35.354158277530296">much better Tolstoyan than I am</alt><alt confidence="-28.167014121173597">me , Brighter , better than me</alt><alt confidence="-15.99154443335485">he respects me</alt><alt confidence="-10.88935675981973">than I am</alt><alt confidence="-14.104517437950062">much better than me</alt><alt confidence="-18.80597669287477">else straight</alt><alt confidence="-1.5679233481146782">as me</alt><alt confidence="-21.600108320868227">that as I would</alt><alt confidence="-23.888226732240025">about than I do</alt><alt confidence="-17.11036661564599">Smarter than me</alt><alt confidence="-17.87866223452343">or anyone else alive</alt></f>  .</output>
 </s>
 <s category="a" source="Listenaminute.com" id="122">
   <input>Some people feel <f id="1">fatigués</f>  after lunch .</input>
@@ -489,11 +489,11 @@
 </s>
 <s category="v" source="translated from: Figaro" id="125">
   <input>American authorities have given 24 hours notice to three Venezuelan diplomats <f id="1">pour quitter le pays</f>  .</input>
-  <output>American authorities have given 24 hours notice to three Venezuelan diplomats <f confidence="-0.6931486805603204" id="1">to leave the country<alt confidence="-7.885940629480416">out of the country .</alt></f>  .</output>
+  <output>American authorities have given 24 hours notice to three Venezuelan diplomats <f confidence="0.0" id="1">to leave the country<alt confidence="-14.893248991730347">buy your way out of this country</alt><alt confidence="-11.991370076582742">order to leave the country</alt></f>  .</output>
 </s>
 <s category="v" source="UniLang Language Community" id="126">
   <input>A few minutes later , a young woman <f id="1">s' est assise</f>  in the seat next to him .</input>
-  <output>A few minutes later , a young woman <f confidence="1.0" id="1">next to me in study hall .</f>  in the seat next to him .</output>
+  <output>A few minutes later , a young woman <f confidence="-2.4849076497885" id="1">sat next to me<alt confidence="-4.017429110994332">her ass down</alt><alt confidence="-18.07660103333112">sat next to me in study hall</alt><alt confidence="-6.041042556513343">just sat all</alt><alt confidence="-5.6707092764422775">sat all hunched up</alt><alt confidence="-5.91318346017702">sat on poor</alt><alt confidence="-17.500667659957703">next to me in study hall .</alt><alt confidence="-2.957523740178125">sat next to</alt><alt confidence="-2.498492288561309">sat with us ,</alt><alt confidence="-3.5103101944916624">all hunched up</alt><alt confidence="-8.21653093909536">sat down so quickly</alt></f>  in the seat next to him .</output>
 </s>
 <s source="Bernard De Clerck" id="127">
   <input>In 1861 , Major General Nelson A. Miles , a commanding officer in the U.S. Army , was <f id="1">en train d' encourager des</f>  cyclists from the sidelines of a six-day race in New York City when it hit him : Why not arm America 's military with bikes , too ?</input>
@@ -517,7 +517,7 @@
 </s>
 <s source="Noel Coward, Still Life, Scene III." id="133">
   <input>The refreshment room is empty except for Myrtle , who is bending down to put coal <f id="1">dans le poêle</f>  .</input>
-  <output>The refreshment room is empty except for Myrtle , who is bending down to put coal <f confidence="1.0" id="1">in the stove</f>  .</output>
+  <output>The refreshment room is empty except for Myrtle , who is bending down to put coal <f confidence="0.0" id="1">in the stove<alt confidence="-14.35044075724361">the stove !</alt><alt confidence="-1.7205001008621261">the stove</alt><alt confidence="-10.298161699679952">money in the stove</alt></f>  .</output>
 </s>
 <s source="The Economist" id="134">
   <input>He liked its texture , its <f id="1">sensation lisse</f>  , the clear " clink " sound it made when the beads were removed .</input>
@@ -529,7 +529,7 @@
 </s>
 <s category="v" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="136">
   <input>People are keeping themselves busy by <f id="1">jouer aux cartes</f>  or board games .</input>
-  <output>People are keeping themselves busy by <f confidence="0.0" id="1">play cards<alt confidence="-4.660901162007365">a card game</alt><alt confidence="-13.593954087794678">a card game ?</alt><alt confidence="-33.5352443893585">any cards off the bottom with it</alt><alt confidence="-28.915176613921847">wanna go for some cards tonight ?</alt><alt confidence="-37.61029625795272">nights , playing cards and drinking a</alt><alt confidence="-40.91969962338661">to monte carlo For some all-night cards</alt><alt confidence="-7.658740955810941">play some cards</alt><alt confidence="-26.101904859340785">play the " Let 's</alt><alt confidence="-10.792664321110198">cards with the</alt><alt confidence="-15.287536508590556">cards ? - No.</alt><alt confidence="-5.696822011612489">of cards</alt><alt confidence="-19.70356845856158">to play the cards ?</alt><alt confidence="-24.03592398782003">of cards , are n't you ?</alt><alt confidence="-2.9028989344371587">to play cards</alt><alt confidence="-17.386204453406652">play some cards ?</alt><alt confidence="-12.175637425559906">you should 've known</alt><alt confidence="-13.189171714082702">card playing .</alt><alt confidence="-21.922173028429846">supposed to meet him here to play</alt><alt confidence="-32.96369109926788">cards with the teacher to see if</alt><alt confidence="-36.837890450423394">door and play cards , Dimitris ?</alt><alt confidence="-27.209012870229834">flash cards with Ariel .</alt><alt confidence="-9.118007527985116">card playing</alt><alt confidence="-24.432248712440114">coming back to the card game ?</alt></f>  or board games .</output>
+  <output>People are keeping themselves busy by <f confidence="1.0" id="1">play cards</f>  or board games .</output>
 </s>
 <s source="wiki.answers.com" id="137">
   <input>British <f id="1">Langue des Signes</f>  is the preferred means of communication for about 70,000 people .</input>
@@ -565,11 +565,11 @@
 </s>
 <s source="Bernard De Clerck" id="145">
   <input>He <f id="1">m' a téléphoné</f>  a few minutes ago to let me know that he had bought a new car but that he had n't passed not his driving test yet .</input>
-  <output>He <f confidence="-0.6931471805599453" id="1">telephoned me<alt confidence="-1.0602789563017723">rang me</alt><alt confidence="-23.778563223754073">called me up today . I could</alt></f>  a few minutes ago to let me know that he had bought a new car but that he had n't passed not his driving test yet .</output>
+  <output>He <f confidence="1.0" id="1">I received a telephone call from</f>  a few minutes ago to let me know that he had bought a new car but that he had n't passed not his driving test yet .</output>
 </s>
 <s source="Wikipedia" id="146">
   <input>After that there is ongeveer één trein <f id="1">toutes les deux heures</f>  , most of which do not call at Parson Street .</input>
-  <output>After that there is ongeveer één trein <f confidence="0.0" id="1">every two hours<alt confidence="-15.126707555564955">, every two hours .</alt><alt confidence="-23.682014568591622">know , not every two</alt><alt confidence="-24.187245256852773">this whole place Every two hours ?</alt><alt confidence="-7.457531274170318">must take two</alt><alt confidence="-19.320740950289885">blue tablets every two hours .</alt><alt confidence="-29.82379580493301">must take two every two hours .</alt><alt confidence="-16.785116434365804">to patrol the premises every</alt><alt confidence="-16.9484724172284">it every two hours .</alt></f>  , most of which do not call at Parson Street .</output>
+  <output>After that there is ongeveer één trein <f confidence="1.0" id="1">every two hours</f>  , most of which do not call at Parson Street .</output>
 </s>
 <s source="Bernard De Clerck" id="147">
   <input>That evening , when I had recovered a bit from my sunburn , I went out to a <f id="1">restaurant de poisson</f>  .</input>
@@ -585,7 +585,7 @@
 </s>
 <s category="v" source="Listenaminute.com" id="150">
   <input>I <f id="1">me demande</f>  how many accidents I ’ ve had in my life .</input>
-  <output>I <f confidence="0.0" id="1">wonder<alt confidence="-14.774426390223898">found myself wondering</alt><alt confidence="-38.63225312242769">'m just ... wondering ... if</alt><alt confidence="-20.929649279850366">wonder how</alt><alt confidence="-16.920633916887816">ask myself ,</alt><alt confidence="-21.582726769476835">simply wonder</alt><alt confidence="-24.727706041443913">'m required</alt><alt confidence="-9.215276442218382">just wonder</alt><alt confidence="-17.516607530664274">do ask myself</alt><alt confidence="-18.844593890632403">wonder if</alt><alt confidence="-37.37984896622707">'d like to know how Harris</alt><alt confidence="-15.83340149929957">am asked</alt><alt confidence="-33.8154624393339">'ve been called over the</alt><alt confidence="-30.436280430001034">think about whose</alt><alt confidence="-30.258985071087977">ai n't a-getting</alt><alt confidence="-19.986229164990903">'ve always wonder</alt><alt confidence="-20.39516010752729">wonder why</alt><alt confidence="-28.69540245087805">find myself asking questions</alt><alt confidence="-22.535315893305864">, uh , wonder</alt><alt confidence="-10.555666199890464">still wonder</alt><alt confidence="-8.993707389856482">'m wondering</alt><alt confidence="-28.265293140758814">'m Ied</alt><alt confidence="-10.716619036115821">do wonder</alt><alt confidence="-10.71022500451471">am wondering</alt><alt confidence="-7.549541408835446">ask myself</alt><alt confidence="-34.54511989735933">ca n't help thinking , who</alt><alt confidence="-17.734631894598152">would like to know just</alt><alt confidence="-27.182323622499677">'m still fuzzy</alt><alt confidence="-17.371211366415707">sometiimes wonder</alt><alt confidence="-23.597849871387144">was wonderin</alt><alt confidence="-30.410460161802234">still chew</alt><alt confidence="-30.673980005870018">do n't know if this USGS</alt><alt confidence="-22.6280700075729">wonder who</alt><alt confidence="-12.04171353716119">find myself wondering</alt><alt confidence="-14.126147699788497">only wonder</alt><alt confidence="-7.935151292625419">sometimes wonder</alt><alt confidence="-21.762956782202238">would ask myself :</alt><alt confidence="-18.999191425155132">am being asked</alt><alt confidence="-26.953610593461562">ca n't help wondering -</alt></f>  how many accidents I ’ ve had in my life .</output>
+  <output>I <f confidence="0.0" id="1">wonder<alt confidence="-10.686726385626173">do wonder</alt><alt confidence="-12.650899998854136">find myself wondering</alt><alt confidence="-13.186389188080831">found myself wondering</alt><alt confidence="-11.473566931026742">am wondering</alt><alt confidence="-8.009197301234844">ask myself</alt><alt confidence="-8.886088971197783">sometimes wonder</alt><alt confidence="-9.357625340324196">just wonder</alt><alt confidence="-10.311362433774018">still wonder</alt><alt confidence="-9.970617817444316">'m wondering</alt></f>  how many accidents I ’ ve had in my life .</output>
 </s>
 <s category="v" source="Listenaminute.com" id="151">
   <input>No one really <f id="1">parlait</f>  about the weather there .</input>
@@ -597,11 +597,11 @@
 </s>
 <s category="v" source="Listenaminute.com" id="153">
   <input>You can even <f id="1">aller en prison</f>  for having a tiny , tiny bit .</input>
-  <output>You can even <f confidence="0.0" id="1">go to jail<alt confidence="-33.071796567291486">go to jaiI for false testimonies</alt><alt confidence="-5.86782029559036">going to jail</alt><alt confidence="-1.3738930611320201">go to prison</alt></f>  for having a tiny , tiny bit .</output>
+  <output>You can even <f confidence="1.0" id="1">go to jail</f>  for having a tiny , tiny bit .</output>
 </s>
 <s source="Bernard De Clerck" id="154">
   <input>Despite the fact that they manufacture and sell widely differing products , companies such as Champagne Bollinger , Chanel , Hermès , Hotel Ritz and Van Cleef &amp; Arpels together represent 47 per cent of the worldwide-trade in <f id="1">produits de luxe</f>  .</input>
-  <output>Despite the fact that they manufacture and sell widely differing products , companies such as Champagne Bollinger , Chanel , Hermès , Hotel Ritz and Van Cleef &amp; Arpels together represent 47 per cent of the worldwide-trade in <f confidence="0.0" id="1">luxury goods<alt confidence="-10.635969188221436">drink products</alt><alt confidence="-39.57404835727634">'s giving me boat , and lodgings</alt><alt confidence="-6.262161140567839">luxury articles</alt><alt confidence="-13.407348330881497">custom-built planets are</alt></f>  .</output>
+  <output>Despite the fact that they manufacture and sell widely differing products , companies such as Champagne Bollinger , Chanel , Hermès , Hotel Ritz and Van Cleef &amp; Arpels together represent 47 per cent of the worldwide-trade in <f confidence="1.0" id="1">luxury goods</f>  .</output>
 </s>
 <s category="n" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="155">
   <input>Google 's Director of Energy and <f id="1">la durabilité</f>  ( DES ) said : " We 've invested over a billion dollars in 15 projects that have the capacity to produce two giga-watts of power . "</input>
@@ -617,7 +617,7 @@
 </s>
 <s category="n" source="Listenaminute.com" id="158">
   <input>Kids love birthdays because they get presents and get to eat <f id="1">du gâteau</f>  .</input>
-  <output>Kids love birthdays because they get presents and get to eat <f confidence="-0.5260933896028488" id="1">cake<alt confidence="-16.606674296949876">got cake</alt><alt confidence="-23.86950220074035">even cake .</alt><alt confidence="-14.259496124426086">eat cake</alt><alt confidence="-0.7588047136951985">some cake</alt><alt confidence="-15.70351600441716">be cake</alt><alt confidence="-14.68164524293066">tough cookie</alt></f>  .</output>
+  <output>Kids love birthdays because they get presents and get to eat <f confidence="1.0" id="1">cake</f>  .</output>
 </s>
 <s source="Clin2014 speech" id="159">
   <input>We mapped out all our various personas and <f id="1">nous sommes interrogés sur</f>  every aspect of what we do .</input>
@@ -645,7 +645,7 @@
 </s>
 <s source="Wikipedia" id="165">
   <input>Pochampally , a cluster of 80 villages , is the place where threads and colours find their way into the hands of skillful weavers and <f id="1">se jettent</f>  into the market as beautiful sarees and dress material is the most typical weaving village in Nalgonda District of Andhra Pradesh .</input>
-  <output>Pochampally , a cluster of 80 villages , is the place where threads and colours find their way into the hands of skillful weavers and <f confidence="-0.6931471805599453" id="1">throw themselves<alt confidence="-3.5672799453369617">eventually flow</alt><alt confidence="-27.66302796975515">they burst into the theatre and stone</alt></f>  into the market as beautiful sarees and dress material is the most typical weaving village in Nalgonda District of Andhra Pradesh .</output>
+  <output>Pochampally , a cluster of 80 villages , is the place where threads and colours find their way into the hands of skillful weavers and <f confidence="0.0" id="1">throw themselves<alt confidence="-2.8741327647770163">eventually flow</alt><alt confidence="-10.769904281311995">, throw themselves</alt></f>  into the market as beautiful sarees and dress material is the most typical weaving village in Nalgonda District of Andhra Pradesh .</output>
 </s>
 <s source="Bernard De Clerck" id="166">
   <input>I see that you are becoming impatient with me , but I <f id="1">fais de mon mieux</f>  to do it properly .</input>
@@ -665,7 +665,7 @@
 </s>
 <s source="Bernard De Clerck" id="170">
   <input>I really do n't mind lending her a few 20 p pieces but what annoys me is that she knows how many she needs each week but never <f id="1">prend la peine</f>  to bring the right number home .</input>
-  <output>I really do n't mind lending her a few 20 p pieces but what annoys me is that she knows how many she needs each week but never <f confidence="0.0" id="1">takes the trouble<alt confidence="-38.46662953558143">cares enough even to conceal their feelings</alt><alt confidence="-1.2966900989663395">take the trouble</alt></f>  to bring the right number home .</output>
+  <output>I really do n't mind lending her a few 20 p pieces but what annoys me is that she knows how many she needs each week but never <f confidence="0.0" id="1">takes the trouble<alt confidence="-1.2966900989663395">take the trouble</alt></f>  to bring the right number home .</output>
 </s>
 <s category="n" source="Listenaminute.com" id="171">
   <input>I think <f id="1">des romans</f>  are great for getting to know other worlds and cultures .</input>
@@ -677,7 +677,7 @@
 </s>
 <s category="v" source="translated from: Le Monde " id="173">
   <input>Twenty-two other people <f id="1">ont été blessées</f>  in the explosion .</input>
-  <output>Twenty-two other people <f confidence="0.0" id="1">were injured<alt confidence="-5.335886254564041">were wounded</alt><alt confidence="-5.446702340677995">have been injured</alt></f>  in the explosion .</output>
+  <output>Twenty-two other people <f confidence="1.0" id="1">were injured</f>  in the explosion .</output>
 </s>
 <s source="Wikipedia" id="174">
   <input>The poetry is notable for its avoidance of the <f id="1">caractère artificiel</f>  almost universal in his days .</input>
@@ -685,7 +685,7 @@
 </s>
 <s category="v" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="175">
   <input>The dispute was <f id="1">résolu</f>  without anyone suffering serious injuries .</input>
-  <output>The dispute was <f confidence="0.0" id="1">resolved<alt confidence="-7.601940118965778">solved</alt></f>  without anyone suffering serious injuries .</output>
+  <output>The dispute was <f confidence="-0.1758928401609131" id="1">resolved<alt confidence="-10.832193411690406">sorted out</alt><alt confidence="-6.791008458304603">solved</alt><alt confidence="-9.341586081897322">determined</alt><alt confidence="-14.328423924466808">solve</alt><alt confidence="-13.187098808320318">only resolved</alt></f>  without anyone suffering serious injuries .</output>
 </s>
 <s category="a" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="176">
   <input>Some lawmakers say it takes away the freedom for people to smoke in their <f id="1">propre</f>  car .</input>
@@ -701,11 +701,11 @@
 </s>
 <s category="pp" source="translated from: Le Monde " id="179">
   <input>The former prime minister has earned the respect <f id="1">de la foule</f>  of Maidan .</input>
-  <output>The former prime minister has earned the respect <f confidence="0.0" id="1">of a crowd<alt confidence="-27.040169021258873">from the middle of the crowd are</alt><alt confidence="-26.309175160575375">before the eyes of the public .</alt></f>  of Maidan .</output>
+  <output>The former prime minister has earned the respect <f confidence="-0.6931471805599453" id="1">of a crowd<alt confidence="-4.206819421976828">the abundance</alt><alt confidence="-31.904472584145477">a sudden that person is n't part</alt><alt confidence="-20.855079162662932">... about you standing in the middle</alt></f>  of Maidan .</output>
 </s>
 <s source="Clin2014 speech" id="180">
   <input>Ladies and gentlemen , Human Language Technology will always continue to play a <f id="1">rôle de premier plan</f>  in our policy .</input>
-  <output>Ladies and gentlemen , Human Language Technology will always continue to play a <f confidence="0.0" id="1">leading role<alt confidence="-18.6048676466704">guiding role to play</alt><alt confidence="-19.200664924282663">whole are key factors</alt><alt confidence="-7.238573494446569">prominent part</alt><alt confidence="-2.961990490535057">key role</alt><alt confidence="-5.30072271561147">prominent role</alt><alt confidence="-3.728131931112073">central role</alt><alt confidence="-14.056096910872526">greater role for</alt></f>  in our policy .</output>
+  <output>Ladies and gentlemen , Human Language Technology will always continue to play a <f confidence="0.0" id="1">leading role<alt confidence="-12.812324089402725">relevant role</alt><alt confidence="-10.047527149184747">very important role</alt><alt confidence="-20.567894192985893">protagonistic role</alt><alt confidence="-7.7413123870467935">significant role</alt><alt confidence="-21.40214778150079">guiding role to play</alt><alt confidence="-21.95837421325594">high-level role</alt><alt confidence="-5.562597966736863">leading part</alt><alt confidence="-12.520469356539156">substantial role</alt><alt confidence="-8.814346513471197">leading force</alt><alt confidence="-21.997945059113054">whole are key factors</alt><alt confidence="-12.876912292036724">huge role</alt><alt confidence="-14.383712924483607">lead role</alt><alt confidence="-3.5620460480292304">key role</alt><alt confidence="-5.5169851375957">major role</alt><alt confidence="-6.488564938007762">prominent role</alt><alt confidence="-13.902901611650652">very prominent role</alt><alt confidence="-12.42248929514506">strong role</alt><alt confidence="-5.426799777274356">central role</alt><alt confidence="-5.8691631207222255">crucial role</alt></f>  in our policy .</output>
 </s>
 <s source="Bernard De Clerck" id="181">
   <input><f id="1">Techniquement</f>  , Mountain House is a state-formed community services district , which means it has some infrastructure , including water , and it collects property taxes .</input>
@@ -745,7 +745,7 @@
 </s>
 <s source="C.P. Snow, The Masters, p. 23" id="190">
   <input>I wonder what remarkable event he <f id="1">fête</f>  now .</input>
-  <output>I wonder what remarkable event he <f confidence="1.0" id="1">party</f>  now .</output>
+  <output>I wonder what remarkable event he <f confidence="1.0" id="1">'s celebrating</f>  now .</output>
 </s>
 <s category="n" source="Listenaminute.com" id="191">
   <input>Traffic accidents are <f id="1">les pires</f>  .</input>
@@ -757,7 +757,7 @@
 </s>
 <s category="v" source="Listenaminute.com" id="193">
   <input>The world ’ s leaders think using violence against another country is a good way to <f id="1">résoudre</f>  problems</input>
-  <output>The world ’ s leaders think using violence against another country is a good way to <f confidence="0.0" id="1">solve<alt confidence="-9.298266432039112">addressing</alt><alt confidence="-1.710238644592033">resolve</alt><alt confidence="-4.926688322035443">solving</alt><alt confidence="-6.663525945111696">resolving</alt><alt confidence="-6.025247661230468">address</alt><alt confidence="-5.193247651871488">tackle</alt><alt confidence="-7.005835739305182">overcome</alt></f>  problems</output>
+  <output>The world ’ s leaders think using violence against another country is a good way to <f confidence="0.0" id="1">solve<alt confidence="-9.298266470546563">addressing</alt><alt confidence="-1.7102377325738676">resolve</alt><alt confidence="-4.926689220543041">solving</alt><alt confidence="-6.6635268436192945">resolving</alt><alt confidence="-4.857410526176129">deal with</alt><alt confidence="-6.025246409739087">address</alt><alt confidence="-5.19324769037894">tackle</alt><alt confidence="-7.005835777812633">overcome</alt></f>  problems</output>
 </s>
 <s category="n" source="Listenaminute.com" id="194">
   <input>I used to hear <f id="1">des bruits étranges</f>  at night when I was in bed .</input>
@@ -765,7 +765,7 @@
 </s>
 <s category="v" source="Listenaminute.com" id="195">
   <input>Every time you <f id="1">allumez</f>  the TV , there 's a story on violence .</input>
-  <output>Every time you <f confidence="1.0" id="1">on the lights .</f>  the TV , there 's a story on violence .</output>
+  <output>Every time you <f confidence="1.0" id="1">turn on</f>  the TV , there 's a story on violence .</output>
 </s>
 <s source="The Daily News" id="196">
   <input>The glamorous 29 - year-old died from head injuries after clinging to the door handle of her Porsche and <f id="1">être entraînée</f>  along the street as the carkjackers sped away .</input>
@@ -809,11 +809,11 @@
 </s>
 <s category="v" source="translated from: Le Monde " id="206">
   <input>Arizona <f id="1">est connu pour</f>  its pro-gun and anti-immigrant views .</input>
-  <output>Arizona <f confidence="-0.8718584181420681" id="1">is notorious for<alt confidence="-6.298229738110884">is famous</alt><alt confidence="-4.820691239642355">is famed for</alt><alt confidence="-1.6094379124341003">is renowned for</alt><alt confidence="-2.6658667446353137">is known for</alt><alt confidence="-1.6502853114668141">'s famous for</alt></f>  its pro-gun and anti-immigrant views .</output>
+  <output>Arizona <f confidence="-0.8718584181420681" id="1">is notorious for<alt confidence="-1.1581301748780815">known for</alt><alt confidence="-4.237514822364216">is well known for</alt><alt confidence="-4.820691239642355">is famed for</alt><alt confidence="-1.6094379124341003">is renowned for</alt><alt confidence="-2.6658667446353137">is known for</alt><alt confidence="-1.6502853114668141">'s famous for</alt></f>  its pro-gun and anti-immigrant views .</output>
 </s>
 <s category="n" source="University of Victoria - English Language Centre (CC-BY-NO-SA)" id="207">
   <input>She had never even given him <f id="1">du thé</f>  all day .</input>
-  <output>She had never even given him <f confidence="1.0" id="1">drink tea</f>  all day .</output>
+  <output>She had never even given him <f confidence="0.0" id="1">tea<alt confidence="-2.2558457012417006">some tea</alt></f>  all day .</output>
 </s>
 <s source="The Economist" id="208">
   <input>In " Tomorrow " , Francesca Archibugi offers a <f id="1">étude émouvante</f>  of the impact of an earthquake in a small Umbrian town .</input>
@@ -833,7 +833,7 @@
 </s>
 <s source="Clin2014 speech" id="212">
   <input>If we wish to make our redefined role truly sustainable , then we need to put effort into <f id="1">l' établissement d'</f>  a place where language-related initiatives can be assessed as to their social relevance , aligned and potentially exchanged with other players in our language area .</input>
-  <output>If we wish to make our redefined role truly sustainable , then we need to put effort into <f confidence="-0.8174583486397751" id="1">the establishment of<alt confidence="-17.400172469253185">way of establishing</alt><alt confidence="-7.422934017254374">the setting-up of</alt><alt confidence="-9.911585673108736">the establishing of</alt><alt confidence="-16.731898263400716">a setting of</alt><alt confidence="-13.637130137151722">the entrenchment of</alt><alt confidence="-2.8053775101168625">the creation of</alt><alt confidence="-17.862136662582962">, when establishing</alt><alt confidence="-12.300960546746317">establish</alt></f>  a place where language-related initiatives can be assessed as to their social relevance , aligned and potentially exchanged with other players in our language area .</output>
+  <output>If we wish to make our redefined role truly sustainable , then we need to put effort into <f confidence="-1.0025686667131346" id="1">establishing<alt confidence="-19.905215920794497">way of establishing</alt><alt confidence="-3.3225045450184894">the establishment of</alt><alt confidence="-9.927981778796825">the setting-up of</alt><alt confidence="-23.708914951831225">the preparation and submission of</alt><alt confidence="-14.396144218343167">' the establishment of</alt><alt confidence="-19.236941714942027">a setting of</alt><alt confidence="-16.726220521843757">involves establishing</alt><alt confidence="-20.787526693707726">, the drawing up of</alt><alt confidence="-16.142173588693034">the entrenchment of</alt><alt confidence="-12.416632654648723">the establishing of</alt><alt confidence="-5.310424231656642">the creation of</alt><alt confidence="-20.367180114124274">, when establishing</alt><alt confidence="-9.066197019274043">the setting up of</alt><alt confidence="-10.977360165719148">establish</alt><alt confidence="-19.536710893287257">the initiative of producing</alt></f>  a place where language-related initiatives can be assessed as to their social relevance , aligned and potentially exchanged with other players in our language area .</output>
 </s>
 <s source="Bernard De Clerck" id="213">
   <input>When the old lady returned to her flat she saw at once that burglars had broken in during her absence , because the <f id="1">porte avant</f>  was open and everything in the flat was upside down .</input>
@@ -849,7 +849,7 @@
 </s>
 <s category="adv" source="translated from: Le Monde " id="216">
   <input>Police have not been able to confirm the origin of the explosion <f id="1">à ce stade</f>  .</input>
-  <output>Police have not been able to confirm the origin of the explosion <f confidence="-0.9159784813674463" id="1">at this stage<alt confidence="-6.782840893085994">at that stage</alt><alt confidence="-15.572933352133338">for this stage</alt><alt confidence="-12.91515263398657">by this point</alt><alt confidence="-11.319827038486824">to this stage</alt><alt confidence="-5.760387433124925">at this juncture</alt><alt confidence="-1.2924246578146785">at this point</alt><alt confidence="-2.3182522275458863">at this time</alt><alt confidence="-12.316859975831425">during this phase</alt><alt confidence="-9.539943504973172">in this phase</alt></f>  .</output>
+  <output>Police have not been able to confirm the origin of the explosion <f confidence="-0.9159784813674463" id="1">at this stage<alt confidence="-13.700574486161559">out at this point</alt><alt confidence="-8.673629761577146">at this early stage</alt><alt confidence="-6.782841289199254">at that stage</alt><alt confidence="-13.793831244770345">up at this stage</alt><alt confidence="-17.467986838475213">are at this juncture</alt><alt confidence="-9.539943901086431">in this phase</alt><alt confidence="-29.952303416109828">statement of any kind at this time</alt><alt confidence="-11.319825839600727">to this stage</alt><alt confidence="-13.932597236159213">at this particular stage</alt><alt confidence="-5.760387829238185">at this juncture</alt><alt confidence="-14.697094400721314">it at this stage</alt><alt confidence="-22.535137105630213">for the Fund so far</alt><alt confidence="-1.292422078627784">at this point</alt><alt confidence="-9.36008793244194">at this late stage</alt><alt confidence="-9.623174062891835">at the same stage</alt><alt confidence="-2.3182500473439616">at this time</alt><alt confidence="-12.316860371944685">during this phase</alt><alt confidence="-18.090355096104176">about this at present</alt><alt confidence="-8.679866429314146">at the present stage</alt><alt confidence="-15.572933748246598">for this stage</alt><alt confidence="-12.91515303009983">by this point</alt></f>  .</output>
 </s>
 <s category="a" source="translated from: Le Monde " id="217">
   <input>We would like to make sure that it is a <f id="1">fiable</f>  ally .</input>
@@ -873,11 +873,11 @@
 </s>
 <s source="The Economist" id="222">
   <input>Luciano Emmer , who is 84 , has just made his first film in ten years , while in " The Profession of Arms " , the 70 - year-old Ermanno Olmi has <f id="1">livré</f>  one of the most majestic pictures of his career .</input>
-  <output>Luciano Emmer , who is 84 , has just made his first film in ten years , while in " The Profession of Arms " , the 70 - year-old Ermanno Olmi has <f confidence="1.0" id="1">delivered</f>  one of the most majestic pictures of his career .</output>
+  <output>Luciano Emmer , who is 84 , has just made his first film in ten years , while in " The Profession of Arms " , the 70 - year-old Ermanno Olmi has <f confidence="0.0" id="1">delivered<alt confidence="-5.00770807676105">now produced</alt></f>  one of the most majestic pictures of his career .</output>
 </s>
 <s category="n" source="Listenaminute.com" id="223">
   <input>I 've lost count of <f id="1">le nombre de fois</f>  I ’ ve hit my thumb with a hammer .</input>
-  <output>I 've lost count of <f confidence="1.0" id="1">the number of times</f>  I ’ ve hit my thumb with a hammer .</output>
+  <output>I 've lost count of <f confidence="0.0" id="1">the number of times<alt confidence="-27.660135452377343">a nut thinking , " if only</alt><alt confidence="-17.102848424674786">know . No matter how many times</alt></f>  I ’ ve hit my thumb with a hammer .</output>
 </s>
 <s category="n" source="Listenaminute.com" id="224">
   <input>The Internet can be <f id="1">un endroit effrayant</f>  these days , especially because of cyber-bullying .</input>
@@ -893,7 +893,7 @@
 </s>
 <s source="Bernard De Clerck" id="227">
   <input>Ann has failed her driving test three times because she 's so bad <f id="1">à faire marche arrière</f>  .</input>
-  <output>Ann has failed her driving test three times because she 's so bad <f confidence="0.0" id="1">to back off<alt confidence="-2.8877677426796406">to pull back</alt><alt confidence="-23.982332333626626">are thinking of backing out .</alt><alt confidence="-4.277279065401059">to sit back</alt><alt confidence="-1.8789368366457495">to back down</alt><alt confidence="-1.9281200442480306">to turn back</alt><alt confidence="-6.833219207986785">to shrink back</alt><alt confidence="-2.9895298000889863">to backtrack</alt></f>  .</output>
+  <output>Ann has failed her driving test three times because she 's so bad <f confidence="0.0" id="1">to back off<alt confidence="-3.5841318848411134">to sit back</alt><alt confidence="-1.8789368366457495">to back down</alt><alt confidence="-2.296382619529041">to backtrack</alt><alt confidence="-1.2349728636880855">to turn back</alt></f>  .</output>
 </s>
 <s source="Bernard De Clerck" id="228">
   <input>On July 18 1933 the body of Bernadette Soubirous , clothed in a new habit and outfitted with the wax mask and gloves made for her in Paris by the firm of Pierre Imans , was borne to the Hall of Novices <f id="1">sur un brancard blanc</f>  .</input>
@@ -917,11 +917,11 @@
 </s>
 <s source="Bernard De Clerck" id="233">
   <input>When I saw the doctor approaching with a big syringe I thought , " Yikes " , this <f id="1">va faire mal</f>  !</input>
-  <output>When I saw the doctor approaching with a big syringe I thought , " Yikes " , this <f confidence="0.0" id="1">comes the pain<alt confidence="-5.5312907596527925">'s gonna hurt</alt><alt confidence="-13.730313193452107">is going hurt !</alt></f>  !</output>
+  <output>When I saw the doctor approaching with a big syringe I thought , " Yikes " , this <f confidence="-2.890370780119082" id="1">is gonna hurt<alt confidence="-4.326244100569648">is going to hurt</alt><alt confidence="-8.274394686074984">is gonna hurt .</alt><alt confidence="-11.835656006003644">is going to hurt .</alt><alt confidence="-12.798115361959201">will hurt .</alt><alt confidence="-11.537192409265288">gonna hurt ?</alt></f>  !</output>
 </s>
 <s source="Wikipedia" id="234">
   <input>He has been the subject of numerous interviews in animation journals and publications and is considered part of an exclusive <f id="1">classe</f>  of premier animators in his field .</input>
-  <output>He has been the subject of numerous interviews in animation journals and publications and is considered part of an exclusive <f confidence="0.0" id="1">class<alt confidence="-6.871560271017765">classroom</alt><alt confidence="-15.260408498752946">bit of class</alt><alt confidence="-5.004142177140164">Class</alt><alt confidence="-3.2667809442025817">classes</alt><alt confidence="-8.835297569166254">classy</alt></f>  of premier animators in his field .</output>
+  <output>He has been the subject of numerous interviews in animation journals and publications and is considered part of an exclusive <f confidence="0.0" id="1">class<alt confidence="-6.871560729479576">classroom</alt><alt confidence="-5.004141890601864">Class</alt><alt confidence="-3.2667823112359216">classes</alt><alt confidence="-9.404479843211877">special class</alt><alt confidence="-8.83529806762786">classy</alt></f>  of premier animators in his field .</output>
 </s>
 <s category="pp" source="translated from: Figaro" id="235">
   <input>He was condemed <f id="1">à la prison à vie</f>  .</input>
@@ -941,11 +941,11 @@
 </s>
 <s source="Clin2014 speech" id="239">
   <input>He had in fact invited the writer Tom Lanoye , because Tom had <f id="1">fait savoir</f>  that he was trying to combine language , innovation and entrepreneurship .</input>
-  <output>He had in fact invited the writer Tom Lanoye , because Tom had <f confidence="-2.0794418916796347" id="1">indicated<alt confidence="-10.326232979230177">given notice</alt><alt confidence="-8.354909070365261">notified</alt><alt confidence="-4.698833130591311">informed</alt><alt confidence="-12.587832758328512">made known</alt><alt confidence="-12.773992722705735">informs</alt><alt confidence="-11.402016938585119">, indicated</alt><alt confidence="-17.640797479517026">making known</alt></f>  that he was trying to combine language , innovation and entrepreneurship .</output>
+  <output>He had in fact invited the writer Tom Lanoye , because Tom had <f confidence="-0.29626591340236463" id="1">indicated<alt confidence="-13.073338542058389">made known</alt><alt confidence="-7.9636971621390975">made it known</alt><alt confidence="-10.811737662959558">given notice</alt><alt confidence="-7.924124122220984">notified</alt><alt confidence="-19.93917184685293">made it be known</alt><alt confidence="-6.570633192107812">informed</alt><alt confidence="-3.8556969286407536">made it clear</alt><alt confidence="-11.887524122315417">, indicated</alt><alt confidence="-15.10148546688174">signified</alt><alt confidence="-25.418200015877858">wish all to know</alt><alt confidence="-18.126302163246407">making known</alt><alt confidence="-15.127352318987823">let it be known</alt></f>  that he was trying to combine language , innovation and entrepreneurship .</output>
 </s>
 <s category="adv" source="translated from: Figaro" id="240">
   <input>Paris was committed to reduce its deficit <f id="1">en dessous du seuil</f>  of 3 % by 2015 .</input>
-  <output>Paris was committed to reduce its deficit <f confidence="1.0" id="1">is if the level</f>  of 3 % by 2015 .</output>
+  <output>Paris was committed to reduce its deficit <f confidence="0.0" id="1">below the threshold<alt confidence="-10.377243501343827">is if the level</alt></f>  of 3 % by 2015 .</output>
 </s>
 <s category="n" source="Frenglishnews.com" id="241">
   <input>In <f id="1">une fraction de seconde</f>  you could ruin your future</input>
@@ -953,7 +953,7 @@
 </s>
 <s source="Bernard De Clerck" id="242">
   <input>Anyway she probably does n't realise that she <f id="1">me doit de l' argent</f>  .</input>
-  <output>Anyway she probably does n't realise that she <f confidence="-1.609436812433605" id="1">still owes me<alt confidence="-27.698191959278954">a lot money from gambling .</alt><alt confidence="-19.84269270899026">that guy owes me money .</alt><alt confidence="-2.993279569896977">owes me money .</alt><alt confidence="-30.536121408897383">gambling debts to my establishment .</alt></f>  .</output>
+  <output>Anyway she probably does n't realise that she <f confidence="-0.916292131874575" id="1">owes me<alt confidence="-7.655366666023262">owes me money .</alt></f>  .</output>
 </s>
 <s category="a" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="243">
   <input>He added : " The presence of security officials at the base camp will give a <f id="1">psychologique</f>  feeling to climbers that they are safe . "</input>
@@ -961,7 +961,7 @@
 </s>
 <s source="Wikipedia" id="244">
   <input>From this meeting the Avignon Manifesto - a joint declaration of intent - was created and published for their members to individually <f id="1">ratifier</f>  .</input>
-  <output>From this meeting the Avignon Manifesto - a joint declaration of intent - was created and published for their members to individually <f confidence="0.0" id="1">ratified<alt confidence="-4.522704005371293">ratification</alt><alt confidence="-9.500064000074996">ratifying</alt><alt confidence="-6.80014275067747">ratify</alt></f>  .</output>
+  <output>From this meeting the Avignon Manifesto - a joint declaration of intent - was created and published for their members to individually <f confidence="0.0" id="1">ratified<alt confidence="-6.800140495870281">ratify</alt><alt confidence="-7.472921771931684">be ratified</alt><alt confidence="-4.522703897416296">ratification</alt><alt confidence="-6.1160824896175185">to ratify</alt><alt confidence="-9.356240397756611">ratify it</alt><alt confidence="-9.50006423757674">ratifying</alt></f>  .</output>
 </s>
 <s category="n" source="Listenaminute.com" id="245">
   <input>I 've had good and bad <f id="1">voisins</f>  .</input>
@@ -997,7 +997,7 @@
 </s>
 <s category="n" source="Listenaminute.com" id="253">
   <input>Most electricity comes from burning <f id="1">du charbon</f>  .</input>
-  <output>Most electricity comes from burning <f confidence="0.0" id="1">coal<alt confidence="-4.779859383942396">of coal</alt></f>  .</output>
+  <output>Most electricity comes from burning <f confidence="1.0" id="1">coal</f>  .</output>
 </s>
 <s source="PlayStation Vita packaging" id="254">
   <input>Includes PlayStation Vita system , 16 GB Memory Card for PlayStation Vita , <f id="1">bon</f>  for 10 games .</input>
@@ -1021,11 +1021,11 @@
 </s>
 <s category="v" source="Listenaminute.com" id="259">
   <input>My teacher always says it 's best to learn <f id="1">en faisant</f>  .</input>
-  <output>My teacher always says it 's best to learn <f confidence="0.0" id="1">by doing<alt confidence="-28.41189488475911">'s right . Back !</alt><alt confidence="-8.588614977386548">as Dorothy</alt><alt confidence="-18.029421038350737">tin cup .</alt></f>  .</output>
+  <output>My teacher always says it 's best to learn <f confidence="0.0" id="1">by doing<alt confidence="-8.588613144053062">as Dorothy</alt><alt confidence="-22.649635822246008">and out with both guns blazing</alt><alt confidence="-18.10050157733954">to drive her crazy with this move</alt><alt confidence="-21.048660083368052">a loud , grotesque , military manner</alt><alt confidence="-17.06503181413816">responsibilities by doing this</alt><alt confidence="-23.433914589619793">I 'm ... ... jogging at night</alt></f>  .</output>
 </s>
 <s source="Bernard De Clerck" id="260">
   <input><f id="1">Les chiffres</f>  from the Department of Health suggest that in total it will have spent more than £ 1 billion on drugs and vaccines for swine flu by the end of the pandemic , but Sir Liam Donaldson , the Chief Medical Officer for England , added that the full costs would not be calculated until a later date .</input>
-  <output><f confidence="0.0" id="1">The figures<alt confidence="-2.134167107837148">Figures</alt><alt confidence="-3.497188340356179">New figures</alt></f>  from the Department of Health suggest that in total it will have spent more than £ 1 billion on drugs and vaccines for swine flu by the end of the pandemic , but Sir Liam Donaldson , the Chief Medical Officer for England , added that the full costs would not be calculated until a later date .</output>
+  <output><f confidence="0.0" id="1">The figures<alt confidence="-11.376442588821325">That fortune cookie</alt><alt confidence="-2.134165822122403">Figures</alt><alt confidence="-3.4971870546414343">New figures</alt></f>  from the Department of Health suggest that in total it will have spent more than £ 1 billion on drugs and vaccines for swine flu by the end of the pandemic , but Sir Liam Donaldson , the Chief Medical Officer for England , added that the full costs would not be calculated until a later date .</output>
 </s>
 <s category="n" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="261">
   <input>The nine-person team will be ready to deal with any alpine <f id="1">altercations</f>  before the climbing season begins in April .</input>
@@ -1033,7 +1033,7 @@
 </s>
 <s category="conj" source="translated from: Le Monde " id="262">
   <input><f id="1">En conséquence</f>  , the Netherlands has decided to suspend aid to Uganda .</input>
-  <output><f confidence="0.0" id="1">In consequence<alt confidence="-9.44455524382334">In July , therefore</alt><alt confidence="-4.947845980003928">It follows</alt><alt confidence="-14.91999709051421">As result ,</alt></f>  , the Netherlands has decided to suspend aid to Uganda .</output>
+  <output><f confidence="-0.44094164070603914" id="1">Therefore<alt confidence="-0.5893877481591672">As a result</alt><alt confidence="-5.731673807463024">In consequence</alt><alt confidence="-4.763452443653913">As a consequence</alt><alt confidence="-19.852749661851632">In view of these comments</alt><alt confidence="-19.970626938983145">We must catch up</alt><alt confidence="-1.6540575639850117">Accordingly</alt><alt confidence="-10.679519250217027">It follows</alt><alt confidence="-15.176228514036438">In July , therefore</alt><alt confidence="-1.0883237519589173">Consequently</alt></f>  , the Netherlands has decided to suspend aid to Uganda .</output>
 </s>
 <s category="n" source="translated from: Figaro" id="263">
   <input>A few steps from Col de la Madelaine , a restaurant manages to offer <f id="1">des plats traditionnels</f>  at a low price .</input>
@@ -1045,7 +1045,7 @@
 </s>
 <s source="The Economist" id="265">
   <input>In the story of Giovanni Medici , head of the papal army , who died in 1526 of cannon wounds <f id="1">au bord</f>  of the river Po , Mr Olmi finds a portent for the destructive power of warfare today .</input>
-  <output>In the story of Giovanni Medici , head of the papal army , who died in 1526 of cannon wounds <f confidence="-1.0296209171815334" id="1">station solipsisms<alt confidence="-26.970507259932106">the corner of Tennessee and Carol .</alt><alt confidence="-13.139555595991226">the edge of a cliff</alt><alt confidence="-8.873743571944884">the brink of disaster ,</alt></f>  of the river Po , Mr Olmi finds a portent for the destructive power of warfare today .</output>
+  <output>In the story of Giovanni Medici , head of the papal army , who died in 1526 of cannon wounds <f confidence="0.0" id="1">on the edge<alt confidence="-9.273970549568286">on the far bank</alt><alt confidence="-23.20885791787749">human race to the brink</alt><alt confidence="-18.857787404490306">at the cusp</alt><alt confidence="-8.830497923560632">to the verge</alt><alt confidence="-3.795428413262573">to the brink</alt><alt confidence="-11.061772176531973">, on the brink</alt><alt confidence="-13.959000373302683">on the very brink</alt><alt confidence="-16.654743753450433">that are on the verge</alt><alt confidence="-28.629988265530596">out of shape , on the brink</alt><alt confidence="-2.0504598756027583">on the verge</alt><alt confidence="-2.201085896231942">on the brink</alt><alt confidence="-16.62168030480956">gas station solipsisms</alt><alt confidence="-1.9839233981432336">to the edge</alt><alt confidence="-16.65450520714291">teetering on the brink</alt><alt confidence="-15.811863186888342">close to the edge</alt><alt confidence="-16.608864116181962">station solipsisms</alt></f>  of the river Po , Mr Olmi finds a portent for the destructive power of warfare today .</output>
 </s>
 <s category="v" source="Listenaminute.com" id="266">
   <input>The water in that river <f id="1">est polluée</f>  today and dangerous to drink</input>
@@ -1077,11 +1077,11 @@
 </s>
 <s category="v" source="Listenaminute.com" id="274">
   <input>When I see little children <f id="1">pleurer</f>  , I think it ’ s so cute .</input>
-  <output>When I see little children <f confidence="0.0" id="1">cry<alt confidence="-37.996479163749555">smile , not cry . "</alt><alt confidence="-29.0907443198479">sake , stop crying .</alt><alt confidence="-34.78023797671287">her , besides Peg-Leg .</alt><alt confidence="-13.371109285250157">mourn</alt><alt confidence="-1.0710195110956182">crying</alt><alt confidence="-8.232569643406267">weep</alt><alt confidence="-30.59242913620362">to , maybe , centuries later .</alt></f>  , I think it ’ s so cute .</output>
+  <output>When I see little children <f confidence="0.0" id="1">cry<alt confidence="-1.6866090218736465">crying</alt></f>  , I think it ’ s so cute .</output>
 </s>
 <s source="Bernard De Clerck" id="275">
   <input>I wonder whether they are travelling by air or <f id="1">en train</f>  .</input>
-  <output>I wonder whether they are travelling by air or <f confidence="1.0" id="1">by train</f>  .</output>
+  <output>I wonder whether they are travelling by air or <f confidence="-0.6931486805603204" id="1">by train<alt confidence="-15.573903611114162">what position he was in</alt></f>  .</output>
 </s>
 <s source="The Economist" id="276">
   <input>Inspired by that childhood experience , Ishii has been <f id="1">en train d' inventer</f>  ways to make the wealth of digital information inside computers as tangible and pleasant to the touch as the abacus of his youth .</input>
@@ -1089,7 +1089,7 @@
 </s>
 <s category="n" source="Listenaminute.com" id="277">
   <input>I sometimes have really nice dreams , but then my <f id="1">réveil</f>  goes off .</input>
-  <output>I sometimes have really nice dreams , but then my <f confidence="0.0" id="1">alarm clock<alt confidence="-10.999235856830825">wake-up</alt><alt confidence="-11.132127817545532">awakening</alt></f>  goes off .</output>
+  <output>I sometimes have really nice dreams , but then my <f confidence="1.0" id="1">alarm clock</f>  goes off .</output>
 </s>
 <s source="Bernard De Clerck" id="278">
   <input>My dog usually barks <f id="1">au facteur</f>  - but look at that , for once , he is being friendly to the poor man !</input>
@@ -1117,7 +1117,7 @@
 </s>
 <s source="wiki.answers.com" id="284">
   <input>In principle , it also means that monolingual users of BSL should have access to <f id="1">services d' interprétation</f>  in medical consultations , job interviews , court cases and other public settings .</input>
-  <output>In principle , it also means that monolingual users of BSL should have access to <f confidence="0.0" id="1">interpreting services<alt confidence="-1.5358534998576943">ensuring interpretation</alt></f>  in medical consultations , job interviews , court cases and other public settings .</output>
+  <output>In principle , it also means that monolingual users of BSL should have access to <f confidence="1.0" id="1">interpretation services</f>  in medical consultations , job interviews , court cases and other public settings .</output>
 </s>
 <s category="a" source="translated from: Le Monde " id="285">
   <input>Today our children are already <f id="1">à moitié illettrés</f>  , they speak Russian poorly .</input>
@@ -1161,11 +1161,11 @@
 </s>
 <s category="adv" id="296">
   <input>He asks <f id="1">ce que</f>  you want .</input>
-  <output>He asks <f confidence="0.0" id="1">what<alt confidence="-2.1188907052728845">that</alt></f>  you want .</output>
+  <output>He asks <f confidence="1.0" id="1">what</f>  you want .</output>
 </s>
 <s source="Bernard De Clerck" id="297">
   <input>The Comité Colbert ensured that the companies <f id="1">appliquent les mêmes règles</f>  , and that they are as one in the promotion of what the French call l ' Art de Vivre .</input>
-  <output>The Comité Colbert ensured that the companies <f confidence="0.0" id="1">are using the same rules<alt confidence="-4.355864002023907">apply the same rules</alt><alt confidence="-5.725890619429919">applies the same rules</alt><alt confidence="-4.539373126180266">apply the new rules</alt></f>  , and that they are as one in the promotion of what the French call l ' Art de Vivre .</output>
+  <output>The Comité Colbert ensured that the companies <f confidence="1.0" id="1">are using the same rules</f>  , and that they are as one in the promotion of what the French call l ' Art de Vivre .</output>
 </s>
 <s category="v" source="translated from: Figaro" id="298">
   <input>We <f id="1">mettons beaucoup d' énergie à</f>  selecting the best products .</input>
@@ -1173,7 +1173,7 @@
 </s>
 <s source="Bernard De Clerck" id="299">
   <input>I wo n't go out as it is raining and I <f id="1">n' ai pas de</f>  umbrella .</input>
-  <output>I wo n't go out as it is raining and I <f confidence="1.0" id="1">do n't have</f>  umbrella .</output>
+  <output>I wo n't go out as it is raining and I <f confidence="0.0" id="1">do n't have<alt confidence="-28.210969724372116">have no ethical dilemma . I meant</alt><alt confidence="-19.954783050767563">have no approach vector . I 'm</alt><alt confidence="-17.378346867587272">have no agenda .</alt><alt confidence="-24.037684483138385">have no abilities , Peter !</alt><alt confidence="-12.147402720249517">' vee no</alt><alt confidence="-33.580507090134454">'m not so set in my ways</alt><alt confidence="-17.35153944321619">ai n't got no names</alt><alt confidence="-18.824567226903312">still do n't have a date for</alt><alt confidence="-23.393569809845726">do n't ... I do n't map</alt><alt confidence="-19.516816409261054">have no electric razor</alt><alt confidence="-8.729467178814865">have n't got time for this</alt><alt confidence="-23.66186861464695">have no secret . I</alt><alt confidence="-17.25790158767912">got no shoes to</alt><alt confidence="-29.944707037874615">have no window to look into another</alt><alt confidence="-26.425179330465188">have no doubt this boy ... is</alt><alt confidence="-13.48760673809208">have no defence , my</alt><alt confidence="-26.42271649543376">'ve no mansion to</alt><alt confidence="-14.114504849330473">have no abilities ,</alt><alt confidence="-28.628520983382597">ca n't give you pictures , I</alt><alt confidence="-13.593163894207677">'m not having much</alt><alt confidence="-15.248595933890272">have no means ,</alt><alt confidence="-12.839713151370717">am having no</alt><alt confidence="-16.581235707399827">have n't any pride</alt><alt confidence="-17.094148992867783">squint just right</alt><alt confidence="-25.732033664770206">did n't get one of these exploding</alt><alt confidence="-6.914573146379146">have no time for</alt><alt confidence="-18.729016392782327">'m not in deep</alt><alt confidence="-13.403979510189082">have no home .</alt><alt confidence="-29.230962341783687">haven ’ t got any pockets .</alt><alt confidence="-20.737970769030568">got no easy answers</alt><alt confidence="-11.028439062289074">have no mother</alt><alt confidence="-10.18149030959125">'m cash poor</alt><alt confidence="-13.352852892223204">do n't play favorites</alt><alt confidence="-12.440939893324614">don ’ t have a</alt><alt confidence="-16.104258267824292">have no siblings and</alt><alt confidence="-14.963245585180086">'m not licensed .</alt><alt confidence="-14.759750661425333">have no superiors .</alt><alt confidence="-12.72976277416759">have no feelings for her</alt><alt confidence="-16.09263751229942">have no music</alt><alt confidence="-25.918966042184316">have no defense , my lord .</alt><alt confidence="-21.615102010091">do n't really have any friends .</alt><alt confidence="-25.04221108330199">ca n't fucking waste time .</alt><alt confidence="-9.009278707874635">have no great</alt><alt confidence="-16.391341004373263">have no wives .</alt><alt confidence="-26.061940094791154">could n't pay you . I have</alt><alt confidence="-26.591019840181044">got no time to give you .</alt><alt confidence="-22.61544342384374">'m not the one in trouble .</alt><alt confidence="-20.74966458073927">have n't got any parents .</alt><alt confidence="-19.041685915401676">have no reason to assume it 's</alt><alt confidence="-15.988517280551768">am not having a goddamn</alt><alt confidence="-15.023030313284838">'ve got no claws</alt><alt confidence="-19.17244157022425">ca n't get a connection</alt><alt confidence="-19.924004175555055">have no country now</alt><alt confidence="-15.521406579280658">have n't any wife</alt><alt confidence="-18.265787619719504">did n't bring change</alt><alt confidence="-22.6807580101562">have n't done anything about a ring</alt><alt confidence="-26.309909117701498">have no contact on any frequency .</alt><alt confidence="-16.930300842167703">ai n't got no record</alt><alt confidence="-21.53823937589125">'m no one religion</alt><alt confidence="-14.528545702692163">got no hat</alt><alt confidence="-21.258562945525153">have no fucking life .</alt><alt confidence="-9.405127617128635">'m not prejudiced</alt><alt confidence="-8.71251588157142">am not putting my</alt><alt confidence="-15.743695658368939">do not have a pen</alt><alt confidence="-13.111452403917305">didn´t use</alt><alt confidence="-14.791393947049855">have no pen</alt><alt confidence="-20.24668686072169">do n't know the number for a</alt><alt confidence="-19.321328306432864">have no reason to lie to you</alt><alt confidence="-18.424392213768527">do not have a magic</alt><alt confidence="-9.938841847459784">have no place for</alt><alt confidence="-32.85987680138207">have n't got a tiara so you</alt><alt confidence="-11.861891599333067">have no sons ,</alt><alt confidence="-15.193445312769253">have no bunghole .</alt><alt confidence="-9.00149675798042">do n't have a</alt><alt confidence="-16.056652155004507">have no muscle ,</alt><alt confidence="-17.843818638679522">'m not having surgery</alt><alt confidence="-24.721413537976414">ai n't got my suit , but</alt></f>  umbrella .</output>
 </s>
 <s source="Bernard De Clerck" id="300">
   <input>The Tory analysis , based on figures for 2008 -09 , suggests that 6.8 million slots could have been made available to those without access to an NHS dentist had they not been used for excessive appointment-setting or needless splitting of <f id="1">des cures</f>  into separate sessions .</input>
@@ -1189,11 +1189,11 @@
 </s>
 <s category="p" source="Listenaminute.com" id="303">
   <input>How can you live <f id="1">près de</f>  your family members and feel apart from them ?</input>
-  <output>How can you live <f confidence="0.0" id="1">close to<alt confidence="-10.121355632677755">almost</alt></f>  your family members and feel apart from them ?</output>
+  <output>How can you live <f confidence="0.0" id="1">near<alt confidence="-4.220498490069569">close to</alt></f>  your family members and feel apart from them ?</output>
 </s>
 <s category="v" source="University of Victoria - English Language Centre (CC-BY-NO-SA)" id="304">
   <input>As he spoke , the car began to <f id="1">ralentir</f>  .</input>
-  <output>As he spoke , the car began to <f confidence="1.0" id="1">decelerate .</f>  .</output>
+  <output>As he spoke , the car began to <f confidence="0.0" id="1">slow down<alt confidence="-11.598994660193878">take it slower</alt></f>  .</output>
 </s>
 <s category="adv" source="University of Victoria - English Language Centre (CC-BY-NO-SA)" id="305">
   <input>Then <f id="1">soudainement</f>  , an idea came into her racing , terrified brain .</input>
@@ -1249,11 +1249,11 @@
 </s>
 <s source="Clin2014 speech" id="318">
   <input>I realise that what I ’ m saying may sound a little emotionally <f id="1">chargé</f>  , and even hollow or redundant in this day and age .</input>
-  <output>I realise that what I ’ m saying may sound a little emotionally <f confidence="-2.0476920457846712" id="1">charged<alt confidence="-28.09475854303418">Robinson , LAPD . I 'm in</alt><alt confidence="-15.076782190013308">laden</alt><alt confidence="-6.981833852102936">responsible</alt><alt confidence="-6.326312478020498">loaded</alt><alt confidence="-23.02356586747398">full , busy</alt></f>  , and even hollow or redundant in this day and age .</output>
+  <output>I realise that what I ’ m saying may sound a little emotionally <f confidence="-2.047692879655573" id="1">charged<alt confidence="-15.076783073884634">laden</alt><alt confidence="-10.571961262320604">in charge</alt><alt confidence="-6.981832780417177">responsible</alt><alt confidence="-28.516899880573995">in complete charge of the entire operation</alt><alt confidence="-17.423651963872242">It 's loaded</alt><alt confidence="-6.326312478020498">loaded</alt></f>  , and even hollow or redundant in this day and age .</output>
 </s>
 <s source="Bernard De Clerck" id="319">
   <input>For one , an exemption from medical tests does not mean you can <f id="1">balayer</f>  your health problems under the carpet .</input>
-  <output>For one , an exemption from medical tests does not mean you can <f confidence="0.0" id="1">dismiss<alt confidence="-14.295119450877577">place your hand</alt><alt confidence="-10.152030659800472">lgnoring</alt><alt confidence="-3.4880143745446883">sweep</alt></f>  your health problems under the carpet .</output>
+  <output>For one , an exemption from medical tests does not mean you can <f confidence="1.0" id="1">sweep</f>  your health problems under the carpet .</output>
 </s>
 <s category="n" source="Listenaminute.com" id="320">
   <input>What difference does it make what colour your <f id="1">peau</f>  is ?</input>
@@ -1273,11 +1273,11 @@
 </s>
 <s source="The Economist" id="324">
   <input>As health officials defend their drastic policy to contain the spread of <f id="1">la fièvre aphteuse</f>  , the debate about the future of intensive farming and cheap food production is becoming even more intense .</input>
-  <output>As health officials defend their drastic policy to contain the spread of <f confidence="0.0" id="1">the foot-and-mouth<alt confidence="-1.602835578419651">the FMD</alt></f>  , the debate about the future of intensive farming and cheap food production is becoming even more intense .</output>
+  <output>As health officials defend their drastic policy to contain the spread of <f confidence="0.0" id="1">foot-and-mouth disease<alt confidence="-2.685407137299174">foot-and-mouth</alt><alt confidence="-4.443899723707586">FMD</alt></f>  , the debate about the future of intensive farming and cheap food production is becoming even more intense .</output>
 </s>
 <s category="n" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="326">
   <input>However , Britain 's health minister said the <f id="1">santé</f>  of children was more important than the freedom to smoke .</input>
-  <output>However , Britain 's health minister said the <f confidence="0.0" id="1">health<alt confidence="-15.072375560312073">healthy</alt></f>  of children was more important than the freedom to smoke .</output>
+  <output>However , Britain 's health minister said the <f confidence="0.0" id="1">health<alt confidence="-15.072374841294787">healthy</alt><alt confidence="-14.614193703136586">health status</alt></f>  of children was more important than the freedom to smoke .</output>
 </s>
 <s source="Bernard De Clerck" id="327">
   <input>Scientists have discovered that , all over the world , <f id="1">des millions de grenouilles</f>  are dying .</input>
@@ -1309,7 +1309,7 @@
 </s>
 <s category="v" source="anglais-gratuit.com" id="334">
   <input>On Wednesday afternoon , Kate and his father <f id="1">vont à</f>  the swimming pool .</input>
-  <output>On Wednesday afternoon , Kate and his father <f confidence="1.0" id="1">swim against</f>  the swimming pool .</output>
+  <output>On Wednesday afternoon , Kate and his father <f confidence="0.0" id="1">run counter to<alt confidence="-11.717223146696284">these conflict with</alt><alt confidence="-11.587229333704302">Grande ... to</alt><alt confidence="-8.49413011114666">swim against</alt><alt confidence="-6.168752695402816">is channelled to</alt></f>  the swimming pool .</output>
 </s>
 <s source="The Economist" id="335">
   <input>The Japanese prime minister is visiting Washington on 15 June : the trip will mark another stage in his ritual <f id="1">qui permet de sauver la face</f>  exit .</input>
@@ -1337,7 +1337,7 @@
 </s>
 <s category="adv" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="342">
   <input>So hot , <f id="1">en fait</f>  , that fights break out among climbers .</input>
-  <output>So hot , <f confidence="-1.8831268507394725" id="1">in fact<alt confidence="-8.51181032981668">indeed</alt><alt confidence="-8.400101867436156">in effect</alt><alt confidence="-7.144407332310033">actually</alt></f>  , that fights break out among climbers .</output>
+  <output>So hot , <f confidence="-0.5707258285558601" id="1">actually<alt confidence="-4.928291887573914">indeed</alt><alt confidence="-1.8831268507394725">in fact</alt><alt confidence="-7.4876124523860215">in actual fact</alt><alt confidence="-8.400101646271741">in effect</alt></f>  , that fights break out among climbers .</output>
 </s>
 <s source="Bernard De Clerck" id="343">
   <input>King Malik dismissed this comment with a wave of his short , heavily ringed fingers and a <f id="1">reniflement méprisant</f>  .</input>
@@ -1361,7 +1361,7 @@
 </s>
 <s category="v" source="translated from: Le Monde " id="348">
   <input>Russia <f id="1">refuse de reconnaître</f>  the new Ukrainian authorities .</input>
-  <output>Russia <f confidence="0.0" id="1">refuses to recognise<alt confidence="-4.535616454900965">refuses to acknowledge</alt><alt confidence="-10.000064309729288">refuse to acknowledge</alt></f>  the new Ukrainian authorities .</output>
+  <output>Russia <f confidence="0.0" id="1">refuses to recognise<alt confidence="-4.591013271171226">is refusing to recognise</alt><alt confidence="-4.5356151691862205">refuses to acknowledge</alt><alt confidence="-10.000063024014542">refuse to acknowledge</alt></f>  the new Ukrainian authorities .</output>
 </s>
 <s category="v" source="translated from: Figaro" id="349">
   <input>Bitcoin distributors <f id="1">voient le jour</f>  everywhere in the world .</input>
@@ -1381,7 +1381,7 @@
 </s>
 <s category="n" source="translated from: Le Monde " id="353">
   <input>This project represents one of the rare advances in strenghtening <f id="1">les liens</f>  between Brazil and the European Union .</input>
-  <output>This project represents one of the rare advances in strenghtening <f confidence="0.0" id="1">the links<alt confidence="-29.454831684676485">strengthen bond between father and son .</alt><alt confidence="-7.138836934664731">the linkages</alt><alt confidence="-7.1448405568811">the interfaces</alt><alt confidence="-4.7326767985733085">the bonds</alt><alt confidence="-4.316265861424533">the relationships</alt><alt confidence="-4.180464897109789">the ties</alt><alt confidence="-3.2544006205191867">the connections</alt></f>  between Brazil and the European Union .</output>
+  <output>This project represents one of the rare advances in strenghtening <f confidence="0.0" id="1">links<alt confidence="-11.504748825725427">the linkages</alt><alt confidence="-11.510752447941796">the interfaces</alt><alt confidence="-9.098590447135194">the bonds</alt><alt confidence="-25.677198388119734">the connection and links</alt><alt confidence="-8.682177522485071">the relationships</alt><alt confidence="-8.546375302615282">the ties</alt><alt confidence="-4.365912893494744">the links</alt><alt confidence="-5.3756687621753505">linkages</alt><alt confidence="-7.620314224435982">the connections</alt><alt confidence="-2.8317537395437355">ties</alt></f>  between Brazil and the European Union .</output>
 </s>
 <s category="a" source="Listenaminute.com" id="354">
   <input>People then buy <f id="1">les mêmes</f>  clothes and look like everyone else because they want to feel trendy .</input>
@@ -1397,7 +1397,7 @@
 </s>
 <s category="adv" source="translated from: LaPresse.ca" id="357">
   <input>The young world of bitcoin is <f id="1">en crise</f>  .</input>
-  <output>The young world of bitcoin is <f confidence="1.0" id="1">in crisis</f>  .</output>
+  <output>The young world of bitcoin is <f confidence="0.0" id="1">in crisis<alt confidence="-6.259052657542798">in a crisis</alt><alt confidence="-9.795530615514435">going through a crisis</alt><alt confidence="-16.09767792350101">currently at crisis point</alt><alt confidence="-7.313037048847857">currently in crisis</alt><alt confidence="-11.908823181374059">in a state of crisis</alt></f>  .</output>
 </s>
 <s source="Wikipedia" id="358">
   <input>As of the census of 2010 , there were 527 people , 252 households , and 120 families residing in the village and the <f id="1">densité démographique</f>  was 2,509.5 inhabitants per square mile ( 968.9 / km 2 ) .</input>
@@ -1405,7 +1405,7 @@
 </s>
 <s source="Clin2014 speech" id="359">
   <input>I would urge you <f id="1">à saisir</f>  the opportunities that our redefined policy offers you .</input>
-  <output>I would urge you <f confidence="-0.18232155679395468" id="1">to seize<alt confidence="-6.720663438449676">to seizing</alt><alt confidence="-0.8263878787756038">to grasp</alt><alt confidence="-3.6440740090963972">to utilise</alt><alt confidence="-11.656259420711109">by seizing</alt><alt confidence="-25.43177499664411">in referring the matter to</alt><alt confidence="-0.4330036595811322">to take</alt></f>  the opportunities that our redefined policy offers you .</output>
+  <output>I would urge you <f confidence="-0.6931486805603204" id="1">to seize<alt confidence="-34.69753203854182">'re even entertaining the notion of it</alt></f>  the opportunities that our redefined policy offers you .</output>
 </s>
 <s category="v" source="Listenaminute.com" id="360">
   <input>Too many children do n't get enough exercise because they <f id="1">passent</f>  half the day playing games .</input>
@@ -1433,7 +1433,7 @@
 </s>
 <s source="Bernard De Clerck" id="366">
   <input>It may sound <f id="1">commode</f>  , but your reluctance to take out time for such a medical test , may cost you dearly in the long run : such plans may not necessarily be as customer-friendly as they sound .</input>
-  <output>It may sound <f confidence="-0.43078251224668473" id="1">convenient<alt confidence="-26.310658265617814">easy , way too convenient .</alt><alt confidence="-0.5502775419864179">dresser</alt></f>  , but your reluctance to take out time for such a medical test , may cost you dearly in the long run : such plans may not necessarily be as customer-friendly as they sound .</output>
+  <output>It may sound <f confidence="-0.43078456609274296" id="1">convenient<alt confidence="-0.5502775419864179">dresser</alt></f>  , but your reluctance to take out time for such a medical test , may cost you dearly in the long run : such plans may not necessarily be as customer-friendly as they sound .</output>
 </s>
 <s source="Bernard De Clerck" id="367">
   <input><f id="1">Toutes les pierres sauf une</f>  were furred at their perimeters and partly on their surfaces with green weed .</input>
@@ -1441,7 +1441,7 @@
 </s>
 <s source="Bernard De Clerck" id="368">
   <input>Were he to win next Sunday , which is by no means <f id="1">hors de question</f>  , it would make this an extraordinary Masters ; perhaps even the most extraordinary of all .</input>
-  <output>Were he to win next Sunday , which is by no means <f confidence="0.0" id="1">not an option ,<alt confidence="-13.055792629037112">do , please , yes . -</alt><alt confidence="-4.225297516151185">not , Jerry ,</alt><alt confidence="-9.438135335500503">how , but , you know ...</alt></f>  , it would make this an extraordinary Masters ; perhaps even the most extraordinary of all .</output>
+  <output>Were he to win next Sunday , which is by no means <f confidence="0.0" id="1">out of the question<alt confidence="-25.531741896282796">, we ca n't tolerate any Japs</alt><alt confidence="-14.221330518239396">it was out of the question</alt><alt confidence="-11.281886397266998">'s out of the question</alt></f>  , it would make this an extraordinary Masters ; perhaps even the most extraordinary of all .</output>
 </s>
 <s source="Bernard De Clerck" id="369">
   <input>James and Co. <f id="1">organisent une vente</f>  at the moment . Shall we look in ?</input>
@@ -1453,7 +1453,7 @@
 </s>
 <s category="n" source="Listenaminute.com" id="371">
   <input>Winter is my favourite <f id="1">saison</f>  .</input>
-  <output>Winter is my favourite <f confidence="0.0" id="1">season<alt confidence="-12.244451452731681">seasonal</alt><alt confidence="-11.343778418935447">season .</alt></f>  .</output>
+  <output>Winter is my favourite <f confidence="1.0" id="1">season</f>  .</output>
 </s>
 <s source="The Economist" id="372">
   <input>Though a little soft-centred in its closing stages , it shows movingly how new love and friendship <f id="1">peuvent se forger</f>  among strangers in adversity .</input>
@@ -1473,7 +1473,7 @@
 </s>
 <s source="The Economist" id="376">
   <input>Successful women <f id="1">réalisateurs</f>  , too , are surfacing again in Italy .</input>
-  <output>Successful women <f confidence="0.0" id="1">directors<alt confidence="-5.7003418001703885">filmmakers</alt><alt confidence="-7.5825829549487125">film-makers</alt></f>  , too , are surfacing again in Italy .</output>
+  <output>Successful women <f confidence="0.0" id="1">directors<alt confidence="-7.5919608019915525">film noir</alt><alt confidence="-5.700342966834837">filmmakers</alt><alt confidence="-7.582581221615234">film-makers</alt></f>  , too , are surfacing again in Italy .</output>
 </s>
 <s source="Bernard De Clerck" id="377">
   <input>But this is a game of high stakes — the theme park so far has cost £ 250 million — and , judging by the <f id="1">montagne russe</f>  performance of the share price on the Paris Bourse , Euro Disney is by no means certain it has put its money on a winner .</input>
@@ -1493,7 +1493,7 @@
 </s>
 <s source="Clin2014 speech" id="381">
   <input>The debt owed by all of us to Lernout &amp; Hauspie is that our language area continues to <f id="1">jouer un rôle de pionnier</f>  in the research and development of innovative technology .</input>
-  <output>The debt owed by all of us to Lernout &amp; Hauspie is that our language area continues to <f confidence="1.0" id="1">play a pioneering role</f>  in the research and development of innovative technology .</output>
+  <output>The debt owed by all of us to Lernout &amp; Hauspie is that our language area continues to <f confidence="0.0" id="1">play a pioneering role<alt confidence="-4.592267085640687">fulfil a pioneering role</alt></f>  in the research and development of innovative technology .</output>
 </s>
 <s category="adj" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="382">
   <input>He thinks the blobfish will make people remember the <f id="1">plus laides</f>  animals .</input>
@@ -1505,7 +1505,7 @@
 </s>
 <s category="adv" source="University of Victoria - English Language Centre (CC-BY-NO-SA)" id="384">
   <input>She felt <f id="1">instinctivement</f>  that there was something wrong</input>
-  <output>She felt <f confidence="0.0" id="1">instinctively<alt confidence="-37.50772764995588">copied that first time ... and have</alt></f>  that there was something wrong</output>
+  <output>She felt <f confidence="1.0" id="1">instinctively</f>  that there was something wrong</output>
 </s>
 <s source="The Economist" id="385">
   <input>More than 300 farms have been confirmed as having foot-and-mouth , including a farm in France which seems to have caught the disease from sheep imported from Britain before a <f id="1">interdiction avait été imposée</f>  on exports and the movement of animals .</input>
@@ -1525,7 +1525,7 @@
 </s>
 <s category="adv" source="Listenaminute.com" id="389">
   <input>In some countries , people think you 're strange if you 're single <f id="1">plus tard dans la vie</f>  .</input>
-  <output>In some countries , people think you 're strange if you 're single <f confidence="0.0" id="1">later in life<alt confidence="-6.564884162934509">until later in life</alt><alt confidence="-7.366650969811791">later on in life</alt><alt confidence="-1.8063594971838701">in later life</alt></f>  .</output>
+  <output>In some countries , people think you 're strange if you 're single <f confidence="-0.916290731874155" id="1">later in life<alt confidence="-7.030179133190497">later on in life</alt><alt confidence="-1.469887660562577">in later life</alt></f>  .</output>
 </s>
 <s category="n" source="translated from: Le Monde " id="390">
   <input>The numbers are <f id="1">sans doute</f>  higher .</input>
@@ -1533,11 +1533,11 @@
 </s>
 <s source="The Economist" id="391">
   <input>Unicef , the United Nations Children ’ s Fund , recently declared Angola the worst place in the world for children <f id="1">de grandir</f>  .</input>
-  <output>Unicef , the United Nations Children ’ s Fund , recently declared Angola the worst place in the world for children <f confidence="-0.6613989661166996" id="1">to grow<alt confidence="-35.159891964631534">- mm . - and then she</alt><alt confidence="-2.3561095124113365">growing up</alt></f>  .</output>
+  <output>Unicef , the United Nations Children ’ s Fund , recently declared Angola the worst place in the world for children <f confidence="-0.6613997403103478" id="1">to grow<alt confidence="-39.57940482160879">to mature Without rejecting its various parts</alt><alt confidence="-15.076927239781618">tough growing up</alt><alt confidence="-2.3561095124113365">growing up</alt></f>  .</output>
 </s>
 <s category="adv" source="Listenaminute.com" id="392">
   <input>I can dance <f id="1">toute la nuit</f>  .</input>
-  <output>I can dance <f confidence="0.0" id="1">all night<alt confidence="-23.243069269278095">fucking that bitch</alt><alt confidence="-31.17286930935135">night , Karen .</alt><alt confidence="-33.10143169017982">year-olds all night .</alt><alt confidence="-17.779664830884663">whole night</alt><alt confidence="-20.963547339076552">talk till late</alt><alt confidence="-28.585419901577552">rode all night .</alt><alt confidence="-30.675771581897166">night watching movies .</alt><alt confidence="-24.976149451033205">night with him .</alt><alt confidence="-26.124425704008864">pulled an all-nighter .</alt><alt confidence="-21.703341702755264">this all night .</alt><alt confidence="-39.42409687341304">protecting your shoeshine .</alt><alt confidence="-15.697270350854687">working all night</alt><alt confidence="-9.225169226689214">through the night</alt><alt confidence="-11.237504812611805">on all night</alt><alt confidence="-11.62311833423209">up all night</alt><alt confidence="-11.972804105624702">it all night</alt><alt confidence="-38.471202887317695">if we wanna . - Whoa ,</alt><alt confidence="-21.248092045061348">sick all night</alt><alt confidence="-28.37721694383394">night from yesterday .</alt><alt confidence="-19.331987843616417">the night away .</alt></f>  .</output>
+  <output>I can dance <f confidence="1.0" id="1">all night</f>  .</output>
 </s>
 <s category="v" source="Listenaminute.com" id="393">
   <input>Many schoolchildren physically <f id="1">brutalisent</f>  others in class and then continue online .</input>
@@ -1561,7 +1561,7 @@
 </s>
 <s category="adv" source="Listenaminute.com" id="398">
   <input>I really enjoyed studying physics <f id="1">au début</f>  .</input>
-  <output>I really enjoyed studying physics <f confidence="-0.07957734081387713" id="1">at first<alt confidence="-14.213380435146977">better initially</alt><alt confidence="-8.070155874882092">the start</alt><alt confidence="-5.404619807208538">the beginning</alt><alt confidence="-21.7123037134895">third inning .</alt><alt confidence="-5.295814909037529">earlier</alt><alt confidence="-2.3942097001918157">early</alt><alt confidence="-8.415329576416738">initially</alt><alt confidence="-8.099326698236904">in early</alt><alt confidence="-11.558206610893428">at first .</alt><alt confidence="-14.372742594103592">at fixirst</alt></f>  .</output>
+  <output>I really enjoyed studying physics <f confidence="-1.1526828215530458" id="1">at the beginning<alt confidence="-8.368139530607856">to the beginning</alt><alt confidence="-15.381977306507697">better initially</alt><alt confidence="-5.817141918531883">at the outset</alt><alt confidence="-18.671761449605054">it was at the beginning</alt><alt confidence="-4.244777755261214">at the start</alt><alt confidence="-15.305863273948134">were at the outset</alt><alt confidence="-32.041598603772506">of each other , of our talks</alt><alt confidence="-16.51175702075534">of at the beginning</alt><alt confidence="-7.38244581931316">in the beginning</alt><alt confidence="-7.38670355821627">initially</alt><alt confidence="-6.573214668869835">the beginning</alt><alt confidence="-6.058943368956523">earlier</alt><alt confidence="-15.96560295813747">on at the beginning</alt><alt confidence="-6.088534860860533">early</alt><alt confidence="-15.541343355462928">at fixirst</alt><alt confidence="-17.22956812126443">to at the beginning</alt><alt confidence="-1.2481722024751747">at first</alt><alt confidence="-9.748443389721128">, at the beginning</alt><alt confidence="-9.238750091243405">the start</alt><alt confidence="-17.106386496286007">to be early</alt><alt confidence="-9.267923569597624">in early</alt></f>  .</output>
 </s>
 <s source="Alison Lurie, The War between the Tates, p. 280" id="399">
   <input>Here it is smokily dim ; the few guests <f id="1">sont assis ou couchés</f>  silent on the floor , passing round a joint .</input>
@@ -1585,11 +1585,11 @@
 </s>
 <s category="n" source="translated from: Le Monde " id="404">
   <input>The NSA is <f id="1">au cœur de</f>  a major espionage controversy ever since the summer of 2013 .</input>
-  <output>The NSA is <f confidence="1.0" id="1">the heart of</f>  a major espionage controversy ever since the summer of 2013 .</output>
+  <output>The NSA is <f confidence="-1.7303921304486227" id="1">central to<alt confidence="-6.932073650919409">core to</alt><alt confidence="-14.464367723077581">focused upon in</alt><alt confidence="-12.321073855007308">a core element in</alt><alt confidence="-8.771801531489489">at the core of</alt><alt confidence="-3.1040092752095063">at the heart of</alt><alt confidence="-9.77194984195615">at the root of</alt><alt confidence="-8.423939374774514">the focus of</alt><alt confidence="-6.9727060973587935">the core of</alt><alt confidence="-10.121773996603928">at its heart</alt><alt confidence="-10.101761751901387">central in</alt><alt confidence="-7.544593061330107">in the heart of</alt><alt confidence="-8.520855428739445">at the centre of</alt><alt confidence="-13.184919115844801">at the very core of</alt><alt confidence="-6.64374544596418">the heart of</alt></f>  a major espionage controversy ever since the summer of 2013 .</output>
 </s>
 <s category="v" source="translated from: Figaro" id="405">
   <input>Ten people <f id="1">ont perdu la vie</f>  in February .</input>
-  <output>Ten people <f confidence="0.0" id="1">have lost their lives<alt confidence="-1.91638092063322">who lost their lives</alt></f>  in February .</output>
+  <output>Ten people <f confidence="0.0" id="1">lost their lives<alt confidence="-8.496770407030933">have lost their lives</alt><alt confidence="-4.458765612876834">have died</alt><alt confidence="-4.618542649222016">were killed</alt><alt confidence="-10.413154160994889">who lost their lives</alt></f>  in February .</output>
 </s>
 <s category="n" source="translated from: Le Monde " id="406">
   <input>From the reign of empress Catherine II until 1991 , <f id="1">la péninsule</f>  was part of Russia .</input>
@@ -1609,7 +1609,7 @@
 </s>
 <s source="Planescape Torment" id="411">
   <input>What can change <f id="1">la nature</f>  of a man ?</input>
-  <output>What can change <f confidence="0.0" id="1">the nature<alt confidence="-4.988960604467222">the character</alt></f>  of a man ?</output>
+  <output>What can change <f confidence="0.0" id="1">the nature<alt confidence="-4.988960225520085">the character</alt><alt confidence="-8.738013127099666">the very nature</alt></f>  of a man ?</output>
 </s>
 <s category="v" source="translated from: Le Monde " id="412">
   <input>Militias <f id="1">se sont formées</f>  this weekend to demand the secession of the region .</input>
@@ -1629,15 +1629,15 @@
 </s>
 <s category="v" source="translated from: Le Monde " id="416">
   <input>I <f id="1">ai le droit</f>  to wear this uniform .</input>
-  <output>I <f confidence="0.0" id="1">have a right<alt confidence="-15.33243728426282">'ve a right to</alt><alt confidence="-28.574170385510392">have every right to dispose of my</alt><alt confidence="-30.16039711903784">'ve the right to decide who can</alt><alt confidence="-20.958712528800152">'ve the right to</alt><alt confidence="-22.763848802140817">got a right to know .</alt><alt confidence="-26.833507181540813">reserve the right to refuse service to</alt><alt confidence="-0.6590737558332463">have the right</alt><alt confidence="-10.083909292260293">allowed to go</alt><alt confidence="-20.81318247342617">have been authorised to</alt><alt confidence="-35.363129371917225">'m actually entitled to say " our</alt></f>  to wear this uniform .</output>
+  <output>I <f confidence="0.0" id="1">have a right<alt confidence="-14.325156379689467">'ve licenced</alt><alt confidence="-21.79955505446503">am a citizen , and I demand</alt><alt confidence="-0.6590745081500751">have the right</alt><alt confidence="-10.083913011236323">allowed to go</alt><alt confidence="-24.415798805646244">can smoke out here if I want</alt><alt confidence="-29.23968711840365">am within my legitimate rights</alt><alt confidence="-10.306342020475917">do have a right</alt><alt confidence="-5.694325006953818">am entitled</alt></f>  to wear this uniform .</output>
 </s>
 <s source="Clin2014 speech" id="417">
   <input>Not only because it makes an important contribution in the <f id="1">concrétisation</f>  of our vision , but also because it embodies the essence of our reformulated mission : to extend the scope of what we do .</input>
-  <output>Not only because it makes an important contribution in the <f confidence="0.0" id="1">implementation<alt confidence="-5.24117375986868">completion</alt><alt confidence="-3.7640970774764826">realisation</alt><alt confidence="-2.9330534718008674">fulfilment</alt><alt confidence="-11.211531998605416">formalisation</alt><alt confidence="-8.869670808134265">realization</alt><alt confidence="-2.0418040042726355">achievement</alt></f>  of our vision , but also because it embodies the essence of our reformulated mission : to extend the scope of what we do .</output>
+  <output>Not only because it makes an important contribution in the <f confidence="0.0" id="1">implementation<alt confidence="-3.764097744815266">realisation</alt><alt confidence="-5.24117308970699">completion</alt><alt confidence="-12.71076167569436">practical realisation</alt><alt confidence="-18.59107470386886">practical concretion</alt><alt confidence="-9.720466256077888">practical expression</alt><alt confidence="-13.353406958169248">coming into being</alt><alt confidence="-11.5048264823555">actual fulfilment</alt><alt confidence="-2.933051442019785">fulfilment</alt><alt confidence="-11.211534853444205">formalisation</alt><alt confidence="-17.474738392444127">further realisation</alt><alt confidence="-10.92727505020105">concrete implementation</alt><alt confidence="-8.869671362972621">realization</alt><alt confidence="-13.80046122224633">specific implementation</alt><alt confidence="-10.29890487426869">further implementation</alt><alt confidence="-2.0418030019657465">achievement</alt></f>  of our vision , but also because it embodies the essence of our reformulated mission : to extend the scope of what we do .</output>
 </s>
 <s category="adv" source="Listenaminute.com" id="418">
   <input>I dream <f id="1">presque</f>  every night .</input>
-  <output>I dream <f confidence="0.0" id="1">almost<alt confidence="-5.841409790162986">virtually</alt><alt confidence="-3.8784695518862145">nearly</alt><alt confidence="-5.769007352429104">practically</alt></f>  every night .</output>
+  <output>I dream <f confidence="0.0" id="1">almost<alt confidence="-5.841409345875575">virtually</alt><alt confidence="-10.81068407318811">spent almost</alt><alt confidence="-3.878467639265157">nearly</alt><alt confidence="-5.7690065990188195">practically</alt></f>  every night .</output>
 </s>
 <s source="Time Magazine" id="419">
   <input><f id="1">Juste avant</f>  it had enjoyed the black nowhere of the womb , and suddenly its world was full of colour , movement and noise .</input>
@@ -1653,7 +1653,7 @@
 </s>
 <s category="adv" id="423">
   <input>The law has been <f id="1">en vigueur</f>  since last month .</input>
-  <output>The law has been <f confidence="0.0" id="1">in force<alt confidence="-3.5849465971213252">in place</alt><alt confidence="-9.422491511154021">in effect</alt><alt confidence="-3.450304879415029">in operation</alt></f>  since last month .</output>
+  <output>The law has been <f confidence="0.0" id="1">in force<alt confidence="-3.5849476039841406">in place</alt><alt confidence="-8.324851830633328">applicable</alt><alt confidence="-3.4503052279445794">in operation</alt><alt confidence="-9.422489884681177">in effect</alt></f>  since last month .</output>
 </s>
 <s source="Bernard De Clerck" id="424">
   <input>162 million people have seen the six <f id="1">dessins animés</f>  , set in Roman times , that have been made to date .</input>
@@ -1665,11 +1665,11 @@
 </s>
 <s category="adv" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="426">
   <input>Around 400 traffic police have been assigned to patrol the jam to make sure tensions don ’ t rise <f id="1">trop</f>  far .</input>
-  <output>Around 400 traffic police have been assigned to patrol the jam to make sure tensions don ’ t rise <f confidence="0.0" id="1">too<alt confidence="-17.27890188885869">too far</alt></f>  far .</output>
+  <output>Around 400 traffic police have been assigned to patrol the jam to make sure tensions don ’ t rise <f confidence="0.0" id="1">too<alt confidence="-14.454779303500409">all too</alt><alt confidence="-16.174850480515424">that are too</alt><alt confidence="-16.20322454584086">for too</alt><alt confidence="-9.530184561393778">far too</alt></f>  far .</output>
 </s>
 <s category="v" source="translated from: Figaro" id="427">
   <input>President Barack Obama asked the Pentagon <f id="1">de se préparer à</f>  the possibility of total withdrawal of american troops in Afghanistan .</input>
-  <output>President Barack Obama asked the Pentagon <f confidence="-0.9162922318767799" id="1">to prepare for<alt confidence="-4.80127919419297">to prepare themselves for</alt><alt confidence="-8.48874808802063">to prepare to</alt><alt confidence="-6.397419651104544">to be ready for</alt><alt confidence="-9.684863002558245">all crew members from</alt><alt confidence="-5.8996403584628485">to prepare itself for</alt><alt confidence="-5.574198754508215">to be prepared for</alt><alt confidence="-3.733149235028295">prepare for</alt></f>  the possibility of total withdrawal of american troops in Afghanistan .</output>
+  <output>President Barack Obama asked the Pentagon <f confidence="-0.22314525131361473" id="1">to prepare for<alt confidence="-7.894331025371258">prepare itself for</alt><alt confidence="-5.494426574749696">to prepare themselves for</alt><alt confidence="-6.817682979771396">be prepared for</alt><alt confidence="-7.090568331664865">to be ready for</alt><alt confidence="-10.37801018311819">all crew members from</alt><alt confidence="-6.592789039023169">to prepare itself for</alt><alt confidence="-6.26734613506494">to be prepared for</alt><alt confidence="-2.1237128225945696">prepare for</alt></f>  the possibility of total withdrawal of american troops in Afghanistan .</output>
 </s>
 <s category="adv" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="428">
   <input>They hope that <f id="1">un jour</f>  they can erase painful memories in humans .</input>
@@ -1697,7 +1697,7 @@
 </s>
 <s source="Bernard De Clerck" id="434">
   <input>One of the passengers is reading a newspaper ; another is doing a crossword puzzle ; another <f id="1">regarde par</f>  the window .</input>
-  <output>One of the passengers is reading a newspaper ; another is doing a crossword puzzle ; another <f confidence="0.0" id="1">looking out<alt confidence="-3.494954157841104">looks out</alt></f>  the window .</output>
+  <output>One of the passengers is reading a newspaper ; another is doing a crossword puzzle ; another <f confidence="0.0" id="1">looking out<alt confidence="-15.761832358793944">loof out of</alt><alt confidence="-9.359084417318945">I look through</alt><alt confidence="-3.4949586666099783">looks out</alt><alt confidence="-4.936523148977674">'s looking out</alt></f>  the window .</output>
 </s>
 <s source="Bernard De Clerck" id="436">
   <input>I rushed to the departure gate and was only in time to <f id="1">attraper l' avion</f>  .</input>
@@ -1709,7 +1709,7 @@
 </s>
 <s category="v" source="Listenaminute.com" id="438">
   <input>I absolutely love <f id="1">prendre un bain</f>  .</input>
-  <output>I absolutely love <f confidence="-0.22039101114188497" id="1">take a bath<alt confidence="-9.60729141226793">you a bath .</alt><alt confidence="-14.10061813253402">or the bath .</alt><alt confidence="-18.629049604610888">the girls bathed .</alt><alt confidence="-8.965038950809909">get a bath</alt><alt confidence="-20.619055547611868">forget your worries .</alt><alt confidence="-15.11061894598603">bathing and changing</alt><alt confidence="-12.716816760326214">bath with me .</alt><alt confidence="-2.389596783620167">have a bath</alt></f>  .</output>
+  <output>I absolutely love <f confidence="-0.8362496075350734" id="1">to take a bath<alt confidence="-5.999572429705534">take a bath</alt><alt confidence="-13.953295252568179">I 'd like to take a bath</alt><alt confidence="-27.59097963000655">like you take a bath in them</alt><alt confidence="-28.861016950266283">of this dress and take a bath</alt><alt confidence="-26.2632851185012">. - I must take my bath</alt><alt confidence="-29.01374949181117">having a bath , have it tonight</alt><alt confidence="-14.744221882707095">get a bath</alt><alt confidence="-9.805536742300848">and take a bath</alt><alt confidence="-15.190816781058132">can get a bath</alt><alt confidence="-11.665508768773762">gonna take a bath</alt><alt confidence="-23.58293029830757">get a bath and pack my things</alt><alt confidence="-20.889801877883215">bathing and changing</alt><alt confidence="-39.1836877112517">a hula bubble bath , Phyili 's</alt><alt confidence="-18.530506849478982">I 'd like to have a bath</alt><alt confidence="-8.168778262789788">have a bath</alt><alt confidence="-8.57940336845993">going to take a bath</alt></f>  .</output>
 </s>
 <s source="Bernard De Clerck" id="439">
   <input>The three of us were sitting there <f id="1">sanglotant</f>  and alone with our feelings when the door flung open .</input>
@@ -1777,11 +1777,11 @@
 </s>
 <s source="Bernard De Clerck" id="455">
   <input>Remember , if you have a health problem , it may have severe repercussions on your <f id="1">couverture d' assurance</f>  .</input>
-  <output>Remember , if you have a health problem , it may have severe repercussions on your <f confidence="-1.7168954040869124" id="1">insurance cover<alt confidence="-6.013489265758383">insurance coverage</alt><alt confidence="-2.8903717578961645">insurance policy</alt></f>  .</output>
+  <output>Remember , if you have a health problem , it may have severe repercussions on your <f confidence="1.0" id="1">insurance cover</f>  .</output>
 </s>
 <s source="Clin2014 speech" id="456">
   <input>On behalf of the Dutch Language Union , it ’ s my pleasure <f id="1">de vous accueillir</f>  to this CLIN Conference .</input>
-  <output>On behalf of the Dutch Language Union , it ’ s my pleasure <f confidence="1.0" id="1">to welcome you</f>  to this CLIN Conference .</output>
+  <output>On behalf of the Dutch Language Union , it ’ s my pleasure <f confidence="0.0" id="1">to welcome you<alt confidence="-16.748778111274465">for us to welcome you</alt><alt confidence="-14.177340649978834">for me to welcome you</alt></f>  to this CLIN Conference .</output>
 </s>
 <s source="Bernard De Clerck" id="457">
   <input>The high water bills , which result in part from the costs to build the necessary infrastructure , have been offset by lower <f id="1">coûts de logement</f>  , Sensibaugh said .</input>
@@ -1797,15 +1797,15 @@
 </s>
 <s source="Bernard De Clerck" id="460">
   <input>But I know he wants to be home early tonight because he is expecting an important <f id="1">coup de téléphone</f>  .</input>
-  <output>But I know he wants to be home early tonight because he is expecting an important <f confidence="0.0" id="1">your phone call<alt confidence="-28.547338534121582">that telephone bit . And that was</alt><alt confidence="-9.951097189753886">to the police . Do n't know</alt></f>  .</output>
+  <output>But I know he wants to be home early tonight because he is expecting an important <f confidence="0.0" id="1">telephone call<alt confidence="-8.57327090325181">your phone call</alt><alt confidence="-18.524366807290953">to the police . Do n't know</alt><alt confidence="-42.94959471604228">phone tip from some Jamaican ... guy</alt></f>  .</output>
 </s>
 <s category="adv" source="translated from: Figaro" id="461">
   <input>She seems , <f id="1">cependant</f>  , attached to this man .</input>
-  <output>She seems , <f confidence="0.0" id="1">however<alt confidence="-10.756496979870215">nevertheless</alt><alt confidence="-11.887269551667853">nonetheless</alt><alt confidence="-27.25108528472362">However ,</alt><alt confidence="-5.70621208699594">though</alt></f>  , attached to this man .</output>
+  <output>She seems , <f confidence="0.0" id="1">however<alt confidence="-10.756494575639675">nevertheless</alt><alt confidence="-11.887268476600102">nonetheless</alt><alt confidence="-5.706211074525489">though</alt></f>  , attached to this man .</output>
 </s>
 <s category="a" source="Listenaminute.com" id="462">
   <input>I usually take <f id="1">quelques</f>  photos every day and then put them online for my friends to see .</input>
-  <output>I usually take <f confidence="1.0" id="1">some</f>  photos every day and then put them online for my friends to see .</output>
+  <output>I usually take <f confidence="0.0" id="1">some<alt confidence="-5.435340674109595">a few</alt></f>  photos every day and then put them online for my friends to see .</output>
 </s>
 <s source="Bernard De Clerck" id="463">
   <input>They began painting , but found the walls were too wet . While they waited for the walls to dry , Ann <f id="1">se souvenait</f>  she had a phone call to make .</input>
@@ -1813,7 +1813,7 @@
 </s>
 <s source="Corpus Linguistics: Investigating Language Structure and Use" id="464">
   <input><f id="1">Ces dernières années</f>  , on-line corpora and analysis tools have become increasingly accessible , and corpus-based studies have become increasingly common .</input>
-  <output><f confidence="-2.079441541679836" id="1">in recent years<alt confidence="-11.33161943943994">In previous years</alt><alt confidence="-24.240349192190727">Over the years , I 've become</alt><alt confidence="-10.848842639971615">In recent decades</alt><alt confidence="-10.356364588989514">Over this period</alt><alt confidence="-8.189726786898817">Over recent years</alt><alt confidence="-13.508494669023456">Over these years</alt><alt confidence="-11.702707977405563">During recent years</alt><alt confidence="-14.65890532542985">This few</alt><alt confidence="-10.028282834324894">In recent times</alt><alt confidence="-3.9281863035615103">over recent years</alt><alt confidence="-12.956823152005764">Last few years</alt><alt confidence="-4.0668617115735515">In recent years</alt><alt confidence="-11.953198140640517">In past years</alt><alt confidence="-20.84321116378569">As you know , in recent years</alt><alt confidence="-38.07203241707264">Over the years , he´s uncovered a</alt><alt confidence="-14.743150006227232">Recent years</alt><alt confidence="-10.909265696430928">In years past</alt><alt confidence="-25.6376647171057">Over the years , he 's uncovered</alt><alt confidence="-8.363452553342675">recent years</alt></f>  , on-line corpora and analysis tools have become increasingly accessible , and corpus-based studies have become increasingly common .</output>
+  <output><f confidence="-2.3513763619248707" id="1">in recent years<alt confidence="-12.841259416657362">The past few years</alt><alt confidence="-14.451060497630912">During the last few years</alt><alt confidence="-13.857358973876753">These last few years</alt><alt confidence="-12.225133067552825">In past years</alt><alt confidence="-16.826061661541097">In the last couple of years</alt><alt confidence="-4.3387958873742924">In recent years</alt><alt confidence="-11.120777566883923">In recent decades</alt><alt confidence="-10.554102801698928">In the last few years</alt><alt confidence="-9.700915880035822">Over the past few years</alt><alt confidence="-10.628299515901823">Over this period</alt><alt confidence="-10.300217761237203">In recent times</alt><alt confidence="-15.540559499005322">During the past years</alt><alt confidence="-23.759345931707763">Compared with several years ago</alt><alt confidence="-15.520888734830343">- In recent years</alt><alt confidence="-13.780429595935765">Over these years</alt><alt confidence="-16.11256277331662">In the course of this year</alt><alt confidence="-14.851271431093146">Over the last years</alt><alt confidence="-8.461658746535516">Over recent years</alt><alt confidence="-11.490543270989612">In the past few years</alt><alt confidence="-8.950738437374689">) In recent years</alt><alt confidence="-13.228758078918073">Last few years</alt><alt confidence="-11.603554366352249">In previous years</alt><alt confidence="-11.181200623343237">In years past</alt><alt confidence="-14.559993726053868">The last few years</alt><alt confidence="-3.393638329322215">recent years</alt><alt confidence="-10.78474636999755">Over the last few years</alt><alt confidence="-11.487768657229878">Over the past years</alt><alt confidence="-11.974642904317871">During recent years</alt><alt confidence="-4.200121763805451">over recent years</alt><alt confidence="-13.054255976869992">In the past years</alt><alt confidence="-22.33850816905467">Surely over the past few years</alt></f>  , on-line corpora and analysis tools have become increasingly accessible , and corpus-based studies have become increasingly common .</output>
 </s>
 <s source="Bernard De Clerck" id="465">
   <input>In percentage terms , Russia 's economy <f id="1">avait diminué</f>  by a larger amount in the 1990 s than the American economy during the Great Depression .</input>
@@ -1877,7 +1877,7 @@
 </s>
 <s category="a" source="translated from: LeNouvelliste.ch" id="480">
   <input>The minimum wage demanded by the proposal would be <f id="1">le plus élevé au monde</f>  .</input>
-  <output>The minimum wage demanded by the proposal would be <f confidence="0.0" id="1">the highest in the world<alt confidence="-18.726842589291294">I.Q. than any man alive .</alt></f>  .</output>
+  <output>The minimum wage demanded by the proposal would be <f confidence="1.0" id="1">the highest in the world</f>  .</output>
 </s>
 <s category="v" source="translated from: Le Monde " id="481">
   <input>The old man <f id="1">fête fièrement</f>  the 96 years of the Red Army .</input>
@@ -1909,7 +1909,7 @@
 </s>
 <s category="adv" source="Listenaminute.com" id="488">
   <input>He 's <f id="1">tout à fait</f>  unbelievable .</input>
-  <output>He 's <f confidence="0.0" id="1">quite<alt confidence="-16.83085926308504">very much</alt><alt confidence="-1.8105451111326178">absolutely</alt><alt confidence="-8.878049679644718">completely</alt><alt confidence="-40.64109095126498">inconvenient of any woman</alt><alt confidence="-15.861532335362671">utterly</alt><alt confidence="-36.943833060805055">incorrect right there</alt><alt confidence="-13.750525376258073">entirely</alt><alt confidence="-10.516525272405675">perfectly</alt><alt confidence="-3.5689182824489905">totally</alt></f>  unbelievable .</output>
+  <output>He 's <f confidence="1.0" id="1">absolutely</f>  unbelievable .</output>
 </s>
 <s source="The Economist" id="489">
   <input>Harold Pinter 's screenplay , written in 1972 but never filmed , will be published in America <f id="1">pour la première fois</f>  .</input>
@@ -1917,7 +1917,7 @@
 </s>
 <s source="Bernard De Clerck" id="490">
   <input><f id="1">Un jour</f>  in 1987 , John Leaf , the manager of several successful musicians , was having a meeting with the headmaster when he heard Colin practising .</input>
-  <output><f confidence="-0.11311449269334162" id="1">One day<alt confidence="-10.511897144520988">And , in time ,</alt><alt confidence="-0.98083094051199">A day</alt><alt confidence="-3.8760244158547126">One time</alt></f>  in 1987 , John Leaf , the manager of several successful musicians , was having a meeting with the headmaster when he heard Colin practising .</output>
+  <output><f confidence="-0.11311449269334162" id="1">One day<alt confidence="-5.841488850148151">I put a Mars Bar</alt><alt confidence="-6.736663432746226">one day you are</alt><alt confidence="-0.9808311905137242">A day</alt><alt confidence="-3.876021565855052">One time</alt></f>  in 1987 , John Leaf , the manager of several successful musicians , was having a meeting with the headmaster when he heard Colin practising .</output>
 </s>
 <s source="Bernard De Clerck" id="491">
   <input>Even the old village shop is n't there anymore – it has been <f id="1">changé en</f>  one of those awful cafés where everything seems to be made of plastic , and a big sign has been put outside saying " Ye Olde Tea Shoppe " .</input>
@@ -1925,7 +1925,7 @@
 </s>
 <s source="Bernard De Clerck" id="492">
   <input>Probably they had heard the lift coming up and had <f id="1">pris l' escalier de secours</f>  .</input>
-  <output>Probably they had heard the lift coming up and had <f confidence="0.0" id="1">the fire escape<alt confidence="-21.71132904723511">the fire escape , sent you to</alt></f>  .</output>
+  <output>Probably they had heard the lift coming up and had <f confidence="1.0" id="1">the fire escape</f>  .</output>
 </s>
 <s category="n" source="translated from: LeNouvelliste.ch" id="493">
   <input>The Genevan prison was the scene of confrontation between <f id="1">les détenus</f>  since Sunday .</input>
@@ -1941,7 +1941,7 @@
 </s>
 <s source="Bernard De Clerck" id="496">
   <input><f id="1">Récemment</f>  there have been three fatal small plane crashes in the Los Angeles area .</input>
-  <output><f confidence="-1.0986122886681096" id="1">recently<alt confidence="-2.8352317409234047">Recently</alt></f>  there have been three fatal small plane crashes in the Los Angeles area .</output>
+  <output><f confidence="-1.0986122886681096" id="1">recently<alt confidence="-2.8352317409234047">Recently</alt><alt confidence="-7.234702225435116">Just recently</alt></f>  there have been three fatal small plane crashes in the Los Angeles area .</output>
 </s>
 <s category="n" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="497">
   <input>Google is investing $ 1 billion in <f id="1">l' énergie renouvelable</f>  , like solar energy and wind farms .</input>
@@ -1949,7 +1949,7 @@
 </s>
 <s source="Bernard De Clerck" id="498">
   <input>The jewellery , which in fact she did not really like had been given her by her aunt , who had died <f id="1">il y a quelques années</f>  .</input>
-  <output>The jewellery , which in fact she did not really like had been given her by her aunt , who had died <f confidence="-0.6948161042193988" id="1">a few years ago<alt confidence="-4.212230883090411">several years ago</alt><alt confidence="-4.385588458975978">a couple years ago</alt><alt confidence="-1.4350855252898225">a few years</alt><alt confidence="-4.201053533160722">some years back</alt><alt confidence="-4.373487926959958">a couple of years ago</alt></f>  .</output>
+  <output>The jewellery , which in fact she did not really like had been given her by her aunt , who had died <f confidence="-0.6948161042193988" id="1">a few years ago<alt confidence="-4.112147845585971">several years ago</alt><alt confidence="-4.285506588138691">a couple years ago</alt><alt confidence="-2.944440400219483">a few years</alt><alt confidence="-4.50643542043116">some years back</alt><alt confidence="-4.966553820015681">a couple of years ago</alt></f>  .</output>
 </s>
 <s category="n" source="Listenaminute.com" id="499">
   <input>I hate <f id="1">la vue du</f>  blood .</input>
@@ -1965,7 +1965,7 @@
 </s>
 <s category="n" source="translated from: Le Monde " id="502">
   <input>The Assembly and Senat will vote on <f id="1">la poursuite de</f>  operation Sangaris in Central Africa .</input>
-  <output>The Assembly and Senat will vote on <f confidence="-1.203971304325561" id="1">the continued<alt confidence="-13.674812937924965">the future course of</alt><alt confidence="-8.9135613997103">the pursuit of</alt><alt confidence="-10.642212582911935">whether to continue</alt><alt confidence="-7.32726774732413">the continuation of</alt><alt confidence="-9.19644795507612">pursuing</alt><alt confidence="-3.9118009913602716">continuing</alt><alt confidence="-10.648641861008596">its continued</alt><alt confidence="-4.784547681010778">the further</alt><alt confidence="-1.5194321561889497">the continuing</alt><alt confidence="-12.353252904546817">the course of further</alt><alt confidence="-2.9275730016833137">further</alt></f>  operation Sangaris in Central Africa .</output>
+  <output>The Assembly and Senat will vote on <f confidence="-0.4054651081081643" id="1">the continued<alt confidence="-5.410699647165856">continued</alt></f>  operation Sangaris in Central Africa .</output>
 </s>
 <s category="n" source="http://www.breakingnewsenglish.com/ by Sean Banville" id="503">
   <input><f id="1">L' embouteillage</f>  started on August 14th when roadworks began .</input>

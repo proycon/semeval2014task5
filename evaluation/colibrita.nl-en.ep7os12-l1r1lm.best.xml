@@ -53,7 +53,7 @@
 </s>
 <s source="The Atlantic" id="14">
   <input>College-level marriage courses became even more popular during the post-World War II period , when marriage rates were at an all-time high and women were encouraged to embrace a new role as happy <f id="1">huisvrouwen</f>  .</input>
-  <output>College-level marriage courses became even more popular during the post-World War II period , when marriage rates were at an all-time high and women were encouraged to embrace a new role as happy <f confidence="1.0" id="1">housewives</f>  .</output>
+  <output>College-level marriage courses became even more popular during the post-World War II period , when marriage rates were at an all-time high and women were encouraged to embrace a new role as happy <f confidence="0.0" id="1">housewives<alt confidence="-6.154377990803587">home carers</alt></f>  .</output>
 </s>
 <s source="The Economist" id="15">
   <input>The Japanese prime minister is visiting Washington on 15 June : the trip will mark another stage in his ritual <f id="1">om het gezicht te redden</f>  exit .</input>
@@ -133,7 +133,7 @@
 </s>
 <s source="TVTropes" id="34">
   <input>We are here to recognize tropes and <f id="1">ermee te spelen</f>  , not to make fun of them .</input>
-  <output>We are here to recognize tropes and <f confidence="1.0" id="1">them as toys ,</f>  , not to make fun of them .</output>
+  <output>We are here to recognize tropes and <f confidence="0.0" id="1">. I bet you were fooling around<alt confidence="-4.686859227590773">bet you were fooling around .</alt><alt confidence="-3.4101913666753045">with his little pee-pee .</alt><alt confidence="-0.7211120698764955">them as toys ,</alt></f>  , not to make fun of them .</output>
 </s>
 <s source="Wikipedia" id="35">
   <input>The Russian Navy <f id="1">vliegdekschip</f>  Admiral Kuznetsov is the first STOBAR carrier .</input>
@@ -177,7 +177,7 @@
 </s>
 <s source="Bernard De Clerck" id="46">
   <input>Today , there are several variants of health plans on offer , some <f id="1">exclusief</f>  for women .</input>
-  <output>Today , there are several variants of health plans on offer , some <f confidence="0.0" id="1">exclusively<alt confidence="-4.9977903561566706">exclusive</alt><alt confidence="-6.077253760677735">exclusives</alt></f>  for women .</output>
+  <output>Today , there are several variants of health plans on offer , some <f confidence="1.0" id="1">exclusive</f>  for women .</output>
 </s>
 <s source="The Guardian" id="47">
   <input>Progressive politicians must take it as a principle that parents love their children with the same intensity regardless of income bracket , and they must make this principle the <f id="1">grondslag</f>  of their political activity .</input>
@@ -205,7 +205,7 @@
 </s>
 <s source="Bernard De Clerck" id="53">
   <input>I have hypoglycemia , and I know that every time I do n't eat for a while and my blood sugar gets low I feel like <f id="1">ik ga flauwvallen</f>  .</input>
-  <output>I have hypoglycemia , and I know that every time I do n't eat for a while and my blood sugar gets low I feel like <f confidence="1.0" id="1">going to faint .</f>  .</output>
+  <output>I have hypoglycemia , and I know that every time I do n't eat for a while and my blood sugar gets low I feel like <f confidence="1.0" id="1">'m gonna pass out</f>  .</output>
 </s>
 <s source="Bernard De Clerck" id="54">
   <input>Recently the trend <f id="1">is terug geslingerd</f>  in favour of large carcasses and the Longhorn , able to make meat from grass and hardy enough to live out without pampering , is ready for the challenge .</input>
@@ -229,7 +229,7 @@
 </s>
 <s source="The Guardian" id="59">
   <input>" <f id="1">De ervaring</f>  shows us that in cases of serious illness and imminent death , minors develop very quickly a great maturity , to the point where they are often better able to reflect and express themselves on life than healthy people , " said their statement .</input>
-  <output>" <f confidence="0.0" id="1">Experience<alt confidence="-14.82160257499564">From experience</alt><alt confidence="-12.45004286474947">' experience</alt><alt confidence="-14.452024773093544">although experience</alt><alt confidence="-19.56470083167321">The world around</alt><alt confidence="-13.455008661430305">After all , experience</alt><alt confidence="-16.87296481219406">Past disasters</alt><alt confidence="-13.832695237011794">Indeed , experience</alt><alt confidence="-14.900455522539264">Now , experience</alt><alt confidence="-18.788984781762483">Nonetheless , experience</alt><alt confidence="-14.334951445849843">Previous experience</alt><alt confidence="-8.713350993950256">The experience</alt><alt confidence="-18.54127130589118">The experiences</alt><alt confidence="-20.527896261112662">In particular , experience</alt><alt confidence="-14.729319891860435">We know from experience</alt><alt confidence="-17.96026642360434">The sensation</alt><alt confidence="-18.998765941312886">The expertise</alt><alt confidence="-14.329750827158794">Current experience</alt><alt confidence="-9.772404979612308">the experience</alt><alt confidence="-11.234880752425944">Unfortunately , experience</alt><alt confidence="-10.28611026414856">s experience</alt><alt confidence="-6.987053434169077">Past experience</alt><alt confidence="-18.60955077270373">I believe the experience</alt><alt confidence="-19.00604072865568">However , the experience</alt><alt confidence="-9.145896797667513">Our experience</alt><alt confidence="-8.788228886900436">However , experience</alt><alt confidence="-15.285718994611816">However experience</alt><alt confidence="-13.73682190268267">Moreover , experience</alt></f>  shows us that in cases of serious illness and imminent death , minors develop very quickly a great maturity , to the point where they are often better able to reflect and express themselves on life than healthy people , " said their statement .</output>
+  <output>" <f confidence="0.0" id="1">Experience<alt confidence="-10.037598017794455">Unfortunately , experience</alt><alt confidence="-6.195236740978277">Past experience</alt><alt confidence="-9.15258591736189">Our experience</alt><alt confidence="-12.635409652382801">Indeed , experience</alt><alt confidence="-9.200384064703048">However , experience</alt><alt confidence="-13.638149540054311">Moreover , experience</alt><alt confidence="-13.1324652425298">Current experience</alt></f>  shows us that in cases of serious illness and imminent death , minors develop very quickly a great maturity , to the point where they are often better able to reflect and express themselves on life than healthy people , " said their statement .</output>
 </s>
 <s source="The Economist" id="60">
   <input>Mr Olmi , whose first film " The Job " , 1961 , was also in the neo-realist vein , has evolved into an artist <f id="1">van een heel andere orde</f>  .</input>
@@ -253,11 +253,11 @@
 </s>
 <s source="Wikipedia" id="65">
   <input>Comparing YTD measures can be misleading if not much of the year has occurred , or the date is not clear ; YTD measures are <f id="1">gevoeliger</f>  to early changes than late changes .</input>
-  <output>Comparing YTD measures can be misleading if not much of the year has occurred , or the date is not clear ; YTD measures are <f confidence="1.0" id="1">sensitive</f>  to early changes than late changes .</output>
+  <output>Comparing YTD measures can be misleading if not much of the year has occurred , or the date is not clear ; YTD measures are <f confidence="-0.6931486805603204" id="1">more prone<alt confidence="-1.2995398986573719">more sensitive</alt></f>  to early changes than late changes .</output>
 </s>
 <s source="Bernard De Clerck" id="66">
   <input><f id="1">Hoor je</f>  anything ? I am listening hard but I ca n't hear anything .</input>
-  <output><f confidence="1.0" id="1">You hear</f>  anything ? I am listening hard but I ca n't hear anything .</output>
+  <output><f confidence="0.0" id="1">You hear<alt confidence="-4.4259821147000675">- You hear</alt></f>  anything ? I am listening hard but I ca n't hear anything .</output>
 </s>
 <s source="Bernard De Clerck" id="67">
   <input>But I know he wants to be home early tonight because he is expecting an important <f id="1">telefoontje</f>  .</input>
@@ -281,7 +281,7 @@
 </s>
 <s source="American Dad, 42-Year-Old Virgin script" id="72">
   <input>We 're in a bit of a hurry , we have to catch <f id="1">een komeet</f>  .</input>
-  <output>We 're in a bit of a hurry , we have to catch <f confidence="0.0" id="1">a comet<alt confidence="-9.605950117088259">on up .</alt></f>  .</output>
+  <output>We 're in a bit of a hurry , we have to catch <f confidence="1.0" id="1">a comet</f>  .</output>
 </s>
 <s source="Bernard De Clerck" id="73">
   <input>When he had seen his wife off at the station , he <f id="1">ging naar huis terug</f>  as he did n't have to be at the airport till 9.30 .</input>
@@ -337,7 +337,7 @@
 </s>
 <s source="The Guardian" id="86">
   <input>The Hollywood actors had become <f id="1">verwikkeld</f>  in one of the fiercest of all heritage controversies : should the Elgin marbles , removed from the Parthenon 200 years ago , be housed in London or in Athens ?</input>
-  <output>The Hollywood actors had become <f confidence="-1.1190381187211642" id="1">embroiled<alt confidence="-1.3862943611198906">involved</alt></f>  in one of the fiercest of all heritage controversies : should the Elgin marbles , removed from the Parthenon 200 years ago , be housed in London or in Athens ?</output>
+  <output>The Hollywood actors had become <f confidence="-1.1190381187211642" id="1">embroiled<alt confidence="-1.3862928611217655">involved</alt><alt confidence="-5.075632852222432">caught up</alt></f>  in one of the fiercest of all heritage controversies : should the Elgin marbles , removed from the Parthenon 200 years ago , be housed in London or in Athens ?</output>
 </s>
 <s source="Bernard De Clerck" id="87">
   <input>Keegan passes to Smith , who runs straight at the <f id="1">centrale verdediging</f>  and shoots , and Gomez pushes it over the bar for a corner .</input>
@@ -357,7 +357,7 @@
 </s>
 <s source="The Economist" id="91">
   <input>In the story of Giovanni Medici , head of the papal army , who died in 1526 of cannon wounds <f id="1">aan de oevers</f>  of the river Po , Mr Olmi finds a portent for the destructive power of warfare today .</input>
-  <output>In the story of Giovanni Medici , head of the papal army , who died in 1526 of cannon wounds <f confidence="-0.916290731874155" id="1">on the shores<alt confidence="-2.1905012143624845">on the banks</alt><alt confidence="-21.028888249019992">by the banks of</alt><alt confidence="-6.034802676134577">from the banks</alt></f>  of the river Po , Mr Olmi finds a portent for the destructive power of warfare today .</output>
+  <output>In the story of Giovanni Medici , head of the papal army , who died in 1526 of cannon wounds <f confidence="-0.9162915985413129" id="1">on the shores<alt confidence="-2.1905012143624845">on the banks</alt><alt confidence="-6.034804342801415">from the banks</alt><alt confidence="-13.136055307714866">up on the banks</alt></f>  of the river Po , Mr Olmi finds a portent for the destructive power of warfare today .</output>
 </s>
 <s source="Bernard De Clerck" id="92">
   <input>When the plane had landed , we were taken <f id="1">direct naar</f>  the hotel .</input>
@@ -369,7 +369,7 @@
 </s>
 <s source="Bernard De Clerck" id="94">
   <input>I see that you are becoming impatient with me , but I <f id="1">doe mijn best</f>  to do it properly .</input>
-  <output>I see that you are becoming impatient with me , but I <f confidence="0.0" id="1">do my best<alt confidence="-13.101866102376142">try my best to</alt><alt confidence="-26.798594448718436">try my best to get her .</alt><alt confidence="-2.3113907816166925">will try not</alt></f>  to do it properly .</output>
+  <output>I see that you are becoming impatient with me , but I <f confidence="0.0" id="1">do my best<alt confidence="-4.823185021450234">'m trying my best</alt><alt confidence="-3.2731015457178123">'m doing my best</alt><alt confidence="-2.3113902244741573">will try not</alt></f>  to do it properly .</output>
 </s>
 <s source="The Economist" id="95">
   <input>Unicef , the United Nations Children ’ s Fund , recently declared Angola the worst place in the world for children <f id="1">om in op te groeien</f>  .</input>
@@ -381,7 +381,7 @@
 </s>
 <s source="Clin2014 speech" id="97">
   <input>They serve as examples when it comes to demonstrating how science and experimenting – however amateurish – and commercial interests can <f id="1">samengaan</f>  , to serve the needs of the user through technological development .</input>
-  <output>They serve as examples when it comes to demonstrating how science and experimenting – however amateurish – and commercial interests can <f confidence="1.0" id="1">unification</f>  , to serve the needs of the user through technological development .</output>
+  <output>They serve as examples when it comes to demonstrating how science and experimenting – however amateurish – and commercial interests can <f confidence="1.0" id="1">go together</f>  , to serve the needs of the user through technological development .</output>
 </s>
 <s source="The Guardian" id="98">
   <input>Of course , we live under different kinds of legal conditions – in the west and in developed nations there are other laws that can balance or restrain the <f id="1">informatiegebruik</f>  if the government has it .</input>
@@ -417,11 +417,11 @@
 </s>
 <s source="Bernard De Clerck" id="106">
   <input>Women have often preferred younger men , and why not , when so many of these men were <f id="1">opgevoed</f>  by women my age , who encouraged them to cook , to clean , to care and to chat ?</input>
-  <output>Women have often preferred younger men , and why not , when so many of these men were <f confidence="1.0" id="1">raised</f>  by women my age , who encouraged them to cook , to clean , to care and to chat ?</output>
+  <output>Women have often preferred younger men , and why not , when so many of these men were <f confidence="0.0" id="1">raised<alt confidence="-5.619095347601527">brought up</alt></f>  by women my age , who encouraged them to cook , to clean , to care and to chat ?</output>
 </s>
 <s source="Huffington Post" id="107">
   <input>Millennials like their " hookup culture " , they might want to <f id="1">trouwen</f>  , someday , maybe ?</input>
-  <output>Millennials like their " hookup culture " , they might want to <f confidence="1.0" id="1">marry</f>  , someday , maybe ?</output>
+  <output>Millennials like their " hookup culture " , they might want to <f confidence="-0.5149777612183186" id="1">get married<alt confidence="-1.037990056558919">marry</alt></f>  , someday , maybe ?</output>
 </s>
 <s source="Clin2014 speech" id="108">
   <input>Crossing borders , literally and figuratively , with the prime objective <f id="1">het creëren van</f>  undisputed added value for scientific endeavour , education , culture and the economy .</input>
@@ -473,7 +473,7 @@
 </s>
 <s source="Washington Post" id="120">
   <input>He moved out of my condo once without telling me while I was on a business trip , then moved back in a year later , a few months before <f id="1">de verloving</f>  .</input>
-  <output>He moved out of my condo once without telling me while I was on a business trip , then moved back in a year later , a few months before <f confidence="1.0" id="1">courtship commence .</f>  .</output>
+  <output>He moved out of my condo once without telling me while I was on a business trip , then moved back in a year later , a few months before <f confidence="0.0" id="1">engagement<alt confidence="-30.263515614811094">tape , she called off the engagement</alt></f>  .</output>
 </s>
 <s source="TVTropes" id="121">
   <input>While he became the Fat Bastard in old age , Herman Göring was a dashing fighter pilot in his youth and diagnosed as <f id="1">een narcistische sociopaat</f>  during the Nuremberg trials .</input>
@@ -533,7 +533,7 @@
 </s>
 <s source="Bernard De Clerck" id="136">
   <input>Were he to win next Sunday , which is by no means <f id="1">uitgesloten</f>  , it would make this an extraordinary Masters ; perhaps even the most extraordinary of all .</input>
-  <output>Were he to win next Sunday , which is by no means <f confidence="0.0" id="1">excluded<alt confidence="-5.138757157233651">excludes</alt><alt confidence="-7.084045146224453">exclusion</alt><alt confidence="-9.509406989157764">excluding</alt><alt confidence="-11.09653307027872">excluded ,</alt><alt confidence="-13.73671328054412">precluded</alt><alt confidence="-32.18249055413288">it , I became obsessed with owning</alt><alt confidence="-12.108709289101466">marginalized</alt><alt confidence="-14.262842461367779">debarred</alt><alt confidence="-11.356567911277619">exempt</alt><alt confidence="-10.366322687198956">exclude</alt><alt confidence="-7.088627995033029">eliminated</alt><alt confidence="-11.124485534310121">STDs</alt></f>  , it would make this an extraordinary Masters ; perhaps even the most extraordinary of all .</output>
+  <output>Were he to win next Sunday , which is by no means <f confidence="0.0" id="1">excluded<alt confidence="-5.1552882009875605">excludes</alt><alt confidence="-10.438909811391861">rule out</alt><alt confidence="-8.972524518736476">being excluded</alt><alt confidence="-7.100575012201242">exclusion</alt><alt confidence="-9.120474224803965">excluding</alt><alt confidence="-9.392913235627146">out of the question</alt><alt confidence="-6.546797233179245">been left out</alt><alt confidence="-13.753244324298027">precluded</alt><alt confidence="-12.125240332855373">marginalized</alt><alt confidence="-6.640203805783855">been excluded</alt><alt confidence="-13.261601420929129">not excluded</alt><alt confidence="-7.525812154393445">ruled out</alt><alt confidence="-14.279373505121686">debarred</alt><alt confidence="-11.373098955031526">exempt</alt><alt confidence="-10.382853170953638">exclude</alt><alt confidence="-7.105160338787394">eliminated</alt><alt confidence="-26.31771457979527">out cancer , MS , pyridoxine toxicity</alt><alt confidence="-11.334160567716978">have been excluded</alt><alt confidence="-11.141017878064487">STDs</alt></f>  , it would make this an extraordinary Masters ; perhaps even the most extraordinary of all .</output>
 </s>
 <s source="The Atlantic" id="137">
   <input>The prerequisite for honest dialogue is an admission that blackness is uncomfortable to others , and that this fact influences the behavior of us all , <f id="1">bestrijden</f>  this harmful notion is hard work .</input>
@@ -593,7 +593,7 @@
 </s>
 <s source="Flash Fiction Online" id="151">
   <input>“ I ’ d like my own reality show , ” she said , and her gossamer wings fluttered , catching the light like fish scales in still water , the faerie equivalent of batting <f id="1">wimpers</f>  .</input>
-  <output>“ I ’ d like my own reality show , ” she said , and her gossamer wings fluttered , catching the light like fish scales in still water , the faerie equivalent of batting <f confidence="-0.47466156856654607" id="1">eyelashes<alt confidence="-0.8979400578529193">lashes</alt></f>  .</output>
+  <output>“ I ’ d like my own reality show , ” she said , and her gossamer wings fluttered , catching the light like fish scales in still water , the faerie equivalent of batting <f confidence="-0.47466156856654607" id="1">eyelashes<alt confidence="-26.9173215258213">n't think these false eyelashes become you</alt><alt confidence="-12.789458382253079">and relax your eyes</alt><alt confidence="-5.235502168895428">your eyelashes</alt><alt confidence="-0.8979404618932159">lashes</alt></f>  .</output>
 </s>
 <s source="Clin2014 speech" id="152">
   <input>The Language Union is involved in a wide range of activities such as language education , the history of literature , linguistic advice , the description of the language itself and the use of Dutch <f id="1">binnen en buiten</f>  our language area .</input>
@@ -601,7 +601,7 @@
 </s>
 <s source="The Economist" id="153">
   <input>As health officials defend their drastic policy to contain the spread of <f id="1">mond - en klauwzeer</f>  , the debate about the future of intensive farming and cheap food production is becoming even more intense .</input>
-  <output>As health officials defend their drastic policy to contain the spread of <f confidence="-0.6931486805603204" id="1">foot-and-mouth disease<alt confidence="-7.046933653377124">foot and mouth disease</alt></f>  , the debate about the future of intensive farming and cheap food production is becoming even more intense .</output>
+  <output>As health officials defend their drastic policy to contain the spread of <f confidence="0.0" id="1">foot-and-mouth disease<alt confidence="-8.838695622608304">foot and mouth disease</alt><alt confidence="-4.565243196762745">FMD</alt></f>  , the debate about the future of intensive farming and cheap food production is becoming even more intense .</output>
 </s>
 <s source="The Economist" id="154">
   <input>After countries around the world banned food imports from Europe , a <f id="1">massaslachting</f>  of farm animals has begun in Britain .</input>
@@ -661,7 +661,7 @@
 </s>
 <s source="wiki.answers.com" id="168">
   <input>However , this is just not going to happen <f id="1">nog een tijdje</f>  , for the simple reason that there are only 182 fully qualified BSL-English interpreters in Britain .</input>
-  <output>However , this is just not going to happen <f confidence="-0.5877866649021191" id="1">some time yet<alt confidence="-10.042280275646906">going to stay</alt><alt confidence="-10.90957658194424">'ll stick around</alt><alt confidence="-18.733467954243455">you going to be in Fraziers Bottom</alt><alt confidence="-18.88437991160655">and back and ... I ca n't</alt><alt confidence="-14.936400713662298">the boys might be</alt><alt confidence="-19.264381561502606">while ? Why not ?</alt><alt confidence="-19.76298034417889">you guys for a while .</alt><alt confidence="-19.40611506852355">with the Younger gang for a while</alt><alt confidence="-17.070055510000323">isolate myself a</alt><alt confidence="-23.52656972444672">feel tight for a while , but</alt><alt confidence="-24.59521398237539">'ll stick around for a while .</alt><alt confidence="-31.18895213698983">Owl goes on for a while .</alt><alt confidence="-13.013155922847549">for a little longer in</alt><alt confidence="-14.549534191832045">like that for a while . ..</alt><alt confidence="-29.503692640271115">the Younger Gang for a while before</alt><alt confidence="-8.407683657663378">could laze around here</alt><alt confidence="-14.370020942127155">'ll be having nightmares</alt><alt confidence="-17.29400124202471">with us for a little while .</alt><alt confidence="-2.504271536384839">for a while yet</alt><alt confidence="-2.4990300459250294">around for a while</alt><alt confidence="-19.11807186080018">thing may be pumping</alt><alt confidence="-25.484336713043664">be moving around for a little while</alt><alt confidence="-21.77020226538722">be around for a while , you</alt><alt confidence="-7.516890832075011">with the Younger</alt><alt confidence="-17.931871884050796">I really wish you 'd stay here</alt><alt confidence="-7.780931728550321">around for a</alt><alt confidence="-17.830750636072825">to it for me . Just for</alt><alt confidence="-22.10455465003557">more , then quit .</alt><alt confidence="-32.95311684993383">stay here forever ? Play it that</alt><alt confidence="-19.16165242833825">be with you a</alt><alt confidence="-39.69498906338797">stuck here a fucking while .</alt><alt confidence="-18.369242175986336">you 'll be spending a little more</alt><alt confidence="-8.994562151285923">the Younger</alt><alt confidence="-11.480655677660796">we kept in</alt></f>  , for the simple reason that there are only 182 fully qualified BSL-English interpreters in Britain .</output>
+  <output>However , this is just not going to happen <f confidence="1.0" id="1">around for a while</f>  , for the simple reason that there are only 182 fully qualified BSL-English interpreters in Britain .</output>
 </s>
 <s source="Bernard De Clerck" id="169">
   <input>Her reliability had always <f id="1">in vraag gesteld</f>  by everyone and they were proven right by the mess she had made .</input>
@@ -713,7 +713,7 @@
 </s>
 <s source="Clin2014 speech" id="181">
   <input>If we wish to make our redefined role truly sustainable , then we need to put effort into <f id="1">de oprichting van</f>  a place where language-related initiatives can be assessed as to their social relevance , aligned and potentially exchanged with other players in our language area .</input>
-  <output>If we wish to make our redefined role truly sustainable , then we need to put effort into <f confidence="0.0" id="1">the creation of<alt confidence="-1.9955903213910369">the establishment of</alt></f>  a place where language-related initiatives can be assessed as to their social relevance , aligned and potentially exchanged with other players in our language area .</output>
+  <output>If we wish to make our redefined role truly sustainable , then we need to put effort into <f confidence="0.0" id="1">the creation of<alt confidence="-1.2296459360463268">setting up</alt><alt confidence="-1.9955903213910369">the establishment of</alt></f>  a place where language-related initiatives can be assessed as to their social relevance , aligned and potentially exchanged with other players in our language area .</output>
 </s>
 <s source="The Guardian" id="182">
   <input>This year , we should ask : is that political statement – that <f id="1">eender welk misbruik</f>  is fine as long as we have the right kind of sports spectacle – the message we want to send ?</input>
@@ -753,7 +753,7 @@
 </s>
 <s source="The Guardian" id="191">
   <input>There are vocal protests of Russia 's highly objectionable recent rules shutting down gay rights , its longtime battle with <f id="1">vrije meningsuiting</f>  , using poison darts for the mass killing of stray dogs , and allegations of environmental abuses .</input>
-  <output>There are vocal protests of Russia 's highly objectionable recent rules shutting down gay rights , its longtime battle with <f confidence="-0.1541513941127174" id="1">free speech<alt confidence="-10.705495065703088">free speech ,</alt><alt confidence="-5.520458428507948">First Amendment</alt><alt confidence="-2.3981359271150495">free expression</alt></f>  , using poison darts for the mass killing of stray dogs , and allegations of environmental abuses .</output>
+  <output>There are vocal protests of Russia 's highly objectionable recent rules shutting down gay rights , its longtime battle with <f confidence="0.0" id="1">freedom of expression<alt confidence="-9.570429753395118">First Amendment</alt><alt confidence="-6.673192619536466">freedom of opinion</alt><alt confidence="-21.50435135720359">my freedom of political expression</alt><alt confidence="-4.0499704820294">free speech</alt><alt confidence="-5.336600470750836">freedom of thought</alt><alt confidence="-3.8337167637537455">the freedom of speech</alt><alt confidence="-14.4634824827029">freedom of political expression</alt><alt confidence="-6.448106409144449">free expression</alt><alt confidence="-2.316055760284713">freedom of speech</alt><alt confidence="-17.257887087342468">freely express his opinion</alt><alt confidence="-7.854605083581049">the free expression of opinion</alt><alt confidence="-10.36693380398853">free expression of opinion</alt></f>  , using poison darts for the mass killing of stray dogs , and allegations of environmental abuses .</output>
 </s>
 <s source="Wikipedia" id="192">
   <input>In the European Union , a " VAT union " is in force : the merchant selling to a buyer in a different EU member country adds the VAT of his own country to the price , and the buyer pays <f id="1">geen bijkomstige heffing</f>  .</input>
@@ -829,7 +829,7 @@
 </s>
 <s source="Bernard De Clerck" id="210">
   <input>Fred : What do you do at weekends ? Frieda : It <f id="1">hangt af van</f>  the weather .</input>
-  <output>Fred : What do you do at weekends ? Frieda : It <f confidence="0.0" id="1">depends on<alt confidence="-8.86890930256503">just depends how</alt><alt confidence="-17.38972334071319">would be subject to regulatory</alt><alt confidence="-45.29625129359257">depends how late you sleep the next</alt><alt confidence="-4.690704815733987">will depend on</alt><alt confidence="-5.25007618728673">is dependent on</alt></f>  the weather .</output>
+  <output>Fred : What do you do at weekends ? Frieda : It <f confidence="1.0" id="1">depends on</f>  the weather .</output>
 </s>
 <s source="allrecipes.com" id="211">
   <input>Place the beef into a <f id="1">mengkom</f>  , and season with salt , onion , garlic salt , Italian seasoning , oregano , red pepper flakes , hot pepper sauce , and Worcestershire sauce ; mix well .</input>
@@ -869,7 +869,7 @@
 </s>
 <s source="BrainyQuote" id="220">
   <input>Try not to become a man of success , but rather try to become a man <f id="1">van waarde</f>  .</input>
-  <output>Try not to become a man of success , but rather try to become a man <f confidence="0.0" id="1">of value<alt confidence="-14.72713139466961">worth much .</alt></f>  .</output>
+  <output>Try not to become a man of success , but rather try to become a man <f confidence="0.0" id="1">of value<alt confidence="-28.398241200884744">anything of value from those bearded idiots</alt><alt confidence="-8.878850894911524">is of value</alt><alt confidence="-24.883725673745207">, " keep away from the moor</alt><alt confidence="-11.59195743689722">anything of value</alt></f>  .</output>
 </s>
 <s source="allrecipes.com" id="221">
   <input>Stir in onion , green peppers , stewed tomatoes , <f id="1">sojasaus , suiker , en zout</f>  .</input>
@@ -929,7 +929,7 @@
 </s>
 <s source="Wikipedia" id="235">
   <input>A program that saw <f id="1">de opbouw</f>  of the senior wing also included the music building , an athletic field house , and an addition to the faculty office wing .</input>
-  <output>A program that saw <f confidence="-1.1741149128404182" id="1">the development<alt confidence="-9.84654003191052">building</alt><alt confidence="-4.4647969665008045">the reconstruction</alt><alt confidence="-6.711736320783344">the rebuilding</alt><alt confidence="-7.346679456903629">the installation</alt><alt confidence="-2.607158887880127">the establishment</alt><alt confidence="-25.838977122177912">this process of building the</alt><alt confidence="-3.5067286572362004">the integration</alt><alt confidence="-20.71652249103625">this process of building</alt><alt confidence="-2.8725484853242804">the building</alt><alt confidence="-1.306169577642379">the construction</alt><alt confidence="-7.760420426423976">the shaping</alt><alt confidence="-9.475300179160318">construction</alt><alt confidence="-10.209108158627132">the building-up</alt><alt confidence="-3.7101935010173652">the structure</alt><alt confidence="-2.1554537547790775">the creation</alt><alt confidence="-11.270863748337181">our construction</alt><alt confidence="-8.636529032698531">the build-up</alt></f>  of the senior wing also included the music building , an athletic field house , and an addition to the faculty office wing .</output>
+  <output>A program that saw <f confidence="-1.2156684451378965" id="1">the development<alt confidence="-4.506348193903212">the reconstruction</alt><alt confidence="-10.250657544363238">the building-up</alt><alt confidence="-7.388228842639736">the installation</alt><alt confidence="-3.5482798846386077">the integration</alt><alt confidence="-6.7532849172341205">the rebuilding</alt><alt confidence="-14.318053379846123">the further building</alt><alt confidence="-7.801969812160083">the shaping</alt><alt confidence="-17.731756205410154">of the future structure</alt><alt confidence="-8.678081251431951">the build-up</alt><alt confidence="-11.312414339074753">our construction</alt><alt confidence="-2.9140913001747535">the building</alt><alt confidence="-19.85074283394626">see the building</alt><alt confidence="-4.369353788894614">construction</alt><alt confidence="-2.197005973512498">the creation</alt><alt confidence="-7.220860753844952">building</alt><alt confidence="-10.858081587247485">as the construction</alt><alt confidence="-2.6487095211965492">the establishment</alt><alt confidence="-18.108334096253447">a building up</alt><alt confidence="-1.3477178217110888">the construction</alt><alt confidence="-8.594266632415685">the future structure</alt><alt confidence="-3.7517385895349813">the structure</alt></f>  of the senior wing also included the music building , an athletic field house , and an addition to the faculty office wing .</output>
 </s>
 <s source="Bernard De Clerck" id="236">
   <input>King Malik dismissed this comment with a wave of his short , heavily ringed fingers and a <f id="1">minachtend gesnuif</f>  .</input>
@@ -981,11 +981,11 @@
 </s>
 <s source="TVTropes" id="248">
   <input>Note that before adding examples to this list , just like its evil <f id="1">evenbeeld</f>  , Lawful Good is only the Trope Namer .</input>
-  <output>Note that before adding examples to this list , just like its evil <f confidence="0.0" id="1">image<alt confidence="-2.679745145107872">likeness</alt></f>  , Lawful Good is only the Trope Namer .</output>
+  <output>Note that before adding examples to this list , just like its evil <f confidence="0.0" id="1">image<alt confidence="-2.6797431451072464">likeness</alt><alt confidence="-7.819091705886674">own image</alt></f>  , Lawful Good is only the Trope Namer .</output>
 </s>
 <s source="Wikipedia" id="249">
   <input>In 1931 it lost its passenger services , and it closed to <f id="1">vrachtvervoer</f>  in 1951 with its final demise even as a bypass route occurred as a result of the Beeching Axe review , closing in stages between 1966 and 1968 .</input>
-  <output>In 1931 it lost its passenger services , and it closed to <f confidence="1.0" id="1">freight</f>  in 1951 with its final demise even as a bypass route occurred as a result of the Beeching Axe review , closing in stages between 1966 and 1968 .</output>
+  <output>In 1931 it lost its passenger services , and it closed to <f confidence="-0.10321130446686766" id="1">freight<alt confidence="-1.0986122886681096">rail freight</alt></f>  in 1951 with its final demise even as a bypass route occurred as a result of the Beeching Axe review , closing in stages between 1966 and 1968 .</output>
 </s>
 <s source="Washington Post" id="250">
   <input>See , China faces Kim ’ s South Korean women ’ s team Friday in round-robin play , putting her husband in an <f id="1">toegegeven</f>  precarious position : rooting for his wife to beat the snot out of his homeland .</input>
@@ -1009,7 +1009,7 @@
 </s>
 <s source="BrainyQuote" id="255">
   <input>Man cannot live by bread alone ; he must have <f id="1">pindakaas</f>  .</input>
-  <output>Man cannot live by bread alone ; he must have <f confidence="0.0" id="1">butter<alt confidence="-11.591972330013546">butter .</alt><alt confidence="-23.99803665586289">. . . . . to peanut</alt></f>  .</output>
+  <output>Man cannot live by bread alone ; he must have <f confidence="1.0" id="1">butter</f>  .</output>
 </s>
 <s source="Bernard De Clerck" id="256">
   <input>In the West women <f id="1">dragen normaal geen</f>  veils .</input>
@@ -1033,7 +1033,7 @@
 </s>
 <s source="Bernard De Clerck" id="261">
   <input>Grapes <f id="1">groeien niet</f>  in northern climates , unless one keeps them in a hot-house .</input>
-  <output>Grapes <f confidence="1.0" id="1">n't grow</f>  in northern climates , unless one keeps them in a hot-house .</output>
+  <output>Grapes <f confidence="0.0" id="1">do n't grow<alt confidence="-3.4869738283712124">tulips .</alt><alt confidence="-6.107982703131757">are growing , not</alt><alt confidence="-5.753877812537599">n't grow on trees</alt><alt confidence="-0.5080242408516293">n't grow</alt><alt confidence="-12.991489218257023">n't grow on trees .</alt></f>  in northern climates , unless one keeps them in a hot-house .</output>
 </s>
 <s source="allrecipes.com" id="262">
   <input><f id="1">Roer</f>  in garlic , bay leaf , oregano , and basil ; cook for 2 minutes .</input>
@@ -1089,7 +1089,7 @@
 </s>
 <s source="The Guardian" id="275">
   <input>We 'd expect a pair of £ 149 boots to last for months after fashion editors decree that they are no longer <f id="1">in de mode</f>  .</input>
-  <output>We 'd expect a pair of £ 149 boots to last for months after fashion editors decree that they are no longer <f confidence="-1.3862932611193954" id="1">in fashion<alt confidence="-2.9616109971444518">fashionable</alt><alt confidence="-7.744484799493908">a fashionable</alt><alt confidence="-20.642908181368487">'s in style .</alt><alt confidence="-17.451111897130573">back in fashion .</alt><alt confidence="-11.602073720997565">into fashion now</alt><alt confidence="-8.014508032315295">in vogue</alt></f>  .</output>
+  <output>We 'd expect a pair of £ 149 boots to last for months after fashion editors decree that they are no longer <f confidence="0.0" id="1">in fashion<alt confidence="-23.782584875832928">is going to come back in style</alt><alt confidence="-2.3862488966858555">fashionable</alt><alt confidence="-10.279607732720237">into fashion</alt><alt confidence="-35.50937513501598">days the fox trot may come back</alt><alt confidence="-13.10615206221831">into fashion now</alt><alt confidence="-9.51858577353713">in vogue</alt></f>  .</output>
 </s>
 <s source="Google Books" id="276">
   <input>I 'd like <f id="1">te doven</f>  that light , is n't there some way it can be done ?</input>
@@ -1109,7 +1109,7 @@
 </s>
 <s source="Google Books" id="280">
   <input>Its production lifts the silent drama to an artistic <f id="1">vlak</f>  that it has never touched before . ‎</input>
-  <output>Its production lifts the silent drama to an artistic <f confidence="-0.13353139262452285" id="1">field<alt confidence="-0.49554390309721164">level</alt><alt confidence="-0.25271331912628625">area</alt></f>  that it has never touched before . ‎</output>
+  <output>Its production lifts the silent drama to an artistic <f confidence="-0.13353139262452274" id="1">field<alt confidence="-12.436137717713672">however , measures</alt><alt confidence="-0.49554390309721175">level</alt><alt confidence="-0.25271331912628625">area</alt></f>  that it has never touched before . ‎</output>
 </s>
 <s source="Bernard De Clerck" id="281">
   <input>He squatted precariously and <f id="1">tilde de steen op</f>  in both hands and then he eased himself to his feet and scrambled back to Wexford .</input>
@@ -1117,11 +1117,11 @@
 </s>
 <s source="Wikipedia" id="282">
   <input>He has been the subject of numerous interviews in animation journals and publications and is considered part of an exclusive <f id="1">rang</f>  of premier animators in his field .</input>
-  <output>He has been the subject of numerous interviews in animation journals and publications and is considered part of an exclusive <f confidence="0.0" id="1">rank<alt confidence="-33.72152077786298">those of any rank .</alt><alt confidence="-25.615308317254524">end of it . I am the</alt><alt confidence="-13.281892208100272">rankings of</alt></f>  of premier animators in his field .</output>
+  <output>He has been the subject of numerous interviews in animation journals and publications and is considered part of an exclusive <f confidence="0.0" id="1">rank<alt confidence="-20.234435636797656">such high rank , you 're kind</alt></f>  of premier animators in his field .</output>
 </s>
 <s source="BrainyQuote" id="283">
   <input>My theory is that all of Scottish cuisine is based on <f id="1">een weddenschap</f>  .</input>
-  <output>My theory is that all of Scottish cuisine is based on <f confidence="-0.5108256237659906" id="1">a bet<alt confidence="-7.733219140343991">a dare .</alt></f>  .</output>
+  <output>My theory is that all of Scottish cuisine is based on <f confidence="1.0" id="1">a bet</f>  .</output>
 </s>
 <s source="TVTropes" id="284">
   <input>An Abandoned Warehouse screams " let 's rumble " at about the same volume that a grand but derelict house on a hill shouts " <f id="1">bovennatuurlijk en eng</f>  " .</input>
@@ -1149,11 +1149,11 @@
 </s>
 <s source="wiki.answers.com" id="290">
   <input>In principle , it also means that monolingual users of BSL should have access to <f id="1">tolkdiensten</f>  in medical consultations , job interviews , court cases and other public settings .</input>
-  <output>In principle , it also means that monolingual users of BSL should have access to <f confidence="-0.5108256237659907" id="1">interpretation<alt confidence="-4.731861641423734">interpreters</alt><alt confidence="-2.901889737297523">interpretation services</alt></f>  in medical consultations , job interviews , court cases and other public settings .</output>
+  <output>In principle , it also means that monolingual users of BSL should have access to <f confidence="1.0" id="1">interpretation services</f>  in medical consultations , job interviews , court cases and other public settings .</output>
 </s>
 <s source="Google Books" id="291">
   <input>What dark impulses lurk in our minds that even today can justify the <f id="1">uitroeiing</f>  of thousands and even millions of unarmed human beings caught in the crossfire of political , cultural , or ethnic hostilities ?</input>
-  <output>What dark impulses lurk in our minds that even today can justify the <f confidence="-1.5404450409471488" id="1">elimination<alt confidence="-8.574342744800987">culling</alt><alt confidence="-11.931915811099286">Eradication</alt><alt confidence="-3.245277544912426">eradication</alt><alt confidence="-5.189709038957464">extermination</alt><alt confidence="-7.130289249183788">annihilation</alt><alt confidence="-5.885171852458168">extinction</alt></f>  of thousands and even millions of unarmed human beings caught in the crossfire of political , cultural , or ethnic hostilities ?</output>
+  <output>What dark impulses lurk in our minds that even today can justify the <f confidence="-1.5404468552348458" id="1">elimination<alt confidence="-8.57434201908683">culling</alt><alt confidence="-5.79559407204559">total elimination</alt><alt confidence="-11.931917625386983">Eradication</alt><alt confidence="-3.245277544912426">eradication</alt><alt confidence="-5.1897108532451615">extermination</alt><alt confidence="-7.130291063471485">annihilation</alt><alt confidence="-13.84837587271119">rooting out</alt><alt confidence="-5.885172255632926">extinction</alt></f>  of thousands and even millions of unarmed human beings caught in the crossfire of political , cultural , or ethnic hostilities ?</output>
 </s>
 <s source="Clin2014 speech" id="292">
   <input>During this time , as a team we have <f id="1">kritisch onder de loep genomen</f>  at our mission and vision .</input>
@@ -1241,7 +1241,7 @@
 </s>
 <s source="Google Books" id="313">
   <input>However , the genre has <f id="1">weerstand geboden aan</f>  the negative scholarly and critical comments and for the last three decades the steady increase in the numbers of romantic comedies position the genre among the most popular ones in the globally dominant Hollywood film industry .</input>
-  <output>However , the genre has <f confidence="0.0" id="1">resisted<alt confidence="-8.290523000773529">resist</alt></f>  the negative scholarly and critical comments and for the last three decades the steady increase in the numbers of romantic comedies position the genre among the most popular ones in the globally dominant Hollywood film industry .</output>
+  <output>However , the genre has <f confidence="1.0" id="1">resisted</f>  the negative scholarly and critical comments and for the last three decades the steady increase in the numbers of romantic comedies position the genre among the most popular ones in the globally dominant Hollywood film industry .</output>
 </s>
 <s source="The Guardian" id="314">
   <input>In fact , I 'm an atheist ( always have been ) , and my motivating " belief " <f id="1">als academicus</f>  is that the secular study of religions is a crucial activity in any university .</input>
@@ -1313,7 +1313,7 @@
 </s>
 <s source="The Economist" id="331">
   <input>Bankruptcies , 25 % higher than last year , <f id="1">zijn op weg naar</f>  a record 40,000 with the loss of 600,000 jobs .</input>
-  <output>Bankruptcies , 25 % higher than last year , <f confidence="1.0" id="1">are moving to is</f>  a record 40,000 with the loss of 600,000 jobs .</output>
+  <output>Bankruptcies , 25 % higher than last year , <f confidence="1.0" id="1">and we 're on our way to</f>  a record 40,000 with the loss of 600,000 jobs .</output>
 </s>
 <s source="Bernard De Clerck" id="332">
   <input>It was a telegram from her aunt Mary , saying she was coming to <f id="1">doorbrengen</f>  the weekend with them and was arriving that evening at 6.30 .</input>
@@ -1393,7 +1393,7 @@
 </s>
 <s source="Clin2014 speech" id="351">
   <input>Ladies and gentlemen , Human Language Technology will always continue to play a <f id="1">belangrijke rol</f>  in our policy .</input>
-  <output>Ladies and gentlemen , Human Language Technology will always continue to play a <f confidence="-1.6059773441924725" id="1">key role<alt confidence="-12.514250164709441">special role</alt><alt confidence="-3.764105253816777">crucial role</alt><alt confidence="-23.04538880583745">mayor role</alt><alt confidence="-2.949865018744106">major role</alt><alt confidence="-4.572783295578325">central role</alt><alt confidence="-11.473313236362245">considerable role</alt><alt confidence="-6.393087600757299">significant part</alt><alt confidence="-11.59379554083614">valuable role</alt><alt confidence="-3.126238752745377">vital role</alt><alt confidence="-16.603690334929343">serious role</alt><alt confidence="-21.45910731089211">predominant role in</alt><alt confidence="-6.687381601009265">leading part</alt><alt confidence="-3.5735705743685644">significant role</alt><alt confidence="-1.8382801066164232">leading role</alt><alt confidence="-17.760084258699894">beneficial role</alt><alt confidence="-6.106379801527885">prominent role</alt><alt confidence="-12.517445922560004">strong role</alt><alt confidence="-5.61998599137414">major part</alt><alt confidence="-10.165524399162258">large part</alt><alt confidence="-6.184889064025791">fundamental role</alt><alt confidence="-19.424243280091762">solid role</alt><alt confidence="-15.675823836985277">great role</alt><alt confidence="-25.05045549741465">signal part</alt><alt confidence="-4.656821576898947">decisive role</alt></f>  in our policy .</output>
+  <output>Ladies and gentlemen , Human Language Technology will always continue to play a <f confidence="-1.6059804254476904" id="1">key role<alt confidence="-12.51425237925452">special role</alt><alt confidence="-6.687379525554659">leading part</alt><alt confidence="-9.718095692076819">very important part</alt><alt confidence="-11.068186917264079">very significant role</alt><alt confidence="-2.949865018744106">major role</alt><alt confidence="-4.5727814501225374">central role</alt><alt confidence="-11.47331116090764">considerable role</alt><alt confidence="-6.393088789917334">significant part</alt><alt confidence="-11.593793465381536">valuable role</alt><alt confidence="-3.12623826763541">vital role</alt><alt confidence="-10.16552255370647">large part</alt><alt confidence="-7.064815721094963">very important role</alt><alt confidence="-3.5735707789124223">significant role</alt><alt confidence="-17.754390568500448">major international role</alt><alt confidence="-1.8382780968757153">leading role</alt><alt confidence="-17.760086473244975">beneficial role</alt><alt confidence="-16.015576626654784">very prominent part</alt><alt confidence="-6.106377956072098">prominent role</alt><alt confidence="-12.517448137105083">strong role</alt><alt confidence="-5.619985741752588">major part</alt><alt confidence="-16.603692549474424">serious role</alt><alt confidence="-6.184891278570868">fundamental role</alt><alt confidence="-21.486415882055006">really important role</alt><alt confidence="-19.424245494636843">solid role</alt><alt confidence="-23.04539102038253">mayor role</alt><alt confidence="-15.675826051530356">great role</alt><alt confidence="-25.05045771195973">signal part</alt><alt confidence="-4.656825695731719">decisive role</alt><alt confidence="-3.764105663917871">crucial role</alt></f>  in our policy .</output>
 </s>
 <s source="Bernard De Clerck" id="352">
   <input>They were glad to see John and asked if he was doing <f id="1">iets speciaals</f>  that day .</input>
@@ -1429,7 +1429,7 @@
 </s>
 <s source="Wikipedia" id="360">
   <input>Both academic and <f id="1">beroepsopleidingen</f>  are available and facilities are broader than at voluntary or vocational schools .</input>
-  <output>Both academic and <f confidence="1.0" id="1">training</f>  are available and facilities are broader than at voluntary or vocational schools .</output>
+  <output>Both academic and <f confidence="-0.149529701712932" id="1">vocational training<alt confidence="-3.2831761336815317">professional training</alt><alt confidence="-3.1027278866052654">training</alt><alt confidence="-9.088603795826666">professional education</alt><alt confidence="-10.304393132329517">vocational education</alt><alt confidence="-10.080615479032852">vocational</alt><alt confidence="-13.993852857854984">occupational training</alt><alt confidence="-17.184580316095012">in professional training</alt><alt confidence="-16.360761586455816">specialist education</alt><alt confidence="-17.295128742634425">work-related training</alt></f>  are available and facilities are broader than at voluntary or vocational schools .</output>
 </s>
 <s source="Turtle Beach DSS2 User's Guide" id="361">
   <input>The DSS 2 processes the Dolby signal from the digital optical output on your Xbox 360 , PS 3 , PC or other audio source and usesDolby Digital technology <f id="1">om te virtualiseren</f>  5.1 channels of surround sound on stereo headphones .</input>
@@ -1533,7 +1533,7 @@
 </s>
 <s source="www.newportminster.org" id="386">
   <input>There was one further consideration , which we bore <f id="1">in het achterhoofd</f>  at all times when we were studying the various possibilities for economic development .</input>
-  <output>There was one further consideration , which we bore <f confidence="0.0" id="1">in mind<alt confidence="-36.61110804359345">the back of the head on Christmas</alt><alt confidence="-20.917455040840508">in the back of the mind</alt><alt confidence="-17.47405577533212">in its memory</alt><alt confidence="-20.41251376775441">in the back of the head</alt><alt confidence="-24.2612470825026">in the back of the head ,</alt><alt confidence="-20.01559877436543">against that background</alt><alt confidence="-20.40710571590171">against this background</alt><alt confidence="-20.036920942585084">considerations in mind ,</alt><alt confidence="-14.04987734887158">considerations in mind</alt><alt confidence="-15.777944655587108">in the back of your mind</alt><alt confidence="-22.911966682351448">this vision in mind</alt><alt confidence="-23.738799660809605">part of the background</alt></f>  at all times when we were studying the various possibilities for economic development .</output>
+  <output>There was one further consideration , which we bore <f confidence="1.0" id="1">in mind</f>  at all times when we were studying the various possibilities for economic development .</output>
 </s>
 <s source="The Guardian" id="387">
   <input>We 've also been asked to perform at the Lewes Chamber Music festival - they want us to form a quartet and <f id="1">geleidelijk aan</f>  bring drums in to make it a dance thing .</input>
@@ -1545,11 +1545,11 @@
 </s>
 <s source="Clin2014 speech" id="389">
   <input>Not only because it makes an important contribution in the <f id="1">uitwerking</f>  of our vision , but also because it embodies the essence of our reformulated mission : to extend the scope of what we do .</input>
-  <output>Not only because it makes an important contribution in the <f confidence="0.0" id="1">development<alt confidence="-4.876870518631499">impact</alt><alt confidence="-30.640837845759915">amount of work that is done</alt><alt confidence="-7.463841700332947">elaboration</alt><alt confidence="-8.084330664113736">effect</alt><alt confidence="-5.306629733745188">drafting</alt><alt confidence="-3.0305359139160606">preparation</alt><alt confidence="-7.48466819808678">effects</alt><alt confidence="-4.742781213547228">formulation</alt></f>  of our vision , but also because it embodies the essence of our reformulated mission : to extend the scope of what we do .</output>
+  <output>Not only because it makes an important contribution in the <f confidence="0.0" id="1">development<alt confidence="-4.87686841055926">impact</alt><alt confidence="-7.463841518183924">elaboration</alt><alt confidence="-7.171758052990121">drawing up</alt><alt confidence="-13.958912209754088">working out</alt><alt confidence="-8.08433076640897">effect</alt><alt confidence="-5.30663319603978">drafting</alt><alt confidence="-3.0305316047932616">preparation</alt><alt confidence="-14.099425613001923">further details</alt><alt confidence="-7.484668300382014">effects</alt><alt confidence="-4.742782186953914">formulation</alt></f>  of our vision , but also because it embodies the essence of our reformulated mission : to extend the scope of what we do .</output>
 </s>
 <s source="Planescape Torment" id="390">
   <input>What can change <f id="1">de aard</f>  of a man ?</input>
-  <output>What can change <f confidence="0.0" id="1">the nature<alt confidence="-4.529888359953869">the character</alt></f>  of a man ?</output>
+  <output>What can change <f confidence="0.0" id="1">the nature<alt confidence="-4.529890371065486">the character</alt><alt confidence="-10.649459766359017">to the nature</alt><alt confidence="-9.706396160749494">the very nature</alt></f>  of a man ?</output>
 </s>
 <s source="American Dad, 42-Year-Old Virgin script" id="391">
   <input>I 'd been following this spy for months and finally had him <f id="1">in een hoek gedreven</f>  .</input>
@@ -1577,15 +1577,15 @@
 </s>
 <s source="Bernard De Clerck" id="397">
   <input>I wonder whether they are travelling by air or <f id="1">met de trein</f>  .</input>
-  <output>I wonder whether they are travelling by air or <f confidence="-0.8754687373538999" id="1">on a train<alt confidence="-5.854898719619968">with the train</alt><alt confidence="-13.089306534791213">take the train .</alt><alt confidence="-27.00304996889212">train with Tunner .</alt><alt confidence="-17.38129612645927">train to Chicago .</alt><alt confidence="-18.423245210792334">the Edinburgh sleeper .</alt><alt confidence="-14.687955780816601">. . . . . . tells</alt><alt confidence="-7.945825007024619">taking the train</alt></f>  .</output>
+  <output>I wonder whether they are travelling by air or <f confidence="1.0" id="1">carried by the</f>  .</output>
 </s>
 <s source="Bernard De Clerck" id="398">
   <input>It may sound <f id="1">handig</f>  , but your reluctance to take out time for such a medical test , may cost you dearly in the long run : such plans may not necessarily be as customer-friendly as they sound .</input>
-  <output>It may sound <f confidence="-0.55961771650692" id="1">useful<alt confidence="-4.37607534159178">convenient</alt><alt confidence="-19.21766621281586">assholes , though .</alt><alt confidence="-23.570240048609655">practical , Frankie ( ! )</alt><alt confidence="-3.235676156514103">handy</alt><alt confidence="-7.132621993424885">skilfully</alt></f>  , but your reluctance to take out time for such a medical test , may cost you dearly in the long run : such plans may not necessarily be as customer-friendly as they sound .</output>
+  <output>It may sound <f confidence="-0.5596167879359227" id="1">useful<alt confidence="-4.3760730130203624">convenient</alt><alt confidence="-7.049980845317419">computer shit</alt><alt confidence="-3.235676156514103">handy</alt><alt confidence="-7.132619664853467">skilfully</alt></f>  , but your reluctance to take out time for such a medical test , may cost you dearly in the long run : such plans may not necessarily be as customer-friendly as they sound .</output>
 </s>
 <s source="Bernard De Clerck" id="399">
   <input>Exorcisms are not conducted unless psychological or medical possibilities are first <f id="1">uitgesloten</f>  as explanations for extreme behaviour .</input>
-  <output>Exorcisms are not conducted unless psychological or medical possibilities are first <f confidence="-0.3350873797941176" id="1">excluded<alt confidence="-3.013554241171565">eliminated</alt><alt confidence="-4.028327899056027">marginalized</alt><alt confidence="-1.3862928611217655">exclusion</alt></f>  as explanations for extreme behaviour .</output>
+  <output>Exorcisms are not conducted unless psychological or medical possibilities are first <f confidence="-0.3350873797941176" id="1">excluded<alt confidence="-6.7802027726147625">out of the question</alt><alt confidence="-1.3862930611194355">exclusion</alt><alt confidence="-13.273042433627063">not even being considered</alt><alt confidence="-4.0283269990560715">marginalized</alt><alt confidence="-1.773246431904458">ruled out</alt><alt confidence="-3.0135533411716096">eliminated</alt><alt confidence="-5.999535174642551">been ruled out</alt></f>  as explanations for extreme behaviour .</output>
 </s>
 <s source="The Guardian" id="400">
   <input>Over the next hour or so , I meet four more successful Oxbridge applicants : three young women respectively from Droylsden , Ashton-Under-Lyne and Prestwich – and 19 - year-old Ali Ahsan Khalid , <f id="1">een Pakistaanse vluchteling</f>  who came to the UK after his father was murdered in the midst of religious persecution , and settled with his family in Salford .</input>
@@ -1661,7 +1661,7 @@
 </s>
 <s source="The Guardian" id="418">
   <input>The French , with their love of fine food , <f id="1">inventiviteit</f>  , technical expertise and never-ending quest for culinary perfection ( damn them ) have much to answer for.</input>
-  <output>The French , with their love of fine food , <f confidence="0.0" id="1">inventiveness<alt confidence="-12.706019710227714">efforts , imagination</alt></f>  , technical expertise and never-ending quest for culinary perfection ( damn them ) have much to answer for.</output>
+  <output>The French , with their love of fine food , <f confidence="1.0" id="1">inventiveness</f>  , technical expertise and never-ending quest for culinary perfection ( damn them ) have much to answer for.</output>
 </s>
 <s source="TVTropes" id="419">
   <input>On realizing this he uses the machine again , which means bad news for an alternate reality them , but at least means he 's no longer a danger in <f id="1">hun huidige realiteit</f>  .</input>
@@ -1685,7 +1685,7 @@
 </s>
 <s source="The Economist" id="424">
   <input>When The Economist described America ’ s economy as a bubble in April 1998 and advised Alan Greenspan , the Federal Reserve ’ s chairman <f id="1">om de rente te verhogen</f>  to pop it , many people dismissed our warnings .</input>
-  <output>When The Economist described America ’ s economy as a bubble in April 1998 and advised Alan Greenspan , the Federal Reserve ’ s chairman <f confidence="0.0" id="1">to raise interest rates<alt confidence="-9.232269432548776">on the raising of interest rates</alt><alt confidence="-1.813170263064535">to increase interest rates</alt></f>  to pop it , many people dismissed our warnings .</output>
+  <output>When The Economist described America ’ s economy as a bubble in April 1998 and advised Alan Greenspan , the Federal Reserve ’ s chairman <f confidence="1.0" id="1">to raise interest rates</f>  to pop it , many people dismissed our warnings .</output>
 </s>
 <s source="Washington Post" id="425">
   <input><f id="1">De Lage Landen</f>  allow for suicide and doctor-assisted suicide , but Brussels is the first to open to door to dealing death to children of any age .</input>
@@ -1693,7 +1693,7 @@
 </s>
 <s source="Bernard De Clerck" id="426">
   <input><f id="1">De laatste tijd</f>  there have been three fatal small plane crashes in the Los Angeles area .</input>
-  <output><f confidence="-0.16907582010249822" id="1">Recently<alt confidence="-19.31884782493774">Lately she 's been</alt><alt confidence="-24.516413485917408">But lately I 've been thinking ...</alt><alt confidence="-21.643159387611885">Any recent changes</alt><alt confidence="-4.991859649008717">Lately</alt><alt confidence="-16.983104962296828">It 's just that lately</alt><alt confidence="-7.806172764550523">Lately ,</alt><alt confidence="-13.776181269629694">However , recently</alt><alt confidence="-42.03471274373496">Uh , not of late , no.</alt><alt confidence="-30.184697801232286">Yeah , lately you</alt><alt confidence="-52.87260750438851">So , kissed any good boys lately</alt><alt confidence="-13.19532842869055">- Not lately</alt><alt confidence="-29.567721737374082">Yeah , Iately you seem</alt><alt confidence="-23.316036732993037">They have recently been</alt><alt confidence="-32.71150197611118">He made amazing progress the</alt><alt confidence="-34.14187103647234">Catch any bad guys lately ?</alt><alt confidence="-17.44755040843297">Not lately .</alt><alt confidence="-9.372407484719995">In recent times</alt><alt confidence="-20.370429194085883">It 's like lately</alt><alt confidence="-26.534155263707756">- Well , not so much lately</alt><alt confidence="-20.224422964114662">But in the last</alt><alt confidence="-10.180005713459655">And lately ,</alt><alt confidence="-29.814235576395983">But lately it 's been a lot</alt><alt confidence="-16.463915355396527">Lately , time</alt><alt confidence="-38.0719357071541">and it 's got worse Iately .</alt><alt confidence="-22.334006756164992">Maybe more so</alt><alt confidence="-36.886731608441494">But this -- This makes it all</alt><alt confidence="-34.97184543177286">- Lately , no , but not</alt><alt confidence="-9.474733256283733">In recent days</alt><alt confidence="-11.826674542313466">And lately</alt><alt confidence="-13.214630929321569">And just recently</alt><alt confidence="-14.923191197291604">Well , lately</alt><alt confidence="-15.909519220274893">Is just that lately</alt><alt confidence="-21.868277375691175">But lately I 'm</alt><alt confidence="-34.85693600492198">A little more perhaps during</alt><alt confidence="-19.015660725876156">Ultimately , the</alt><alt confidence="-17.80477719811084">Lately she</alt><alt confidence="-16.414731915890425">His most recent</alt><alt confidence="-35.80762165073219">I have met some pretty nice guys</alt><alt confidence="-44.88798270601842">Been to any good murder trials lately</alt><alt confidence="-10.689804998126622">Not lately</alt><alt confidence="-16.977127732962796">WeIl , Iately</alt></f>  there have been three fatal small plane crashes in the Los Angeles area .</output>
+  <output><f confidence="0.0" id="1">Recently<alt confidence="-8.165105115136894">And lately ,</alt><alt confidence="-11.761280671306933">However , recently</alt><alt confidence="-8.338332506077505">In recent times</alt></f>  there have been three fatal small plane crashes in the Los Angeles area .</output>
 </s>
 <s source="Bernard De Clerck" id="427">
   <input>The Tory analysis , based on figures for 2008 -09 , suggests that 6.8 million slots could have been made available to those without access to an NHS dentist had they not been used for excessive appointment-setting or needless splitting of <f id="1">kuren</f>  into separate sessions .</input>
@@ -1725,7 +1725,7 @@
 </s>
 <s source="The Guardian" id="434">
   <input>Women with faulty BRCA genes have a 45 % to 90 % lifetime risk of developing breast cancer and also have a higher risk of <f id="1">eierstokkanker</f>  .</input>
-  <output>Women with faulty BRCA genes have a 45 % to 90 % lifetime risk of developing breast cancer and also have a higher risk of <f confidence="1.0" id="1">ovarian cancer</f>  .</output>
+  <output>Women with faulty BRCA genes have a 45 % to 90 % lifetime risk of developing breast cancer and also have a higher risk of <f confidence="0.0" id="1">ovarian cancer<alt confidence="-20.48902397505659">she 's been diagnosed with ovarian cancer</alt></f>  .</output>
 </s>
 <s source="Washington Post" id="435">
   <input><f id="1">Taxichauffeurs</f>  are usually the most reliable source of restaurant recommendations .</input>
@@ -1749,11 +1749,11 @@
 </s>
 <s source="Bernard De Clerck" id="440">
   <input><f id="1">Op een dag</f>  in 1987 , John Leaf , the manager of several successful musicians , was having a meeting with the headmaster when he heard Colin practising .</input>
-  <output><f confidence="0.0" id="1">One day<alt confidence="-13.837980061388738">AND one day ,</alt><alt confidence="-14.964188936658207">[ Speaking Thai</alt><alt confidence="-3.7797608558738247">Someday ,</alt><alt confidence="-32.18714226127014">Someday ... I 'll design your whole</alt><alt confidence="-9.560861089121312">One day ...</alt><alt confidence="-22.59017622870447">One time - I have</alt><alt confidence="-8.255470798377752">Day like today</alt><alt confidence="-16.26767452901287">' One day my</alt><alt confidence="-25.281556729045224">- Some day all this will</alt><alt confidence="-4.0515763270489575">On a day</alt><alt confidence="-28.866057488018203">day a constituent from home</alt><alt confidence="-18.601997073377664">Comes a day you</alt><alt confidence="-8.740523399498262">On one day</alt><alt confidence="-27.157081668553865">I 'll call for you someday .</alt><alt confidence="-11.833497747188487">On the day the</alt><alt confidence="-18.83423741766659">He came over one</alt><alt confidence="-14.696031467713624">I followed her one</alt><alt confidence="-12.683660687855">Put it this</alt><alt confidence="-24.648698216094477">They just Walk ed</alt><alt confidence="-12.923773188991891">I realized one</alt><alt confidence="-23.471753858524085">Deb , later in</alt><alt confidence="-16.971851551829275">Someday I 'm gonna make</alt><alt confidence="-17.736056968876028">So you all just</alt><alt confidence="-21.48051002495299">someday these cheapskates will thank Centauri .</alt><alt confidence="-24.4323750691089">One of these days my ship is</alt><alt confidence="-7.175328158101051">Once upon a</alt><alt confidence="-16.024759169974278">Be Iike her</alt><alt confidence="-14.942795231495888">Someday all this will be</alt><alt confidence="-11.423513030782003">This one day ,</alt><alt confidence="-12.204021101352783">{ narrating ]</alt><alt confidence="-12.99836059765072">One day I</alt><alt confidence="-20.774687103472104">You 're gonna make some lucky girl</alt><alt confidence="-9.505808720218083">Someday we</alt><alt confidence="-19.073202210637078">- Some day .</alt><alt confidence="-10.256145235436396">through the inner</alt><alt confidence="-16.61085434411631">Someday all this will</alt><alt confidence="-16.81732691914657">And then one day the Italians</alt><alt confidence="-13.207610299737553">He run across</alt><alt confidence="-16.14195038957472">Day Iike today</alt><alt confidence="-9.625209309761512">I was helping out</alt><alt confidence="-26.17483126087875">Always talking out ofa</alt><alt confidence="-16.220978103326946">n't believe you were n't</alt><alt confidence="-23.291326283997694">A day 's march .</alt><alt confidence="-12.914121055994253">So , one day</alt><alt confidence="-26.277836023462772">Splat ! so one</alt><alt confidence="-14.604251116682406">Two friends were fishing</alt><alt confidence="-9.024967973842163">Anyway , one</alt><alt confidence="-20.33016991975387">will one day rule the earth as</alt><alt confidence="-8.9251361318656">One afternoon</alt><alt confidence="-25.926768012347726">And the day came where</alt><alt confidence="-29.423637197285984">They showed up one day , him</alt><alt confidence="-27.701202003723836">And on a day in late December</alt><alt confidence="-17.346783775122503">Someday I 'll tell you how</alt><alt confidence="-26.885763158164014">You may be the best skater in</alt><alt confidence="-18.32152839354045">Make as him</alt><alt confidence="-0.704705176738551">One day ,</alt><alt confidence="-13.997865374093092">So , one day ,</alt><alt confidence="-18.01385259850291">Look , one day ...</alt><alt confidence="-14.602099141478607">So on a day</alt><alt confidence="-11.560685893107202">So ... one</alt><alt confidence="-5.703379882913767">Some day ,</alt><alt confidence="-12.92002571092894">Maybe some day</alt><alt confidence="-7.284904387399935">The supervisor</alt><alt confidence="-7.265116191385232"># one day</alt><alt confidence="-9.859725259351618">Be like her</alt><alt confidence="-12.371692492619093">Someday . .</alt><alt confidence="-5.388526750439416">Some day</alt><alt confidence="-14.84391039014099">Someone asked a</alt><alt confidence="-15.721189574933067">Anyway ... one</alt><alt confidence="-11.977758175861869">One day you</alt><alt confidence="-16.498287406158045">And someday you ,</alt><alt confidence="-26.10781611273262">You 'll see her again someday .</alt><alt confidence="-14.070653291675217">Someday it ,</alt><alt confidence="-21.330065813297654">And it should surprise no</alt><alt confidence="-5.334728004728474">But one day</alt><alt confidence="-17.777706839637734">We all going to</alt><alt confidence="-16.260681720546728">Someday she 'll wake</alt><alt confidence="-12.247567498528088">escape . And then</alt><alt confidence="-11.432179035731782">my aunt came</alt><alt confidence="-15.086829914656779">Is that true ? You</alt><alt confidence="-13.338577655690926">And someday all</alt><alt confidence="-13.571620241450308">On a peaceful</alt><alt confidence="-7.286103573716391">upon a December</alt><alt confidence="-5.388961498176679">" One day</alt><alt confidence="-6.099986291438496">- One day</alt><alt confidence="-26.03420419516243">This one day , we was out</alt><alt confidence="-23.334878856407244">think you 'll beat everyone someday .</alt><alt confidence="-14.363606818145161">Someday maybe ... ...</alt><alt confidence="-22.37760134266073">They just walk ed</alt><alt confidence="-18.66485488331431">Remember , they 're gonna</alt><alt confidence="-33.27250675169164">One of these days , Tarzan 'll</alt><alt confidence="-11.627242628364337">We all gonna be</alt><alt confidence="-11.040383602453234">One morning that</alt><alt confidence="-17.36396253574508">I plan on being out of here</alt><alt confidence="-21.27472785921139">Hey , you know what ? Someday</alt><alt confidence="-14.162337836446879">think you 'll beat</alt><alt confidence="-5.519559517296155">So one day</alt><alt confidence="-15.744734271738134">We will one</alt><alt confidence="-15.80622749629497">And then , one day ,</alt><alt confidence="-9.901298451925289">- Theylearned</alt><alt confidence="-24.974455418148352">day you 'll thank me , buddy</alt><alt confidence="-11.05168053545242">During my first</alt><alt confidence="-13.165818631382297">It 's fantasy</alt><alt confidence="-17.017349032297307">A man understands</alt><alt confidence="-8.82865781646916">Once , maybe</alt><alt confidence="-17.606447007659074">Someday you 're gonna meet</alt><alt confidence="-12.920410242639434">He shoots a</alt><alt confidence="-13.503588522809753">You will answer ,</alt><alt confidence="-9.717950121662108">But then one day</alt><alt confidence="-18.679955006095657">Majesty said they 'd</alt><alt confidence="-8.928927568479764">Know one</alt><alt confidence="-10.196519103677794">day , we was</alt><alt confidence="-26.204504654148025">I just picked him out one day</alt><alt confidence="-3.6338007097315277">Then one day</alt><alt confidence="-25.890624083060402">Hey , one day you 're gonna</alt><alt confidence="-2.785604252446412">And one day</alt><alt confidence="-22.5330834218918">So , one day , I</alt><alt confidence="-11.769216341062185">Packed up her</alt><alt confidence="-10.79978789930399">One time we</alt><alt confidence="-16.872468075660993">Don ! On</alt><alt confidence="-14.7224803624669">Then she decided that</alt><alt confidence="-7.77612521693726"># One day</alt><alt confidence="-22.904379601398034">One time she set fire</alt><alt confidence="-17.729751820939942">Or someday aII</alt></f>  in 1987 , John Leaf , the manager of several successful musicians , was having a meeting with the headmaster when he heard Colin practising .</output>
+  <output><f confidence="0.0" id="1">One day<alt confidence="-5.165068113488113">I was helping out</alt><alt confidence="-10.144108258411286">Two friends were fishing</alt><alt confidence="-1.5845026108586993">One day ,</alt></f>  in 1987 , John Leaf , the manager of several successful musicians , was having a meeting with the headmaster when he heard Colin practising .</output>
 </s>
 <s source="TVTropes" id="441">
   <input>The large text box shows the page 's current <f id="1">opmaak</f>  , when you 're done , double-check your work for spelling and grammar , markup errors , and organization .</input>
-  <output>The large text box shows the page 's current <f confidence="-0.05886397609282312" id="1">embellishments ,<alt confidence="-1.7917606358952076">embeIlishments ,</alt></f>  , when you 're done , double-check your work for spelling and grammar , markup errors , and organization .</output>
+  <output>The large text box shows the page 's current <f confidence="-0.6931471805599454" id="1">layout<alt confidence="-11.814647202779051">embeIlishments ,</alt><alt confidence="-10.081753009644274">embellishments ,</alt><alt confidence="-5.002880407777527">the layout</alt><alt confidence="-8.87124300754733">believe indicates</alt></f>  , when you 're done , double-check your work for spelling and grammar , markup errors , and organization .</output>
 </s>
 <s source="The Guardian" id="442">
   <input>" We note that teachers currently work additional hours beyond directed classroom sessions and there is already flexibility for heads <f id="1">om leerkrachten in te zetten</f>  according to the needs of their pupils , " the report states .</input>
@@ -1773,7 +1773,7 @@
 </s>
 <s source="Wikipedia" id="446">
   <input>While it is not clear exactly when the estate vineyard started producing wine for <f id="1">commerciële doeleinden</f>  , rather than just family consumption , the millennium during which the estate of Château de Goulaine has been producing wine makes it the oldest known wine business still in existence .</input>
-  <output>While it is not clear exactly when the estate vineyard started producing wine for <f confidence="0.0" id="1">commercial purposes<alt confidence="-2.1882364948499253">commercial</alt><alt confidence="-5.424703429891995">trading purposes</alt></f>  , rather than just family consumption , the millennium during which the estate of Château de Goulaine has been producing wine makes it the oldest known wine business still in existence .</output>
+  <output>While it is not clear exactly when the estate vineyard started producing wine for <f confidence="0.0" id="1">commercial purposes<alt confidence="-5.424703601320649">trading purposes</alt></f>  , rather than just family consumption , the millennium during which the estate of Château de Goulaine has been producing wine makes it the oldest known wine business still in existence .</output>
 </s>
 <s source="The Guardian" id="447">
   <input>An experiment at the University of Illinois has found that if you control a Voldemort avatar in a virtual environment , you 're more likely to behave <f id="1">sadistisch</f>  towards other people afterwards .</input>
@@ -1829,7 +1829,7 @@
 </s>
 <s source="TVTropes" id="460">
   <input>If you have no word for it , you also lack the very concept , <f id="1">zonder uitzondering</f>  .</input>
-  <output>If you have no word for it , you also lack the very concept , <f confidence="0.0" id="1">without exception<alt confidence="-3.9712871098398526">no exceptions</alt><alt confidence="-3.0965849991079355">without fail</alt><alt confidence="-5.007476881415744">without exceptions</alt><alt confidence="-3.6298736077612435">without discrimination</alt></f>  .</output>
+  <output>If you have no word for it , you also lack the very concept , <f confidence="0.0" id="1">without exception<alt confidence="-3.0965844241078297">without fail</alt><alt confidence="-6.781986672906288">with no exceptions</alt><alt confidence="-7.2310381992930415">by all of them</alt><alt confidence="-3.971286534839747">no exceptions</alt><alt confidence="-3.6298730327611377">without discrimination</alt><alt confidence="-5.007476306415638">without exceptions</alt></f>  .</output>
 </s>
 <s source="Wikipedia" id="461">
   <input>WIS 23 <f id="1">verleent toegang tot</f>  several important Wisconsin destinations , such as the House on the Rock , the Wisconsin Dells area and various state parks .</input>
@@ -1845,7 +1845,7 @@
 </s>
 <s source="The Guardian" id="464">
   <input>The archbishop of Canterbury will call on Anglicans to embrace a " cultural change in the life of the church " and to abandon old fears , suspicions and <f id="1">vooroordelen</f>  as the introduction of female bishops draws a step closer .</input>
-  <output>The archbishop of Canterbury will call on Anglicans to embrace a " cultural change in the life of the church " and to abandon old fears , suspicions and <f confidence="0.0" id="1">prejudices<alt confidence="-1.264032056543933">prejudice</alt></f>  as the introduction of female bishops draws a step closer .</output>
+  <output>The archbishop of Canterbury will call on Anglicans to embrace a " cultural change in the life of the church " and to abandon old fears , suspicions and <f confidence="-0.24686207293177032" id="1">prejudices<alt confidence="-12.819724461804181">its maker have challenged my preconceptions about</alt><alt confidence="-4.491737935155759">the prejudices</alt><alt confidence="-8.671909134338584">bias</alt><alt confidence="-0.5708833759836125">prejudice</alt><alt confidence="-6.8664583898857305">preconceived</alt><alt confidence="-5.377856919512844">prejudiced</alt></f>  as the introduction of female bishops draws a step closer .</output>
 </s>
 <s source="Time Magazine" id="465">
   <input>The first successful artificial insemination took place in 1970 . And since 1978 , when the world ’ s first <f id="1">reageerbuisbaby</f>  was born , researchers have assembled a battery of medicines and high-tech procedures that have utterly transformed the treatment of infertility .</input>
@@ -1865,7 +1865,7 @@
 </s>
 <s source="Wikipedia" id="469">
   <input>Rekanis were <f id="1">met geweld</f>  displaced from their villages in Nerwa Rekan in 1978 -1979 by the former Iraqi Baathist regime who at the time had signed an agreement with the Turkish government that entailed displacing the villages that lie within 15 k.m inside the Iraqi territories on the borders between Iraq and Turkey .</input>
-  <output>Rekanis were <f confidence="1.0" id="1">been compulsorily</f>  displaced from their villages in Nerwa Rekan in 1978 -1979 by the former Iraqi Baathist regime who at the time had signed an agreement with the Turkish government that entailed displacing the villages that lie within 15 k.m inside the Iraqi territories on the borders between Iraq and Turkey .</output>
+  <output>Rekanis were <f confidence="1.0" id="1">forcibly</f>  displaced from their villages in Nerwa Rekan in 1978 -1979 by the former Iraqi Baathist regime who at the time had signed an agreement with the Turkish government that entailed displacing the villages that lie within 15 k.m inside the Iraqi territories on the borders between Iraq and Turkey .</output>
 </s>
 <s source="Wikipedia" id="470">
   <input>It took individual effort to attain the colony when it almost failed , and individual effort to maintain the colony when it barely survived , and provided confidence that in the distant future the colony would restore <f id="1">de bakermat van de mensheid</f>  .</input>
@@ -1877,11 +1877,11 @@
 </s>
 <s source="Bernard De Clerck" id="472">
   <input>The jewellery , which in fact she did not really like had been given her by her aunt , who had died <f id="1">een paar jaar geleden</f>  .</input>
-  <output>The jewellery , which in fact she did not really like had been given her by her aunt , who had died <f confidence="0.0" id="1">a few years ago<alt confidence="-10.592878315743443">a couple years ago .</alt></f>  .</output>
+  <output>The jewellery , which in fact she did not really like had been given her by her aunt , who had died <f confidence="-0.15126947897678633" id="1">a few years ago<alt confidence="-3.2619744413781957">several years ago</alt><alt confidence="-3.0098578657942">a couple of years ago</alt><alt confidence="-2.302585092994046">some years ago</alt></f>  .</output>
 </s>
 <s source="The Guardian" id="473">
   <input>A <f id="1">goed gemotiveerde</f>  , hard-working A-grade student who is now the subject of concerned emails being sent round by her head of year , warning subject teachers to tread lightly because she is becoming increasingly anxious .</input>
-  <output>A <f confidence="1.0" id="1">motivated</f>  , hard-working A-grade student who is now the subject of concerned emails being sent round by her head of year , warning subject teachers to tread lightly because she is becoming increasingly anxious .</output>
+  <output>A <f confidence="1.0" id="1">well-founded</f>  , hard-working A-grade student who is now the subject of concerned emails being sent round by her head of year , warning subject teachers to tread lightly because she is becoming increasingly anxious .</output>
 </s>
 <s source="The Guardian" id="474">
   <input>From a distance he looks about 100 , but as he sprints across the British Museum 's Great Court to offer <f id="1">de warmste handdruk</f>  – he is 10 minutes late for our meeting – you realise he is much younger .</input>
@@ -1897,7 +1897,7 @@
 </s>
 <s source="The Guardian" id="477">
   <input>He says he 'd like to work for the RSPCA when he 's older , but may settle as a <f id="1">huurmoordenaar</f>  for the Sicilian mafia .</input>
-  <output>He says he 'd like to work for the RSPCA when he 's older , but may settle as a <f confidence="1.0" id="1">assassin</f>  for the Sicilian mafia .</output>
+  <output>He says he 'd like to work for the RSPCA when he 's older , but may settle as a <f confidence="1.0" id="1">hit man</f>  for the Sicilian mafia .</output>
 </s>
 <s source="Bernard De Clerck" id="478">
   <input>The World Cup kicks off , will be kicking off in exactly 10 days and as things stand today there are thousands of <f id="1">tickets over</f>  .</input>
@@ -1933,7 +1933,7 @@
 </s>
 <s source="Alison Lurie, The War between the Tates, p. 280" id="486">
   <input>Across town on the same cold March evening a very different social event <f id="1">vindt plaats</f>  in the apartment of Linda Sliski , Wendy 's nominal room-mate .</input>
-  <output>Across town on the same cold March evening a very different social event <f confidence="0.0" id="1">takes place<alt confidence="-16.474290623926077">s set</alt><alt confidence="-10.834803497542083">is undertaken</alt></f>  in the apartment of Linda Sliski , Wendy 's nominal room-mate .</output>
+  <output>Across town on the same cold March evening a very different social event <f confidence="0.0" id="1">takes place<alt confidence="-15.546414058836751">it is being carried out</alt><alt confidence="-16.47429279349175">s set</alt><alt confidence="-11.1387900392748">, is taking place</alt><alt confidence="-3.8403641708574914">is taking place</alt><alt confidence="-5.353360605258096">will take place</alt><alt confidence="-10.260092252631017">is being conducted</alt><alt confidence="-10.834804367107301">is undertaken</alt><alt confidence="-12.970104350510217">will be put into effect</alt></f>  in the apartment of Linda Sliski , Wendy 's nominal room-mate .</output>
 </s>
 <s source="Bernard De Clerck" id="487">
   <input>Can ’ t wait till it gets warm outside , so I can hang <f id="1">mijn was</f>  out in the sun .</input>
@@ -1945,7 +1945,7 @@
 </s>
 <s source="American Dad, 42-Year-Old Virgin script" id="489">
   <input>I bet he sees his victims ' faces <f id="1">telkens als</f>  he closes his eyes .</input>
-  <output>I bet he sees his victims ' faces <f confidence="0.0" id="1">every time<alt confidence="-1.588228686896644">... whenever</alt></f>  he closes his eyes .</output>
+  <output>I bet he sees his victims ' faces <f confidence="-0.1532819383480728" id="1">every time<alt confidence="-1.0986122886681096">whenever</alt><alt confidence="-1.7415106252447168">... whenever</alt></f>  he closes his eyes .</output>
 </s>
 <s source="The Guardian" id="490">
   <input>There are several dedicated lifelogging <f id="1">toepassingen</f>  for smartphones in 2014 , taking advantage of the data and sensors inside your device .</input>
@@ -1977,7 +1977,7 @@
 </s>
 <s source="The Economist" id="497">
   <input>Harold Pinter 's screenplay , written in 1972 but never filmed , will be published in America <f id="1">voor het eerst</f>  .</input>
-  <output>Harold Pinter 's screenplay , written in 1972 but never filmed , will be published in America <f confidence="-2.4496191969507777" id="1">the first time<alt confidence="-3.52308614954495">was first</alt><alt confidence="-13.739204502964208">wand or something</alt><alt confidence="-15.150246366105383">first time here .</alt><alt confidence="-12.03317534243552">me in battle</alt></f>  .</output>
+  <output>Harold Pinter 's screenplay , written in 1972 but never filmed , will be published in America <f confidence="-0.6931486805603204" id="1">for the first time<alt confidence="-7.709447712360912">will get its</alt></f>  .</output>
 </s>
 <s source="The Economist" id="498">
   <input>Yet , despite this recent economic weakness , Germany is still the world ’ s third-biggest economy , with plenty of world-class companies , a huge <f id="1">handelsoverschot</f>  and a well-trained and determined labour force .</input>

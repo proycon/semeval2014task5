@@ -5,19 +5,19 @@
 </s>
 <s category="a" source="Mittelpunkt B2 - Klett" id="2">
   <input>Es ist <f id="1">exciting</f>  , so viele Orte und Menschen kennen gelernt zu haben .</input>
-  <output>Es ist <f confidence="0.583333" id="1">aufregend<alt confidence="0.25">aufregender</alt><alt confidence="0.0833333">spannend</alt><alt confidence="0.0833333">interessant</alt></f>  , so viele Orte und Menschen kennen gelernt zu haben .</output>
+  <output>Es ist <f confidence="0.454545" id="1">so aufregend<alt confidence="0.318182">aufregend</alt><alt confidence="0.0454545">interessant</alt><alt confidence="0.0454545">spannend</alt><alt confidence="0.136364">aufregender</alt></f>  , so viele Orte und Menschen kennen gelernt zu haben .</output>
 </s>
 <s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="3">
   <input>Die Frau kehrte <f id="1">alone</f>  nach Lima zurück .</input>
-  <output>Die Frau kehrte <f confidence="0.540541" id="1">allein<alt confidence="0.189189">nur</alt><alt confidence="0.027027">ausschließlich</alt><alt confidence="0.243243">alleine</alt></f>  nach Lima zurück .</output>
+  <output>Die Frau kehrte <f confidence="0.526316" id="1">allein<alt confidence="0.184211">nur</alt><alt confidence="0.0263158">doch allein</alt><alt confidence="0.0263158">ausschließlich</alt><alt confidence="0.236842">alleine</alt></f>  nach Lima zurück .</output>
 </s>
 <s category="pp" source="Mittelpunkt B2 - Klett" id="4">
   <input>Sie fährt heute <f id="1">home</f>  .</input>
-  <output>Sie fährt heute <f confidence="1.0" id="1">zuhause</f>  .</output>
+  <output>Sie fährt heute <f confidence="0.555556" id="1">nach Hause<alt confidence="0.111111">zu Hause</alt><alt confidence="0.333333">zuhause</alt></f>  .</output>
 </s>
 <s category="comp" source="Prisma Grammatica Duits" id="5">
   <input>Er schoss den Ball <f id="1">through the window</f>  .</input>
-  <output>Er schoss den Ball <f confidence="0.464706" id="1">Fenster<alt confidence="0.00588235">, Eltern zu</alt><alt confidence="0.00588235">wieder das Feuer sehen .</alt><alt confidence="0.147059">durch das Fenster</alt><alt confidence="0.00588235">, dass eine Granate durchs Fenster fliegt</alt><alt confidence="0.00588235">nachschauen ? Nur durchs Fenster .</alt><alt confidence="0.0176471">durch die Vordertür</alt><alt confidence="0.00588235">Mut , komm durchs Fenster ! "</alt><alt confidence="0.0823529">durchs Fenster .</alt><alt confidence="0.158824">Fenster .</alt><alt confidence="0.00588235">die Scheibe</alt><alt confidence="0.0117647">einen Topf durchs Fenster und 3 Männer</alt><alt confidence="0.00588235">die Scheibe , weißt du noch ?</alt><alt confidence="0.00588235">in die Post rein .</alt><alt confidence="0.0294118">durchs Fenster !</alt><alt confidence="0.0294118">das Fenster ,</alt><alt confidence="0.0117647">durch das Fenster , und</alt></f>  .</output>
+  <output>Er schoss den Ball <f confidence="0.818182" id="1">durch das Fenster<alt confidence="0.0909091">, dass eine Granate durchs Fenster fliegt</alt><alt confidence="0.0909091">die Scheibe</alt></f>  .</output>
 </s>
 <s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="6">
   <input>Im Tatort fand der Kriminalbeamte im zweiten Stock <f id="1">a dead body</f>  .</input>
@@ -45,7 +45,7 @@
 </s>
 <s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="12">
   <input>Es gibt leider <f id="1">still</f>  zu viele Arbeitslose .</input>
-  <output>Es gibt leider <f confidence="1.0" id="1">noch</f>  zu viele Arbeitslose .</output>
+  <output>Es gibt leider <f confidence="0.75" id="1">immer noch<alt confidence="0.25">noch</alt></f>  zu viele Arbeitslose .</output>
 </s>
 <s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="13">
   <input>Die Konservativen wollen die <f id="1">existing</f>  Verhältnisse beibehalten .</input>
@@ -77,7 +77,7 @@
 </s>
 <s category="a" source="Mittelpunkt B2 - Klett" id="20">
   <input>Es ist ganz <f id="1">pleasant</f>  , mal Abstand zu haben .</input>
-  <output>Es ist ganz <f confidence="0.803922" id="1">angenehm<alt confidence="0.0392157">angenehmen</alt><alt confidence="0.0196078">sympathische</alt><alt confidence="0.0196078">nur , wie ihr das Haar in</alt><alt confidence="0.0196078">Nette ,</alt><alt confidence="0.0392157">Heimreise</alt><alt confidence="0.0392157">angenehmer</alt><alt confidence="0.0196078">angenehmes</alt></f>  , mal Abstand zu haben .</output>
+  <output>Es ist ganz <f confidence="0.732143" id="1">angenehm<alt confidence="0.0357143">angenehmen</alt><alt confidence="0.0178571">sympathische</alt><alt confidence="0.0714286">ist nicht angenehm</alt><alt confidence="0.0357143">Heimreise</alt><alt confidence="0.0178571">Das ist angenehm</alt><alt confidence="0.0357143">angenehmer</alt><alt confidence="0.0178571">angenehmes</alt><alt confidence="0.0357143">sehr Nettes</alt></f>  , mal Abstand zu haben .</output>
 </s>
 <s category="pp" source="Prisma Grammatica Duits" id="21">
   <input>Er hat den Verein <f id="1">until his death</f>  besucht .</input>
@@ -93,7 +93,7 @@
 </s>
 <s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="24">
   <input>Das Medikament ist in jeder Apotheke <f id="1">available</f>  .</input>
-  <output>Das Medikament ist in jeder Apotheke <f confidence="0.291188" id="1">Verfügung<alt confidence="0.162197">vorliegen</alt><alt confidence="0.037037">zugänglich</alt><alt confidence="0.00510856">abrufbar</alt><alt confidence="0.00893997">angeboten</alt><alt confidence="0.0293742">bereitstellen</alt><alt confidence="0.0255428">verfügt</alt><alt confidence="0.0817369">bereitzustellen</alt><alt confidence="0.037037">vorhanden</alt><alt confidence="0.045977">bereitgestellt</alt><alt confidence="0.0561941">verfügen</alt><alt confidence="0.0485313">vorliegt</alt><alt confidence="0.135377">verfügbar</alt><alt confidence="0.0357599">erhältlich</alt></f>  .</output>
+  <output>Das Medikament ist in jeder Apotheke <f confidence="0.199884" id="1">Verfügung stehen<alt confidence="0.00115875">dafür zur Verfügung</alt><alt confidence="0.000579374">angetreten sind</alt><alt confidence="0.00289687">, zur Verfügung stehen</alt><alt confidence="0.000579374">, die verfügbar sind</alt><alt confidence="0.000579374">- zur Verfügung stehen</alt><alt confidence="0.000579374">, zugänglich</alt><alt confidence="0.198725">zur Verfügung stehen</alt><alt confidence="0.00115875">sie verfügbar</alt><alt confidence="0.0168019">vorhanden</alt><alt confidence="0.0208575">bereitgestellt</alt><alt confidence="0.0254925">verfügen</alt><alt confidence="0.000579374">jederzeit eingesehen werden</alt><alt confidence="0.000579374">, jederzeit zur Verfügung</alt><alt confidence="0.000579374">zur Verfügung stehenden</alt><alt confidence="0.0168019">zugänglich</alt><alt confidence="0.0023175">abrufbar</alt><alt confidence="0.00405562">angeboten</alt><alt confidence="0.000579374">Gebote stehen</alt><alt confidence="0.0133256">bereitstellen</alt><alt confidence="0.03708">bereitzustellen</alt><alt confidence="0.0115875">verfügt</alt><alt confidence="0.0023175">jederzeit zur Verfügung</alt><alt confidence="0.0162225">erhältlich</alt><alt confidence="0.000579374">notwendigen Informationen nicht vorliegen</alt><alt confidence="0.000579374">, bereitgestellt wird</alt><alt confidence="0.132097">Verfügung</alt><alt confidence="0.00115875">, verfügbar</alt><alt confidence="0.130359">zur Verfügung</alt><alt confidence="0.000579374">Verfügung stehenden</alt><alt confidence="0.0735805">vorliegen</alt><alt confidence="0.000579374">, zur Verfügung steht</alt><alt confidence="0.000579374">zu Gebote stehen</alt><alt confidence="0.000579374">Schluck aus der Pulle</alt><alt confidence="0.000579374">die verfügbar sind</alt><alt confidence="0.0220162">vorliegt</alt><alt confidence="0.0614137">verfügbar</alt></f>  .</output>
 </s>
 <s category="expr" source="MERLIN Learner Corpus,  docid=1031_0003162" id="25">
   <input>Wenn Sie eine Wohnung vermieten oder kaufen möchten , sollten Sie das nicht <f id="1">through the internet</f>  machen .</input>
@@ -109,7 +109,7 @@
 </s>
 <s category="p" source="SCHUBERT-Verlag Leipzig" id="28">
   <input>Wenden Sie sich <f id="1">to</f>  den Hersteller , falls das Problem erneut auftritt .</input>
-  <output>Wenden Sie sich <f confidence="0.202295" id="1">in<alt confidence="0.0769943">bei</alt><alt confidence="0.19045">auf</alt><alt confidence="0.000925412">die</alt><alt confidence="0.0173977">nach</alt><alt confidence="0.00703313">,</alt><alt confidence="0.148436">an</alt><alt confidence="0.0486767">um</alt><alt confidence="0.0131408">gegenüber</alt><alt confidence="0.0142513">vor</alt><alt confidence="0.0210994">zu</alt><alt confidence="0.0681103">für</alt><alt confidence="0.19119">mit</alt></f>  den Hersteller , falls das Problem erneut auftritt .</output>
+  <output>Wenden Sie sich <f confidence="0.201996" id="1">in<alt confidence="0.000184809">, um</alt><alt confidence="0.0768804">bei</alt><alt confidence="0.190168">auf</alt><alt confidence="0.000924044">die</alt><alt confidence="0.017372">nach</alt><alt confidence="0.00702273">,</alt><alt confidence="0.148217">an</alt><alt confidence="0.0486047">um</alt><alt confidence="0.000184809">, zu</alt><alt confidence="0.0131214">gegenüber</alt><alt confidence="0.00110885">, auf</alt><alt confidence="0.0142303">vor</alt><alt confidence="0.0210682">zu</alt><alt confidence="0.0680096">für</alt><alt confidence="0.190907">mit</alt></f>  den Hersteller , falls das Problem erneut auftritt .</output>
 </s>
 <s category="pp" source="Mittelpunkt B2 - Klett" id="29">
   <input>Jan spricht <f id="1">only with him</f>  darüber .</input>
@@ -153,7 +153,7 @@
 </s>
 <s category="v" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="39">
   <input>Er <f id="1">ran</f>  im Morgenmantel zum Bäcker .</input>
-  <output>Er <f confidence="1.0" id="1">lief</f>  im Morgenmantel zum Bäcker .</output>
+  <output>Er <f confidence="0.365385" id="1">rannte<alt confidence="0.0192308">geriet an</alt><alt confidence="0.307692">lief</alt><alt confidence="0.0192308">stürmte</alt><alt confidence="0.0192308">rann</alt><alt confidence="0.0576923">leitete</alt><alt confidence="0.0192308">entfloh</alt><alt confidence="0.0192308">war Leiter</alt><alt confidence="0.0384615">ist weggerannt ?</alt><alt confidence="0.0384615">ist weggerannt</alt><alt confidence="0.0769231">floh</alt><alt confidence="0.0192308">hat eine Kampagne mit uns geführt .</alt></f>  im Morgenmantel zum Bäcker .</output>
 </s>
 <s category="pp" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="40">
   <input>Kombiniere ich aber das alles <f id="1">in one device</f>  , kommt ein unbrauchbarer Kompromiss dabei heraus .</input>
@@ -169,11 +169,11 @@
 </s>
 <s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="43">
   <input>In dieser Fabrik werden Fahrräder <f id="1">produced</f>  .</input>
-  <output>In dieser Fabrik werden Fahrräder <f confidence="0.20743" id="1">vorgelegt<alt confidence="0.188854">produziert</alt><alt confidence="0.0990712">geführt</alt><alt confidence="0.0773994">hergestellt</alt><alt confidence="0.0340557">ausgearbeitet</alt><alt confidence="0.00309598">erzeugte</alt><alt confidence="0.00309598">erzeugten</alt><alt confidence="0.0247678">erbracht</alt><alt confidence="0.0123839">verfaßt</alt><alt confidence="0.00309598">hergestellten</alt><alt confidence="0.0371517">verfasst</alt><alt confidence="0.00309598">abgeliefert</alt><alt confidence="0.00309598">anfallen</alt><alt confidence="0.00309598">erarbeitete</alt><alt confidence="0.0681115">erarbeitet</alt><alt confidence="0.00619195">produzierten</alt><alt confidence="0.0433437">geleistet</alt><alt confidence="0.00309598">hervorbrachte</alt><alt confidence="0.00309598">angefertigt</alt><alt confidence="0.0712074">erzeugt</alt><alt confidence="0.00619195">gezeitigt</alt><alt confidence="0.0247678">hervorgebracht</alt><alt confidence="0.0743034">erstellt</alt></f>  .</output>
+  <output>In dieser Fabrik werden Fahrräder <f confidence="0.198225" id="1">vorgelegt<alt confidence="0.180473">produziert</alt><alt confidence="0.00591716">erzeugt wird</alt><alt confidence="0.00295858">Stimmung erzeugt</alt><alt confidence="0.00295858">anfallen</alt><alt confidence="0.0739645">hergestellt</alt><alt confidence="0.0325444">ausgearbeitet</alt><alt confidence="0.00295858">erzeugte</alt><alt confidence="0.00295858">erzeugten</alt><alt confidence="0.00591716">, erzeugt</alt><alt confidence="0.0236686">erbracht</alt><alt confidence="0.00295858">erzeugen , gemacht wird</alt><alt confidence="0.0118343">verfaßt</alt><alt confidence="0.00295858">hergestellten</alt><alt confidence="0.035503">verfasst</alt><alt confidence="0.00295858">abgeliefert</alt><alt confidence="0.0946746">geführt</alt><alt confidence="0.00295858">zu Papier gebracht hat</alt><alt confidence="0.00295858">die produziert werden</alt><alt confidence="0.00295858">erarbeitete</alt><alt confidence="0.0650888">erarbeitet</alt><alt confidence="0.00295858">Regionen produziert</alt><alt confidence="0.00295858">anfertigen können</alt><alt confidence="0.00295858">hergestellt werden</alt><alt confidence="0.00591716">produzierten</alt><alt confidence="0.0414201">geleistet</alt><alt confidence="0.00295858">hergestellt wird</alt><alt confidence="0.00295858">hervorbrachte</alt><alt confidence="0.00295858">angefertigt</alt><alt confidence="0.0680473">erzeugt</alt><alt confidence="0.00591716">gezeitigt</alt><alt confidence="0.0236686">hervorgebracht</alt><alt confidence="0.00295858">, die produziert werden</alt><alt confidence="0.00295858">Weise produziert</alt><alt confidence="0.0710059">erstellt</alt><alt confidence="0.00295858">Herstellung vorzunehmen</alt></f>  .</output>
 </s>
 <s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="44">
   <input>Ich finde es <f id="1">unjust</f>  , dass Sie jeden Tag schon um 16 Uhr Feierabend machen .</input>
-  <output>Ich finde es <f confidence="0.611111" id="1">ungerecht<alt confidence="0.222222">ungerechten</alt><alt confidence="0.0925926">ungerechte</alt><alt confidence="0.0185185">ungerechtfertigten</alt><alt confidence="0.0185185">ungerechtes</alt><alt confidence="0.037037">ungerechter</alt></f>  , dass Sie jeden Tag schon um 16 Uhr Feierabend machen .</output>
+  <output>Ich finde es <f confidence="0.578947" id="1">ungerecht<alt confidence="0.0175439">uns ungerecht</alt><alt confidence="0.0175439">eine ungerechte</alt><alt confidence="0.210526">ungerechten</alt><alt confidence="0.0877193">ungerechte</alt><alt confidence="0.0175439">ungerechtfertigten</alt><alt confidence="0.0175439">, ungerechte</alt><alt confidence="0.0175439">ungerechtes</alt><alt confidence="0.0350877">ungerechter</alt></f>  , dass Sie jeden Tag schon um 16 Uhr Feierabend machen .</output>
 </s>
 <s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="45">
   <input>Vertrauen ist der Grundstein jeder <f id="1">relationship</f>  .</input>
@@ -201,7 +201,7 @@
 </s>
 <s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="51">
   <input>Es ist so , dass <f id="1">educated</f>  Personen ein höheres Risiko eines fatalen Gehirnschlages tragen .</input>
-  <output>Es ist so , dass <f confidence="1.0" id="1">ausgebildeten</f>  Personen ein höheres Risiko eines fatalen Gehirnschlages tragen .</output>
+  <output>Es ist so , dass <f confidence="0.6" id="1">ausgebildeten<alt confidence="0.2">gebildete</alt><alt confidence="0.2">du gebildet bist .</alt></f>  Personen ein höheres Risiko eines fatalen Gehirnschlages tragen .</output>
 </s>
 <s category="n" source="Mittelpunkt B2 - Klett" id="52">
   <input>Wir streben nach Attraktivität und <f id="1">beauty</f>  .</input>
@@ -241,7 +241,7 @@
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="61">
   <input>Dies ist der erste Versuch , ein Sammelwerk von Handschriften <f id="1">to publish</f>  .</input>
-  <output>Dies ist der erste Versuch , ein Sammelwerk von Handschriften <f confidence="0.797753" id="1">zu veröffentlichen<alt confidence="0.0337079">veröffentlicht</alt><alt confidence="0.011236">der Veröffentlichung</alt><alt confidence="0.134831">veröffentlichen</alt><alt confidence="0.011236">Buch ab .</alt><alt confidence="0.011236">Veröffentlichung</alt></f>  .</output>
+  <output>Dies ist der erste Versuch , ein Sammelwerk von Handschriften <f confidence="0.470588" id="1">veröffentlichen<alt confidence="0.0647059">veröffentlicht</alt><alt confidence="0.00588235">der Veröffentlichung</alt><alt confidence="0.417647">zu veröffentlichen</alt><alt confidence="0.0235294">, zu veröffentlichen</alt><alt confidence="0.00588235">veröffentlichte</alt><alt confidence="0.0117647">Veröffentlichung</alt></f>  .</output>
 </s>
 <s category="v" source="Mittelpunkt B2 - Klett" id="62">
   <input>Wir <f id="1">have decided</f>  , konstruktiver mit Fehlern umzugehen .</input>
@@ -257,7 +257,7 @@
 </s>
 <s category="v" source="Mittelpunkt B2 - Klett" id="65">
   <input>Ich <f id="1">would suggest</f>  , regelmäßig Sport zu treiben .</input>
-  <output>Ich <f confidence="0.376812" id="1">würde vorschlagen<alt confidence="0.304348">schlage vor</alt><alt confidence="0.057971">würde meinen</alt><alt confidence="0.0144928">würde bitten</alt><alt confidence="0.0434783">möchte anregen</alt><alt confidence="0.101449">möchte vorschlagen</alt><alt confidence="0.101449">würde sagen</alt></f>  , regelmäßig Sport zu treiben .</output>
+  <output>Ich <f confidence="0.346667" id="1">würde vorschlagen<alt confidence="0.28">schlage vor</alt><alt confidence="0.0933333">würde sagen</alt><alt confidence="0.0133333">würde bitten</alt><alt confidence="0.0533333">würde meinen</alt><alt confidence="0.0133333">schlage deshalb vor</alt><alt confidence="0.04">möchte anregen</alt><alt confidence="0.0133333">wage zu behaupten</alt><alt confidence="0.0133333">möchte Ihnen vorschlagen</alt><alt confidence="0.0933333">möchte vorschlagen</alt><alt confidence="0.04">würde Ihnen vorschlagen</alt></f>  , regelmäßig Sport zu treiben .</output>
 </s>
 <s category="n" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="66">
   <input>Die <f id="1">murder of</f>  Walter Sedlmayr beschäftigte uns monatelang .</input>
@@ -285,7 +285,7 @@
 </s>
 <s category="adv" source="MERLIN Learner Corpus,  docid=1031_0001949" id="72">
   <input>Wenn man <f id="1">for example</f>  als Spezialist kommt , um an einem befristeten Projekt teilzunehmen , kann man sich leisten , nicht in die Tiefe zu gehen .</input>
-  <output>Wenn man <f confidence="0.666667" id="1">zum Beispiel<alt confidence="0.333333">beispielsweise</alt></f>  als Spezialist kommt , um an einem befristeten Projekt teilzunehmen , kann man sich leisten , nicht in die Tiefe zu gehen .</output>
+  <output>Wenn man <f confidence="1.0" id="1">zum Beispiel</f>  als Spezialist kommt , um an einem befristeten Projekt teilzunehmen , kann man sich leisten , nicht in die Tiefe zu gehen .</output>
 </s>
 <s category="adv" source="MERLIN Learner Corpus,  docid=1071_0024685" id="73">
   <input>Ich freue mich sehr , dass wir uns seit April <f id="1">more often</f>  treffen können .</input>
@@ -297,7 +297,7 @@
 </s>
 <s category="p" source="Mittelpunkt B2 - Klett" id="75">
   <input>Das Bild gefällt mir , <f id="1">even though</f>  es sehr modern ist .</input>
-  <output>Das Bild gefällt mir , <f confidence="0.851852" id="1">auch wenn<alt confidence="0.00740741">wenngleich</alt><alt confidence="0.0518519">selbst wenn</alt><alt confidence="0.0814815">obwohl</alt><alt confidence="0.00740741">obgleich</alt></f>  es sehr modern ist .</output>
+  <output>Das Bild gefällt mir , <f confidence="0.484848" id="1">obwohl<alt confidence="0.003367">selbst noch , nachdem</alt><alt confidence="0.387205">auch wenn</alt><alt confidence="0.026936">wenngleich</alt><alt confidence="0.023569">selbst wenn</alt><alt confidence="0.013468">wiewohl</alt><alt confidence="0.0606061">obgleich</alt></f>  es sehr modern ist .</output>
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="76">
   <input>Ich <f id="1">take</f>  jetzt eine Tablette und dann geht es mir wieder gut .</input>
@@ -309,7 +309,7 @@
 </s>
 <s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="78">
   <input>Ich arbeite <f id="1">mainly</f>  im Sommer .</input>
-  <output>Ich arbeite <f confidence="0.37234" id="1">allem<alt confidence="0.106383">vornehmlich</alt><alt confidence="0.0531915">Wesentlichen im</alt><alt confidence="0.0106383">zumeist</alt><alt confidence="0.191489">insbesondere</alt><alt confidence="0.0212766">meist</alt><alt confidence="0.0212766">dabei im Wesentlichen um</alt><alt confidence="0.0212766">vorrangig</alt><alt confidence="0.0106383">größtenteils</alt><alt confidence="0.148936">hauptsächlich</alt><alt confidence="0.0106383">zwar im wesentlichen</alt><alt confidence="0.0319149">vorwiegend</alt></f>  im Sommer .</output>
+  <output>Ich arbeite <f confidence="0.229014" id="1">allem<alt confidence="0.00261233">zwar hauptsächlich</alt><alt confidence="0.000696621">nämlich hauptsächlich</alt><alt confidence="0.000174155">größten Teil in</alt><alt confidence="0.0066179">zumeist</alt><alt confidence="0.000174155">besonders auch ,</alt><alt confidence="0.0198537">im Wesentlichen</alt><alt confidence="0.00174155">was hauptsächlich</alt><alt confidence="0.00940439">sich vor allem</alt><alt confidence="0.000174155">zumindest überwiegend</alt><alt confidence="0.00592128">in der Hauptsache</alt><alt confidence="0.000348311">dabei im Wesentlichen um</alt><alt confidence="0.000348311">doch hauptsächlich</alt><alt confidence="0.000174155">vor allen Dingen deshalb ,</alt><alt confidence="0.000174155">sie überwiegend</alt><alt confidence="0.000174155">vordergründigen</alt><alt confidence="0.0031348">und zwar vor allem</alt><alt confidence="0.000348311">wir es hauptsächlich</alt><alt confidence="0.0128875">überwiegend</alt><alt confidence="0.000174155">dabei zunächst</alt><alt confidence="0.000174155">zwar vornehmlich</alt><alt confidence="0.000174155">, beziehen sich hauptsächlich</alt><alt confidence="0.000174155">es ist vor allen Dingen</alt><alt confidence="0.000174155">es insbesondere Meinungsverschiedenheiten</alt><alt confidence="0.00470219">größtenteils</alt><alt confidence="0.000174155">Großteils deshalb</alt><alt confidence="0.000870777">Wesentlichen im</alt><alt confidence="0.00539882">Spaniens Blüten blühn</alt><alt confidence="0.00348311">zwar vor allem</alt><alt confidence="0.00435388">es hauptsächlich</alt><alt confidence="0.000174155">zwar im wesentlichen</alt><alt confidence="0.000696621">der Hauptsache um</alt><alt confidence="0.000696621">zwar in erster Linie</alt><alt confidence="0.00923023">vorrangig</alt><alt confidence="0.000174155">müssten insbesondere die</alt><alt confidence="0.00609544">Hauptsache</alt><alt confidence="0.00365726">Blüten blühn . "</alt><alt confidence="0.0191571">vornehmlich</alt><alt confidence="0.00174155">Blüten blühn</alt><alt confidence="0.000174155">ertönt insbesondere</alt><alt confidence="0.000174155">zwar in der Hauptsache</alt><alt confidence="0.000174155">, vorwiegend deswegen ,</alt><alt confidence="0.000174155">vor , die im Wesentlichen</alt><alt confidence="0.000348311">zwar vorwiegend</alt><alt confidence="0.000174155">deshalb hauptsächlich</alt><alt confidence="0.000174155">vor allen Dingen erst</alt><alt confidence="0.000174155">auch größtenteils</alt><alt confidence="0.000174155">gelten hauptsächlich</alt><alt confidence="0.000696621">und zwar in erster Linie</alt><alt confidence="0.0503309">erster Linie</alt><alt confidence="0.000348311">ein hauptsächlich</alt><alt confidence="0.000174155">Griechenlands hauptsächlich</alt><alt confidence="0.000522466">dabei hauptsächlich</alt><alt confidence="0.000348311">sich zum größten</alt><alt confidence="0.000174155">und zwar in der Hauptsache</alt><alt confidence="0.00191571">Wesentlichen um</alt><alt confidence="0.000522466">, hauptsächlich .</alt><alt confidence="0.0175897">vorwiegend</alt><alt confidence="0.000174155">ging hauptsächlich</alt><alt confidence="0.000174155">mehr insbesondere</alt><alt confidence="0.000174155">jetzt insbesondere</alt><alt confidence="0.0508534">insbesondere</alt><alt confidence="0.0128875">im wesentlichen</alt><alt confidence="0.00679206">meist</alt><alt confidence="0.000348311">der Hauptsache in</alt><alt confidence="0.0151515">die hauptsächlich</alt><alt confidence="0.000174155">dort vorrangig</alt><alt confidence="0.0496343">in erster Linie</alt><alt confidence="0.000174155">- vorrangig</alt><alt confidence="0.000174155">ihr vor allem</alt><alt confidence="0.00226402">und zwar hauptsächlich</alt><alt confidence="0.000348311">wie sie vor allem</alt><alt confidence="0.0106235">sich hauptsächlich</alt><alt confidence="0.000174155">, hauptsächlich um</alt><alt confidence="0.1907">hauptsächlich</alt><alt confidence="0.000174155">wobei es sich hauptsächlich</alt><alt confidence="0.00592128">es vor allem</alt><alt confidence="0.223267">vor allem</alt></f>  im Sommer .</output>
 </s>
 <s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="79">
   <input>Mach doch nicht immer solche <f id="1">jokes</f>  !</input>
@@ -317,19 +317,19 @@
 </s>
 <s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="80">
   <input>Wir werden <f id="1">energy sources</f>  nutzen , die direkt von der Sonne stammen .</input>
-  <output>Wir werden <f confidence="0.75" id="1">Energiequellen<alt confidence="0.25">Energien</alt></f>  nutzen , die direkt von der Sonne stammen .</output>
+  <output>Wir werden <f confidence="0.888889" id="1">Energiequellen<alt confidence="0.111111">Energieressourcen</alt></f>  nutzen , die direkt von der Sonne stammen .</output>
 </s>
 <s category="pp" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="81">
   <input>Wir leben <f id="1">in the age</f>  der Raumfahrt .</input>
-  <output>Wir leben <f confidence="0.333333" id="1">im Zeitalter<alt confidence="0.111111">sich im Zeitalter</alt><alt confidence="0.222222">in der Ära</alt><alt confidence="0.222222">auch in Zeiten</alt><alt confidence="0.111111">in den Zeiten</alt></f>  der Raumfahrt .</output>
+  <output>Wir leben <f confidence="1.0" id="1">im Zeitalter</f>  der Raumfahrt .</output>
 </s>
 <s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="82">
   <input>Sei nicht so <f id="1">stupid</f>  !</input>
-  <output>Sei nicht so <f confidence="0.404762" id="1">dumm<alt confidence="0.047619">doof</alt><alt confidence="0.0714286">bescheuert</alt><alt confidence="0.142857">dumm !</alt><alt confidence="0.0238095">blöde</alt><alt confidence="0.309524">blöd</alt></f>  !</output>
+  <output>Sei nicht so <f confidence="0.472222" id="1">dumm<alt confidence="0.361111">blöd</alt><alt confidence="0.0555556">doof</alt><alt confidence="0.0833333">bescheuert</alt><alt confidence="0.0277778">blöde</alt></f>  !</output>
 </s>
 <s category="p" source="Mittelpunkt B2 - Klett" id="83">
   <input><f id="1">Instead of</f>  gleich mit dem Studium anzufangen , machte Ruth nach dem Abitur eine Weltreise .</input>
-  <output><f confidence="0.481562" id="1">Anstatt<alt confidence="0.00433839">Doch statt</alt><alt confidence="0.343818">Statt</alt><alt confidence="0.0010846">Wieso versuchen wir nicht , ihm ein</alt><alt confidence="0.0010846">um mich ... anstelle von uns .</alt><alt confidence="0.0010846">Kann es auch etwas sein , was</alt><alt confidence="0.0010846">Im Gegensatz zu einer</alt><alt confidence="0.0357918">Stattdessen</alt><alt confidence="0.00542299">Und statt</alt><alt confidence="0.0314534">Anstelle von</alt><alt confidence="0.0021692">anstatt am Nachmittag zu trinken .</alt><alt confidence="0.0010846">, anstatt noch</alt><alt confidence="0.0021692">Wieso versuchen</alt><alt confidence="0.0010846">, anstatt von</alt><alt confidence="0.0661605">Anstelle</alt><alt confidence="0.0010846">Denn anstelle von</alt><alt confidence="0.0010846">kommentiere</alt><alt confidence="0.0021692">Könnten wir uns statt Freitag am Donnerstag</alt><alt confidence="0.0010846">An der Stelle</alt><alt confidence="0.0010846">etwas Originelles</alt><alt confidence="0.0010846">anstatt noch</alt><alt confidence="0.0010846">Doch anstatt dessen</alt><alt confidence="0.00759219">Aber anstatt</alt><alt confidence="0.0010846">Ich hoffte , das Herz der Nazis</alt><alt confidence="0.0010846">anstatt an</alt><alt confidence="0.0010846">Aber , statt nach</alt><alt confidence="0.0010846">Verabschieden Sie</alt></f>  gleich mit dem Studium anzufangen , machte Ruth nach dem Abitur eine Weltreise .</output>
+  <output><f confidence="1.0" id="1">Anstatt</f>  gleich mit dem Studium anzufangen , machte Ruth nach dem Abitur eine Weltreise .</output>
 </s>
 <s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="84">
   <input>Hier gibt es <f id="1">the possibility</f>  , auch von zu Hause aus am Computer zu arbeiten .</input>
@@ -369,7 +369,7 @@
 </s>
 <s category="det" source="1031_0002005" id="93">
   <input>Die Kultur dieser Länder in der Entwicklung und in <f id="1">the</f>  Geschichte ist enorm .</input>
-  <output>Die Kultur dieser Länder in der Entwicklung und in <f confidence="0.869168" id="1">der<alt confidence="0.123136">die</alt><alt confidence="0.000481">eine</alt><alt confidence="0.00673401">dieser</alt><alt confidence="0.000481">diese</alt></f>  Geschichte ist enorm .</output>
+  <output>Die Kultur dieser Länder in der Entwicklung und in <f confidence="0.86875" id="1">der<alt confidence="0.000480769">diese</alt><alt confidence="0.123077">die</alt><alt confidence="0.00673077">dieser</alt><alt confidence="0.000480769">eine</alt><alt confidence="0.000480769">sich die</alt></f>  Geschichte ist enorm .</output>
 </s>
 <s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="94">
   <input><f id="1">The attack</f>  geschah durch Bomben .</input>
@@ -377,7 +377,7 @@
 </s>
 <s category="v" source="MERLIN Learner Corpus,  docid=1031_0003097" id="95">
   <input>Das Klima hier ist <f id="1">tropical</f>  und wir haben fast keinen Winter .</input>
-  <output>Das Klima hier ist <f confidence="0.666667" id="1">tropischer<alt confidence="0.0666667">tropische</alt><alt confidence="0.2">tropischen</alt><alt confidence="0.0666667">Tropenwäldern</alt></f>  und wir haben fast keinen Winter .</output>
+  <output>Das Klima hier ist <f confidence="0.555556" id="1">tropischer<alt confidence="0.0555556">Tropenwäldern</alt><alt confidence="0.111111">der tropischen</alt><alt confidence="0.0555556">tropische</alt><alt confidence="0.166667">tropischen</alt><alt confidence="0.0555556">Tropen -</alt></f>  und wir haben fast keinen Winter .</output>
 </s>
 <s category="p" source="Mittelpunkt B2 - Klett" id="96">
   <input><f id="1">Either</f>  können uns besondere Ereignisse friedlich stimmen oder sie stimmen uns nervös .</input>
@@ -389,7 +389,7 @@
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="98">
   <input>Ich will ihn nicht <f id="1">hurt</f>  .</input>
-  <output>Ich will ihn nicht <f confidence="0.393939" id="1">weh<alt confidence="0.0016835">Verletzt .</alt><alt confidence="0.166667">verletzen</alt><alt confidence="0.0016835">wehzutun</alt><alt confidence="0.0218855">wehgetan</alt><alt confidence="0.265993">wehtun</alt><alt confidence="0.0555556">verletzt</alt><alt confidence="0.0925926">schaden</alt></f>  .</output>
+  <output>Ich will ihn nicht <f confidence="0.394604" id="1">weh<alt confidence="0.166948">verletzen</alt><alt confidence="0.00168634">wehzutun</alt><alt confidence="0.0219224">wehgetan</alt><alt confidence="0.266442">wehtun</alt><alt confidence="0.0556492">verletzt</alt><alt confidence="0.0927487">schaden</alt></f>  .</output>
 </s>
 <s category="pp" source="SCHUBERT-Verlag Leipzig" id="99">
   <input><f id="1">In the east</f>  ziehen im Laufe des Tages größere Wolkenfelder vorbei .</input>
@@ -429,7 +429,7 @@
 </s>
 <s category="v" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="108">
   <input>Er hat den Studenten mit dem teuren Auto <f id="1">impressed</f>  .</input>
-  <output>Er hat den Studenten mit dem teuren Auto <f confidence="0.989761" id="1">beeindruckt<alt confidence="0.00341297">beeindrucktt .</alt><alt confidence="0.00341297">beeinddruckt .</alt><alt confidence="0.00341297">bleiben . Sicherer so .</alt></f>  .</output>
+  <output>Er hat den Studenten mit dem teuren Auto <f confidence="0.614407" id="1">beeindruckt<alt confidence="0.00211864">beeindrucken lassen</alt><alt confidence="0.00211864">echt beeindruckt</alt><alt confidence="0.216102">bin beeindruckt</alt><alt confidence="0.0360169">ich bin beeindruckt</alt><alt confidence="0.0317797">nicht beeindruckt</alt><alt confidence="0.00423729">tief beeindruckt</alt><alt confidence="0.00211864">- beeindruckt</alt><alt confidence="0.00635593">, beeindruckt</alt><alt confidence="0.0847458">sehr beeindruckt</alt></f>  .</output>
 </s>
 <s category="p" source="SCHUBERT-Verlag Leipzig" id="109">
   <input>Ich war gerade drei Jahre als die Mauer gebaut worden ist , und ich kann mich natürlich selbst nicht <f id="1">from</f>  diesen Tag erinneren .</input>
@@ -449,7 +449,7 @@
 </s>
 <s category="p" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="113">
   <input><f id="1">From the perspective</f>  der Polizei war die schöne Frau die Mörderin .</input>
-  <output><f confidence="0.75" id="1">Aus der Sicht<alt confidence="0.166667">Aus der Perspektive</alt><alt confidence="0.0833333">aus der Perspektive</alt></f>  der Polizei war die schöne Frau die Mörderin .</output>
+  <output><f confidence="0.5" id="1">Aus der Sicht<alt confidence="0.111111">Aus der Perspektive</alt><alt confidence="0.0555556">aus der Perspektive</alt><alt confidence="0.222222">Aus Sicht</alt><alt confidence="0.0555556">) Aus der Sicht</alt><alt confidence="0.0555556">Vom Standpunkt</alt></f>  der Polizei war die schöne Frau die Mörderin .</output>
 </s>
 <s category="v" source="MERLIN Learner Corpus,  docid=1031_0002005" id="114">
   <input>Ohne die Sprache kann man sich nicht äußern und man wird sozusagen ein <f id="1">outsider</f>  .</input>
@@ -469,7 +469,7 @@
 </s>
 <s category="v" source="Mittelpunkt B2 - Klett" id="118">
   <input>Du weißt , was du vom Leben <f id="1">can expect</f>  .</input>
-  <output>Du weißt , was du vom Leben <f confidence="0.317308" id="1">erwarten können<alt confidence="0.134615">erwarten dürfen</alt><alt confidence="0.00961538">vorlegen muss</alt><alt confidence="0.0192308">verlangen können</alt><alt confidence="0.0288462">zu rechnen</alt><alt confidence="0.0288462">rechnen kann</alt><alt confidence="0.00961538">hoffen kann</alt><alt confidence="0.0480769">erwarten kann</alt><alt confidence="0.0192308">erwarten sind</alt><alt confidence="0.00961538">einfordern können</alt><alt confidence="0.173077">zu erwarten</alt><alt confidence="0.00961538">rechnen ist</alt><alt confidence="0.105769">rechnen können</alt><alt confidence="0.0865385">erwarten haben</alt></f>  .</output>
+  <output>Du weißt , was du vom Leben <f confidence="0.3" id="1">erwarten können<alt confidence="0.127273">erwarten dürfen</alt><alt confidence="0.00909091">denn nun erwarten dürfen</alt><alt confidence="0.00909091">vorlegen muss</alt><alt confidence="0.0181818">verlangen können</alt><alt confidence="0.00909091">ich morgen die Ladung wie geplant erwarten</alt><alt confidence="0.0272727">zu rechnen</alt><alt confidence="0.0272727">rechnen kann</alt><alt confidence="0.00909091">hoffen kann</alt><alt confidence="0.0454545">erwarten kann</alt><alt confidence="0.00909091">jetzt vorlegen muss</alt><alt confidence="0.0181818">erwarten sind</alt><alt confidence="0.00909091">damit rechnen können</alt><alt confidence="0.00909091">einfordern können</alt><alt confidence="0.163636">zu erwarten</alt><alt confidence="0.00909091">, erwarten können</alt><alt confidence="0.00909091">rechnen ist</alt><alt confidence="0.1">rechnen können</alt><alt confidence="0.0818182">erwarten haben</alt><alt confidence="0.00909091">auf lhre Kooperation und die lhres Personals</alt></f>  .</output>
 </s>
 <s category="n" source="MERLIN Learner Corpus,  docid=1061_0120498" id="119">
   <input>Zuerst haben meine Mutter und meine Großmutter das <f id="1">dinner</f>  gekocht und danach hat die ganze Familie zusammen gegessen .</input>
@@ -501,11 +501,11 @@
 </s>
 <s category="v" source="Mittelpunkt B2 - Klett" id="126">
   <input>Ihr Gesicht ist ganz rot und <f id="1">burns</f>  wie Feuer .</input>
-  <output>Ihr Gesicht ist ganz rot und <f confidence="0.533333" id="1">Verbrennungen<alt confidence="0.2">brennt</alt><alt confidence="0.0666667">brannte</alt><alt confidence="0.2">verbrennt</alt></f>  wie Feuer .</output>
+  <output>Ihr Gesicht ist ganz rot und <f confidence="0.6" id="1">Verbrennungen<alt confidence="0.1">brennt</alt><alt confidence="0.3">verbrennt</alt></f>  wie Feuer .</output>
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="127">
   <input>Man konnte <f id="1">imagine</f>  , ein Gebäude zu konstruieren , das die Umwelt nicht zerstört .</input>
-  <output>Man konnte <f confidence="0.910714" id="1">vorstellen<alt confidence="0.00198413">nicht , was das nützen sollte .</alt><alt confidence="0.000992063">vorstellen ,</alt><alt confidence="0.00496032">vermuten</alt><alt confidence="0.00198413">du , was 5 Jahre weniger im</alt><alt confidence="0.0327381">vermute</alt><alt confidence="0.000992063">Minuten , schätze ich .</alt><alt confidence="0.0456349">vorstellbar</alt></f>  , ein Gebäude zu konstruieren , das die Umwelt nicht zerstört .</output>
+  <output>Man konnte <f confidence="1.0" id="1">sich vorstellen</f>  , ein Gebäude zu konstruieren , das die Umwelt nicht zerstört .</output>
 </s>
 <s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="128">
   <input>Der Täter wurde <f id="1">arrested</f>  .</input>
@@ -525,11 +525,11 @@
 </s>
 <s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="132">
   <input>Jugendliche und <f id="1">adults</f>  haben oft verschiedene Meinungen .</input>
-  <output>Jugendliche und <f confidence="0.666667" id="1">Erwachsene<alt confidence="0.333333">Erwachsenen</alt></f>  haben oft verschiedene Meinungen .</output>
+  <output>Jugendliche und <f confidence="0.477273" id="1">Erwachsenen<alt confidence="0.0681818">Erwachsener</alt><alt confidence="0.386364">Erwachsene</alt><alt confidence="0.0227273">für Erwachsene</alt><alt confidence="0.0454545">die Erwachsenen</alt></f>  haben oft verschiedene Meinungen .</output>
 </s>
 <s category="p" source="Mittelpunkt B2 - Klett" id="133">
   <input><f id="1">Despite</f>  des günstigen Preises würde ich das nicht kaufen .</input>
-  <output><f confidence="0.870968" id="1">Trotz<alt confidence="0.0483871">Ungeachtet</alt><alt confidence="0.0806452">trotz</alt></f>  des günstigen Preises würde ich das nicht kaufen .</output>
+  <output><f confidence="0.84375" id="1">Trotz<alt confidence="0.0078125">Und trotz</alt><alt confidence="0.015625">. Trotz</alt><alt confidence="0.046875">Ungeachtet</alt><alt confidence="0.078125">trotz</alt><alt confidence="0.0078125">- trotz</alt></f>  des günstigen Preises würde ich das nicht kaufen .</output>
 </s>
 <s category="adj" source="SCHUBERT-Verlag Leipzig" id="134">
   <input>Darin steckt <f id="1">huge</f>  negatives Potenzial .</input>
@@ -537,7 +537,7 @@
 </s>
 <s category="v" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="135">
   <input>Er hat ihr ein Buch <f id="1">given</f>  .</input>
-  <output>Er hat ihr ein Buch <f confidence="0.295872" id="1">gegeben<alt confidence="0.0412844">geschenkt</alt><alt confidence="0.00840979">beigemessen</alt><alt confidence="0.0244648">gestellt</alt><alt confidence="0.00229358">bestimmtes</alt><alt confidence="0.272171">erhalten</alt><alt confidence="0.00382263">ausgestattet</alt><alt confidence="0.00152905">. . . . habe ich</alt><alt confidence="0.0244648">verliehen</alt><alt confidence="0.0466361">erhält</alt><alt confidence="0.00458716">zuteil</alt><alt confidence="0.0191131">übertragen</alt><alt confidence="0.0550459">erteilt</alt><alt confidence="0.0030581">zugestanden</alt><alt confidence="0.00152905">gewährte</alt><alt confidence="0.00152905">da</alt><alt confidence="0.0206422">abgegeben</alt><alt confidence="0.0359327">eingeräumt</alt><alt confidence="0.00152905">gegebenen</alt><alt confidence="0.0244648">gewährt</alt><alt confidence="0.110856">bekommen</alt><alt confidence="0.000764526">zuerkannt</alt></f>  .</output>
+  <output>Er hat ihr ein Buch <f confidence="0.295646" id="1">gegeben<alt confidence="0.00229183">, gegeben</alt><alt confidence="0.0412529">geschenkt</alt><alt confidence="0.00840336">beigemessen</alt><alt confidence="0.0244461">gestellt</alt><alt confidence="0.00229183">bestimmtes</alt><alt confidence="0.271963">erhalten</alt><alt confidence="0.00381971">ausgestattet</alt><alt confidence="0.0244461">verliehen</alt><alt confidence="0.0466005">erhält</alt><alt confidence="0.00458365">zuteil</alt><alt confidence="0.0190985">übertragen</alt><alt confidence="0.0550038">erteilt</alt><alt confidence="0.00305577">zugestanden</alt><alt confidence="0.00152788">gewährte</alt><alt confidence="0.00152788">da</alt><alt confidence="0.0206264">abgegeben</alt><alt confidence="0.0359053">eingeräumt</alt><alt confidence="0.00152788">gegebenen</alt><alt confidence="0.0244461">gewährt</alt><alt confidence="0.110772">bekommen</alt><alt confidence="0.000763942">zuerkannt</alt></f>  .</output>
 </s>
 <s category="adj" source="MERLIN Learner Corpus,  docid=1023_0104209" id="136">
   <input>Mit <f id="1">your</f>  Agentur kann ich hoffentlich einen Job finden und am Wochenende die Spanisch-Schule besuchen .</input>
@@ -545,11 +545,11 @@
 </s>
 <s category="n" source="SCHUBERT-Verlag Leipzig" id="137">
   <input>Computer sind intelligente <f id="1">beings</f>  .</input>
-  <output>Computer sind intelligente <f confidence="0.721805" id="1">Menschen<alt confidence="0.0526316">Lebewesen</alt><alt confidence="0.0225564">Mensch</alt><alt confidence="0.0075188">Rasse , die das Stargate erfand .</alt><alt confidence="0.0075188">begründet . Menschen auf</alt><alt confidence="0.0075188">Wesens</alt><alt confidence="0.180451">Wesen</alt></f>  .</output>
+  <output>Computer sind intelligente <f confidence="0.705882" id="1">Menschen<alt confidence="0.0514706">Lebewesen</alt><alt confidence="0.00735294">übertragbar ist</alt><alt confidence="0.0220588">Mensch</alt><alt confidence="0.00735294">Rasse , die das Stargate erfand .</alt><alt confidence="0.00735294">Alle Wesen fürchten sich vor dem Tod</alt><alt confidence="0.00735294">schon viel früher als angenommen Menschen gab</alt><alt confidence="0.00735294">überragender Wesen mit Technologien und übernatürlichen Fähigkeiten</alt><alt confidence="0.00735294">Wesens</alt><alt confidence="0.176471">Wesen</alt></f>  .</output>
 </s>
 <s category="p" source="Mittelpunkt B2 - Klett" id="138">
   <input>Er ist aber viel junger <f id="1">than</f>  ich .</input>
-  <output>Er ist aber viel junger <f confidence="0.959193" id="1">als<alt confidence="0.00192031">nicht</alt><alt confidence="0.0388862">denn</alt></f>  ich .</output>
+  <output>Er ist aber viel junger <f confidence="0.698357" id="1">als<alt confidence="0.00174764">haben als</alt><alt confidence="0.00139811">nicht</alt><alt confidence="0.0143307">ist als</alt><alt confidence="0.242223">, als</alt><alt confidence="0.0087382">sind als</alt><alt confidence="0.00489339">sein als</alt><alt confidence="0.0283118">denn</alt></f>  ich .</output>
 </s>
 <s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="139">
   <input>Die Natur eignet sich nicht für <f id="1">human</f>  Projektionen .</input>
@@ -565,7 +565,7 @@
 </s>
 <s category="v" source="Mittelpunkt B2 - Klett" id="142">
   <input>Man lernt , mit Stress <f id="1">to cope</f>  .</input>
-  <output>Man lernt , mit Stress <f confidence="0.52459" id="1">zu bewältigen<alt confidence="0.0983607">zu verkraften</alt><alt confidence="0.0983607">zu meistern</alt><alt confidence="0.0983607">bewältigen können</alt><alt confidence="0.0491803">gewachsen sind</alt><alt confidence="0.114754">zu tragen</alt><alt confidence="0.0163934">selbst helfen</alt></f>  .</output>
+  <output>Man lernt , mit Stress <f confidence="0.299065" id="1">zu bewältigen<alt confidence="0.11215">zurechtzukommen</alt><alt confidence="0.214953">fertig zu werden</alt><alt confidence="0.00934579">, mit der Lage fertig zu werden</alt><alt confidence="0.0654206">gerecht zu werden</alt><alt confidence="0.0186916">Herr zu werden</alt><alt confidence="0.0560748">zu verkraften</alt><alt confidence="0.0560748">zu meistern</alt><alt confidence="0.00934579">umgehen zu können</alt><alt confidence="0.0560748">bewältigen können</alt><alt confidence="0.0280374">gewachsen sind</alt><alt confidence="0.0654206">zu tragen</alt><alt confidence="0.00934579">selbst helfen</alt></f>  .</output>
 </s>
 <s category="p" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="143">
   <input>Der Gesang kann Demenzkranken helfen , <f id="1">because</f>  er die Emotionen und die Erinnerung stärkt .</input>
@@ -593,7 +593,7 @@
 </s>
 <s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="149">
   <input>Aber wie auch immer , sichtbar braucht die Welt <f id="1">such examples</f>  , um die Widerstände zu überwinden .</input>
-  <output>Aber wie auch immer , sichtbar braucht die Welt <f confidence="0.652174" id="1">Beispiele<alt confidence="0.0434783">solchen Beispielen</alt><alt confidence="0.130435">solcher Beispiele</alt><alt confidence="0.0434783">solche Beispiel</alt><alt confidence="0.130435">solche Beispiele</alt></f>  , um die Widerstände zu überwinden .</output>
+  <output>Aber wie auch immer , sichtbar braucht die Welt <f confidence="0.666667" id="1">Beispiele<alt confidence="0.166667">solcher Beispiele</alt><alt confidence="0.166667">solche Beispiele</alt></f>  , um die Widerstände zu überwinden .</output>
 </s>
 <s category="n" source="MERLIN Learner Corpus,  docid=1061_0120383" id="150">
   <input>Du hast <f id="1">me</f>  gefragt , ob ich mir etwas aus Istanbul wünsche , vielleicht kannst du mir exotische Gewürze mitbringen .</input>
@@ -621,11 +621,11 @@
 </s>
 <s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="156">
   <input>Die Politik hat schwere Probleme <f id="1">to solve</f>  .</input>
-  <output>Die Politik hat schwere Probleme <f confidence="0.918033" id="1">zu lösen<alt confidence="0.0819672">lösen</alt></f>  .</output>
+  <output>Die Politik hat schwere Probleme <f confidence="0.823529" id="1">zu lösen<alt confidence="0.176471">lösen</alt></f>  .</output>
 </s>
 <s category="p" source="MERLIN Learner Corpus,  docid=1031_0003169" id="157">
   <input>Traditionen haben mehrere interessante Aspekte , die <f id="1">from</f>  der einen Seite aus der Geschichte von eigenem Land entstanden sind .</input>
-  <output>Traditionen haben mehrere interessante Aspekte , die <f confidence="0.603982" id="1">von<alt confidence="0.00221239">ab</alt><alt confidence="0.050885">unter</alt><alt confidence="0.00442478">vonseiten</alt><alt confidence="0.309735">aus</alt><alt confidence="0.0165929">vor</alt><alt confidence="0.0121681">seitens</alt></f>  der einen Seite aus der Geschichte von eigenem Land entstanden sind .</output>
+  <output>Traditionen haben mehrere interessante Aspekte , die <f confidence="0.603315" id="1">von<alt confidence="0.00110497">, aus</alt><alt confidence="0.00220994">ab</alt><alt confidence="0.0508287">unter</alt><alt confidence="0.00441989">vonseiten</alt><alt confidence="0.309392">aus</alt><alt confidence="0.0165746">vor</alt><alt confidence="0.0121547">seitens</alt></f>  der einen Seite aus der Geschichte von eigenem Land entstanden sind .</output>
 </s>
 <s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="158">
   <input>Er <f id="1">denied</f>  , die Tat begangen zu haben</input>
@@ -633,7 +633,7 @@
 </s>
 <s category="v" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="159">
   <input>Der Kellner <f id="1">carries</f>  die Suppe</input>
-  <output>Der Kellner <f confidence="0.583333" id="1">birgt<alt confidence="0.0833333">spült</alt><alt confidence="0.333333">trägt</alt></f>  die Suppe</output>
+  <output>Der Kellner <f confidence="0.466667" id="1">birgt<alt confidence="0.0666667">gepumpt werden , besteht</alt><alt confidence="0.0666667">, birgt</alt><alt confidence="0.0666667">geprägt ist durch</alt><alt confidence="0.266667">trägt</alt><alt confidence="0.0666667">spült</alt></f>  die Suppe</output>
 </s>
 <s category="v" source="SCHUBERT-Verlag Leipzig" id="160">
   <input>Meine Enkelin Bärbel , die mit ihrer Mutter und Schwester in Zehlendorf lebte , <f id="1">spent</f>  wie jedes Jahr ihre Ferien bei uns .</input>
@@ -645,7 +645,7 @@
 </s>
 <s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="162">
   <input><f id="1">Abortion</f>  ist ein heikles politisches Thema .</input>
-  <output><f confidence="0.875" id="1">Abtreibung<alt confidence="0.125">Schwangerschaftsabbruch</alt></f>  ist ein heikles politisches Thema .</output>
+  <output><f confidence="0.7" id="1">Abtreibung<alt confidence="0.1">Die Abtreibung</alt><alt confidence="0.1">Aber der Schwangerschaftsabbruch</alt><alt confidence="0.1">Schwangerschaftsabbruch</alt></f>  ist ein heikles politisches Thema .</output>
 </s>
 <s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="163">
   <input>Zuden führen wir gemeinsam unser <f id="1">own</f>  Geschäft .</input>
@@ -725,11 +725,11 @@
 </s>
 <s category="adv" source="Mittelpunkt B2 - Klett" id="182">
   <input>Er kommt eine Stunde <f id="1">too late</f>  und entschuldigt sich .</input>
-  <output>Er kommt eine Stunde <f confidence="0.515152" id="1">spät<alt confidence="0.0151515">zu späten</alt><alt confidence="0.030303">zu späte</alt><alt confidence="0.439394">zu spät</alt></f>  und entschuldigt sich .</output>
+  <output>Er kommt eine Stunde <f confidence="0.428571" id="1">spät<alt confidence="0.0142857">sie zu spät kamen</alt><alt confidence="0.0571429">viel zu spät</alt><alt confidence="0.0285714">, zu spät</alt><alt confidence="0.0142857">nie zu spät</alt><alt confidence="0.414286">zu spät</alt><alt confidence="0.0142857">zu späten</alt><alt confidence="0.0285714">zu späte</alt></f>  und entschuldigt sich .</output>
 </s>
 <s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="183">
   <input>Für uns ist es <f id="1">important</f>  , dass du flexibel bist .</input>
-  <output>Für uns ist es <f confidence="0.985994" id="1">wichtig<alt confidence="0.00112045">wichtig ,</alt><alt confidence="0.00784314">wichtiger</alt><alt confidence="0.000560224">bedeutend</alt><alt confidence="0.00448179">bedeutsam</alt></f>  , dass du flexibel bist .</output>
+  <output>Für uns ist es <f confidence="0.956522" id="1">wichtig<alt confidence="0.0076087">von Bedeutung</alt><alt confidence="0.0076087">wichtiger</alt><alt confidence="0.000543478">es wichtig</alt><alt confidence="0.00434783">bedeutsam</alt><alt confidence="0.000543478">bedeutend</alt><alt confidence="0.00271739">deshalb wichtig</alt><alt confidence="0.0201087">von großer Bedeutung</alt></f>  , dass du flexibel bist .</output>
 </s>
 <s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="184">
   <input>Den Feind aus dem Osten <f id="1">exists no more</f>  heutzutage .</input>
@@ -749,7 +749,7 @@
 </s>
 <s category="pp" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="188">
   <input>In Europa steht Holland <f id="1">at the top</f>  .</input>
-  <output>In Europa steht Holland <f confidence="0.375" id="1">ganz oben<alt confidence="0.0625">auf Platz drei .</alt><alt confidence="0.0625">an erster Stelle</alt><alt confidence="0.125">an der Spitze</alt><alt confidence="0.0625">zur vollen Stunde .</alt><alt confidence="0.0625">auf dem Gipfel .</alt><alt confidence="0.125">im obersten</alt><alt confidence="0.125">an oberster Stelle</alt></f>  .</output>
+  <output>In Europa steht Holland <f confidence="0.5625" id="1">ganz oben<alt confidence="0.0625">an erster Stelle</alt><alt confidence="0.125">an der Spitze</alt><alt confidence="0.125">am Kopf zu stinken</alt><alt confidence="0.125">an oberster Stelle</alt></f>  .</output>
 </s>
 <s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="189">
   <input>Die <f id="1">centralised</f>  Stromversorgung macht Strom zur Massenware .</input>
@@ -777,15 +777,15 @@
 </s>
 <s category="p" source="SCHUBERT-Verlag Leipzig" id="195">
   <input>Bei den Geburtenzahlen befinden sich die deutschen Frauen mit je 1,34 Kindern <f id="1">below</f>  der Mitte .</input>
-  <output>Bei den Geburtenzahlen befinden sich die deutschen Frauen mit je 1,34 Kindern <f confidence="0.57384" id="1">unterhalb<alt confidence="0.42616">unter</alt></f>  der Mitte .</output>
+  <output>Bei den Geburtenzahlen befinden sich die deutschen Frauen mit je 1,34 Kindern <f confidence="0.540755" id="1">unterhalb<alt confidence="0.00994036">, unterhalb</alt><alt confidence="0.00596421">, das unterhalb</alt><alt confidence="0.40159">unter</alt><alt confidence="0.00198807">niedriger als</alt><alt confidence="0.00596421">das unterhalb</alt><alt confidence="0.00397614">Werte unterhalb</alt><alt confidence="0.00596421">ein Niveau unterhalb</alt><alt confidence="0.00198807">wie jenseits von</alt><alt confidence="0.00198807">weniger als</alt><alt confidence="0.00994036">lebt unter</alt><alt confidence="0.00198807">auch noch unter</alt><alt confidence="0.00198807">geringer als</alt><alt confidence="0.00596421">Niveau unterhalb</alt></f>  der Mitte .</output>
 </s>
 <s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="196">
   <input>Es besteht <f id="1">no doubt</f>  , dass das Interesse der Studenten zurückgegangen ist .</input>
-  <output>Es besteht <f confidence="0.941176" id="1">kein Zweifel<alt confidence="0.0470588">keinerlei Zweifel</alt><alt confidence="0.0117647">zweifellos</alt></f>  , dass das Interesse der Studenten zurückgegangen ist .</output>
+  <output>Es besteht <f confidence="0.883978" id="1">kein Zweifel<alt confidence="0.00552486">dagegen kein Zweifel daran</alt><alt confidence="0.00552486">gar kein Zweifel darüber</alt><alt confidence="0.0441989">keinerlei Zweifel</alt><alt confidence="0.038674">nicht der geringste Zweifel</alt><alt confidence="0.00552486">kaum ein Zweifel</alt><alt confidence="0.0165746">gar kein Zweifel</alt></f>  , dass das Interesse der Studenten zurückgegangen ist .</output>
 </s>
 <s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="197">
   <input>Nach über 24 Stunden fließt <f id="1">finally</f>  wieder Strom .</input>
-  <output>Nach über 24 Stunden fließt <f confidence="0.893939" id="1">endlich<alt confidence="0.0151515">Endlich</alt><alt confidence="0.0151515">endgültig</alt><alt confidence="0.0151515">letztendlich</alt><alt confidence="0.0151515">letztlich</alt><alt confidence="0.0454545">schließlich</alt></f>  wieder Strom .</output>
+  <output>Nach über 24 Stunden fließt <f confidence="0.797297" id="1">endlich<alt confidence="0.0135135">letztendlich</alt><alt confidence="0.0135135">endgültig</alt><alt confidence="0.0540541">, endlich</alt><alt confidence="0.0135135">, sich endlich</alt><alt confidence="0.0135135">letztlich</alt><alt confidence="0.0135135">sich endlich</alt><alt confidence="0.027027">nun endlich</alt><alt confidence="0.0405405">schließlich</alt><alt confidence="0.0135135">Endlich</alt></f>  wieder Strom .</output>
 </s>
 <s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="198">
   <input>Integration ist ein <f id="1">long</f>  Prozeß .</input>
@@ -797,7 +797,7 @@
 </s>
 <s category="v" source="MERLIN Learner Corpus,  docid=1031_0002085" id="200">
   <input>Wenn ich zum Beispiel Theodor Storm <f id="1">read</f>  , verstehe ich die deutsche Seele besser und lerne dabei Deutsch .</input>
-  <output>Wenn ich zum Beispiel Theodor Storm <f confidence="0.360104" id="1">gelesen<alt confidence="0.00259067">lest</alt><alt confidence="0.00518135">durchzulesen</alt><alt confidence="0.00194301">verlas</alt><alt confidence="0.00129534">Lektüre</alt><alt confidence="0.0544041">liest</alt><alt confidence="0.0595855">lese</alt><alt confidence="0.00129534">lesen ,</alt><alt confidence="0.000647668">sind , durchzulesen ,</alt><alt confidence="0.333549">lesen</alt><alt confidence="0.00129534">Medizinbücher</alt><alt confidence="0.0505181">vorlesen</alt><alt confidence="0.00388601">durchgelesen</alt><alt confidence="0.00518135">gelesen ,</alt><alt confidence="0.00323834">lesbar</alt><alt confidence="0.000647668">schreiben , sie ist</alt><alt confidence="0.00129534">las ,</alt><alt confidence="0.000647668">Hiobs</alt><alt confidence="0.0226684">verlesen</alt><alt confidence="0.00647668">durchlesen</alt><alt confidence="0.00129534">Spurenlesen</alt><alt confidence="0.0142487">nachlesen</alt><alt confidence="0.00582902">vorlese</alt><alt confidence="0.00129534">boogerbot</alt><alt confidence="0.0472798">las</alt><alt confidence="0.000647668">haben , wo ich stundenlang lesen konnte</alt><alt confidence="0.000647668">Dunphy , Tisch</alt><alt confidence="0.00129534">nachgelesen</alt><alt confidence="0.000647668">abgelesen ,</alt><alt confidence="0.00323834">Lesen</alt><alt confidence="0.00388601">heißen</alt><alt confidence="0.00323834">lasen</alt></f>  , verstehe ich die deutsche Seele besser und lerne dabei Deutsch .</output>
+  <output>Wenn ich zum Beispiel Theodor Storm <f confidence="0.321016" id="1">gelesen<alt confidence="0.00230947">lest</alt><alt confidence="0.000577367">noch einmal nachlesen</alt><alt confidence="0.00115473">einmal nachlesen</alt><alt confidence="0.00461894">durchzulesen</alt><alt confidence="0.000577367">da lesen</alt><alt confidence="0.0017321">verlas</alt><alt confidence="0.00115473">Lektüre</alt><alt confidence="0.0484988">liest</alt><alt confidence="0.000577367">ich werd wohl aus der Zeitung erfahren</alt><alt confidence="0.000577367">Hiobs</alt><alt confidence="0.0531178">lese</alt><alt confidence="0.297344">lesen</alt><alt confidence="0.00115473">Medizinbücher</alt><alt confidence="0.0450346">vorlesen</alt><alt confidence="0.000577367">Text vorlas</alt><alt confidence="0.0034642">durchgelesen</alt><alt confidence="0.000577367">genau ab</alt><alt confidence="0.000577367">da lese</alt><alt confidence="0.000577367">in alten Zeitungen</alt><alt confidence="0.000577367">bekanntgegeben haben</alt><alt confidence="0.000577367">es heißen</alt><alt confidence="0.0017321">einmal vorlesen</alt><alt confidence="0.00288684">lesbar</alt><alt confidence="0.00115473">lesen können</alt><alt confidence="0.00115473">gelesen habe</alt><alt confidence="0.0202079">verlesen</alt><alt confidence="0.00577367">durchlesen</alt><alt confidence="0.000577367">, vorlesen</alt><alt confidence="0.0127021">nachlesen</alt><alt confidence="0.000577367">vielmehr gegeben hin</alt><alt confidence="0.0051963">vorlese</alt><alt confidence="0.00115473">boogerbot</alt><alt confidence="0.104503">zu lesen</alt><alt confidence="0.0421478">las</alt><alt confidence="0.00115473">Spurenlesen</alt><alt confidence="0.00115473">nachgelesen</alt><alt confidence="0.000577367">so lesen</alt><alt confidence="0.00288684">Lesen</alt><alt confidence="0.0034642">heißen</alt><alt confidence="0.00288684">lasen</alt><alt confidence="0.0017321">, gelesen</alt></f>  , verstehe ich die deutsche Seele besser und lerne dabei Deutsch .</output>
 </s>
 <s category="expr" source="MERLIN Learner Corpus,  docid=1071_0024863" id="201">
   <input>Ich war sehr glücklich als ich <f id="1">the news about the baby</f>  gehört habe .</input>
@@ -813,7 +813,7 @@
 </s>
 <s category="v" source="Mittelpunkt B2 - Klett" id="204">
   <input>Ich <f id="1">believe</f>  , ich habe mir den Fuß verstaucht .</input>
-  <output>Ich <f confidence="0.725066" id="1">glaube<alt confidence="0.000455944">halte</alt><alt confidence="0.000113986">glaube ,</alt><alt confidence="0.0597287">meine</alt><alt confidence="0.0181238">finde</alt><alt confidence="0.196398">denke</alt><alt confidence="0.000113986">denke ,</alt></f>  , ich habe mir den Fuß verstaucht .</output>
+  <output>Ich <f confidence="0.638334" id="1">glaube<alt confidence="0.000401405">halte</alt><alt confidence="0.0127446">bin überzeugt</alt><alt confidence="0.0407426">bin der Meinung</alt><alt confidence="0.052584">meine</alt><alt confidence="0.0159558">finde</alt><alt confidence="0.013146">bin der Auffassung</alt><alt confidence="0.0178625">bin davon überzeugt</alt><alt confidence="0.0239839">bin der Ansicht</alt><alt confidence="0.172905">denke</alt><alt confidence="0.0113397">bin der Überzeugung</alt></f>  , ich habe mir den Fuß verstaucht .</output>
 </s>
 <s category="n" source="SCHUBERT-Verlag Leipzig" id="205">
   <input>Von ihr habe ich mehr gelernt als aus manchem <f id="1">history book</f>  .</input>
@@ -841,7 +841,7 @@
 </s>
 <s category="p" source=" MERLIN Learner Corpus,  docid=1031_0003220" id="211">
   <input>Ich musste mich <f id="1">to</f>  die Gastfamilie anpassen , oder ich bekam kein Frühstück .</input>
-  <output>Ich musste mich <f confidence="0.436466" id="1">auf<alt confidence="0.0407422">,</alt><alt confidence="0.16781">an</alt><alt confidence="0.0318677">um</alt><alt confidence="0.0205728">, die</alt><alt confidence="0.00403388">an die</alt><alt confidence="0.00726099">für die</alt><alt confidence="0.00242033">vor</alt><alt confidence="0.0709964">in</alt><alt confidence="0.0161355">auf die</alt><alt confidence="0.201694">für</alt></f>  die Gastfamilie anpassen , oder ich bekam kein Frühstück .</output>
+  <output>Ich musste mich <f confidence="0.455963" id="1">auf<alt confidence="0.000842815">, um</alt><alt confidence="0.0425622">,</alt><alt confidence="0.175306">an</alt><alt confidence="0.0332912">um</alt><alt confidence="0.00463548">, auf</alt><alt confidence="0.00252845">vor</alt><alt confidence="0.0741677">in</alt><alt confidence="0.210704">für</alt></f>  die Gastfamilie anpassen , oder ich bekam kein Frühstück .</output>
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="212">
   <input><f id="1">We would like that</f>  du dich liebevoll um die zwei Kinder kümmerst und etwas im Haushalt hilfst .</input>
@@ -869,11 +869,11 @@
 </s>
 <s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="218">
   <input><f id="1">Until now</f>  richteten sich die Arbeitszeiten nach Sonnenaufgang und Sonnenuntergang .</input>
-  <output><f confidence="0.450355" id="1">Bisher<alt confidence="0.0496454">Bis heute</alt><alt confidence="0.0035461">An einer</alt><alt confidence="0.0035461">Die bisherige</alt><alt confidence="0.0035461">War lange</alt><alt confidence="0.0141844">Wir nahmen an , es</alt><alt confidence="0.138298">Bislang</alt><alt confidence="0.319149">Bis jetzt</alt><alt confidence="0.0035461">während bisher</alt><alt confidence="0.0106383">Bis dato</alt><alt confidence="0.0035461">RIGGS : Wir nahmen an</alt></f>  richteten sich die Arbeitszeiten nach Sonnenaufgang und Sonnenuntergang .</output>
+  <output><f confidence="1.0" id="1">Bisher</f>  richteten sich die Arbeitszeiten nach Sonnenaufgang und Sonnenuntergang .</output>
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="219">
   <input>Recyclingsbemühungen mussen finanziell stärker <f id="1">supported</f>  werden .</input>
-  <output>Recyclingsbemühungen mussen finanziell stärker <f confidence="0.758698" id="1">unterstützt<alt confidence="0.140292">gefördert</alt><alt confidence="0.00112233">Flankiert</alt><alt confidence="0.0157127">befürwortet</alt><alt confidence="0.00561167">unterstützt werden</alt><alt confidence="0.0280584">getragen</alt><alt confidence="0.00112233">abgestützt</alt><alt confidence="0.0112233">unterstützen</alt><alt confidence="0.010101">mitgetragen</alt><alt confidence="0.0280584">gestützt</alt></f>  werden .</output>
+  <output>Recyclingsbemühungen mussen finanziell stärker <f confidence="0.737186" id="1">unterstützt<alt confidence="0.136314">gefördert</alt><alt confidence="0.00109051">sie Unterstützung finden</alt><alt confidence="0.0218103">, unterstützt</alt><alt confidence="0.00109051">diese unterstützt</alt><alt confidence="0.00109051">Umfange unterstützt</alt><alt confidence="0.00436205">Fall unterstützt</alt><alt confidence="0.00109051">Flankiert</alt><alt confidence="0.00109051">wurden , unterstützt</alt><alt confidence="0.00109051">Ergebnis unterstützt</alt><alt confidence="0.0152672">befürwortet</alt><alt confidence="0.00109051">, mitgetragen</alt><alt confidence="0.0272628">getragen</alt><alt confidence="0.00109051">abgestützt</alt><alt confidence="0.0109051">unterstützen</alt><alt confidence="0.00109051">darin unterstützt</alt><alt confidence="0.00981461">mitgetragen</alt><alt confidence="0.0272628">gestützt</alt></f>  werden .</output>
 </s>
 <s category="n" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="220">
   <input><f id="1">Excitement</f>  wird aufgebaut , um danach wieder abgebaut zu werden .</input>
@@ -921,7 +921,7 @@
 </s>
 <s category="v" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="231">
   <input>Sie <f id="1">promises</f>  , dass sie kommt .</input>
-  <output>Sie <f confidence="1.0" id="1">verspricht</f>  , dass sie kommt .</output>
+  <output>Sie <f confidence="0.666667" id="1">verspricht<alt confidence="0.111111">Versprechungen</alt><alt confidence="0.222222">die Versprechen</alt></f>  , dass sie kommt .</output>
 </s>
 <s category="adv" source="Mittelpunkt B2 - Klett" id="232">
   <input>Meine Mutter hat <f id="1">everything possible</f>  versucht .</input>
@@ -933,7 +933,7 @@
 </s>
 <s category="v" source="Mittelpunkt B2 - Klett" id="234">
   <input>Ein freundlicher Passant <f id="1">shows</f>  den Touristen den Weg ins Zentrum .</input>
-  <output>Ein freundlicher Passant <f confidence="0.682927" id="1">zeigt<alt confidence="0.121951">zeigen</alt><alt confidence="0.121951">weist</alt><alt confidence="0.0243902">um den Ausdruck</alt><alt confidence="0.0487805">beweist</alt></f>  den Touristen den Weg ins Zentrum .</output>
+  <output>Ein freundlicher Passant <f confidence="0.651163" id="1">zeigt<alt confidence="0.116279">zeigen</alt><alt confidence="0.0232558">gibt , zeigt</alt><alt confidence="0.116279">weist</alt><alt confidence="0.0465116">, zeigt</alt><alt confidence="0.0465116">beweist</alt></f>  den Touristen den Weg ins Zentrum .</output>
 </s>
 <s category="expr" source="Mittelpunkt B2 - Klett" id="235">
   <input>Dazu wären sie <f id="1">under no circumstances</f>  bereit .</input>
@@ -981,7 +981,7 @@
 </s>
 <s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="246">
   <input>Wir werden <f id="1">a civil war</f>  im ehemaligen Jugoslawien verhindern .</input>
-  <output>Wir werden <f confidence="0.506024" id="1">Bürgerkrieg<alt confidence="0.168675">einem Bürgerkrieg</alt><alt confidence="0.0301205">der Bürgerkrieg</alt><alt confidence="0.0120482">, ein Bürgerkrieg</alt><alt confidence="0.0060241">es einen Bürgerkrieg ,</alt><alt confidence="0.0361446">eines Bürgerkriegs</alt><alt confidence="0.0301205">Bürgerkrieges</alt><alt confidence="0.0722892">einen Bürgerkrieg</alt><alt confidence="0.0120482">Bürgerkriegserbstück .</alt><alt confidence="0.0963855">ein Bürgerkrieg</alt><alt confidence="0.0060241">auch einen Bürgerkrieg</alt><alt confidence="0.0240964">als Bürgerkrieg</alt></f>  im ehemaligen Jugoslawien verhindern .</output>
+  <output>Wir werden <f confidence="0.666667" id="1">Bürgerkrieg<alt confidence="0.333333">einem Bürgerkrieg</alt></f>  im ehemaligen Jugoslawien verhindern .</output>
 </s>
 <s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="247">
   <input>Wie immer , <f id="1">the constraints</f>  der Ausfuhr waren schmerzlich .</input>
@@ -1021,7 +1021,7 @@
 </s>
 <s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="256">
   <input>Er <f id="1">grew</f>  schnell im letzten Jahr .</input>
-  <output>Er <f confidence="1.0" id="1">wuchs</f>  schnell im letzten Jahr .</output>
+  <output>Er <f confidence="0.857143" id="1">wuchs<alt confidence="0.142857">, wuchs</alt></f>  schnell im letzten Jahr .</output>
 </s>
 <s category="v" source="n MERLIN Learner Corpus,  docid=1061_0120285" id="257">
   <input>Meine Schwester <f id="1">stays</f>  seit einem Jahr in Luxemburg .</input>
@@ -1029,7 +1029,7 @@
 </s>
 <s category="adv" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="258">
   <input>Sie warteten <f id="1">the entire day</f>  .</input>
-  <output>Sie warteten <f confidence="1.0" id="1">den ganzen Tag</f>  .</output>
+  <output>Sie warteten <f confidence="0.666667" id="1">den ganzen Tag<alt confidence="0.333333">Tag mit dem Mann ihrer Wahl verbringen</alt></f>  .</output>
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="259">
   <input>Koepcke <f id="1">survives</f>  als Einzige den Absturz .</input>
@@ -1073,7 +1073,7 @@
 </s>
 <s category="a" source="Mittelpunkt B2 - Klett" id="269">
   <input>Ich kaufe Bücher nur , wenn sie nicht <f id="1">expensive</f>  sind .</input>
-  <output>Ich kaufe Bücher nur , wenn sie nicht <f confidence="0.578125" id="1">teuer<alt confidence="0.015625">kostspieliger</alt><alt confidence="0.09375">kostspielig</alt><alt confidence="0.296875">teurer</alt><alt confidence="0.015625">kostenintensiver</alt></f>  sind .</output>
+  <output>Ich kaufe Bücher nur , wenn sie nicht <f confidence="0.552239" id="1">teuer<alt confidence="0.0149254">kostspieliger</alt><alt confidence="0.283582">teurer</alt><alt confidence="0.0149254">hohen Kosten verbunden</alt><alt confidence="0.0149254">kostenintensiver</alt><alt confidence="0.0149254">mit hohen Kosten verbunden</alt><alt confidence="0.0895522">kostspielig</alt><alt confidence="0.0149254">sehr kostspielig</alt></f>  sind .</output>
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="270">
   <input>Jeder Schüler <f id="1">owns</f>  einen eigenen Computer .</input>
@@ -1109,7 +1109,7 @@
 </s>
 <s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="278">
   <input>In Detroit entsteht <f id="1">at the time</f>  ein riesiges Grasdach für eine Produktionshalle .</input>
-  <output>In Detroit entsteht <f confidence="0.333333" id="1">zur damaligen Zeit<alt confidence="0.166667">der damals</alt><alt confidence="0.166667">zu der Zeit</alt><alt confidence="0.166667">damals</alt><alt confidence="0.166667">zu diesem Zeitpunkt</alt></f>  ein riesiges Grasdach für eine Produktionshalle .</output>
+  <output>In Detroit entsteht <f confidence="0.545455" id="1">damals<alt confidence="0.0909091">zu diesem Zeitpunkt</alt><alt confidence="0.181818">zur damaligen Zeit</alt><alt confidence="0.0909091">seinerzeit</alt><alt confidence="0.0909091">zu der Zeit</alt></f>  ein riesiges Grasdach für eine Produktionshalle .</output>
 </s>
 <s category="adj" source="SCHUBERT-Verlag Leipzig" id="279">
   <input>Der <f id="1">present</f>  Leistungsdruck verlangt den Sportlern viel ab .</input>
@@ -1129,11 +1129,11 @@
 </s>
 <s category="a" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="283">
   <input>Sie wurden <f id="1">violent</f>  .</input>
-  <output>Sie wurden <f confidence="0.555556" id="1">gewalttätig<alt confidence="0.123457">Gewalt</alt><alt confidence="0.037037">gewalttätigsten</alt><alt confidence="0.0493827">Gewalttätigkeit</alt><alt confidence="0.0123457">werden . - Es ist okay .</alt><alt confidence="0.037037">brutaler</alt><alt confidence="0.0123457">heftiger</alt><alt confidence="0.0740741">Gewalttätige</alt><alt confidence="0.037037">gewaltsam</alt><alt confidence="0.0123457">Gewaltbereitschaft</alt><alt confidence="0.0123457">gewaltgeprägt</alt><alt confidence="0.0123457">Gewaltakt</alt><alt confidence="0.0123457">heftige</alt><alt confidence="0.0123457">gewalttätiger</alt></f>  .</output>
+  <output>Sie wurden <f confidence="0.54878" id="1">gewalttätig<alt confidence="0.0121951">sogar von Gewalt geprägt</alt><alt confidence="0.121951">Gewalt</alt><alt confidence="0.0365854">gewalttätigsten</alt><alt confidence="0.0487805">Gewalttätigkeit</alt><alt confidence="0.0365854">brutaler</alt><alt confidence="0.0121951">heftiger</alt><alt confidence="0.0731707">Gewalttätige</alt><alt confidence="0.0365854">gewaltsam</alt><alt confidence="0.0121951">Gewaltbereitschaft</alt><alt confidence="0.0121951">gewaltgeprägt</alt><alt confidence="0.0121951">Gewaltakt</alt><alt confidence="0.0121951">heftige</alt><alt confidence="0.0121951">gewalttätiger</alt><alt confidence="0.0121951">von Gewalt geprägten Regionen</alt></f>  .</output>
 </s>
 <s category="adj" source="SCHUBERT-Verlag Leipzig" id="284">
   <input>Fleißigste EU-Bürger waren Eurostat zufolge die Österreicher mit einer <f id="1">weekly</f>  Arbeitszeit von 44,3 Stunden .</input>
-  <output>Fleißigste EU-Bürger waren Eurostat zufolge die Österreicher mit einer <f confidence="0.642857" id="1">wöchentliche<alt confidence="0.357143">wöchentlichen</alt></f>  Arbeitszeit von 44,3 Stunden .</output>
+  <output>Fleißigste EU-Bürger waren Eurostat zufolge die Österreicher mit einer <f confidence="0.666667" id="1">wöchentlichen<alt confidence="0.333333">Wochenzeitung</alt></f>  Arbeitszeit von 44,3 Stunden .</output>
 </s>
 <s category="v" source="Mittelpunkt B2 - Klett" id="285">
   <input>Er <f id="1">tells about</f>  seinen chronischen Kopfschmerzen .</input>
@@ -1153,11 +1153,11 @@
 </s>
 <s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="289">
   <input><f id="1">The work</f>  ist nicht immer angenehm .</input>
-  <output><f confidence="0.75" id="1">Die Arbeit<alt confidence="0.125">Seine Arbeit</alt><alt confidence="0.125">Die Arbeitausrede ist übrigens total erfunden .</alt></f>  ist nicht immer angenehm .</output>
+  <output><f confidence="0.857143" id="1">Die Arbeit<alt confidence="0.142857">Seine Arbeit</alt></f>  ist nicht immer angenehm .</output>
 </s>
 <s category="n" source="SCHUBERT-Verlag Leipzig" id="290">
   <input>Bei den Männern können <f id="1">the Swiss</f>  mit 78,5 Jahren auf ein langes Leben hoffen .</input>
-  <output>Bei den Männern können <f confidence="0.666667" id="1">die Schweiz<alt confidence="0.333333">die Schweizer</alt></f>  mit 78,5 Jahren auf ein langes Leben hoffen .</output>
+  <output>Bei den Männern können <f confidence="0.4" id="1">die Schweiz<alt confidence="0.2">, die Schweiz</alt><alt confidence="0.2">Schweizer</alt><alt confidence="0.2">die Schweizer</alt></f>  mit 78,5 Jahren auf ein langes Leben hoffen .</output>
 </s>
 <s category="v" source="Mittelpunkt B2 - Klett" id="291">
   <input>Ich bin nervös und <f id="1">am afraid</f>  .</input>
@@ -1173,11 +1173,11 @@
 </s>
 <s category="v" id="294">
   <input>Wir sollen sofort <f id="1">make a decision</f>  .</input>
-  <output>Wir sollen sofort <f confidence="1.0" id="1">eine Entscheidung treffen</f>  .</output>
+  <output>Wir sollen sofort <f confidence="0.666667" id="1">eine Entscheidung treffen<alt confidence="0.333333">entscheiden</alt></f>  .</output>
 </s>
 <s category="adv" source="SCHUBERT-Verlag Leipzig" id="295">
   <input>Sie sind so intelligent , dass sie Büroarbeit erledigen und manchmal <f id="1">even</f>  reden .</input>
-  <output>Sie sind so intelligent , dass sie Büroarbeit erledigen und manchmal <f confidence="0.676259" id="1">sogar<alt confidence="0.0143885">überhaupt</alt><alt confidence="0.0791367">noch</alt><alt confidence="0.0359712">gar</alt><alt confidence="0.158273">auch</alt><alt confidence="0.00719424">, auch</alt><alt confidence="0.0143885">einmal</alt><alt confidence="0.0143885">selbst</alt></f>  reden .</output>
+  <output>Sie sind so intelligent , dass sie Büroarbeit erledigen und manchmal <f confidence="0.712121" id="1">sogar<alt confidence="0.0681818">noch</alt><alt confidence="0.0378788">gar</alt><alt confidence="0.166667">auch</alt><alt confidence="0.00757576">, auch</alt><alt confidence="0.00757576">selbst</alt></f>  reden .</output>
 </s>
 <s category="pp" source="SCHUBERT-Verlag Leipzig" id="296">
   <input>Im statistischen Amt der Europäischen Union Eurostat werden alle Daten des Lebens der Europäer von der Geburt <f id="1">until death</f>  erfasst .</input>
@@ -1205,7 +1205,7 @@
 </s>
 <s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="302">
   <input>Durch die Gefängnisstrafe wurde er von seinen Kumpanen <f id="1">separated</f>  .</input>
-  <output>Durch die Gefängnisstrafe wurde er von seinen Kumpanen <f confidence="0.689655" id="1">getrennt<alt confidence="0.0344828">trennte</alt><alt confidence="0.0431034">Trennung</alt><alt confidence="0.0344828">abgetrennt</alt><alt confidence="0.0172414">trennten</alt><alt confidence="0.172414">trennen</alt><alt confidence="0.00862069">aussortiert</alt></f>  .</output>
+  <output>Durch die Gefängnisstrafe wurde er von seinen Kumpanen <f confidence="0.634921" id="1">getrennt<alt confidence="0.031746">trennte</alt><alt confidence="0.0238095">voneinander getrennt</alt><alt confidence="0.0396825">Trennung</alt><alt confidence="0.031746">abgetrennt</alt><alt confidence="0.00793651">voneinander trennte</alt><alt confidence="0.015873">trennten</alt><alt confidence="0.0238095">voneinander trennen</alt><alt confidence="0.15873">trennen</alt><alt confidence="0.00793651">voneinander trennt</alt><alt confidence="0.00793651">um von der Mutter getrennt zu werden</alt><alt confidence="0.00793651">allein stehende Sound-Typ wird auch da sein</alt><alt confidence="0.00793651">aussortiert</alt></f>  .</output>
 </s>
 <s category="v" source="Mittelpunkt B2 - Klett" id="303">
   <input>Viele Menschen <f id="1">buy</f>  nur noch im Internet .</input>
@@ -1221,7 +1221,7 @@
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="306">
   <input><f id="1">There is also</f>  eine zweite Küche und ein Bad .</input>
-  <output><f confidence="0.387755" id="1">Es gibt auch<alt confidence="0.0204082">Gleichzeitig gibt es</alt><alt confidence="0.0204082">Zudem wird nunmehr</alt><alt confidence="0.0204082">Es erfolgt sogar</alt><alt confidence="0.0816327">Es gibt außerdem</alt><alt confidence="0.0204082">Es besteht auch</alt><alt confidence="0.122449">Es gibt noch</alt><alt confidence="0.0204082">Zudem gibt es</alt><alt confidence="0.0204082">Auch ist es</alt><alt confidence="0.0204082">Darüber hinaus ist</alt><alt confidence="0.0204082">Es besteht ferner</alt><alt confidence="0.0204082">Es besteht außerdem</alt><alt confidence="0.0408163">Es gibt ebenfalls</alt><alt confidence="0.0204082">Des weiteren besteht eine</alt><alt confidence="0.0816327">Außerdem gibt es</alt><alt confidence="0.0204082">Es fehlt auch</alt><alt confidence="0.0204082">Ferner gibt es</alt><alt confidence="0.0408163">Auch gibt es</alt></f>  eine zweite Küche und ein Bad .</output>
+  <output><f confidence="0.292308" id="1">Es gibt auch<alt confidence="0.0153846">Gleichzeitig gibt es</alt><alt confidence="0.0615385">Es gibt außerdem</alt><alt confidence="0.0923077">Es gibt noch</alt><alt confidence="0.0153846">Es erfolgt sogar</alt><alt confidence="0.0153846">Dies ist meines Erachtens auch</alt><alt confidence="0.0307692">besteht auch</alt><alt confidence="0.0153846">Es besteht auch</alt><alt confidence="0.0153846">Zudem gibt es</alt><alt confidence="0.0153846">Es besteht ferner</alt><alt confidence="0.0153846">Es gibt darüber hinaus</alt><alt confidence="0.0615385">Außerdem gibt es</alt><alt confidence="0.0153846">Dazu kommt</alt><alt confidence="0.0153846">Ferner gibt es</alt><alt confidence="0.0461538">Darüber hinaus gibt es</alt><alt confidence="0.0153846">Und dann besteht noch</alt><alt confidence="0.0153846">Außerdem besteht</alt><alt confidence="0.0153846">Es besteht außerdem</alt><alt confidence="0.0153846">Darüber hinaus ist</alt><alt confidence="0.0153846">Auch ist es</alt><alt confidence="0.0307692">Es gibt ebenfalls</alt><alt confidence="0.0153846">Es fehlt auch</alt><alt confidence="0.0153846">Dann gibt es noch</alt><alt confidence="0.0153846">Es gibt da noch</alt><alt confidence="0.0153846">Und ferner</alt><alt confidence="0.0153846">Zudem wird nunmehr</alt><alt confidence="0.0307692">Auch gibt es</alt><alt confidence="0.0153846">Des Weiteren gibt es</alt><alt confidence="0.0153846">Die Sache hat auch noch</alt><alt confidence="0.0307692">besteht außerdem</alt></f>  eine zweite Küche und ein Bad .</output>
 </s>
 <s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="307">
   <input>In <f id="1">the constitution</f>  stehen die Rechte und Pflichten der Bürger .</input>
@@ -1229,7 +1229,7 @@
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="308">
   <input>Spätestens alle vier Jahre müssen die Winterreifen <f id="1">renewed</f>  werden .</input>
-  <output>Spätestens alle vier Jahre müssen die Winterreifen <f confidence="0.5" id="1">erneuert<alt confidence="0.0227273">Erneuerung</alt><alt confidence="0.477273">verlängert</alt></f>  werden .</output>
+  <output>Spätestens alle vier Jahre müssen die Winterreifen <f confidence="0.468085" id="1">erneuert<alt confidence="0.0212766">Erneuerung</alt><alt confidence="0.446809">verlängert</alt><alt confidence="0.0425532">, erneuert</alt><alt confidence="0.0212766">neu formuliert</alt></f>  werden .</output>
 </s>
 <s category="adj" source="SCHUBERT-Verlag Leipzig" id="309">
   <input>In Zukunft werden wir immer <f id="1">less</f>  Rohstoffe zur Verfürung haben .</input>
@@ -1245,7 +1245,7 @@
 </s>
 <s category="adv" source="Mittelpunkt B2 - Klett" id="312">
   <input>Sie kochen <f id="1">today</f>  nicht selbst .</input>
-  <output>Sie kochen <f confidence="0.904196" id="1">heute<alt confidence="0.00839161">derzeit</alt><alt confidence="0.0020979">heutigen</alt><alt confidence="0.00909091">gegenwärtig</alt><alt confidence="0.065035">Heute</alt><alt confidence="0.0111888">heutzutage</alt></f>  nicht selbst .</output>
+  <output>Sie kochen <f confidence="0.792765" id="1">heute<alt confidence="0.00183936">heute ,</alt><alt confidence="0.00735745">derzeit</alt><alt confidence="0.0190067">sie heute</alt><alt confidence="0.00183936">heutigen</alt><alt confidence="0.030656">es heute</alt><alt confidence="0.00797057">gegenwärtig</alt><alt confidence="0.000613121">das Heute</alt><alt confidence="0.00980993">auch heute</alt><alt confidence="0.0128755">das heute</alt><alt confidence="0.0570202">Heute</alt><alt confidence="0.00490497">von heute</alt><alt confidence="0.0269773">, heute</alt><alt confidence="0.00735745">sich heute</alt><alt confidence="0.00919681">und heute</alt><alt confidence="0.00980993">heutzutage</alt></f>  nicht selbst .</output>
 </s>
 <s category="adv" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="313">
   <input>Otto weiß nicht , <f id="1">whether</f>  er kommt .</input>
@@ -1273,7 +1273,7 @@
 </s>
 <s category="v" source="Mittelpunkt B2 - Klett" id="319">
   <input>Andreas und Michael werden nächste Woche nach Berlin <f id="1">move</f>  .</input>
-  <output>Andreas und Michael werden nächste Woche nach Berlin <f confidence="0.517017" id="1">bewegen<alt confidence="0.0369298">verlegen</alt><alt confidence="0.0115858">schreiten</alt><alt confidence="0.00434468">zubewegen</alt><alt confidence="0.0528602">übergehen</alt><alt confidence="0.00434468">move</alt><alt confidence="0.00651702">Schachzug</alt><alt confidence="0.0391021">umziehen</alt><alt confidence="0.00289645">bewegung .</alt><alt confidence="0.0181028">verlagern</alt><alt confidence="0.00362056">zuzubewegen</alt><alt confidence="0.00724113">Umzug</alt><alt confidence="0.173063">Bewegung</alt><alt confidence="0.00144823">ausbooten .</alt><alt confidence="0.00144823">abwandern</alt><alt confidence="0.0354815">überzugehen</alt><alt confidence="0.0412744">bewegt</alt><alt confidence="0.00144823">angeschnallt .</alt><alt confidence="0.0412744">Schritt</alt></f>  .</output>
+  <output>Andreas und Michael werden nächste Woche nach Berlin <f confidence="0.500701" id="1">bewegen<alt confidence="0.0112202">schreiten</alt><alt confidence="0.00490884">uns bewegen</alt><alt confidence="0.00420757">move</alt><alt confidence="0.0399719">bewegt</alt><alt confidence="0.000701262">seid am Zug</alt><alt confidence="0.00631136">Schachzug</alt><alt confidence="0.00350631">zuzubewegen</alt><alt confidence="0.167602">Bewegung</alt><alt confidence="0.0343619">überzugehen</alt><alt confidence="0.0357644">verlegen</alt><alt confidence="0.00631136">anderen ziehen</alt><alt confidence="0.00420757">zubewegen</alt><alt confidence="0.0511921">übergehen</alt><alt confidence="0.00140252">Richtung voranzubringen</alt><alt confidence="0.0154278">sich bewegen</alt><alt confidence="0.0175316">verlagern</alt><alt confidence="0.00701262">Umzug</alt><alt confidence="0.000701262">etwas bewegt hat</alt><alt confidence="0.00350631">, diese Katapulte nach vorn zu bringen</alt><alt confidence="0.00350631">einen anderen ziehen</alt><alt confidence="0.0378682">umziehen</alt><alt confidence="0.0399719">Schritt</alt><alt confidence="0.000701262">Antrag folgt</alt><alt confidence="0.00140252">abwandern</alt></f>  .</output>
 </s>
 <s category="n" source="SCHUBERT-Verlag Leipzig" id="320">
   <input>Eine besonders niedrige Geburtenrate weist Polen mit 1,24 Kindern pro Frau auf , Spitzenreiter sind <f id="1">the Irish</f>  mit 1,86 .</input>
@@ -1309,7 +1309,7 @@
 </s>
 <s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="328">
   <input>Die Zeitung <f id="1">reported</f>  , dass das Trinkwasser infiziert war .</input>
-  <output>Die Zeitung <f confidence="0.49505" id="1">berichtet<alt confidence="0.0148515">wiedergegeben</alt><alt confidence="0.118812">berichtete</alt><alt confidence="0.0346535">berichteten</alt><alt confidence="0.00990099">angezeigt</alt><alt confidence="0.242574">gemeldet</alt><alt confidence="0.0049505">berichtetet ,</alt><alt confidence="0.0049505">abgab ,</alt><alt confidence="0.0049505">wurde , berichtete</alt><alt confidence="0.0049505">gemeldeten</alt><alt confidence="0.00990099">meldete</alt><alt confidence="0.0544554">berichten</alt></f>  , dass das Trinkwasser infiziert war .</output>
+  <output>Die Zeitung <f confidence="0.4329" id="1">berichtet<alt confidence="0.012987">wiedergegeben</alt><alt confidence="0.004329">geschildert haben</alt><alt confidence="0.004329">berichtet wird</alt><alt confidence="0.030303">berichteten</alt><alt confidence="0.004329">Bericht erstattet wird</alt><alt confidence="0.103896">berichtete</alt><alt confidence="0.212121">gemeldet</alt><alt confidence="0.034632">darüber berichtet</alt><alt confidence="0.00865801">angezeigt</alt><alt confidence="0.004329">, berichtet</alt><alt confidence="0.004329">wurde , berichtete</alt><alt confidence="0.0562771">wurde berichtet</alt><alt confidence="0.00865801">bekanntgegeben hat</alt><alt confidence="0.004329">gemeldeten</alt><alt confidence="0.017316">haben berichtet</alt><alt confidence="0.00865801">meldete</alt><alt confidence="0.047619">berichten</alt></f>  , dass das Trinkwasser infiziert war .</output>
 </s>
 <s category="adj" source="SCHUBERT-Verlag Leipzig" id="329">
   <input>Der Weltmeister im Boxen ist immer noch <f id="1">very</f>  bekannt .</input>
@@ -1317,7 +1317,7 @@
 </s>
 <s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="330">
   <input>Wir sind <f id="1">often</f>  von Musik umgeben .</input>
-  <output>Wir sind <f confidence="1.0" id="1">oft</f>  von Musik umgeben .</output>
+  <output>Wir sind <f confidence="0.8" id="1">oft<alt confidence="0.2">, oftmals</alt></f>  von Musik umgeben .</output>
 </s>
 <s category="pp" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="331">
   <input>Es ist wie ein Wiedersehen <f id="1">with old acquaintances</f>  .</input>
@@ -1357,7 +1357,7 @@
 </s>
 <s category="p" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="340">
   <input>Man hört immer wieder , dass Embryos auch Geräusche <f id="1">outside</f>  des Körpers der Mutter hören .</input>
-  <output>Man hört immer wieder , dass Embryos auch Geräusche <f confidence="0.974209" id="1">außerhalb<alt confidence="0.014068">jenseits</alt><alt confidence="0.0117233">Außerhalb</alt></f>  des Körpers der Mutter hören .</output>
+  <output>Man hört immer wieder , dass Embryos auch Geräusche <f confidence="0.742627" id="1">außerhalb<alt confidence="0.00178731">ja außerhalb</alt><alt confidence="0.00446828">Ländern außerhalb</alt><alt confidence="0.0125112">sie außerhalb</alt><alt confidence="0.0214477">Länder außerhalb</alt><alt confidence="0.00178731">nach außerhalb</alt><alt confidence="0.00357462">in Länder außerhalb</alt><alt confidence="0.0393208">die außerhalb</alt><alt confidence="0.000893655">Drittländern außerhalb</alt><alt confidence="0.0375335">, die außerhalb</alt><alt confidence="0.0107239">jenseits</alt><alt confidence="0.0205541">, außerhalb</alt><alt confidence="0.000893655">äußere Ästhetik</alt><alt confidence="0.0437891">auch außerhalb</alt><alt confidence="0.0116175">von außerhalb</alt><alt confidence="0.00178731">haben außerhalb</alt><alt confidence="0.00714924">das außerhalb</alt><alt confidence="0.000893655">allerdings in Ländern außerhalb</alt><alt confidence="0.0277033">sich außerhalb</alt><alt confidence="0.00893655">Außerhalb</alt></f>  des Körpers der Mutter hören .</output>
 </s>
 <s category="v" source="Mittelpunkt B2 - Klett" id="341">
   <input>Es gibt nichts , was ich in Innsbruck <f id="1">miss</f>  würde .</input>
@@ -1373,7 +1373,7 @@
 </s>
 <s category="adj" source=" MERLIN Learner Corpus,  docid=1031_0002131" id="344">
   <input>Wenn die Wohnungen oder Häuser in der Stadt oder <f id="1">central</f>  sind , sind die Preise sehr hoch .</input>
-  <output>Wenn die Wohnungen oder Häuser in der Stadt oder <f confidence="1.0" id="1">zentral</f>  sind , sind die Preise sehr hoch .</output>
+  <output>Wenn die Wohnungen oder Häuser in der Stadt oder <f confidence="0.5" id="1">zentrale<alt confidence="0.125">den zentralen</alt><alt confidence="0.125">zentraler</alt><alt confidence="0.25">zentralen</alt></f>  sind , sind die Preise sehr hoch .</output>
 </s>
 <s category="n" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="345">
   <input>Der Verkauf ihrer Wohnungen schockierte <f id="1">the tenants</f>  zutiefst .</input>
@@ -1393,7 +1393,7 @@
 </s>
 <s category="n" source="MERLIN Learner Corpus,  docid=1061_0120424" id="349">
   <input>Jetzt haben wir eine neue <f id="1">Technology</f>  .</input>
-  <output>Jetzt haben wir eine neue <f confidence="0.35" id="1">Technologie<alt confidence="0.075">Technology</alt><alt confidence="0.275">Technologieinstitut</alt><alt confidence="0.025">Technik</alt><alt confidence="0.25">Technologieinstituts</alt><alt confidence="0.025">Energietechnologie</alt></f>  .</output>
+  <output>Jetzt haben wir eine neue <f confidence="0.285714" id="1">Technologie<alt confidence="0.102041">für Technologie</alt><alt confidence="0.0204082">( EIT )</alt><alt confidence="0.0408163">Innovation und Technologie</alt><alt confidence="0.22449">Technologieinstitut</alt><alt confidence="0.0204082">( ETI )</alt><alt confidence="0.0204082">Technik</alt><alt confidence="0.204082">Technologieinstituts</alt><alt confidence="0.0612245">Technology</alt><alt confidence="0.0204082">Energietechnologie</alt></f>  .</output>
 </s>
 <s category="det" source="MERLIN Learner Corpus,  docid=1023_0103841" id="350">
   <input>Ich hoffe , dass das Praktikum bei Ihrer Firma mir die Möglichkeit gibt , eine gute Arbeit in <f id="1">the</f>  Zukunft zu bekommen .</input>
@@ -1409,7 +1409,7 @@
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="353">
   <input>Gewalttätige Fans <f id="1">represent</f>  nur einen kleinen Teil der Anhänger einer Mannschaft .</input>
-  <output>Gewalttätige Fans <f confidence="0.4" id="1">repräsentiere<alt confidence="0.2">stellen</alt><alt confidence="0.2">vertretenen</alt><alt confidence="0.2">vertritt</alt></f>  nur einen kleinen Teil der Anhänger einer Mannschaft .</output>
+  <output>Gewalttätige Fans <f confidence="0.333333" id="1">repräsentiere<alt confidence="0.166667">stellen</alt><alt confidence="0.166667">stehen für</alt><alt confidence="0.166667">vertritt</alt><alt confidence="0.166667">vertretenen</alt></f>  nur einen kleinen Teil der Anhänger einer Mannschaft .</output>
 </s>
 <s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="354">
   <input>Lesen Sie bitte <f id="1">the second paragraph</f>  .</input>
@@ -1429,7 +1429,7 @@
 </s>
 <s category="p" source="MERLIN Learner Corpus,  docid=1031_0002036" id="358">
   <input>Bevor ich Tipps zur Wohnungssuche gebe , möchte ich <f id="1">on</f>  die wesentlichen Besonderheiten des Immobilienmarktes in Berlin eingehen .</input>
-  <output>Bevor ich Tipps zur Wohnungssuche gebe , möchte ich <f confidence="0.387615" id="1">auf<alt confidence="0.112385">über</alt><alt confidence="0.00344037">über die</alt><alt confidence="0.225917">an</alt><alt confidence="0.0355505">in</alt><alt confidence="0.230505">für</alt><alt confidence="0.00458716">schon</alt></f>  die wesentlichen Besonderheiten des Immobilienmarktes in Berlin eingehen .</output>
+  <output>Bevor ich Tipps zur Wohnungssuche gebe , möchte ich <f confidence="0.384966" id="1">auf<alt confidence="0.111617">über</alt><alt confidence="0.00341686">, über</alt><alt confidence="0.224374">an</alt><alt confidence="0.00683371">, auf</alt><alt confidence="0.0353075">in</alt><alt confidence="0.228929">für</alt><alt confidence="0.00455581">schon</alt></f>  die wesentlichen Besonderheiten des Immobilienmarktes in Berlin eingehen .</output>
 </s>
 <s category="adv" source="SCHUBERT-Verlag Leipzig" id="359">
   <input><f id="1">Also</f>  in West - und Südwesteuropa gibt es viel Sonnenschein .</input>
@@ -1453,7 +1453,7 @@
 </s>
 <s category="adj" source="SCHUBERT-Verlag Leipzig" id="364">
   <input>Etwa drei viertel werden sogar <f id="1">violent</f>  , sie werfen mit der Maus , schlagen den Bildschirm oder treten das Gehäuse .</input>
-  <output>Etwa drei viertel werden sogar <f confidence="0.333333" id="1">gewalttätig<alt confidence="0.0151515">gewaltbereiten</alt><alt confidence="0.0454545">gewalttätigen</alt><alt confidence="0.30303">Gewalt</alt><alt confidence="0.0151515">gewaltsame</alt><alt confidence="0.0151515">gewaltbereite</alt><alt confidence="0.0606061">brutaler</alt><alt confidence="0.0151515">gewaltätig</alt><alt confidence="0.0151515">brutaI</alt><alt confidence="0.030303">gewalttätige</alt><alt confidence="0.0151515">Gewaltbereitschaft ,</alt><alt confidence="0.0606061">gewaltsamen</alt><alt confidence="0.0151515">gewaltsam</alt><alt confidence="0.0151515">brutalen</alt><alt confidence="0.0151515">gewaltsamer</alt><alt confidence="0.030303">brutale</alt></f>  , sie werfen mit der Maus , schlagen den Bildschirm oder treten das Gehäuse .</output>
+  <output>Etwa drei viertel werden sogar <f confidence="0.323529" id="1">gewalttätig<alt confidence="0.0147059">gewaltbereiten</alt><alt confidence="0.0441176">gewalttätigen</alt><alt confidence="0.294118">Gewalt</alt><alt confidence="0.0147059">gewaltsame</alt><alt confidence="0.0294118">den gewaltsamen</alt><alt confidence="0.0147059">gewaltbereite</alt><alt confidence="0.0588235">brutaler</alt><alt confidence="0.0147059">gewaltätig</alt><alt confidence="0.0147059">brutaI</alt><alt confidence="0.0294118">gewalttätige</alt><alt confidence="0.0588235">gewaltsamen</alt><alt confidence="0.0147059">gewaltsam</alt><alt confidence="0.0147059">brutalen</alt><alt confidence="0.0147059">gewaltsamer</alt><alt confidence="0.0147059">durch Gewalt gekennzeichneten</alt><alt confidence="0.0294118">brutale</alt></f>  , sie werfen mit der Maus , schlagen den Bildschirm oder treten das Gehäuse .</output>
 </s>
 <s category="pp" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="365">
   <input>Die Unzufriedenheit <f id="1">of the people</f>  wächst mit ihrem Wohlstand .</input>
@@ -1461,7 +1461,7 @@
 </s>
 <s category="comp" source="Mittelpunkt B2 - Klett" id="366">
   <input>Wir <f id="1">are sure</f>  , dass das eine notwendige Maßnahme ist .</input>
-  <output>Wir <f confidence="0.804878" id="1">sind sicher<alt confidence="0.0487805">sind gewiss , dass</alt><alt confidence="0.121951">sind überzeugt</alt><alt confidence="0.0243902">vertrauen darauf , daß</alt></f>  , dass das eine notwendige Maßnahme ist .</output>
+  <output>Wir <f confidence="0.75" id="1">sind sicher<alt confidence="0.136364">sind uns sicher</alt><alt confidence="0.113636">sind überzeugt</alt></f>  , dass das eine notwendige Maßnahme ist .</output>
 </s>
 <s category="adj" source="MERLIN Learner Corpus,  docid=1031_0001949" id="367">
   <input>Man kann nicht auf so einen großen Teil seiner Persönlichkeit verzichten , ohne <f id="1">his</f>  psychischen Gesundheit zu schaden .</input>
@@ -1469,7 +1469,7 @@
 </s>
 <s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="368">
   <input>Ich glaube , dass wir <f id="1">in the future</f>  mit einer Eins-zu-eins-Lösung keinen Preis mehr gewinnen werden .</input>
-  <output>Ich glaube , dass wir <f confidence="0.412178" id="1">in Zukunft<alt confidence="0.142857">in der Zukunft</alt><alt confidence="0.00468384">an die Zukunft</alt><alt confidence="0.00936768">auch zukünftig</alt><alt confidence="0.00234192">sie in der Zukunft</alt><alt confidence="0.0117096">das in Zukunft</alt><alt confidence="0.00234192">es in der Zukunft</alt><alt confidence="0.00234192">an eine Zukunft</alt><alt confidence="0.00702576">in die Zukunft</alt><alt confidence="0.00936768">sind in der Zukunft ?</alt><alt confidence="0.0257611">für die Zukunft</alt><alt confidence="0.0655738">auch in Zukunft</alt><alt confidence="0.00234192">im künftigen</alt><alt confidence="0.00234192">uns in Zukunft noch</alt><alt confidence="0.00234192">, künftig</alt><alt confidence="0.0140515">es in Zukunft</alt><alt confidence="0.0632319">zukünftig</alt><alt confidence="0.00234192">sind in der Zukunft</alt><alt confidence="0.00234192">ihm in Zukunft</alt><alt confidence="0.00468384">auch in der Zukunft</alt><alt confidence="0.00468384">in den künftigen</alt><alt confidence="0.192037">künftig</alt><alt confidence="0.00234192">die in Zukunft</alt><alt confidence="0.00702576">sie in Zukunft</alt><alt confidence="0.00234192">an das künftige</alt><alt confidence="0.00234192">in dieser Richtung künftig</alt></f>  mit einer Eins-zu-eins-Lösung keinen Preis mehr gewinnen werden .</output>
+  <output>Ich glaube , dass wir <f confidence="0.4" id="1">in Zukunft<alt confidence="0.0666667">in der Zukunft</alt><alt confidence="0.266667">künftig</alt><alt confidence="0.133333">es in Zukunft</alt><alt confidence="0.0666667">zukünftig</alt><alt confidence="0.0666667">auch in Zukunft</alt></f>  mit einer Eins-zu-eins-Lösung keinen Preis mehr gewinnen werden .</output>
 </s>
 <s category="n" source="Mittelpunkt B2 - Klett" id="369">
   <input>Ich bin mit <f id="1">the result</f>  nicht zufrieden .</input>
@@ -1489,7 +1489,7 @@
 </s>
 <s category="p" source="Mittelpunkt B2 - Klett" id="373">
   <input>Am Abend sieht sie oft fern <f id="1">or</f>  Freunde kommen zu Besuch .</input>
-  <output>Am Abend sieht sie oft fern <f confidence="0.65" id="1">oder<alt confidence="0.075">noch</alt><alt confidence="0.275">und</alt></f>  Freunde kommen zu Besuch .</output>
+  <output>Am Abend sieht sie oft fern <f confidence="0.5" id="1">oder<alt confidence="0.214286">und</alt><alt confidence="0.285714">, oder</alt></f>  Freunde kommen zu Besuch .</output>
 </s>
 <s category="n" source="MERLIN Learner Corpus,  docid=1031_0001997" id="374">
   <input>Die Entscheidung sollte man unbedingt <f id="1">to everybody</f>  selbst überlassen .</input>
@@ -1505,7 +1505,7 @@
 </s>
 <s category="adv" source="Deutsche Syntax - Ein Arbeitsbuch - Karin Pittner und Judith Berman" id="377">
   <input>Er ist <f id="1">on time</f>  in Rom .</input>
-  <output>Er ist <f confidence="0.5" id="1">pünktlich<alt confidence="0.0555556">und gefüttert in die Schule geschleppt .</alt><alt confidence="0.0555556">sie pünktlich</alt><alt confidence="0.222222">rechtzeitig</alt><alt confidence="0.166667">, rechtzeitig</alt></f>  in Rom .</output>
+  <output>Er ist <f confidence="0.538462" id="1">pünktlich<alt confidence="0.0769231">sie pünktlich</alt><alt confidence="0.153846">rechtzeitig</alt><alt confidence="0.230769">, rechtzeitig</alt></f>  in Rom .</output>
 </s>
 <s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="378">
   <input>Jede Revolution <f id="1">demands</f>  Opfer .</input>
@@ -1553,7 +1553,7 @@
 </s>
 <s category="adj" source="MERLIN Learner Corpus,  docid=1031_0001703" id="390">
   <input>In der Stadt kann man verschiedene Möglichkeiten haben , um eine Wohnung zu finden : ein Haus oder besser gesagt ein Einfamilienhaus , eine Wohnung in einem Kondominium , auch in <f id="1">small</f>  Strukturen .</input>
-  <output>In der Stadt kann man verschiedene Möglichkeiten haben , um eine Wohnung zu finden : ein Haus oder besser gesagt ein Einfamilienhaus , eine Wohnung in einem Kondominium , auch in <f confidence="0.5" id="1">kleiner<alt confidence="0.333333">kleineren</alt><alt confidence="0.166667">kleinen</alt></f>  Strukturen .</output>
+  <output>In der Stadt kann man verschiedene Möglichkeiten haben , um eine Wohnung zu finden : ein Haus oder besser gesagt ein Einfamilienhaus , eine Wohnung in einem Kondominium , auch in <f confidence="0.569712" id="1">kleinen<alt confidence="0.00721154">die kleinen</alt><alt confidence="0.0576923">Klein</alt><alt confidence="0.00721154">klein</alt><alt confidence="0.0360577">der kleinen</alt><alt confidence="0.0769231">kleine</alt><alt confidence="0.0288462">geringen</alt><alt confidence="0.0985577">den kleinen</alt><alt confidence="0.00240385">kleinerer</alt><alt confidence="0.00480769">kleinere</alt><alt confidence="0.0168269">kleiner</alt><alt confidence="0.0408654">kleineren</alt><alt confidence="0.00721154">geringer</alt><alt confidence="0.00240385">gering</alt><alt confidence="0.0432692">geringem</alt></f>  Strukturen .</output>
 </s>
 <s category="a" source="Mittelpunkt B2 - Klett" id="391">
   <input>Das Baby schreit <f id="1">continuously</f>  .</input>
@@ -1573,11 +1573,11 @@
 </s>
 <s category="a" source="Mittelpunkt B2 - Klett" id="395">
   <input>Die Karten für das Konzert waren <f id="1">very expensive</f>  .</input>
-  <output>Die Karten für das Konzert waren <f confidence="0.809524" id="1">sehr teuer<alt confidence="0.0238095">sehr kostbar .</alt><alt confidence="0.0714286">sehr kostspielig</alt><alt confidence="0.0238095">einmal teuer</alt><alt confidence="0.0238095">ungeheuer kostspielig</alt><alt confidence="0.0238095">sehr teurer</alt><alt confidence="0.0238095">sehr teure</alt></f>  .</output>
+  <output>Die Karten für das Konzert waren <f confidence="0.829268" id="1">sehr teuer<alt confidence="0.0731707">sehr kostspielig</alt><alt confidence="0.0243902">einmal teuer</alt><alt confidence="0.0243902">ungeheuer kostspielig</alt><alt confidence="0.0243902">sehr teurer</alt><alt confidence="0.0243902">sehr teure</alt></f>  .</output>
 </s>
 <s category="p" source="SCHUBERT-Verlag Leipzig" id="396">
   <input>Ein Hoch <f id="1">in</f>  Deutschland sorgt in Mitteleuropa für ruhiges Wetter .</input>
-  <output>Ein Hoch <f confidence="0.810079" id="1">in<alt confidence="0.000416493">bei</alt><alt confidence="0.00708038">auf</alt><alt confidence="0.0416493">von</alt><alt confidence="0.0595585">In</alt><alt confidence="0.00291545">an</alt><alt confidence="0.0420658">aus</alt><alt confidence="0.0058309">zu</alt><alt confidence="0.0191587">für</alt><alt confidence="0.0112453">mit</alt></f>  Deutschland sorgt in Mitteleuropa für ruhiges Wetter .</output>
+  <output>Ein Hoch <f confidence="0.711672" id="1">in<alt confidence="0.000365898">bei</alt><alt confidence="0.0417124">auch in</alt><alt confidence="0.0556165">, in</alt><alt confidence="0.00622027">auf</alt><alt confidence="0.00987925">sich in</alt><alt confidence="0.0365898">von</alt><alt confidence="0.0523235">In</alt><alt confidence="0.00256129">an</alt><alt confidence="0.0369557">aus</alt><alt confidence="0.01427">es in</alt><alt confidence="0.00512258">zu</alt><alt confidence="0.0168313">für</alt><alt confidence="0.00987925">mit</alt></f>  Deutschland sorgt in Mitteleuropa für ruhiges Wetter .</output>
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="397">
   <input>Lange Zeit haben sich Menschen für diese Art von Krankheit <f id="1">shamed</f>  .</input>
@@ -1597,7 +1597,7 @@
 </s>
 <s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="401">
   <input>Wer in den Alpen klettern möchte , muss <f id="1">from now on</f>  einen Helm tragen .</input>
-  <output>Wer in den Alpen klettern möchte , muss <f confidence="0.416667" id="1">von jetzt an<alt confidence="0.0833333">ab sofort</alt><alt confidence="0.25">von nun an</alt><alt confidence="0.166667">ab jetzt</alt><alt confidence="0.0833333">sich von nun an</alt></f>  einen Helm tragen .</output>
+  <output>Wer in den Alpen klettern möchte , muss <f confidence="0.454545" id="1">von jetzt an<alt confidence="0.0909091">ab sofort</alt><alt confidence="0.272727">von nun an</alt><alt confidence="0.0909091">ab jetzt</alt><alt confidence="0.0909091">sich von nun an</alt></f>  einen Helm tragen .</output>
 </s>
 <s category="adv" source="Mittelpunkt B2 - Klett" id="402">
   <input>Sie haben nach der Wende <f id="1">with great success</f>  ein Geschäft eröffnet .</input>
@@ -1605,7 +1605,7 @@
 </s>
 <s category="conn" source="MERLIN Learner Corpus,  docid=1031_0002184" id="403">
   <input>Wenn sie in ein Einkaufszentrum gehen , können sie nichts sagen <f id="1">except</f>  " ja " und " nein " .</input>
-  <output>Wenn sie in ein Einkaufszentrum gehen , können sie nichts sagen <f confidence="1.0" id="1">außer</f>  " ja " und " nein " .</output>
+  <output>Wenn sie in ein Einkaufszentrum gehen , können sie nichts sagen <f confidence="1.0" id="1">, außer</f>  " ja " und " nein " .</output>
 </s>
 <s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="404">
   <input>Das Smartphone funktionierte bald als Fahrscheinautomat , Bankzentrale , Navigation und Kommunikationsmittel <f id="1">at the same time</f>  .</input>
@@ -1621,7 +1621,7 @@
 </s>
 <s category="adv" source="Mittelpunkt B2 - Klett" id="407">
   <input>Man sollte <f id="1">daily</f>  an die frische Luft gehen .</input>
-  <output>Man sollte <f confidence="0.833333" id="1">täglich<alt confidence="0.166667">tagtäglich</alt></f>  an die frische Luft gehen .</output>
+  <output>Man sollte <f confidence="1.0" id="1">täglich</f>  an die frische Luft gehen .</output>
 </s>
 <s category="p" source="Mittelpunkt B2 - Klett" id="408">
   <input>Damit gibt es keine Probleme , <f id="1">when</f>  man allein wohnt .</input>
@@ -1641,7 +1641,7 @@
 </s>
 <s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="412">
   <input>Der Ursprung blieb in all den Jahren <f id="1">the same</f>  .</input>
-  <output>Der Ursprung blieb in all den Jahren <f confidence="1.0" id="1">dieselbe</f>  .</output>
+  <output>Der Ursprung blieb in all den Jahren <f confidence="0.276739" id="1">dasselbe<alt confidence="0.000747943">, die gleiche</alt><alt confidence="0.00673149">der gleiche</alt><alt confidence="0.000747943">die selbe</alt><alt confidence="0.000747943">die selben</alt><alt confidence="0.000747943">desselben</alt><alt confidence="0.120419">das Gleiche</alt><alt confidence="0.000747943">vom gleichen</alt><alt confidence="0.0949888">genauso</alt><alt confidence="0.211668">gleich</alt><alt confidence="0.000747943">demselben</alt><alt confidence="0.053104">das gleiche</alt><alt confidence="0.0194465">dieselben</alt><alt confidence="0.00224383">selbe Person</alt><alt confidence="0.0381451">derselbe</alt><alt confidence="0.0306657">dieselbe</alt><alt confidence="0.00224383">denselben</alt><alt confidence="0.0777861">gleiche</alt><alt confidence="0.00673149">der selbe</alt><alt confidence="0.00224383">derselben</alt><alt confidence="0.000747943">im selben</alt><alt confidence="0.00897532">der Gleiche</alt><alt confidence="0.000747943">ein und dieselben</alt><alt confidence="0.000747943">ein Gleiches</alt><alt confidence="0.00224383">auch dieselben</alt><alt confidence="0.00224383">Vaters bekommen</alt><alt confidence="0.0186986">die gleichen</alt><alt confidence="0.0179506">die gleiche</alt></f>  .</output>
 </s>
 <s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="413">
   <input>Die Sonne ist <f id="1">dangerous</f>  .</input>
@@ -1649,7 +1649,7 @@
 </s>
 <s category="v" source="MERLIN Learner Corpus,  docid=1023_0103841" id="414">
   <input>Ich habe mein Studium im Bereich Informatik im Jahr 2009 <f id="1">finished</f>  .</input>
-  <output>Ich habe mein Studium im Bereich Informatik im Jahr 2009 <f confidence="0.69024" id="1">fertig<alt confidence="0.00141443">ausgelesen</alt><alt confidence="0.00282885">beendete</alt><alt confidence="0.0975955">erledigt</alt><alt confidence="0.1471">beendet</alt><alt confidence="0.0608204">abgeschlossen</alt></f>  .</output>
+  <output>Ich habe mein Studium im Bereich Informatik im Jahr 2009 <f confidence="1.0" id="1">beendet</f>  .</output>
 </s>
 <s category="adv" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="415">
   <input>Sie besucht <f id="1">every weekend</f>  ihre Eltern .</input>
@@ -1677,11 +1677,11 @@
 </s>
 <s category="v" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="421">
   <input>Das dritte Kapitel zu lesen , war <f id="1">worth it</f>  .</input>
-  <output>Das dritte Kapitel zu lesen , war <f confidence="0.842105" id="1">es wert<alt confidence="0.0789474">'s wert</alt><alt confidence="0.0789474">es Wert</alt></f>  .</output>
+  <output>Das dritte Kapitel zu lesen , war <f confidence="0.820513" id="1">es wert<alt confidence="0.0769231">'s wert</alt><alt confidence="0.025641">es das wert</alt><alt confidence="0.0769231">es Wert</alt></f>  .</output>
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="422">
   <input>Viele Europäer werden eine weitere Steuererhöhung <f id="1">reject</f>  .</input>
-  <output>Viele Europäer werden eine weitere Steuererhöhung <f confidence="0.363527" id="1">ablehnen<alt confidence="0.00362319">Absage</alt><alt confidence="0.0108696">verweigern</alt><alt confidence="0.0326087">abgelehnt</alt><alt confidence="0.00120773">missbilligen</alt><alt confidence="0.00603865">Ablehnung</alt><alt confidence="0.00362319">abweisen</alt><alt confidence="0.0338164">ablehnt</alt><alt confidence="0.00845411">verwerfen</alt><alt confidence="0.347826">abzulehnen</alt><alt confidence="0.00241546">zurückgewiesen</alt><alt confidence="0.00845411">zurückweist</alt><alt confidence="0.044686">zurückzuweisen</alt><alt confidence="0.0374396">ablehne</alt><alt confidence="0.00603865">abzuweisen</alt><alt confidence="0.00120773">distanzieren</alt><alt confidence="0.0736715">zurückweisen</alt><alt confidence="0.0144928">zurückweise</alt></f>  .</output>
+  <output>Viele Europäer werden eine weitere Steuererhöhung <f confidence="0.324353" id="1">ablehnen<alt confidence="0.00107759">missbilligen</alt><alt confidence="0.00107759">ganz zurückweisen</alt><alt confidence="0.00323276">ihn zurückzuweisen</alt><alt confidence="0.00107759">entschieden zurückzuweisen</alt><alt confidence="0.00323276">ablehnend gegenüberstehen</alt><alt confidence="0.00107759">ist , abzulehnen</alt><alt confidence="0.0161638">, ablehnen</alt><alt confidence="0.00215517">eine Absage erteilt</alt><alt confidence="0.00538793">abzuweisen</alt><alt confidence="0.00107759">ja ablehnen</alt><alt confidence="0.0657328">zurückweisen</alt><alt confidence="0.00323276">Absage</alt><alt confidence="0.00107759">Paket abzulehnen</alt><alt confidence="0.00107759">auch abzulehnen</alt><alt confidence="0.00215517">zurückgewiesen</alt><alt confidence="0.00323276">abweisen</alt><alt confidence="0.00215517">, ablehne</alt><alt confidence="0.00215517">eine Absage erteilen</alt><alt confidence="0.00107759">abgelehnt werden</alt><alt confidence="0.00215517">ebenfalls abzulehnen</alt><alt confidence="0.0398707">zurückzuweisen</alt><alt confidence="0.00107759">Grund ablehnen</alt><alt confidence="0.00107759">wird abgelehnt</alt><alt confidence="0.00215517">es abzulehnen</alt><alt confidence="0.00107759">ihrer Gesamtheit ablehnen</alt><alt confidence="0.00862069">, zurückweisen</alt><alt confidence="0.00215517">eindeutig ablehnen</alt><alt confidence="0.00107759">jedoch ablehnt</alt><alt confidence="0.0075431">zurückweist</alt><alt confidence="0.00215517">selbst ablehnen</alt><alt confidence="0.00538793">Absage erteilen</alt><alt confidence="0.00215517">ebenfalls ablehnen</alt><alt confidence="0.00107759">distanzieren</alt><alt confidence="0.012931">zurückweise</alt><alt confidence="0.00969828">verweigern</alt><alt confidence="0.00107759">auch nicht zuzustimmen</alt><alt confidence="0.00538793">Ablehnung</alt><alt confidence="0.0301724">ablehnt</alt><alt confidence="0.00107759">sich ablehnen</alt><alt confidence="0.0075431">verwerfen</alt><alt confidence="0.00215517">entschieden abzulehnen</alt><alt confidence="0.00107759">Abfuhr erteilen</alt><alt confidence="0.310345">abzulehnen</alt><alt confidence="0.00107759">Inhalts ablehnen</alt><alt confidence="0.0258621">, abzulehnen</alt><alt confidence="0.00107759">ihn abgelehnt haben</alt><alt confidence="0.0334052">ablehne</alt><alt confidence="0.00862069">entschieden ablehnen</alt><alt confidence="0.0290948">abgelehnt</alt></f>  .</output>
 </s>
 <s category="expr" source="Mittelpunkt B2 - Klett" id="423">
   <input>Wir könnten <f id="1">for example</f>  wandern gehen .</input>
@@ -1693,7 +1693,7 @@
 </s>
 <s category="n" source="MERLIN Learner Corpus,  docid= 1031_0002184" id="425">
   <input><f id="1">The first generation</f>  der türkischen Gastarbeiter in Deutschland z.B. spricht kein Deutsch .</input>
-  <output><f confidence="0.333333" id="1">Mit der ersten Generation<alt confidence="0.333333">In der ersten Generation</alt><alt confidence="0.333333">Die erste Stufe</alt></f>  der türkischen Gastarbeiter in Deutschland z.B. spricht kein Deutsch .</output>
+  <output><f confidence="0.5" id="1">Mit der ersten Generation<alt confidence="0.5">In der ersten Generation</alt></f>  der türkischen Gastarbeiter in Deutschland z.B. spricht kein Deutsch .</output>
 </s>
 <s category="adv" source="Mittelpunkt B2 - Klett" id="426">
   <input>Ich kann gut nachvollziehen , wie es dir <f id="1">at the moment</f>  geht .</input>
@@ -1701,7 +1701,7 @@
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="427">
   <input>Seither hat sich Deutschland an mehreren militärischen Interventionen <f id="1">participated</f>  .</input>
-  <output>Seither hat sich Deutschland an mehreren militärischen Interventionen <f confidence="0.375" id="1">teilgenommen<alt confidence="0.266667">beteiligt</alt><alt confidence="0.166667">teil</alt><alt confidence="0.0416667">mitgewirkt</alt><alt confidence="0.0416667">teilnahm</alt><alt confidence="0.108333">teilnahmen</alt></f>  .</output>
+  <output>Seither hat sich Deutschland an mehreren militärischen Interventionen <f confidence="0.340909" id="1">teilgenommen<alt confidence="0.242424">beteiligt</alt><alt confidence="0.00757576">tätig war</alt><alt confidence="0.00757576">mitgearbeitet wird</alt><alt confidence="0.0227273">sich daran beteiligt haben</alt><alt confidence="0.00757576">daran beteiligt waren</alt><alt confidence="0.151515">teil</alt><alt confidence="0.00757576">- teilgenommen haben</alt><alt confidence="0.0378788">mitgewirkt</alt><alt confidence="0.0378788">teilnahm</alt><alt confidence="0.0151515">anwesend waren</alt><alt confidence="0.0984848">teilnahmen</alt><alt confidence="0.00757576">an beteiligt</alt><alt confidence="0.0151515">dabei waren</alt></f>  .</output>
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="428">
   <input>Wer heute operiert wird , <f id="1">experiences</f>  keine Tortur wie noch vor gut 200 Jahren .</input>
@@ -1713,11 +1713,11 @@
 </s>
 <s category="pp" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="430">
   <input>Der kleine Junge wünscht sich <f id="1">for Christmas</f>  einen Computer .</input>
-  <output>Der kleine Junge wünscht sich <f confidence="1.0" id="1">zu Weihnachten</f>  einen Computer .</output>
+  <output>Der kleine Junge wünscht sich <f confidence="0.8" id="1">zu Weihnachten<alt confidence="0.2">an Weihnachten</alt></f>  einen Computer .</output>
 </s>
 <s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="431">
   <input>Wer kommt für die Kosten auf , wenn <f id="1">suddenly</f>  bis zu 10 - mal mehr Rechner gekauft werden müssen ?</input>
-  <output>Wer kommt für die Kosten auf , wenn <f confidence="1.0" id="1">plötzlich</f>  bis zu 10 - mal mehr Rechner gekauft werden müssen ?</output>
+  <output>Wer kommt für die Kosten auf , wenn <f confidence="0.615385" id="1">plötzlich<alt confidence="0.153846">man plötzlich</alt><alt confidence="0.153846">ich plötzlich mal wohin muss ?</alt><alt confidence="0.0769231">wir uns duzen würden ?</alt></f>  bis zu 10 - mal mehr Rechner gekauft werden müssen ?</output>
 </s>
 <s category="pp" source="Mittelpunkt B2 - Klett" id="432">
   <input>Die Band spielt <f id="1">in the background</f>  .</input>
@@ -1745,7 +1745,7 @@
 </s>
 <s category="v" source="SCHUBERT-Verlag Leipzig" id="438">
   <input>Der Nachwuchssportler <f id="1">received</f>  eine Chance .</input>
-  <output>Der Nachwuchssportler <f confidence="0.681818" id="1">erhielt<alt confidence="0.136364">KurzweIIe eine</alt><alt confidence="0.181818">erhielten</alt></f>  eine Chance .</output>
+  <output>Der Nachwuchssportler <f confidence="0.75" id="1">erhielt<alt confidence="0.05">, erhielten</alt><alt confidence="0.2">erhielten</alt></f>  eine Chance .</output>
 </s>
 <s category="adj" source="MERLIN Learner Corpus,  docid=1031_0002006" id="439">
   <input>In <f id="1">following</f>  Bericht beschreibe ich die Möglichkeiten ein eigenes Zuhause zu bekommen .</input>
@@ -1761,11 +1761,11 @@
 </s>
 <s category="v" source="MERLIN Learner Corpus,  docid=1031_0002036" id="442">
   <input>Sicherlich ist es für alle neuen Einwohner in Essen sehr wichtig zu wissen , welche Aspekte bei der Wohnungssuche in dieser großen Stadt <f id="1">considered</f>  werden müssen .</input>
-  <output>Sicherlich ist es für alle neuen Einwohner in Essen sehr wichtig zu wissen , welche Aspekte bei der Wohnungssuche in dieser großen Stadt <f confidence="0.342541" id="1">betrachtet<alt confidence="0.0405157">behandelt</alt><alt confidence="0.0128913">nachgedacht</alt><alt confidence="0.0156538">bedacht</alt><alt confidence="0.0791897">geprüft</alt><alt confidence="0.00552486">eingeschätzt</alt><alt confidence="0.0119705">gewertet</alt><alt confidence="0.00736648">überlegt</alt><alt confidence="0.00828729">abgewogen</alt><alt confidence="0.0128913">eingestuft</alt><alt confidence="0.00644567">überdacht</alt><alt confidence="0.138122">berücksichtigt</alt><alt confidence="0.03407">erwogen</alt><alt confidence="0.0174954">erachtet</alt><alt confidence="0.0174954">erörtert</alt><alt confidence="0.244015">angesehen</alt><alt confidence="0.00276243">durchdacht</alt><alt confidence="0.00276243">angedacht</alt></f>  werden müssen .</output>
+  <output>Sicherlich ist es für alle neuen Einwohner in Essen sehr wichtig zu wissen , welche Aspekte bei der Wohnungssuche in dieser großen Stadt <f confidence="0.278027" id="1">betrachtet<alt confidence="0.0605381">in Betracht gezogen</alt><alt confidence="0.000747384">einmal überlegt</alt><alt confidence="0.112108">berücksichtigt</alt><alt confidence="0.00523169">überdacht</alt><alt confidence="0.0276532">erwogen</alt><alt confidence="0.0224215">Erwägung gezogen</alt><alt confidence="0.00597907">überlegt</alt><alt confidence="0.0104634">nachgedacht</alt><alt confidence="0.0127055">bedacht</alt><alt confidence="0.00747384">ins Auge gefasst</alt><alt confidence="0.00149477">Auge gefaßt</alt><alt confidence="0.00224215">angedacht</alt><alt confidence="0.0328849">behandelt</alt><alt confidence="0.00224215">durchdacht</alt><alt confidence="0.0044843">eingeschätzt</alt><alt confidence="0.00971599">gewertet</alt><alt confidence="0.00149477">Ansicht vertreten</alt><alt confidence="0.00672646">abgewogen</alt><alt confidence="0.0142003">erachtet</alt><alt confidence="0.000747384">einmal erwogen</alt><alt confidence="0.000747384">Erweiterung in Betracht gezogen</alt><alt confidence="0.0142003">erörtert</alt><alt confidence="0.198057">angesehen</alt><alt confidence="0.000747384">Frage geprüft und bejaht</alt><alt confidence="0.00672646">, betrachtet</alt><alt confidence="0.0605381">Betracht gezogen</alt><alt confidence="0.0104634">eingestuft</alt><alt confidence="0.000747384">wurde , in Betracht gezogen</alt><alt confidence="0.0224215">in Erwägung gezogen</alt><alt confidence="0.00149477">, beachtet</alt><alt confidence="0.064275">geprüft</alt></f>  werden müssen .</output>
 </s>
 <s category="expr" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="443">
   <input>Viele andere Problemen <f id="1">take precedence</f>  .</input>
-  <output>Viele andere Problemen <f confidence="0.518519" id="1">Vorrang haben<alt confidence="0.037037">vorrangig sind</alt><alt confidence="0.037037">bevorzugt werden</alt><alt confidence="0.037037">Vorrang besitzen</alt><alt confidence="0.0740741">Vorrang erhalten</alt><alt confidence="0.037037">untergeordnet werden</alt><alt confidence="0.259259">gestellt werden</alt></f>  .</output>
+  <output>Viele andere Problemen <f confidence="0.466667" id="1">Vorrang haben<alt confidence="0.0333333">im Vordergrund stehen</alt><alt confidence="0.0333333">vorrangig sind</alt><alt confidence="0.0333333">bevorzugt werden</alt><alt confidence="0.0333333">Fall Vorrang haben</alt><alt confidence="0.0333333">auf jeden Fall vor</alt><alt confidence="0.0333333">Vorrang besitzen</alt><alt confidence="0.0666667">Vorrang erhalten</alt><alt confidence="0.0333333">untergeordnet werden</alt><alt confidence="0.233333">gestellt werden</alt></f>  .</output>
 </s>
 <s category="v" source="Mittelpunkt B2 - Klett" id="444">
   <input>Ich weiß nicht ob ich <f id="1">risk it</f>  soll .</input>
@@ -1817,7 +1817,7 @@
 </s>
 <s category="adv" source="Mittelpunkt B2 - Klett" id="456">
   <input>Carla fährt <f id="1">this summer</f>  mit ihren Freunden nach Griechenland .</input>
-  <output>Carla fährt <f confidence="0.5" id="1">diesen Sommer<alt confidence="0.25">diesem Sommer</alt><alt confidence="0.25">dieses Sommers</alt></f>  mit ihren Freunden nach Griechenland .</output>
+  <output>Carla fährt <f confidence="0.333333" id="1">diesen Sommer<alt confidence="0.166667">diesem Sommer</alt><alt confidence="0.166667">dieses Sommers</alt><alt confidence="0.166667">sie diesen Sommer</alt><alt confidence="0.166667">in diesem Sommer</alt></f>  mit ihren Freunden nach Griechenland .</output>
 </s>
 <s category="n" source="Duits examenidioom voor 4|5|6 VWO - Drs. D. Geerits - Drs. C. Matser" id="457">
   <input>Ich sehe mir <f id="1">every new episode</f>  im Fernsehen an .</input>
@@ -1833,7 +1833,7 @@
 </s>
 <s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="460">
   <input>Wir waren <f id="1">obligated</f>  , das Firmengeheimnis für uns zu behalten .</input>
-  <output>Wir waren <f confidence="1.0" id="1">verpflichtet</f>  , das Firmengeheimnis für uns zu behalten .</output>
+  <output>Wir waren <f confidence="0.916667" id="1">verpflichtet<alt confidence="0.0833333">mich verpflichtet</alt></f>  , das Firmengeheimnis für uns zu behalten .</output>
 </s>
 <s category="adv" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="461">
   <input><f id="1">Soon after</f>  verlässt Juliane ihr Geburtsland Peru in Richtung Deutschland .</input>
@@ -1901,7 +1901,7 @@
 </s>
 <s category="a" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="477">
   <input>Mobiles Lernen kann wunderbar in <f id="1">existing</f>  Konzepte eingefügt werden .</input>
-  <output>Mobiles Lernen kann wunderbar in <f confidence="0.666667" id="1">vorhandenen<alt confidence="0.333333">bestehenden</alt></f>  Konzepte eingefügt werden .</output>
+  <output>Mobiles Lernen kann wunderbar in <f confidence="0.344595" id="1">den bestehenden<alt confidence="0.00675676">bereits bestehenden</alt><alt confidence="0.168919">bestehenden</alt><alt confidence="0.0878378">bestehende</alt><alt confidence="0.0337838">die bestehende</alt><alt confidence="0.00675676">derzeitigen</alt><alt confidence="0.0202703">die vorhandenen</alt><alt confidence="0.0202703">bereits bestehende</alt><alt confidence="0.0405405">den vorhandenen</alt><alt confidence="0.0202703">existierenden</alt><alt confidence="0.114865">die bestehenden</alt><alt confidence="0.0337838">vorhandenen</alt><alt confidence="0.0945946">der bestehenden</alt><alt confidence="0.00675676">bereits konstruierten</alt></f>  Konzepte eingefügt werden .</output>
 </s>
 <s category="n" source=" MERLIN Learner Corpus,  docid=1023_0101897" id="478">
   <input>Ich habe einen universitären Studienabschluss als Portugiesisch - und <f id="1">Spanish teacher</f>  , spreche und schreibe Spanisch wie meine Zweitsprache .</input>
@@ -1925,7 +1925,7 @@
 </s>
 <s category="p" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="483">
   <input>Die Geburtenrate liegt <f id="1">below</f>  der Sterberate .</input>
-  <output>Die Geburtenrate liegt <f confidence="0.57384" id="1">unterhalb<alt confidence="0.42616">unter</alt></f>  der Sterberate .</output>
+  <output>Die Geburtenrate liegt <f confidence="0.540755" id="1">unterhalb<alt confidence="0.00994036">, unterhalb</alt><alt confidence="0.00596421">, das unterhalb</alt><alt confidence="0.40159">unter</alt><alt confidence="0.00198807">niedriger als</alt><alt confidence="0.00596421">das unterhalb</alt><alt confidence="0.00397614">Werte unterhalb</alt><alt confidence="0.00596421">ein Niveau unterhalb</alt><alt confidence="0.00198807">wie jenseits von</alt><alt confidence="0.00198807">weniger als</alt><alt confidence="0.00994036">lebt unter</alt><alt confidence="0.00198807">auch noch unter</alt><alt confidence="0.00198807">geringer als</alt><alt confidence="0.00596421">Niveau unterhalb</alt></f>  der Sterberate .</output>
 </s>
 <s category="n" source=" MERLIN Learner Corpus,  docid=1061_0120273" id="484">
   <input>Wenn ich <f id="1">summer holidays</f>  habe , fliege ich nach Südkorea .</input>
@@ -1945,7 +1945,7 @@
 </s>
 <s category="conn" source="SCHUBERT-Verlag Leipzig" id="488">
   <input><f id="1">When</f>  wir hörten , dass eine Mauer gebaut wird , habe ich mir eins , zwei , drei die Bärbel geschnappt .</input>
-  <output><f confidence="0.690464" id="1">Wenn<alt confidence="0.0015983">Wann</alt><alt confidence="0.285029">Als</alt><alt confidence="0.0106553">AIs</alt><alt confidence="0.0122536">Sobald</alt></f>  wir hörten , dass eine Mauer gebaut wird , habe ich mir eins , zwei , drei die Bärbel geschnappt .</output>
+  <output><f confidence="0.689729" id="1">Wenn<alt confidence="0.00159659">Wann</alt><alt confidence="0.010644">AIs</alt><alt confidence="0.0122406">Sobald</alt><alt confidence="0.0010644">Verschrottung haben</alt><alt confidence="0.284726">Als</alt></f>  wir hörten , dass eine Mauer gebaut wird , habe ich mir eins , zwei , drei die Bärbel geschnappt .</output>
 </s>
 <s category="n" source=" MERLIN Learner Corpus,  docid=1031_0001949" id="489">
   <input><f id="1">But that does not mean</f>  , dass ich die Traditionen meines Landes vergessen habe .</input>
@@ -1961,7 +1961,7 @@
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="492">
   <input>Das sind Gefühle , die beim Musikhören oft <f id="1">occur</f>  .</input>
-  <output>Das sind Gefühle , die beim Musikhören oft <f confidence="0.285714" id="1">auftreten<alt confidence="0.0714286">passieren</alt><alt confidence="0.0909091">stattfinden</alt><alt confidence="0.0584416">entstehen</alt><alt confidence="0.012987">auftauchen</alt><alt confidence="0.123377">ereignen</alt><alt confidence="0.0519481">eintreten</alt><alt confidence="0.0649351">geschehen</alt><alt confidence="0.0844156">erfolgen</alt><alt confidence="0.155844">vorkommen</alt></f>  .</output>
+  <output>Das sind Gefühle , die beim Musikhören oft <f confidence="0.261905" id="1">auftreten<alt confidence="0.0654762">passieren</alt><alt confidence="0.0833333">stattfinden</alt><alt confidence="0.00595238">mehr auftreten</alt><alt confidence="0.0535714">entstehen</alt><alt confidence="0.0119048">auftauchen</alt><alt confidence="0.113095">ereignen</alt><alt confidence="0.00595238">vor ereignen</alt><alt confidence="0.00595238">auch auftreten</alt><alt confidence="0.00595238">tatsächlich stattfinden</alt><alt confidence="0.047619">eintreten</alt><alt confidence="0.0595238">geschehen</alt><alt confidence="0.0178571">sich ereignen</alt><alt confidence="0.0297619">begangen werden</alt><alt confidence="0.00595238">Wanderbewegungen kommt</alt><alt confidence="0.00595238">wird , an</alt><alt confidence="0.077381">erfolgen</alt><alt confidence="0.142857">vorkommen</alt></f>  .</output>
 </s>
 <s category="v" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="493">
   <input><f id="1">They affect</f>  Männer ebenso wie Frauen .</input>
@@ -1977,7 +1977,7 @@
 </s>
 <s category="w" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="496">
   <input>Wir <f id="1">have tried</f>  , gemeinsam mit Kollegen ein solches Konzept umzusetzen .</input>
-  <output>Wir <f confidence="0.916667" id="1">haben versucht<alt confidence="0.0277778">waren bemüht</alt><alt confidence="0.0416667">waren bestrebt</alt><alt confidence="0.0138889">hatten versucht</alt></f>  , gemeinsam mit Kollegen ein solches Konzept umzusetzen .</output>
+  <output>Wir <f confidence="0.804878" id="1">haben versucht<alt confidence="0.0365854">waren bestrebt</alt><alt confidence="0.0121951">hatten versucht</alt><alt confidence="0.0243902">waren bemüht</alt><alt confidence="0.0731707">haben uns bemüht</alt><alt confidence="0.0487805">haben es versucht</alt></f>  , gemeinsam mit Kollegen ein solches Konzept umzusetzen .</output>
 </s>
 <s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="497">
   <input>Alle <f id="1">participants</f>  erhalten als Dank eine Urkunde .</input>
@@ -1985,11 +1985,11 @@
 </s>
 <s category="adj" source="SCHUBERT-Verlag Leipzig" id="498">
   <input>Die Mitglieder der Mannschaft sollten ihre <f id="1">medical</f>  Untersuchung nicht vergessen .</input>
-  <output>Die Mitglieder der Mannschaft sollten ihre <f confidence="0.333333" id="1">medizinischen<alt confidence="0.208333">medizinische</alt><alt confidence="0.166667">ärztlichen</alt><alt confidence="0.291667">ärztliche</alt></f>  Untersuchung nicht vergessen .</output>
+  <output>Die Mitglieder der Mannschaft sollten ihre <f confidence="0.466667" id="1">medizinischen<alt confidence="0.333333">medizinische</alt><alt confidence="0.0666667">Versicherungskarte ?</alt><alt confidence="0.0666667">ärztliche</alt><alt confidence="0.0666667">Krankendatei</alt></f>  Untersuchung nicht vergessen .</output>
 </s>
 <s category="adv" source="SCHUBERT-Verlag Leipzig" id="499">
   <input>Sie wünschte sich jedoch , <f id="1">that</f>  die Kinder in Berlin aufwachsen .</input>
-  <output>Sie wünschte sich jedoch , <f confidence="0.600944" id="1">dass<alt confidence="0.0421904">die</alt><alt confidence="3.61405e-05">dies</alt><alt confidence="0.0856024">dass die</alt><alt confidence="7.2281e-06">dieser</alt><alt confidence="1.44562e-05">, die</alt><alt confidence="2.16843e-05">dieses</alt><alt confidence="0.0143044">das</alt><alt confidence="0.222076">daß</alt><alt confidence="0.0348033">daß die</alt></f>  die Kinder in Berlin aufwachsen .</output>
+  <output>Sie wünschte sich jedoch , <f confidence="0.676452" id="1">dass<alt confidence="0.000382406">daß es</alt><alt confidence="0.000122044">dass das</alt><alt confidence="0.000309179">daß man</alt><alt confidence="0.000496314">dass durch</alt><alt confidence="0.0474916">die</alt><alt confidence="4.06815e-05">dies</alt><alt confidence="0.000829903">dass es</alt><alt confidence="0.0024653">daß sich</alt><alt confidence="8.1363e-06">dieser</alt><alt confidence="2.44089e-05">dieses</alt><alt confidence="0.00506891">dass sich</alt><alt confidence="1.62726e-05">daß das</alt><alt confidence="0.0161017">das</alt><alt confidence="0.24998">daß</alt><alt confidence="0.000211544">daß durch</alt></f>  die Kinder in Berlin aufwachsen .</output>
 </s>
 <s category="n" source="EndStation C2 - Spiros Koukidis, Jörg Kassner, Andrea Näfken, Sabine Tews" id="500">
   <input>Freiwillig verlässt <f id="1">hardly anybody</f>  das Haus .</input>
