@@ -376,16 +376,15 @@ def mtscore(mtevaldir, sourcexml, refxml, targetxml, totalavgaccuracy, totalword
 
     if EXEC_MATREX_TER and os.path.exists(EXEC_MATREX_TER):
         if not runcmd(EXEC_JAVA + ' -jar ' + EXEC_MATREX_TER + " -r " + refxml + ' -h ' + targetxml + '  > ' + outprefix + '.ter.score',  'Computing TER score'): errors = True
-        if not errors:
-            try:
-                f = io.open(WORKDIR +'/' + outprefix + '.ter.score','r',encoding='utf-8')
-                for line in f:
-                    if line[0:10] == "Total TER:":
-                        ter = float(list(line[11:].split(' '))[0])
-                        log("TER score: " + str(ter),white)
-                f.close()
-            except Exception as e:
-                log("Error reading ter.score: " + str(e),red)
+        try:
+            f = io.open(WORKDIR +'/' + outprefix + '.ter.score','r',encoding='utf-8')
+            for line in f:
+                if line[0:10] == "Total TER:":
+                    ter = float(list(line[11:].split(' '))[0])
+                    log("TER score: " + str(ter),white)
+            f.close()
+        except Exception as e:
+            log("Error reading ter.score: " + str(e),red)
     else:
         log("Skipping TER (no script found)",yellow)
 
