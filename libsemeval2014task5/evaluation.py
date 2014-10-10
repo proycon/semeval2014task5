@@ -381,8 +381,8 @@ def mtscore(mtevaldir, sourcexml, refxml, targetxml, totalavgaccuracy, totalword
                 f = io.open(WORKDIR +'/' + outprefix + '.ter.score','r',encoding='utf-8')
                 for line in f:
                     if line[0:10] == "Total TER:":
-                        ter = float(line[11:].strip().split(' ')[0])
-                        log("TER score: ", ter,white)
+                        ter = float(list(line[11:].split(' '))[0])
+                        log("TER score: " + str(ter),white)
                 f.close()
             except Exception as e:
                 log("Error reading ter.score: " + str(e),red)
