@@ -260,16 +260,16 @@ def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignore
 
     if multiref and maxaltcount > 0:
         matrextgt.write("</DOC>\n")
-        matrextgt.write("<DOC docid=\"colibrita\" sysid=\"colibrita.control\">\n")
-        ref.reset()
-        ref_it = iter(ref )
-        while True:
-            try:
-                ref_s = next(ref_it)
-            except StopIteration:
-                break
-            matrextgt.write("<seg id=\"" + str(ref_s.id) + "\">" + ref_s.refstr() + "</seg>\n")
-        matrextgt.write("</DOC>\n")
+        #matrextgt.write("<DOC docid=\"colibrita\" sysid=\"colibrita.control\">\n")
+        #ref.reset()
+        #ref_it = iter(ref )
+        #while True:
+        #    try:
+        #        ref_s = next(ref_it)
+        #    except StopIteration:
+        #        break
+        #    matrextgt.write("<seg id=\"" + str(ref_s.id) + "\">" + ref_s.refstr() + "</seg>\n")
+        #matrextgt.write("</DOC>\n")
         for i in range(0, maxaltcount):
             matrextgt.write("<DOC docid=\"colibrita\" sysid=\"colibrita.alt." + str(i+1) + "\">\n")
             ref.reset()
