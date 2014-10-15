@@ -279,8 +279,8 @@ def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignore
                             found = True
                 if found:
                     matrextgt.write("<seg id=\"" + str(ref_s.id) + "\">" + ref_s.refstr() + "</seg>\n")
-                else:
-                    matrextgt.write("<seg id=\"" + str(ref_s.id) + "\"></seg>\n")
+                #else:
+                #    matrextgt.write("<seg id=\"" + str(ref_s.id) + "\"></seg>\n")
 
             matrextgt.write("</DOC>\n")
         matrextgt.write("</refset>")
