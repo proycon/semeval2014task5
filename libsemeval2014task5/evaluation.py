@@ -269,13 +269,18 @@ def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignore
                 except StopIteration:
                     break
 
+                found = False
                 reffragments = ref_s.reffragmentsdict()
                 for f in reffragments.values():
                     for j, alt in enumerate(f.alternatives):
                         if j == i:
                             print("Inserting alternative " + str(i) + ": " +  " ".join(alt.value) ,file=sys.stderr)
                             ref_s.ref = ref_s.replacefragment(f, Fragment(alt.value), ref_s.ref)
-                matrextgt.write("<seg id=\"" + str(ref_s.id) + "\">" + ref_s.refstr() + "</seg>\n")
+                            found = True
+                if found:
+                    matrextgt.write("<seg id=\"" + str(ref_s.id) + "\">" + ref_s.refstr() + "</seg>\n")
+                else:
+                    matrextgt.write("<seg id=\"" + str(ref_s.id) + "\"></seg>\n")
 
             matrextgt.write("</DOC>\n")
         matrextgt.write("</refset>")
