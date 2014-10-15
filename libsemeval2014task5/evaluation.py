@@ -399,7 +399,7 @@ def mtscore(mtevaldir, sourcexml, refxml, targetxml, totalavgaccuracy, totalword
                             if bleu == 0:
                                 bleu = bleu2
                                 log("BLEU score: " + str(bleu), white)
-                            elif abs(bleu - bleu2) > 0.01:
+                            elif bleu2 != 0 and abs(bleu - bleu2) > 0.01:
                                 log("blue score from MTEVAL scripts differs too much: " + str(bleu) + " vs " + str(bleu2) +  ", choosing highest score")
                                 if bleu2 > bleu:
                                     bleu = bleu2
