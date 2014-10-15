@@ -261,7 +261,7 @@ def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignore
         matrextgt.write("</DOC>\n")
         for i in range(0, maxaltcount):
             matrextgt.write("<DOC docid=\"colibrita\" sysid=\"colibrita.alt." + str(i+1) + "\">\n")
-            ref.seek(0)
+            ref.reset()
             ref_it = iter(ref )
             while True:
                 try:
