@@ -218,7 +218,7 @@ def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignore
         outputfragments = out_s.outputfragmentsdict()
         reffragments = ref_s.reffragmentsdict()
         for inputfragment in ref_s.inputfragmentsdict().values():
-            maxaltcount = max(maxaltcount, len(inputfragment.alternatives()) )
+            maxaltcount = max(maxaltcount, len(inputfragment.alternatives) )
             if not inputfragment.id in reffragments:
                 raise Exception("No reference fragment found for fragment " + str(inputfragment.id) + " in sentence " + str(ref_s.id))
 
@@ -269,7 +269,7 @@ def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignore
 
             reffragments = ref_s.reffragmentsdict()
             for inputfragment in ref_s.inputfragmentsdict().values():
-                for j, alt in enumerate(inputfragment.alternatives()):
+                for j, alt in enumerate(inputfragment.alternatives):
                     if j == i:
                         alt = ref_s.replacefragment(inputfragment, Fragment(alt.value), ref_s.ref)
                         matrextgt.write("<seg id=\"" + str(ref_s.id) + "\">" + alt.refstr() + "</seg>\n")
