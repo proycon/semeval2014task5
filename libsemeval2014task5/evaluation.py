@@ -326,7 +326,7 @@ def mtscore(mtevaldir, sourcexml, refxml, targetxml, totalavgaccuracy, totalword
             try:
                 f = io.open(WORKDIR + '/' + outprefix + '.bleu.score')
                 for line in f:
-                    if line[0:9] == "BLEUr1n4,":
+                    if line[0:4] == "BLEU" and line[6:9] == "n4,":
                         bleu = float(line[10:].strip())
                         print("BLEU score: ", bleu, file=sys.stderr)
                 f.close()
