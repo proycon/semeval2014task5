@@ -7,7 +7,7 @@ import sys
 import os
 import io
 
-from libsemeval2014task5.format import Reader
+from libsemeval2014task5.format import Reader, Fragment
 from libsemeval2014task5.common import log, runcmd, red, yellow, white
 
 
@@ -166,6 +166,8 @@ def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignore
     recalls = []
 
 
+    maxaltcount = 0
+
     matrexsrcfile = out.filename.replace('.xml','') + '.matrex-src.xml'
     matrextgtfile = out.filename.replace('.xml','') + '.matrex-ref.xml'
     matrexoutfile = out.filename.replace('.xml','') + '.matrex-out.xml'
@@ -216,6 +218,7 @@ def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignore
         outputfragments = out_s.outputfragmentsdict()
         reffragments = ref_s.reffragmentsdict()
         for inputfragment in ref_s.inputfragmentsdict().values():
+            maxaltcount = max(maxaltcount, len(inputfragment.alternatives()) )
             if not inputfragment.id in reffragments:
                 raise Exception("No reference fragment found for fragment " + str(inputfragment.id) + " in sentence " + str(ref_s.id))
 
@@ -253,8 +256,30 @@ def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignore
         totalwordavgaccuracy = sum(wordaccuracies) / len(wordaccuracies)
         print("Total word average accuracy = " + str(totalwordavgaccuracy))
 
+    if maxaltcount > 0:
+        matrextgt.write("</DOC>\n")
+        for i in range(0, maxaltcount):
+            matrextgt.write("<DOC docid=\"colibrita\" sysid=\"colibrita.alt." + str(i+1) + "\">\n")
+            ref_it = iter(ref )
+            while True:
+                try:
+                    ref_s = next(ref_it)
+                except StopIteration:
+                    break
 
-    for t,f in (('src',matrexsrc),('ref',matrextgt),('tst',matrexout)):
+            reffragments = ref_s.reffragmentsdict()
+            for inputfragment in ref_s.inputfragmentsdict().values():
+                for j, alt in enumerate(inputfragment.alternatives()):
+                    if j == i:
+                        alt = ref_s.replacefragment(inputfragment, Fragment(alt.value), ref_s.ref)
+                        matrextgt.write("<seg id=\"" + str(ref_s.id) + "\">" + alt.refstr() + "</seg>\n")
+
+            matrextgt.write("</DOC>\n")
+        matrextgt.write("</refset>")
+    else:
+        matrextgt.write("</DOC>\n</refset>")
+
+    for t,f in (('src',matrexsrc),('tst',matrexout)):
         f.write("</DOC>\n</" + t + "set>")
         f.close()
 
