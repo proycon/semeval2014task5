@@ -23,9 +23,10 @@ def main():
     parser.add_argument('-a',dest='oof',help='Out of five evaluation, considers up to four additional alternatives in system output',action='store_true',default=False)
     #parser.add_argument('-C',dest='forcecontext',help='Force context from input, even if system-supplied context is different',action='store_true',default=False)
     parser.add_argument('-I',dest='ignoreinputmismatch',help='Ignore input mismatch',action='store_true',default=False)
+    parser.add_argument('-m',dest='multiref',help='Evaluate MT metrics against multiple reference (only reliable for BLEU!)',action='store_true',default=False)
     args = parser.parse_args()
 
-    totalavgaccuracy, totalwordavgaccuracy, totalavgrecall, matrexsrcfile, matrextgtfile, matrexoutfile = evaluate(Reader(args.ref), Reader(args.out), args.mtevaldir, args.workdir, args.casesensitive, args.oof, args.ignoreinputmismatch)
+    totalavgaccuracy, totalwordavgaccuracy, totalavgrecall, matrexsrcfile, matrextgtfile, matrexoutfile = evaluate(Reader(args.ref), Reader(args.out), args.mtevaldir, args.workdir, args.casesensitive, args.oof, args.ignoreinputmismatch, args.multiref)
 
     outprefix = '.'.join(args.out.split('.')[:-1])
 
@@ -149,7 +150,7 @@ def comparefragments(outfragment, reffragment, casesensitive, oof, L2):
 
 
 
-def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignoreinputmismatch=False):
+def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignoreinputmismatch=False, multiref=False):
     global matches, wordmatches, misses, wordmisses, missedrecall
 
     if not ref.L1  or ref.L1 == "unknown":
@@ -257,7 +258,7 @@ def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignore
         totalwordavgaccuracy = sum(wordaccuracies) / len(wordaccuracies)
         print("Total word average accuracy = " + str(totalwordavgaccuracy))
 
-    if maxaltcount > 0:
+    if multiref and maxaltcount > 0:
         matrextgt.write("</DOC>\n")
         #matrextgt.write("<DOC docid=\"colibrita\" sysid=\"colibrita.control\">\n")
         #ref.reset()
