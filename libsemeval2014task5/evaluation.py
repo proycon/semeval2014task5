@@ -283,6 +283,7 @@ def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignore
     for t,f in (('src',matrexsrc),('tst',matrexout)):
         f.write("</DOC>\n</" + t + "set>")
         f.close()
+    matrextgt.close()
 
     return totalavgaccuracy, totalwordavgaccuracy, totalavgrecall,matrexsrcfile, matrextgtfile, matrexoutfile
 
