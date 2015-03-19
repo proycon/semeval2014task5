@@ -16,10 +16,12 @@ def main():
     sysdata = {}
 
     for filename, data in ( (referencefile, refdata), (systemfile, sysdata) ):
-        with open(referencefile) as f:
+        with open(filename) as f:
             for line in f:
                 if line:
-                    sentenceid, accuracy, wordaccuracy, recall = ( int(x) for x in line.split("\t") )
+                    fields = line.split("\t")
+                    sentenceid = fields[0]
+                    accuracy, wordaccuracy, recall = ( float(x) for x in fields[1:] )
                     data[sentenceid] =  wordaccuracy
 
 
