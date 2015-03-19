@@ -11,7 +11,7 @@ from libsemeval2014task5.format import Reader
 from libsemeval2014task5.common import log, runcmd, red, yellow, white
 
 
-VERSION = "2.0"
+VERSION = "2.1"
 
 def main():
     parser = argparse.ArgumentParser(description="Evaluation")
@@ -165,12 +165,12 @@ def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignore
     wordaccuracies = []
     recalls = []
 
+    persentencefile = out.filename.replace('.xml','') + '.persentence.score'
+    persentence = io.open(persentencefile,'w',encoding='utf-8')
 
     matrexsrcfile = out.filename.replace('.xml','') + '.matrex-src.xml'
     matrextgtfile = out.filename.replace('.xml','') + '.matrex-ref.xml'
     matrexoutfile = out.filename.replace('.xml','') + '.matrex-out.xml'
-
-
 
     matrexsrc = io.open(matrexsrcfile ,'w', encoding='utf-8')
     matrextgt = io.open(matrextgtfile ,'w', encoding='utf-8')
@@ -242,6 +242,12 @@ def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignore
             wordaccuracy = wordmatches/(wordmatches+wordmisses)
             print("Word accuracy for sentence " + str(ref_s.id) + " = " + str(wordaccuracy))
             wordaccuracies.append(wordaccuracy)
+
+            #only works with one fragment in a sentence
+            persentence.write(str(ref_s.id) + "\t" + str(accuracy) + "\t" + str(wordaccuracy) + "\t" + str(recall) +"\n")
+
+
+    persentence.close()
 
     if recalls:
         totalavgrecall = sum(recalls) / len(recalls)
