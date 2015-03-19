@@ -19,7 +19,7 @@ def main():
         with open(referencefile) as f:
             for line in f:
                 if line:
-                    sentenceid, accuracy, wordaccuracy, recall = ( int(x) for x in line )
+                    sentenceid, accuracy, wordaccuracy, recall = ( int(x) for x in line.split("\t") )
                     data[sentenceid] =  wordaccuracy
 
 
