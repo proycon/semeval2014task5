@@ -4,10 +4,11 @@ entry_points = {'console_scripts': [
     'semeval2014task5-setview = libsemeval2014task5.setview:main',
     'semeval2014task5-evaluate = libsemeval2014task5.evaluation:main',
     'semeval2014task5-manualsetbuild = libsemeval2014task5.manualsetbuild:main',
+    'semeval2014task5-sigtest = libsemeval2014task5.sigtest:main',
 ]}
 setup(
     name = "libsemeval2014task5",
-    version = "2.0",
+    version = "2.1",
     author = "Maarten van Gompel",
     author_email = "proycon@anaproy.nl",
     description = ("Library for SemEval 2014 task 5 - L2 Writing Assistant"),
