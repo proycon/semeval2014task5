@@ -22,7 +22,7 @@ def sigtest(referencefile, systemfile):
 
     #flatten the data
     refarray = [ refdata[sentenceid] for sentenceid in refdata ]
-    sysarray = [ sysdata[sentenceid] for sentenceid in refdata ]  #keys in refdata
+    sysarray = [ sysdata[sentenceid] if sentenceid in sysdata else 0.0 for sentenceid in refdata ]  #keys in refdata
 
     #conduct test:
     pvalue = stats.ttest_rel(refarray, sysarray)[1]
