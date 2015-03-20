@@ -5,13 +5,8 @@ from scipy import stats
 import sys
 
 
-def main():
-    try:
-        referencefile, systemfile = sys.argv[1:]
-    except:
-        print("Performs significance testing using paired t-test between reference system and system output, on the word accuracy metric, outputs p-value.\nSyntax: sigtest reference.persentence.score system.persentence.score",file=sys.stderr)
-        sys.exit(2)
 
+def sigtest(referencefile, systemfile):
     refdata = {}
     sysdata = {}
 
@@ -32,6 +27,17 @@ def main():
     #conduct test:
     pvalue = stats.ttest_rel(refarray, sysarray)[1]
     print("p=" + str(pvalue))
+    return pvalue
+
+def main():
+    try:
+        referencefile, systemfile = sys.argv[1:]
+    except:
+        print("Performs significance testing using paired t-test between reference system and system output, on the word accuracy metric, outputs p-value.\nSyntax: sigtest reference.persentence.score system.persentence.score",file=sys.stderr)
+        sys.exit(2)
+
+    sigtest(referencefile, systemfile)
+
 
 
 if __name__ == '__main__':
