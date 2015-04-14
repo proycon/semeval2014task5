@@ -10,6 +10,7 @@ import io
 from libsemeval2014task5.format import Reader, Fragment
 from libsemeval2014task5.common import log, runcmd, red, yellow, white
 
+from nltk.stem import SnowballStemmer
 
 VERSION = "2.1"
 
@@ -23,8 +24,14 @@ def main():
     parser.add_argument('-a',dest='oof',help='Out of five evaluation, considers up to four additional alternatives in system output',action='store_true',default=False)
     #parser.add_argument('-C',dest='forcecontext',help='Force context from input, even if system-supplied context is different',action='store_true',default=False)
     parser.add_argument('-I',dest='ignoreinputmismatch',help='Ignore input mismatch',action='store_true',default=False)
+    parser.add_argument('-S',dest='stem',type='str',help='Evaluate after stemming each word. The argument is the language used for stemming (lower case English name)',action='store',default="")
     parser.add_argument('-m',dest='multiref',help='Evaluate MT metrics against multiple reference (only reliable for BLEU!)',action='store_true',default=False)
     args = parser.parse_args()
+
+    if args.stem:
+        stemmer = SnowballStemmer(args.stem)
+    else:
+        stemmer = None
 
     totalavgaccuracy, totalwordavgaccuracy, totalavgrecall, matrexsrcfile, matrextgtfile, matrexoutfile = evaluate(Reader(args.ref), Reader(args.out), args.mtevaldir, args.workdir, args.casesensitive, args.oof, args.ignoreinputmismatch, args.multiref)
 
@@ -72,13 +79,16 @@ def replace(t, match, replacement):
     return tuple(newlist)
 
 
-def normalizetext(t, L2):
+def normalizetext(t, L2, stemmer=None):
     if L2 == 'es':
         t = replace(t, ('de','el'), ('del',) )
         t = replace(t, ('a','el'), ('al',) )
         t = replace(t, ('De','el'), ('Del',) )
         t = replace(t, ('A','el'), ('Al',) )
-    return strippunct(t)
+    t = strippunct(t)
+    if stemmer:
+        t = tuple( ( stemmer.stem(x) for x in t ) )
+    return t
 
 def subtuples(t):
     for i in range(0,len(t)):
@@ -103,7 +113,7 @@ def longestsubmatch(t,t2,eq):
 
 
 
-def comparefragments(outfragment, reffragment, casesensitive, oof, L2):
+def comparefragments(outfragment, reffragment, casesensitive, oof, L2,stemmer=None):
     global matches, wordmatches, misses, wordmisses, missedrecall
     if casesensitive:
         eq = lambda x,y: "".join(x) == "".join(y)
@@ -117,14 +127,14 @@ def comparefragments(outfragment, reffragment, casesensitive, oof, L2):
         wordmisses += 1
         return 0
     else:
-        outvalues = [normalizetext(outfragment.value,L2)]
+        outvalues = [normalizetext(outfragment.value,L2,stemmer)]
         if oof and outfragment.alternatives:
             for alt in outfragment.alternatives[:4]:
-                outvalues.append( normalizetext(alt.value,L2) )
+                outvalues.append( normalizetext(alt.value,L2,stemmer) )
 
-        refvalues = [normalizetext(reffragment.value,L2)]
+        refvalues = [normalizetext(reffragment.value,L2,stemmer)]
         for alt in reffragment.alternatives:
-            refvalues.append( normalizetext(alt.value,L2) )
+            refvalues.append( normalizetext(alt.value,L2,stemmer) )
 
 
         wordmatchscores = []
@@ -150,7 +160,7 @@ def comparefragments(outfragment, reffragment, casesensitive, oof, L2):
 
 
 
-def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignoreinputmismatch=False, multiref=False):
+def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignoreinputmismatch=False, multiref=False, stemmer=None):
     global matches, wordmatches, misses, wordmisses, missedrecall
 
     if not ref.L1  or ref.L1 == "unknown":
@@ -230,7 +240,7 @@ def evaluate(ref, out, mtevaldir, workdir, casesensitive=True, oof=False, ignore
                 wordmisses += 1
                 missedrecall += 1
             else:
-                comparefragments( outputfragments[inputfragment.id], reffragments[inputfragment.id], casesensitive, oof, ref.L2)
+                comparefragments( outputfragments[inputfragment.id], reffragments[inputfragment.id], casesensitive, oof, ref.L2, stemmer)
 
             if missedrecall == matches +misses:
                 recall = 0.0
