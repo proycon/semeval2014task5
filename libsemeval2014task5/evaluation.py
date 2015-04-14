@@ -24,7 +24,7 @@ def main():
     parser.add_argument('-a',dest='oof',help='Out of five evaluation, considers up to four additional alternatives in system output',action='store_true',default=False)
     #parser.add_argument('-C',dest='forcecontext',help='Force context from input, even if system-supplied context is different',action='store_true',default=False)
     parser.add_argument('-I',dest='ignoreinputmismatch',help='Ignore input mismatch',action='store_true',default=False)
-    parser.add_argument('-S',dest='stem',type='str',help='Evaluate after stemming each word. The argument is the language used for stemming (lower case English name)',action='store',default="")
+    parser.add_argument('-S',dest='stem',type=str,help='Evaluate after stemming each word. The argument is the language used for stemming (lower case English name)',action='store',default="")
     parser.add_argument('-m',dest='multiref',help='Evaluate MT metrics against multiple reference (only reliable for BLEU!)',action='store_true',default=False)
     args = parser.parse_args()
 
