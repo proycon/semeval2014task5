@@ -33,7 +33,7 @@ def main():
     else:
         stemmer = None
 
-    totalavgaccuracy, totalwordavgaccuracy, totalavgrecall, matrexsrcfile, matrextgtfile, matrexoutfile = evaluate(Reader(args.ref), Reader(args.out), args.mtevaldir, args.workdir, args.casesensitive, args.oof, args.ignoreinputmismatch, args.multiref)
+    totalavgaccuracy, totalwordavgaccuracy, totalavgrecall, matrexsrcfile, matrextgtfile, matrexoutfile = evaluate(Reader(args.ref), Reader(args.out), args.mtevaldir, args.workdir, args.casesensitive, args.oof, args.ignoreinputmismatch, args.multiref,stemmer)
 
     outprefix = '.'.join(args.out.split('.')[:-1])
 
@@ -88,6 +88,7 @@ def normalizetext(t, L2, stemmer=None):
     t = strippunct(t)
     if stemmer:
         t = tuple( ( stemmer.stem(x) for x in t ) )
+        print("Stemmed:",t,file=sys.stderr)
     return t
 
 def subtuples(t):
